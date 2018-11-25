@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "こ、これじゃ見えちゃうよぉ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_53.gif",
+  "level": 0,
+  "name": "ハロウィン小恋",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "かぼちゃ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

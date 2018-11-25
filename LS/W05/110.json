@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "かがみんも何だかんだでノリノリじゃないか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_110.gif",
+  "level": 0,
+  "name": "こなたんセイバー＆かがみん凛",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】あなたのターン中、他のあなた《サーヴァント》のキャラ1枚につき、このカードのパワーを+500。\n【永】相手のターン中、他のあなたの《マスター》のキャラ1枚につき、このカードのパワーを+500。",
+  "trait": [
+    "マスター",
+    "サーヴァント"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

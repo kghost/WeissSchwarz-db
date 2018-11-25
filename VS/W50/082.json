@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "失礼します",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_082.gif",
+  "level": 2,
+  "name": "改まった雰囲気 ジル",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【CXコンボ】 あなたのクライマックス置場に「過酷な練習」が置かれた時、他のあなたの《格闘》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《格闘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "格闘",
+    "トレーナー"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

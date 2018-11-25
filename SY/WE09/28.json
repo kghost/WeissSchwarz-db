@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_we09/sy_we09_28.gif",
+  "level": 2,
+  "name": "文芸部の有希",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "メガネ",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…娯楽、即ち愉悦だと？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_096.gif",
+  "level": 2,
+  "name": "信仰の護り手 綺礼",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「第八の契約」があるなら、あなたは1枚引いてよい。",
+  "trait": [
+    "虚無",
+    "マスター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

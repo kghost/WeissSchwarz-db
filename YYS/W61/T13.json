@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ならば私も本気を出そう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t13.gif",
+  "level": 0,
+  "name": "多重影分身の術　狭霧",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の、《ゆらぎ荘》か《湯煙町》か《忍》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "忍",
+    "ゆらぎ荘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

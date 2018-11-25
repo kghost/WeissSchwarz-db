@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_t10.gif",
+  "level": 1,
+  "name": "天性の舞台少女 神楽 ひかり",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "レヴュー",
+    "髪留め"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

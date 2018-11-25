@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "『いつかまた君と会いたい　天王寺瑚太朗』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_077.gif",
+  "level": 2,
+  "name": "可能性の系統樹",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

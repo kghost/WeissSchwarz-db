@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "万里花「私は楽様のためなら、\nどんな風にも変われます……！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_072.gif",
+  "level": 3,
+  "name": "あなたのためなら…",
+  "rarity": "U",
+  "side": "W",
+  "text": "相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "朋也くんと智代ちゃんが野球部と試合してるのを見たの。\nとっても楽しそうだったの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_70.gif",
+  "level": 0,
+  "name": "マイペースことみ",
+  "power": 1000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "本",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

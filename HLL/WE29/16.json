@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "俺の力、使いこなせるかな！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we29/hll_we29_16.gif",
+  "level": 0,
+  "name": "弥生の新たな使者 凪",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(1) このカードをバトル中のキャラの下にマーカーとして表向きに置く］ 他のあなたのバトル中のカード名に「弥生」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。",
+  "trait": [
+    "使者",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

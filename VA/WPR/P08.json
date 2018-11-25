@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "もっとバグに寛容になろうぜぇえええ！！ とは言えない…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p08.gif",
+  "level": 1,
+  "name": "“デバッグ大好き”yonie",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【起】［このカードを【レスト】する］ あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ 相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "ビジュアルアーツ",
+    "人形"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

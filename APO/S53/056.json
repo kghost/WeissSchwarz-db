@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "アンタ、オレを酔っ払いの王にしたいのかよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_056.gif",
+  "level": 2,
+  "name": "“祝宴の約束”赤のセイバー",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 手札のこのカードをプレイするにあたり、あなたは自分の「“騎士王”アルトリア」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\n【永】 他のあなたの、《マスター》か《サーヴァント》のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の、《マスター》か《サーヴァント》のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

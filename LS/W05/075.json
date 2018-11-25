@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "はい コレあげるわよ 言っとくけど義理よ？ 義理だからね！？ かっ！！形がいびつで悪かったわねっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_075.gif",
+  "name": "バレンタイン",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

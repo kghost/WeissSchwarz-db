@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ねえ、この私が見てあげてるんだから、しっかりしなさいよね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_001.gif",
+  "level": 0,
+  "name": "気高い女王 伊織",
+  "power": 1000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたのキャラすべてに、レベルを＋1。\n【永】 他のあなたの「ハイタッチやよい」すべてに、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

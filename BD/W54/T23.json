@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ど、どもー。後ろから読んでもやまとまや。大和麻弥です。よろしくお願いします",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t23.gif",
+  "level": 1,
+  "name": "“オタクなドラマー”大和麻弥",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

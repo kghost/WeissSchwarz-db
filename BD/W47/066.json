@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "香澄「あっちゃんあっちゃん！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-066_c.gif",
+  "level": 1,
+  "name": "香澄の妹 明日香",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「香澄」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】 バトル中のこのカードが【リバース】した時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。",
+  "trait": [
+    "スポーツ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

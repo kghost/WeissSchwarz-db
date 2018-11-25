@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "わたしを、知りたいと思うのですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_077.gif",
+  "level": 2,
+  "name": "“天然素材”美魚",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「２つの長い影」があるなら、あなたは1枚引く。\n【起】［(3)］ あなたは自分のクロックを上から1枚選び、控え室に置く。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

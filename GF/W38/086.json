@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "いかに相手の裏をかいていくか…\nそこが頭の使いどころだな、ふふっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_086.gif",
+  "level": 2,
+  "name": "飛原鋭子",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場に黄のカードと青のカードがあるなら、このカードのパワーを＋4500。",
+  "trait": [
+    "ガール",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

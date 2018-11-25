@@ -1,0 +1,22 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "カフェインはちょっと……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_051.gif",
+  "level": 1,
+  "name": "いらっしゃいませ ミニシャロ",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたのカード名に「シャロ」か「千夜」を含むキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "特待生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

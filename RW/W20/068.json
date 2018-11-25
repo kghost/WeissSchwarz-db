@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "優しい言葉たちが俺たちを包む。\n数万人以上の言葉が、泡沫のように周囲に広がる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_068.gif",
+  "level": 1,
+  "name": "“いつかどこか”の篝",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「いっときの夢」があるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "時間",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

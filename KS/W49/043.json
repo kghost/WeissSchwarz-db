@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "と、とも……だち……も、いるし……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_043.gif",
+  "level": 1,
+  "name": "“ハッキリ言い切れない”ゆんゆん",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「めぐみんのライバル」があり、他のあなたのカード名に「めぐみん」を含むキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "冒険者",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

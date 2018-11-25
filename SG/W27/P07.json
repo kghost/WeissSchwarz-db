@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "まさに間一髪だったデスよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_p07.gif",
+  "level": 1,
+  "name": "イガリマの装者 切歌",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「調」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

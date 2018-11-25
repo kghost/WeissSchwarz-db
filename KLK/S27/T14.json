@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "天下に乳房をさらそうと、\n恥も無ければ怯みもない！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_t14.gif",
+  "name": "我が行動に一点の曇り無し！",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

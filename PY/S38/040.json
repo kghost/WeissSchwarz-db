@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ヨハ　マンゾクジャ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_040.gif",
+  "level": 1,
+  "name": "ちょっぴりワガママなさかな王子",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ぷよ》のキャラの枚数×500に等しい。\n【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「オトモから逃げまわる さかな王子」を1枚選び、舞台の好きな枠に【レスト】して置く。",
+  "trait": [
+    "ぷよ",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

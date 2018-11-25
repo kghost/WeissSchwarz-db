@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ウチは『早くて美味い！』な、ごはんがいいな?　何かいいレシピがあったら教えてな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_026.gif",
+  "level": 2,
+  "name": "“開運フルコース”東條 希",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札の「“Happy maker!”東條 希」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、ストック置場に置く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

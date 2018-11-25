@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "手伝わない理由はないな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_071.gif",
+  "level": 0,
+  "name": "“オカ研集合！”ルチア",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「“レッツクエスト！”静流」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“レッツクエスト！”静流」を1枚選び、手札に戻す）",
+  "trait": [
+    "委員長",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ふぅ?ん・・・　そうなんだぁ??☆",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p34.gif",
+  "level": 2,
+  "name": "“天使と毒舌小悪魔”詩月カオリ",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを手札に戻してよい。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "ビジュアルアーツ",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

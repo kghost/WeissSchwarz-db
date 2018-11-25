@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "魔ニフェストは一日一善！\nこの魔界を不良の巣窟にしてみせるぜ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_11.gif",
+  "level": 2,
+  "name": "ラズベリル大統領閣下",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋2000。\n【自】 このカードの与えたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "悪魔",
+    "不良"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

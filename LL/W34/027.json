@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ええ、私も！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_027.gif",
+  "level": 2,
+  "name": "今のままが一番いい",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのカード名に「絵里」を含むキャラの枚数×1000に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

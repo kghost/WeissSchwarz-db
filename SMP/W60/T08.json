@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "美希「これより、鷹原羽依里君の歓迎会を始める」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_t08.gif",
+  "name": "ようこそ！鳥白島へ！",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

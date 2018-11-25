@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ハンジ「アレはたまたまあそこだけにいたの？……それとも……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_098.gif",
+  "level": 2,
+  "name": "壁の中",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の山札を上から3枚まで見て、カードを3枚まで選び、控え室に置き、残りのカードを山札に戻し、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

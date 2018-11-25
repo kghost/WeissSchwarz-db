@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "クリスマスパーティ、楽しみましょうか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w33/gf_w33_p01.gif",
+  "level": 0,
+  "name": "クリスマスパーティ 椎名心実",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ガール》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

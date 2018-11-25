@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_081sp.gif",
+  "level": 3,
+  "name": "icy tail 美智留",
+  "power": 10000,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【ＣＸコンボ】 このカードがアタックした時、クライマックス置場に「icy tail」があるなら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "ゲーム",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "どうせなら賑やかな方がいいでしょ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_036.gif",
+  "level": 2,
+  "name": "仲良し四人組",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 あなたのクライマックス置場に「早く良くなってね▽」が置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "魔法",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

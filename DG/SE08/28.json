@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "その悪魔らしからぬ『仲間を信じる心』もまた我が主、ヴァルバトーゼ様の恐るべき特殊能力……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_28.gif",
+  "level": 2,
+  "name": "ヴァル様の参謀 フェンリッヒ",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたのバトル中の《悪魔》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "悪魔",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

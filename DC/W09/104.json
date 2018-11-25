@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "……今まで、夢を見せてくれてありがとう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_104.gif",
+  "name": "枯れない桜",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

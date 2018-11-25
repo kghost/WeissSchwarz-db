@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "今日は5万ユーロや！インフレやで?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_010.gif",
+  "level": 1,
+  "name": "戦闘中 ぎんか",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札の「１００万ドル金貨」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "trait": [
+    "タロット",
+    "コイン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

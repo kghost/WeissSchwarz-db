@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "夏の終わりに……ここに登ったの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_029.gif",
+  "level": 0,
+  "name": "“冒険のはじまり”鴎",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《サマポケ》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《サマポケ》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "サマポケ",
+    "海賊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

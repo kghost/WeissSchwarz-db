@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ワタクシたちだけでは、おそらく勝てなかったでしょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se18/pi_se18_006.gif",
+  "level": 1,
+  "name": "高飛車なお嬢様 ルヴィア",
+  "power": 3500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "宝石",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

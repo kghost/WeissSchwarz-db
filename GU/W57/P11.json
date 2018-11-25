@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "お店で浴衣試着もやってま?す",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_p11.gif",
+  "level": 0,
+  "name": "新たな出会い 千夜",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《Dear My Sister》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "甘兎庵",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

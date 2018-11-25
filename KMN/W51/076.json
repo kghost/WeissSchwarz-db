@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_076.gif",
+  "level": 1,
+  "name": "仲間を探して トキ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "フレンズ",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

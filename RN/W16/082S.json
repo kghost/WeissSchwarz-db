@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "大好物の差し入れ あき穂",
+  "power": 6500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《科学》のキャラが2枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

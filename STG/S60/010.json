@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ニャニャー！凶真！この中のあれを見たのかニャ？見たのなら忘れるニャ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_010.gif",
+  "level": 0,
+  "name": "“中二病全開”フェイリス・ニャンニャン",
+  "power": 1000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《ラボメン》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋500。",
+  "trait": [
+    "ラボメン",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

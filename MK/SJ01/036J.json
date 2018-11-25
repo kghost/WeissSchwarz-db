@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_036.gif",
+  "level": 2,
+  "name": "“ノ”リノリな小衣",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたは自分のアタックフェイズの次にファイナルフェイズを行う。",
+  "trait": [
+    "警察",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

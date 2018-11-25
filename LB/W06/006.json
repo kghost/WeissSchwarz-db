@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "今日は絶好のお散歩日和ですねー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_006.gif",
+  "level": 2,
+  "name": "私服の小毬",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "バニルさんを倒してスパイ疑惑が晴れたとか！おめでとうございます！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_046.gif",
+  "level": 0,
+  "name": "“嬉し気な”ウィズ",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "死",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

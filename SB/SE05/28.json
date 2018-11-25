@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "政宗「久しぶりだな、真田幸村。You doing, okey？」\n幸村「この時を待ちわびていた！独眼竜・伊達政宗…いざ尋常に、勝負！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_28.gif",
+  "level": 2,
+  "name": "“六爪”政宗＆“二槍”幸村",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの《武器》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "武器",
+    "眼帯"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

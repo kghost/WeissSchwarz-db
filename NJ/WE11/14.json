@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "別にあんたなんか、\n何とも思ってないんだからっ!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_14.gif",
+  "level": 1,
+  "name": "立花 みさと",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "武器",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

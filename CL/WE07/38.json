@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "あ、あの、よかったら、どうぞ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_38.gif",
+  "level": 2,
+  "name": "幽霊少女 風子",
+  "power": 7500,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「夢の最後まで」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、自分の《ヒトデ》のキャラすべてに、そのターン中、パワーを＋2000。\n【自】 アンコール ［(2)］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ヒトデ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

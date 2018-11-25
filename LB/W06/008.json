@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "恭介「鈴はふたりの力を借りて、３階まで一気にジャンプする」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_008.gif",
+  "level": 0,
+  "name": "“猫まっしぐら！”鈴",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［手札のクライマックスを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。\n【起】 集中 ［あなたの、カード名に「真人」を含むキャラとカード名に「謙吾」を含むキャラを1枚ずつ【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋3500し、ソウルを＋1。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

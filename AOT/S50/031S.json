@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "今度こそ、しくじるなよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_031s.gif",
+  "level": 1,
+  "name": "“自由を掴むため”リヴァイ",
+  "power": 4500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《兵団》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「絶望を切り裂く刃」があり、他のあなたの《兵団》のキャラがいるなら、あなたは自分の控え室の《兵団》のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

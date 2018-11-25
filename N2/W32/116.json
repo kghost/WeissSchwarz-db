@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "我等が主の病は消える…\n少なくとも、進みは止まる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w32/n2_w32_116.gif",
+  "level": 0,
+  "name": "“守護騎士”ザフィーラ",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "使い魔",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

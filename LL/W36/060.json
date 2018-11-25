@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "お料理って面白いよね?　お鍋でコトコト煮て、出来上がりを待つのとか?　結構楽しいの♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_060.gif",
+  "level": 2,
+  "name": "“はい、あーん♪”南 ことり",
+  "power": 10000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\n【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

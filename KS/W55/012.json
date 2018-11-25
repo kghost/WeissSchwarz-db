@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "みんな用意はいいな!?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_012.gif",
+  "level": 3,
+  "name": "“走り出せ”カズマ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたの思い出置場の「名家の紋章」が2枚以上なら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《冒険者》か《女神》のキャラの枚数に等しい。",
+  "trait": [
+    "冒険者",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

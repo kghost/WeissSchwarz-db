@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "笑顔だけは自信があります！ぶいっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t25.gif",
+  "level": 0,
+  "name": "笑顔のダブルピース 卯月",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

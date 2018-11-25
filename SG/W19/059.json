@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "甘いのはわかっている……性分だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_059.gif",
+  "level": 0,
+  "name": "風鳴 弦十郎",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

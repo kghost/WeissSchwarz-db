@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "サンタクロースみたいに、誰かに夢をプレゼント出来たらいいのにな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_091.gif",
+  "level": 1,
+  "name": "“クリスマスのごちそう”小泉 花陽",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを?2。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

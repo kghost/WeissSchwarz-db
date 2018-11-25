@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "さっきのこと、気にしてんのかと思って、\nなぐさめにきてやったっちゅーねん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_013.gif",
+  "level": 0,
+  "name": "あたたかな心遣い ぎんか",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「星の力 せいら」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「星の力 せいら」を1枚選び、手札に戻す）",
+  "trait": [
+    "タロット",
+    "商人"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

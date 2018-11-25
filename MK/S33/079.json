@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_079.gif",
+  "level": 0,
+  "name": "“新探偵服”橘田いずみ",
+  "power": 1000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

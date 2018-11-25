@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ごきげんよう、花咲川女子高等部1年 市ヶ谷有咲です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_t18a.gif",
+  "level": 2,
+  "name": "“Poppin’Party”市ヶ谷有咲",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "盆栽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

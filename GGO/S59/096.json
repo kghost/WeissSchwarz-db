@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "flavor": "止まったところを俺が仕留める",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_096.gif",
+  "level": 3,
+  "name": "エムの楯",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 相手のキャラすべてに、そのターン中、ソウルを＋3し、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

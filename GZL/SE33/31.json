@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ここの大気は二万年前と同じ組成だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_31.gif",
+  "level": 0,
+  "name": "“探求心”マーティン",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "アラトラム号",
+    "人類"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

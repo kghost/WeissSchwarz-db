@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ハンドソニック",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_p01.gif",
+  "level": 1,
+  "name": "死なない証明 かなで",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "trait": [
+    "死",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

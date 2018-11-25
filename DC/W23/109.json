@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "……これ以上、『かったるい』ことさせるな。\nそれはお前の十八番だろうが",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_109.gif",
+  "name": "答えを出したいか？",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

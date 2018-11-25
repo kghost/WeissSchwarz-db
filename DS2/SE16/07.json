@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "生き残れば…失ったものを取り戻せるんですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds2_se16/ds2_se16_07.gif",
+  "level": 1,
+  "name": "7日間の戦い イオ",
+  "power": 6000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたの《サマナー》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "サマナー",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "強引なのは……嫌いじゃないけど……\nせめて……ひ、人気のないところで……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_t17.gif",
+  "level": 3,
+  "name": "“それは夏のせい”蒼",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "サマポケ",
+    "双子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

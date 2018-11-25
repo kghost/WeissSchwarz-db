@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ぐっども?にんぐなのです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_p10.gif",
+  "level": 2,
+  "name": "“朝の挨拶”クド",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の《動物》のキャラを2枚まで選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

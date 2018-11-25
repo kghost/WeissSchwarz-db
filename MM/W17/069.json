@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "頼むよ、神様……こんな人生だったんだ……\nせめて一度くらい、幸せな夢を見させてよ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_069.gif",
+  "level": 1,
+  "name": "奇跡を願う杏子",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「独りぼっちは、寂しいもんな」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置き、ターンの終わりに、このカードを控え室に置く。",
+  "trait": [
+    "魔法",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

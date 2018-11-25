@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "何を隠そう、ラムの得意料理は蒸かし芋よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_t06.gif",
+  "level": 1,
+  "name": "双子の姉 ラム",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「双子の妹 レム」1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

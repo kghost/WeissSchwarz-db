@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "まあ、クマさんパジャマには\nちょっと合わないかも知れないけどねー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se31/pi_se31_32.gif",
+  "level": 2,
+  "name": "“着ぐるみパジャマ”クロ",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《武器》か《魔法》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

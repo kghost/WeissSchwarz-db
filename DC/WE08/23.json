@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "わたしが作ったのよ？　美味しいに決まってるでしょ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_23.gif",
+  "level": 1,
+  "name": "デートを楽しむエリカ",
+  "power": 5500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《生徒会》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "生徒会",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

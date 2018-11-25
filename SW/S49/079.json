@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "オッゼル「数千ものプローブ・ドロイドが銀河系を捜索している。欲しいのは証拠だ、手掛かりではない」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_079.gif",
+  "level": 1,
+  "name": "Star Destroyer",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の控え室のコスト0以下のカード名に「トルーパー」を含むキャラを2枚まで選び、舞台の別々の枠に置き、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

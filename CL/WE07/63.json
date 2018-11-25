@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "この桜並木、綺麗だろう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_63.gif",
+  "name": "智代の誓い",
+  "rarity": "RE",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Pool]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "STOCK"
+  ],
+  "type": "Climax"
+}

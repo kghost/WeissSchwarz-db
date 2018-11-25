@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "――でもホント。\n人生、望んだようにはいかないよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_035.gif",
+  "level": 0,
+  "name": "草間 花音",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの山札の上から1枚を公開する］ この能力は1ターンにつき1回まで使える。この能力のコストで公開したカードのレベルが1以上なら、そのターン中、このカードのパワーを＋1500。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "メガネ",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

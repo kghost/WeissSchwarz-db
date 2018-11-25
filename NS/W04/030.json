@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "魔力値が……増大……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_030.gif",
+  "level": 1,
+  "name": "スカリエッティの秘書ウーノ",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋1000。\n【永】 他のあなたの、「次元犯罪者スカリエッティ」と「幻惑の使い手クアットロ」がいるなら、他のあなたの《メカ》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』という能力を与える。",
+  "trait": [
+    "メカ",
+    "秘書"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

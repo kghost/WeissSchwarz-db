@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "遠距離狙撃能力を持つ異色のカートルーパー。\n搭乗者はバロル・ウエスタン",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_108.gif",
+  "level": 0,
+  "name": "スナイデル",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「ボルトヴァリアン」と「スターラプター」と「スティングーマ」すべてに、パワーを＋1000。",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

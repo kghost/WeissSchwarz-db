@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "お前の現状を探るのにメアの方が適任だっただけだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_018.gif",
+  "level": 0,
+  "name": "“トラブルメーカー”ネメシス",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《変身》か《だんご》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
+  "trait": [
+    "変身",
+    "だんご"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

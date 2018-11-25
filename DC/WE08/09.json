@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "たとえ友達を傷つけることになっても……自分に素直になれる勇気をくださいって、お願いしてたの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_09.gif",
+  "level": 2,
+  "name": "素直になれる勇気 ななか",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、他のあなたのキャラすべてに、レベルを＋1し、パワーを＋500。\n【自】 あなたのクライマックス置場に「夢じゃない」が置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "音楽",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_094.gif",
+  "level": 0,
+  "name": "【小さな家庭教師】切歌＆エルフナイン",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《音楽》か《錬金術》のキャラすべてに、パワーを＋500。\n【永】 相手のターン中、他のあなたの「キャロルと瓜二つの少女 エルフナイン」すべてに、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "錬金術"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

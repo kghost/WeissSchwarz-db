@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "そ　その……私怖いんです\nコンタクトレンズが　といいますか目に物を入れることが…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_082.gif",
+  "level": 3,
+  "name": "最強キャラみゆき",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスすべてを、手札に戻し、自分の手札を同じ枚数選び、控え室に置く。\n【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分のクロックを1枚選び、控え室に置く。",
+  "trait": [
+    "メガネ",
+    "委員長"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

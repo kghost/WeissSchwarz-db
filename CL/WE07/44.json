@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "チャンス作ってやったんだから、活用しなさいよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_44.gif",
+  "level": 2,
+  "name": "妹思い杏",
+  "power": 2000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「椋」を含むキャラすべてに、パワーを＋500。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "双子",
+    "委員長"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ちょーっとまったー！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t40r.gif",
+  "level": 0,
+  "name": "“ちゃんと説明してくれ！”宇田川巴",
+  "power": 1000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

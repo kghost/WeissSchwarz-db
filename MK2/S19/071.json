@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "さっさと起きろ！ 起きないなら一生寝てろー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_071.gif",
+  "level": 1,
+  "name": "小衣ちゃんグッズ",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の控え室の《警察》のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

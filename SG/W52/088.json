@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_088.gif",
+  "level": 0,
+  "name": "【風輪火斬：力】翼",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、青か《音楽》のキャラの枚数×1000に等しい。\n【自】【CXコンボ】 相手がレベルアップした時、あなたのクライマックス置場に「風輪火斬」があるなら、あなたは自分の山札を上から4枚まで見て、青か《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

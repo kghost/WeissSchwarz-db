@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "イチゴ！　しっかりしろ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_044.gif",
+  "level": 1,
+  "name": "叱咤激励 ゴロー",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】[(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+  "trait": [
+    "パラサイト",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "じゃあ、今日から頑張ります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_028s.gif",
+  "level": 0,
+  "name": "“働き者のメイドさん”鴎",
+  "power": 500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《海賊》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "サマポケ",
+    "海賊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

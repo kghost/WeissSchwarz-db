@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "きゃっ!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_115.gif",
+  "level": 1,
+  "name": "ウインタースポーツ 佐天",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+  "trait": [
+    "スポーツ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

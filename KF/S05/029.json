@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "任務、完了",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_029.gif",
+  "level": 0,
+  "name": "クラーク・スティル",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ラルフ・ジョーンズ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "メガネ",
+    "軍隊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

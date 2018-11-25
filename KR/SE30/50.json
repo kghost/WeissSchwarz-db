@@ -1,0 +1,12 @@
+{
+  "color": "BLUE",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_50.gif",
+  "name": "ノルマ水増し",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

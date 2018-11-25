@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "歌って踊れる声優アイドル！\n安部菜々っ……です☆",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_071.gif",
+  "level": 2,
+  "name": "アイドル活動中 菜々",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「永遠の17歳 菜々」を1枚まで選び、このカードがいた枠に防御キャラとして置く。",
+  "trait": [
+    "音楽",
+    "ウサミン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

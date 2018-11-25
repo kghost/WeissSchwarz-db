@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "だって夜々ねむいし…くぁ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t14.gif",
+  "level": 0,
+  "name": "ゆらぎ荘の猫娘 夜々",
+  "power": 4000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 あなたがレベルアップした時、このカードを控え室に置く。",
+  "trait": [
+    "猫神",
+    "ゆらぎ荘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

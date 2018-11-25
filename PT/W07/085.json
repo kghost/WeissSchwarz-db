@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……解ります……解らないはずありません……彼のことを、本気で想ったことがあるなら",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_085.gif",
+  "level": 1,
+  "name": "梧桐の姫君 美緒",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「届かない場所」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋5000。ターンの終わりに、そのキャラを控え室に置く。",
+  "trait": [
+    "愛",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

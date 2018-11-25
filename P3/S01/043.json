@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 3,
+  "flavor": "きたっ！　総攻撃チャンスッ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_043.gif",
+  "level": 2,
+  "name": "総攻撃チャンス！",
+  "rarity": "R",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラすべてに、そのターン中、パワーを＋1000。そうする時、相手の前列のキャラすべてが【レスト】しているなら、かわりにパワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

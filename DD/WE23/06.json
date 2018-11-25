@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we23/dd_we23_06.gif",
+  "level": 0,
+  "name": "魔王 ヴァレリー",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 記憶 あなたの思い出置場に「“追憶”フィー」があるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』",
+  "trait": [
+    "動物",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

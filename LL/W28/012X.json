@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“No brand girls”真姫",
+  "power": 5000,
+  "rarity": "XR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の【スタンド】しているキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

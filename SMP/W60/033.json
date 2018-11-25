@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ちょうど良い風が吹いているし。号令だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_033.gif",
+  "level": 0,
+  "name": "“叶えた現実”羽依里",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“憶測でする話”鴎」すべてに、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「鴎」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "お日様と一緒に起きたの。そしたら、横に寝顔があったの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_012.gif",
+  "level": 1,
+  "name": "穏やかな目覚め ひまり",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "風南島",
+    "帽子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

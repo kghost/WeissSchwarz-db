@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "きょ、きょ、きょ、\n今日はあなたが御主人様にゃんにゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_010.gif",
+  "level": 1,
+  "name": "黒ネコのルイズ",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《使い魔》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

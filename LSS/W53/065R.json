@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "「さあがんばるんだ！」と、輝いているよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_065r.gif",
+  "name": "その輝きは",
+  "rarity": "RRR",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

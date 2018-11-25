@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ふふ、楽しみだわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_009.gif",
+  "level": 0,
+  "name": "“プレゼント交換” 千夜",
+  "power": 2000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。\n【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のカード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "甘兎庵",
+    "和菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

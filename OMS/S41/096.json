@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_096.gif",
+  "level": 2,
+  "name": "新ギャグ",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたのカード名に「松」を含むキャラが5枚以上なら、あなたは相手のキャラを1枚選び、【レスト】する。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

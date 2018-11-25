@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "制服なんてはじめてだから…緊張します",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_t14.gif",
+  "level": 0,
+  "name": "初めての制服 リンネ",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "格闘",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

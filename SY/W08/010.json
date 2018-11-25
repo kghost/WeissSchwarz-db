@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "最近この理不尽空間に普通に馴染んでる自分に感心してな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_010.gif",
+  "level": 1,
+  "name": "部室のキョン",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［このカードをクロック置場に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“いつも”のキョン」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "メカ",
+    "SOS団"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "ん？　何書いてるのかって？　これは、自由研究?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_047.gif",
+  "name": "自由研究",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の黄のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

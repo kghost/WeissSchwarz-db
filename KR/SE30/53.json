@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "せっかく真宮さんとデートできるんだ。パートナーには楽しんでもらわなくっちゃ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_53.gif",
+  "level": 0,
+  "name": "“浄霊＜デート”翼",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "本",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

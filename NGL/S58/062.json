@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "これでも私はかつて、十八翼議会――アヴァント・ヘイム政府の一翼、 それなりに影響力はございますので",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_062.gif",
+  "level": 1,
+  "name": "元十八翼議会 ジブリール",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "ゲーム",
+    "天翼種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "中学１年だよ、仲良くしようね♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t01.gif",
+  "level": 0,
+  "name": "14人での始まり 莉嘉",
+  "power": 500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「カリスマＪＫ 美嘉」すべてに、パワーを＋1000。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "音楽",
+    "ギャル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

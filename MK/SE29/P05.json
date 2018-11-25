@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se29/mk_se29_p05.gif",
+  "level": 1,
+  "name": "“それが探偵”ミルキィホームズ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 0,
+  "text": "【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《探偵》のキャラなら、次の相手のターンの終わりまで、このカードのパワーを＋1500。（公開したカードは元に戻す）",
+  "trait": [
+    "探偵",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

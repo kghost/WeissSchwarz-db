@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "超電磁砲が潰そうとしていた\nここの計画に興味が出たわ。見せなさい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_088.gif",
+  "level": 0,
+  "name": "計画への好奇心 麦野",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "超能力",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

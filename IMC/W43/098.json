@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_098.gif",
+  "level": 1,
+  "name": "Project:Krone 周子",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「Project:Krone」があるなら、そのターン中、このカードのパワーを＋4500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

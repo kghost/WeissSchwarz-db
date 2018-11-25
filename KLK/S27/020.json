@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "マコ「疲労回復疾病快癒元気溌剌って感じだよ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_020.gif",
+  "name": "いただきまーす！",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

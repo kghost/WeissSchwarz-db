@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "待っていてくださって、ありがとうございます！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_052.gif",
+  "level": 3,
+  "name": "new generations 卯月",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】[(3) 手札の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「できたてEvo! Revo! Generation!」があり、他のあなたの前列の、「new generations 未央」と「new generations 凛」がいるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。このダメージがキャンセルされたなら、あなたは自分のクロックの上から3枚までを、控え室に置く。（ダメージキャンセルは発生する）",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "うん、美味しい。　とってもいい感じです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_057.gif",
+  "level": 0,
+  "name": "成功甘美 柊真琴",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ガール》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "ガール",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

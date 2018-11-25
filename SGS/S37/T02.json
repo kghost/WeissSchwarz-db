@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "今日はお部屋でのんびり。昨日買った雑誌を読もうかな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_t02.gif",
+  "level": 0,
+  "name": "“私服でお出かけ”伊緒",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、あなたは自分の《ストライカー》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "ストライカー",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "条件を対等にするだけ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_081.gif",
+  "level": 2,
+  "name": "無口キャラ長門",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「チャイナドレスの長門」を1枚選び、このカードがいた枠に置く。\n【起】 集中 ［(4)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードの《宇宙人》のキャラ1枚につき、あなたは自分の控え室のレベル0以下のキャラを1枚まで選び、舞台の別々の枠に置く。",
+  "trait": [
+    "宇宙人",
+    "SOS団"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

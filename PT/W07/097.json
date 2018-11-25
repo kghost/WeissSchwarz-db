@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "祈りも、贖罪も、ありはしないわ。死は全ての終わり",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_097.gif",
+  "level": 2,
+  "name": "連続ミッション",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。\nあなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

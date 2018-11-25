@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ありがとう、ユーマ……\nみんな、あなたのおかげよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sr_se25/sr_se25_09.gif",
+  "level": 0,
+  "name": "感謝の言葉 ソニア",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+  "trait": [
+    "音楽",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

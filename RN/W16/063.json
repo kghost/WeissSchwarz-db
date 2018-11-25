@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "『死角ゼロの全方位迎撃！\n一度間合いに入った獲物は、決して逃がさないのだァ！』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_063.gif",
+  "level": 0,
+  "name": "Ｍ４５",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「ミスター・プレアデス」すべてに、パワーを＋1000。\n【自】 絆／「ミスター・プレアデス」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ミスター・プレアデス」を1枚選び、手札に戻す)",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

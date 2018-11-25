@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ナンバーワンの座は渡さないわ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_072.gif",
+  "level": 2,
+  "name": "スナック カスカビアン",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

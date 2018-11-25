@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ああ……どうも、こんにちは",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_034.gif",
+  "level": 0,
+  "name": "無限書庫司書長ユーノ",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。",
+  "trait": [
+    "魔法",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "一条君はどう思ってるんだろう――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_p03.gif",
+  "level": 1,
+  "name": "楽と一緒！？　小咲",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "お菓子",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "助太刀しよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_t17.gif",
+  "level": 2,
+  "name": "助太刀しよ子",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたのカード名に「しよ子」を含むキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "trait": [
+    "カードゲーム",
+    "忍"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

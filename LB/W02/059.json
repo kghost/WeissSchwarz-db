@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "テンション、回復、回復！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_059.gif",
+  "level": 1,
+  "name": "夏服の葉留佳",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】 バトルしているこのカードが【リバース】した時、あなたのストックが相手のストックより少ないなら、あなたはこのカードをストック置場に置いてよい。』\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「唯湖」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "ビー玉",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

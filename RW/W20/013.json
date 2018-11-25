@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "咲夜「馬鹿な…」\nちはや「さ、咲夜ぁーっ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_013.gif",
+  "level": 2,
+  "name": "“まさかの不覚”ちはや＆咲夜",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのストックが5枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "お菓子",
+    "執事"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

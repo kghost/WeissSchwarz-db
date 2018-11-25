@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "確かに材料は揃ったが、完成には一つ足りないものがある",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_t12.gif",
+  "level": 0,
+  "name": "“鋳造”黒のキャスター",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "サーヴァント",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

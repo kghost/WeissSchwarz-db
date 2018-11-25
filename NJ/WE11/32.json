@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "屋台が出てますねー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_32.gif",
+  "level": 1,
+  "name": "夏祭り なの",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "メカ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

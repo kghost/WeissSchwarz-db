@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "闇統べる王 「ふははは！　子鴉とその融合騎！\n我々が復活したからには、貴様等はもう終わりよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g27.gif",
+  "name": "闇王復活！",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

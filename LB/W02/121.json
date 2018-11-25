@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ちょっと、くすぐったいですわぁっ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_121.gif",
+  "level": 1,
+  "name": "“犬まみれ”佐々美",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の【レスト】しているキャラ1枚につき、このカードのパワーを+500。",
+  "trait": [
+    "スポーツ",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

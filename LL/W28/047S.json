@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "私服のにこ",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

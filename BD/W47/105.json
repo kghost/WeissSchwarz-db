@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "にゃ、にゃー…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-105_c.gif",
+  "level": 0,
+  "name": "ハッピーハロウィン♪ 有咲",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札の《盆栽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「イラつくあいつ」を1枚まで選び、手札に戻し、他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "盆栽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

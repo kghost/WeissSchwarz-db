@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "命令だ。何とかしろ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_106.gif",
+  "level": 2,
+  "name": "ちみリヴァイ",
+  "power": 9500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードは、あなたの《兵団》のキャラが1枚以下なら、手札からプレイできない。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 4,
+  "flavor": "ラハール「魔王に歯向かうとはいい度胸だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_p03.gif",
+  "level": 3,
+  "name": "魔王と愉快な仲間達",
+  "rarity": "PR",
+  "side": "S",
+  "text": "あなたは自分の手札を2枚選び、控え室に置いてよい。そうしたら、次の行動を2回行う。『相手に2ダメージを与える。』（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

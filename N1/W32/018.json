@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "…風は空に……星は…天に……不屈の魂は、この胸に！\nこ…この手に、魔法を……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_w32/n1_w32_018.gif",
+  "level": 2,
+  "name": "自分の意思なのは",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

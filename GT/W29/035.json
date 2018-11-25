@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_035.gif",
+  "level": 0,
+  "name": "色づく頬 るな",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《タロット》のキャラの枚数×500に等しい。",
+  "trait": [
+    "タロット",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "う、うん……ニーナちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we28/hll_we28_41.gif",
+  "level": 0,
+  "name": "内気な使者 アモル",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「ニーナ」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】［(1) このカードをバトル中のキャラの下にマーカーとして表向きに置く］ 他のあなたのバトル中のカード名に「ニーナ」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。",
+  "trait": [
+    "使者",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

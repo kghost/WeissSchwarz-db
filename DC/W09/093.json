@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "今日はありがとね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_093.gif",
+  "level": 2,
+  "name": "デート中の麻耶",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「お友達」があるなら、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードに《メカ》のキャラがあるなら、あなたは1枚引いてよい。それらのカードに《委員長》のキャラがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "委員長",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

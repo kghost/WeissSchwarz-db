@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "はぁ〜。海って最高だねぇ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_045.gif",
+  "level": 2,
+  "name": "眼福 フトシ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】このカードの下にマーカーがあるなら、他のあなたの、《パラサイト》か《フランクス》のキャラ1枚につき、このカードのパワーを＋1500。\n【自】このカードが手札から舞台に置かれた時、あなたは自分の控え室の「はじめての海 ココロ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+  "trait": [
+    "パラサイト",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

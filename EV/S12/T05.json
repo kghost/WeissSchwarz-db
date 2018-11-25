@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "救護措置急いで！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_t05.gif",
+  "level": 1,
+  "name": "緊急事態のミサト",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

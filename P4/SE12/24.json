@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ハァッ、ハァッ、ハァッ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_24.gif",
+  "level": 0,
+  "name": "生田目 太郎",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(7)］ 相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手の【スタンド】しているレベル3以下のキャラを1枚選び、【レスト】し、相手にＸダメージを与える。Ｘはそのキャラのソウルに等しい。（ダメージキャンセルは発生する）\n【起】［(1) あなたの山札の上から1枚をクロック置場に置く］ あなたは相手の前列のレベル0以下のキャラを1枚選び、山札の上に置く。",
+  "trait": [
+    "秘書",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

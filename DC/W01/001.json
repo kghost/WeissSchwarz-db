@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "まあ、ボクも長いこと学園にいるからさ。思い出がいっぱいになっちゃうんだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_001.gif",
+  "level": 0,
+  "name": "学園長のさくら",
+  "power": 500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「桜内 義之」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「桜内 義之」を1枚選び、手札に戻す）\n【起】［(1) このカードを【レスト】する］ あなたは《魔法》の自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

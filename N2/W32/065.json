@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ホントに、お話聞かせてもらいたいだけなの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w32/n2_w32_065.gif",
+  "level": 1,
+  "name": "アクセルシューター なのは",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ふんふん、ふふん♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_063.gif",
+  "level": 0,
+  "name": "お掃除μさん",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《メカ》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "メカ",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

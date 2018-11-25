@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "さあ！　艦爆隊、艦攻隊、出番よ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-053.gif",
+  "level": 2,
+  "name": "千歳型軽空母2番艦 千代田航",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋5000し、ソウルを＋1。\n【永】 このカードは相手の効果に選ばれない。\n【自】 他のあなたのバトル中の「千歳型軽空母1番艦 千歳航」が【リバース】した時、このカードの下にマーカーがないなら、あなたはそのキャラを、このカードの下にマーカーとして裏向きに置いてよい。",
+  "trait": [
+    "艦娘",
+    "軽空母"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

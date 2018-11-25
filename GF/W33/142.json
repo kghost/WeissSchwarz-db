@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…よ?し、私の出番だぁ、行ってくるね。少しはプロっぽいところ見せちゃうよ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_142.gif",
+  "level": 0,
+  "name": "奈央の本気 見吉奈央",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "ガール",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

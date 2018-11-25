@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "……悠二",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_01.gif",
+  "level": 2,
+  "name": "悠二の消えた日 シャナ",
+  "power": 7000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "炎",
+    "メロンパン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

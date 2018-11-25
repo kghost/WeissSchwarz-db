@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "だからさ魔女さん…アンタは地獄で贖罪し続けろ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_059.gif",
+  "level": 0,
+  "name": "振り下ろされた剣 ももこ",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "バランス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

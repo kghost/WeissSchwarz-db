@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "今回は、かなり大がかりなオペレーションになるはずよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_087.gif",
+  "level": 2,
+  "name": "“葬儀社”ツグミ",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのストックが4枚以上なら、このカードは｢【自】 アンコール ［手札のキャラを1枚控え室に置く］｣を得る。\n【自】 このカードがアタックした時、クライマックス置場に「情報戦の要」があるなら、あなたは1枚引いてよい。",
+  "trait": [
+    "葬儀社",
+    "オペレーター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "夏祭り 愛理",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "科学",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

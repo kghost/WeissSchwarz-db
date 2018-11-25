@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "豹って……え、イメージ通り？\n……それは喜んでいいの…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_036.gif",
+  "level": 2,
+  "name": "“次の獲物はあなた”真姫",
+  "power": 10000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "trait": [
+    "音楽",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

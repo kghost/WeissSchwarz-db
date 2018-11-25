@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "売れ残りのお雛様って、ちょっとかわいそう。みんな誰かのおうちに行けるといいんだけど",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_p03.gif",
+  "level": 0,
+  "name": "”ひなまつり”矢澤 にこ",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 0,
+  "text": "【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを2枚まで選び、そのターン中、パワーを＋500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

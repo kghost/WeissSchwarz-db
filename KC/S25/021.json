@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "提督！イクから目を逸らしちゃダメなの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_021.gif",
+  "level": 2,
+  "name": "巡潜乙型潜水艦3番艦 伊19改",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの手札が3枚以下なら、このカードのパワーを＋1500。\n【自】［(2) 手札の《艦娘》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚と相手の後列のレベル3以下のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "艦娘",
+    "潜水空母"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

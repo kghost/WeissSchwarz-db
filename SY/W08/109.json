@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "『わがSOS団は、この世の不思議を広く募集しています』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_109.gif",
+  "name": "団員ボシュウ中！",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】あなたのキャラすべてに、ソウルを+2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

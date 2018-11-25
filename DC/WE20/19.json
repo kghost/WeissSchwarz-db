@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ほえ……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we20/dc_we20_19.gif",
+  "level": 1,
+  "name": "お寝坊 ななか",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのソウルを＋1。\n【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "trait": [
+    "音楽",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

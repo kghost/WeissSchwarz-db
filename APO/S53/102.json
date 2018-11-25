@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "よく吼えた！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_102.gif",
+  "level": 2,
+  "name": "ぷち赤のセイバー",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

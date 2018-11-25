@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ここまでナメた真似をして下さるなんてね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gg_s23/gg_s23_040.gif",
+  "level": 0,
+  "name": "大海賊 ラケージ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+  "trait": [
+    "パイロット",
+    "海賊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

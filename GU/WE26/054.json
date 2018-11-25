@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ラテアートは任せてくれ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_054.gif",
+  "level": 2,
+  "name": "いらっしゃいませ ミニリゼ",
+  "power": 7000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ラビットハウス》のキャラが2枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 他のあなたの《ラビットハウス》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "ラビットハウス",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

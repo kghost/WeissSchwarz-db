@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we24/ll_we24_59.gif",
+  "level": 1,
+  "name": "“私たちはスクールアイドル！”星空 凛",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

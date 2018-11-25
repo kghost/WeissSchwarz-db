@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_08t.gif",
+  "level": 0,
+  "name": "彩珠 ななこ",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、赤のあなたのキャラすべてに、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』",
+  "trait": [
+    "メガネ",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

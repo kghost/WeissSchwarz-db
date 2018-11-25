@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_092.gif",
+  "level": 1,
+  "name": "浴衣でお出かけ チノ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "ラビットハウス",
+    "Dear My Sister"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

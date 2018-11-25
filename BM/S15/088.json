@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あ……暦お兄ちゃん。待ってたよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_088.gif",
+  "level": 2,
+  "name": "待ち伏せ 千石撫子",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(1) このカードをクロック置場に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「蛇に巻きつかれた少女 千石撫子」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "怪異",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "基本 骨子 解明 構成材質解明！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_t07.gif",
+  "level": 2,
+  "name": "自己鍛錬",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたのキャラすべてに、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

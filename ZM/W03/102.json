@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "借りはちゃんと返すのが貴族ってものよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_102.gif",
+  "level": 1,
+  "name": "負けず嫌いなルイズ",
+  "power": 4000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】このカードが【リバース】した時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

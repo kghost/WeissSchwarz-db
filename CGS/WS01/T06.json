@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "未年もヴァイスシュヴァルツしよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_t06.gif",
+  "level": 1,
+  "name": "未年 しよ子",
+  "power": 6000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《カードゲーム》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。",
+  "trait": [
+    "カードゲーム",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "お料理さしすせそ！ やよい",
+  "power": 8500,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのソウルを＋1。",
+  "trait": [
+    "音楽",
+    "カエル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

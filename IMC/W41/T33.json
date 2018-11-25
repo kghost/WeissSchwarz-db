@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t33.gif",
+  "level": 2,
+  "name": "はじめてのお仕事 智絵里",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "クローバー"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

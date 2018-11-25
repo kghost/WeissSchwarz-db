@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "俺は投稿者を信じたい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_033d.gif",
+  "level": 1,
+  "name": "オカ研活動記録",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたのカード名に「朱音」か「瑚太朗」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室のコスト0以下のキャラを1枚選び、舞台の好きな枠に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）\nこのカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

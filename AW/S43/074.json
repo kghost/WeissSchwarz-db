@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "スカーレット・レイン「くれぐれもドジ踏んで、転げ落ちないよう注意願いまーす」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_074.gif",
+  "level": 1,
+  "name": "乱暴な運転",
+  "rarity": "C",
+  "side": "S",
+  "text": "このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。\nあなたは相手の後列のコスト1以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

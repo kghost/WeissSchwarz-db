@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "救護担当も兼ねてご一緒します",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_054.gif",
+  "level": 0,
+  "name": "イクスヴェリア",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

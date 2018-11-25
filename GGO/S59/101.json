@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "す――、すごいです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_101.gif",
+  "level": 3,
+  "name": "憧憬の眼差し 咲",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《ＳＨＩＮＣ》か《スポーツ》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "ネット",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

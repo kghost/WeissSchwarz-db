@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "横断歩道は右見て左見て、もう一度右見て、渡って下さ?い♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_033.gif",
+  "level": 2,
+  "name": "及川 雫",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "これからもこんな生活が続けば…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_58.gif",
+  "level": 1,
+  "name": "前向きな朋也",
+  "power": 7000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、このカードを【レスト】する。",
+  "trait": [
+    "不良",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

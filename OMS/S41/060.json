@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "なけなしの金をはたいて手に入れた命の時間！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_060.gif",
+  "level": 2,
+  "name": "握手券",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたのカード名に「松」を含むキャラがいないなら、手札からプレイできない。あなたは自分の控え室のカード名に「松」を含むキャラを1枚まで選び、ストック置場に置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

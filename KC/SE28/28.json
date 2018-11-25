@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ナキサケンデ…シズンデイケ…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_se28/kc_se28_28.gif",
+  "level": 3,
+  "name": "戦艦水鬼",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを?1。\n【永】 相手のターン中、他のあなたの《深海棲艦》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "深海棲艦",
+    "水鬼"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

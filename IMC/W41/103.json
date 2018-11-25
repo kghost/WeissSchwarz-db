@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "やがて真の魔王への覚醒が―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_103.gif",
+  "level": 0,
+  "name": "覚醒の時 蘭子",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "音楽",
+    "闇"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

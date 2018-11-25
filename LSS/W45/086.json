@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ライブもうまくいったしね。でも……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_086.gif",
+  "level": 0,
+  "name": "“海辺の対峙”松浦 果南",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

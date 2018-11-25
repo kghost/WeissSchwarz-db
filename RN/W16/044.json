@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "コンニチワ。ボクノナマエハ、ヨシロウ。\nミンナノ、オトモダチロボットダヨ。ヨロシクネ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_044.gif",
+  "level": 1,
+  "name": "与四郎くん",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札か控え室から、舞台に置かれた時、あなたは他の自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

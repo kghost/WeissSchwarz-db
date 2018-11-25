@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "なるほど……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_019.gif",
+  "level": 0,
+  "name": "ポンチョ姿 レン",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

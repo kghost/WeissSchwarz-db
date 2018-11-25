@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "生き返った…というわけにはいきませんから、\n片時の夢のようなものだとは思いますが…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g02.gif",
+  "level": 0,
+  "name": "片時の夢 リニス",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《クローン》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "使い魔",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

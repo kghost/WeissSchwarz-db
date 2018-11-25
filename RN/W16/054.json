@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ぐぬぬ……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_054.gif",
+  "level": 0,
+  "name": "キルバラ対決！ フラウ",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
+  "trait": [
+    "科学",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

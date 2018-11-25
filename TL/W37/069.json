@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたし…姉上があたし達の姉上でよかったよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_069.gif",
+  "level": 1,
+  "name": "“仲良し？三姉妹”ナナ",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 共鳴 ［(1) 手札の「“お座り”ララ」を1枚公開する］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "宇宙人",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

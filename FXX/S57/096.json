@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_096.gif",
+  "level": 1,
+  "name": "キミへのプレゼント",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】あなたは自分の、《パラサイト》か《フランクス》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのストックの枚数×500に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

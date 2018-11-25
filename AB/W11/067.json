@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "貴様か…、ゆりっぺを侮辱し、入隊を断ったという輩は！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_067.gif",
+  "level": 0,
+  "name": "対抗心 野田",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "死",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

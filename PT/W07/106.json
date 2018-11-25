@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "まぁいいじゃない兄さん、たまには",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_106.gif",
+  "level": 1,
+  "name": "水遊びをする江漣",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】他のあなたのカード名に「玲二」を含むキャラがいるなら、このカードのパワーを+2000。",
+  "trait": [
+    "武器",
+    "水着"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

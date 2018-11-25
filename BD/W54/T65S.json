@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "それじゃあ最後の曲、カモーーーンっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t65s.gif",
+  "level": 1,
+  "name": "“いっちゃうモンモン！”弦巻こころ",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラか「レペゼン・ハロハピ」か「ミッシェルシール」なら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "ハロー、ハッピーワールド！"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

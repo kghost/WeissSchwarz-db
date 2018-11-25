@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "歌声もとっても素敵です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_096.gif",
+  "level": 0,
+  "name": "ちょっと休憩 ジェーン",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の青のキャラを1枚選び、手札に戻す。\n【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。",
+  "trait": [
+    "フレンズ",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "笹瀬川さんはいいひとなのですね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_030.gif",
+  "level": 1,
+  "name": "クド＆佐々美",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの１番上にあるなら、緑のあなたのキャラすべてに、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたはこのカードをストック置場に置いてよい。』",
+  "trait": [
+    "動物",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

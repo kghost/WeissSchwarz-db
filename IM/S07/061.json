@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "プロデューサー。ボクの全力見ていて下さい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_061.gif",
+  "level": 1,
+  "name": "りりしく精悍 真",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「パワフルガール真」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

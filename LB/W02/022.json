@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "そうだな…雨の日には、\n私の頭が働かなくなるのかもしれないな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_022.gif",
+  "level": 2,
+  "name": "相合傘",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

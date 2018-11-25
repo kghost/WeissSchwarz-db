@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いいよ！親父直伝の特殊訓練を叩き込んでやるよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_035.gif",
+  "level": 0,
+  "name": "木組みの街で リゼ",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ラビットハウス》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "ラビットハウス",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

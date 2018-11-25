@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あれ、今日はラクロス部の見学ですか？…通りすがり？　あはは、本当かなぁ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_035.gif",
+  "level": 1,
+  "name": "笑顔快晴 葉月柚子",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のカード名に「桃子」を含むキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "ガール",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…レムが…レムが…ひとりでやらなきゃ…\n傷つくのはもう…レムだけで十分…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_t36.gif",
+  "level": 2,
+  "name": "殺意の瞳 レム",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《魔法》か《武器》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "魔法",
+    "メイド"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

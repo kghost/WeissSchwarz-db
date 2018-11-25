@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "さぁ、思う存分…ご賞味ください!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_065.gif",
+  "level": 0,
+  "name": "胡桃 まなか",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻し、他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "魔法",
+    "ヒール"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

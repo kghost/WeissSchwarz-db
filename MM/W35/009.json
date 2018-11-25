@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "もう、ベベったら。あんまりお行儀が悪いとチーズになっちゃうわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_009.gif",
+  "level": 0,
+  "name": "賑やかな夕べ マミ",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。",
+  "trait": [
+    "魔法",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

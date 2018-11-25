@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "勝負しよう、沼地",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_044.gif",
+  "level": 2,
+  "name": "真剣勝負 神原駿河",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時かこのカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《怪異》のキャラなら、そのターン中、このカードのパワーを＋2500。\n【自】 このカードがアタックした時、クライマックス置場に「青春とけじめ」があるなら、あなたは自分の手札すべてを、控え室に置き、同じ枚数引く。",
+  "trait": [
+    "怪異",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

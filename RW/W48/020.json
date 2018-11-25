@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ぎる「よっと！じゃあな！」\nぱに「短い間でしたが楽しかったですわ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_020.gif",
+  "level": 0,
+  "name": "瑚太朗のために ぎる＆ぱに",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「瑚太朗」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。",
+  "trait": [
+    "魔法",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ウチはお前と空を行きたい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_05.gif",
+  "level": 3,
+  "name": "クーベル・エッシェンバッハ・パスティヤージュ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《勇者》か《王族》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "動物",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

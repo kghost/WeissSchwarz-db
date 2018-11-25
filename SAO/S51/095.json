@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "パパ、ママ、一つわかったことがあります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s51/sao_s51_095.gif",
+  "level": 1,
+  "name": "調査の報告",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードを思い出にする。\n【永】 記憶 相手のターン中、思い出置場にこのカードがあるなら、あなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

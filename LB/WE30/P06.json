@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ありがとうきみたちの中にある輝きを\nこんなにくれたらもう十分だよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we30/lb_we30_p06.gif",
+  "level": 3,
+  "name": "“たくさんの思い出”沙耶",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。\n【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを2枚選び、それらのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

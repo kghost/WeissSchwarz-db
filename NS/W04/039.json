@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "遮蔽物もないし、空気も済んでる……よく見える……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_039.gif",
+  "level": 0,
+  "name": "狙撃する砲撃手ディエチ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(2)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?4000。",
+  "trait": [
+    "メカ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

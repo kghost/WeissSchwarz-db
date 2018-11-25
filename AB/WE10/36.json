@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "馬鹿やってないで、援護し合って！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_we10/ab_we10_36.gif",
+  "name": "影との戦い",
+  "rarity": "C",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

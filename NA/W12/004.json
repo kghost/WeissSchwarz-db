@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "皆、ちゃんと起きてますか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_004.gif",
+  "level": 0,
+  "name": "使い魔 リニス",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置き、このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「戯れるフェイト＆アルフ」を1枚選び、このカードがいた枠に防御キャラとして置く。",
+  "trait": [
+    "使い魔",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "なるるがお手伝いします！ 代わりにおやつください！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p25.gif",
+  "level": 0,
+  "name": "“きまぐれスナイパー”鳴瀬静",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ビジュアルアーツ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "ビジュアルアーツ",
+    "男装"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あら、かわいい…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_061.gif",
+  "level": 2,
+  "name": "突然の遭遇 桜内 梨子",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

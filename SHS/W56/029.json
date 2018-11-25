@@ -1,0 +1,22 @@
+{
+  "color": "YELLOW",
+  "cost": null,
+  "flavor": "私、先輩の所に帰ってきたんだよーっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_029.gif",
+  "level": null,
+  "name": "敵か味方か新キャラか",
+  "power": null,
+  "rarity": "CC",
+  "side": "W",
+  "soul": 0,
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trait": [
+    "-",
+    "-"
+  ],
+  "trigger": [
+    "SOUL",
+    "SHOT"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "罠にはまった！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_026.gif",
+  "level": 2,
+  "name": "アクバー提督",
+  "power": 3500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "ジェダイの帰還",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

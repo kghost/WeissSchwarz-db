@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "こんなかわいいおばけなら、ずっといてもいいやんね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_027.gif",
+  "level": 2,
+  "name": "“わしわし”東條 希",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【起】［あなたの《音楽》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "音楽",
+    "和服"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

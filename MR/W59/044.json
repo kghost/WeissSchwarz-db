@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "全力でみんなの未来を応援するって決めた！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_044.gif",
+  "level": 0,
+  "name": "空穂 夏希",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは1枚引く。",
+  "trait": [
+    "魔法",
+    "サポート"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

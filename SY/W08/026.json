@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あなたの知ってる私よりもっと未来から来ました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_026.gif",
+  "level": 2,
+  "name": "異時間同位体 みくる＆みくる（大）",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「禁則事項です」があるなら、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。\n【自】 このカードがアタックした時、クライマックス置場に「禁則事項です」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1500。",
+  "trait": [
+    "時間",
+    "SOS団"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

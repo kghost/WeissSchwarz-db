@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_046.gif",
+  "level": 1,
+  "name": "バグズ手術",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】しているカード名に「小吉」を含むキャラを1枚選び【レスト】する。そうしたら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

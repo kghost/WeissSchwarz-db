@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "1日3食付の条件で仲間になってやる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_052.gif",
+  "level": 2,
+  "name": "最凶の魔王ラハール",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】このカードがアタックした時、クライマックス置場に「通りすがりの魔王」があるなら、そのターン中、このカードのパワーを＋3000し、このカードは次の能力を得る。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）\n【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

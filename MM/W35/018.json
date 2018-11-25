@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "あははっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_018.gif",
+  "level": 1,
+  "name": "無邪気な少女 なぎさ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "魔法",
+    "チーズ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

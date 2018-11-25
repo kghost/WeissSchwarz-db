@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "『アスミノコト　ヨロシクネ　カスミ』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_025.gif",
+  "name": "あたし……そろそろ行かなきゃ……",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

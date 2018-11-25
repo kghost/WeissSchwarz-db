@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "まさか、主君も私のことを子供と思っていたのか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_t08.gif",
+  "level": 2,
+  "name": "怒りのアカツキ",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "武器",
+    "忍"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

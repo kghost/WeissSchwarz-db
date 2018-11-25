@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "音夢「ずっと一緒だよ兄さん」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_p01.gif",
+  "level": 0,
+  "name": "満開の下 音夢＆美春＆アリス",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「満開の下 音夢＆美春＆アリス」1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "風紀委員",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

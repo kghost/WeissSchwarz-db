@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "小恋「準備、オッケーだよ?！」\nななか「じゃ、いっくよー！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_038.gif",
+  "level": 0,
+  "name": "軽音バンド ななか＆小恋",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

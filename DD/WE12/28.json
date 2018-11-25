@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "勇者シンク様ですね……存じ上げております",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_28.gif",
+  "level": 0,
+  "name": "見つめるミルヒ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "もったいない、お言葉……。光栄でございます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_066.gif",
+  "level": 1,
+  "name": "女王の副官ルルネーゼル",
+  "power": 3500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《王族》のキャラすべてに、パワーを＋500。\n【起】［(4) このカードを【レスト】する］ 相手に6ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "悪魔",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

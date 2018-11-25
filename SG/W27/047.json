@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "何が…どうなってるデスか…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_047.gif",
+  "level": 1,
+  "name": "フィーネの目覚め",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚まで選び、そのターン中、パワーを＋3000。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

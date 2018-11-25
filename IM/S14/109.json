@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "伊織「やよいもなかなか似合ってるじゃない！」\nやよい「伊織ちゃんもすっごくかわいいですー！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_109.gif",
+  "level": 0,
+  "name": "スノーフレークリリパット 伊織＆やよい",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "カエル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

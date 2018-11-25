@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "感じるのよ、コーデリア・グラウカ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_35.gif",
+  "level": 1,
+  "name": "謎に詰め寄るコーデリア",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《探偵》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

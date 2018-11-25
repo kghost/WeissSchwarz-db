@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "…僕がなんとかしてみる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s47/sao_s47_047.gif",
+  "level": 2,
+  "name": "レコンの勇気",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは相手のキャラを1枚まで選び、そのターン中、パワーを?4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

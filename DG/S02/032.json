@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "それが愛というものです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_032.gif",
+  "level": 0,
+  "name": "天使見習いフロン",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】他のキャラすべてに、《愛》を与える。\n【自】 絆／「超魔王ラハール」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「超魔王ラハール」を1枚選び、手札に戻す）",
+  "trait": [
+    "天使",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

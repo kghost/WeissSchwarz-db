@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ちょっと話しすぎちゃったかも。みんなには秘密ね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_036.gif",
+  "level": 2,
+  "name": "“ナイショ話”希",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「タロット占い」があるなら、あなたは他の自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "占い"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ほんのちょっとなら、その、手伝ってあげてもいい……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_p05.gif",
+  "level": 0,
+  "name": "ツンデレアピール 英梨々",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "ゲーム",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

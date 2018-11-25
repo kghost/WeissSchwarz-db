@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あたしっ、能力者になったんだっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_045.gif",
+  "level": 2,
+  "name": "幻想御手使用者 佐天",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「最高の友達」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたは相手のキャラを1枚まで選び、そのターン中、パワーを?1500し、ターンの終わりに、このカードを思い出にする。』",
+  "trait": [
+    "超能力",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

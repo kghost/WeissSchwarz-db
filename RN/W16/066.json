@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "おごってもらって感謝はしていますが。\nこれを飲んだら先に帰らせてもらいます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_066.gif",
+  "level": 0,
+  "name": "新入部員歓迎会 昴",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《科学》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "科学",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

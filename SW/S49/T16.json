@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "いいえ……このドロイドは売り物じゃないの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_t16.gif",
+  "level": 3,
+  "name": "“守るべき存在”レイ",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《フォースの覚醒》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "フォースの覚醒",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

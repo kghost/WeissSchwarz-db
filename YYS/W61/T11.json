@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お幸せに～",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t11.gif",
+  "level": 0,
+  "name": "幸運の女神？ ちとせ",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "座敷童子",
+    "ゆらぎ荘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

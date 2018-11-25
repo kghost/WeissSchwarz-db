@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "本当によかったんですか？\nわざわざ、おうちまで迎えに来てもらっちゃって",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_054.gif",
+  "level": 2,
+  "name": "待ち合わせ 優木苗",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分の《ガール》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

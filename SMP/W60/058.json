@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "いつか、遠い夏、ポケットの中に大事にしまっていた思い出。\nいつの間にかなくしてしまったとしても。\n長い君の冒険を。決して、忘れはしない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_058.gif",
+  "level": 3,
+  "name": "“いつか見る未来”うみ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《時間》のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、思い出にしてよい。",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

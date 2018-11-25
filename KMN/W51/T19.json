@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "今度会った時は、サーバルちゃんって呼んでね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_t19.gif",
+  "name": "再会の約束",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Treasure]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "TREASURE"
+  ],
+  "type": "Climax"
+}

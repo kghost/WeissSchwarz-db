@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "嘘と幻のイリュージョンで……回ってもらいましょ……♪……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_070.gif",
+  "level": 1,
+  "name": "シルバーカーテン",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 バトルしているこのカードが【リバース】した時、あなたの手札が相手の手札以下なら、このカードを手札に戻してよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

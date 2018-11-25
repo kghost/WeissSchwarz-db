@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私　時々考え込むというか　ぼ?っとする事がありまして",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_106.gif",
+  "level": 0,
+  "name": "うっかりなみゆき",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたは1枚引く］ あなたのメインフェイズを終了しエンドフェイズに進む。",
+  "trait": [
+    "メガネ",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

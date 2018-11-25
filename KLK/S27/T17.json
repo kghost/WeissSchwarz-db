@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "やっと面白くなった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_t17.gif",
+  "level": 0,
+  "name": "もう一つの神衣の持ち主 皐月",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "服",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "アァアアアアアアア",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_021.gif",
+  "level": 3,
+  "name": "座標",
+  "rarity": "U",
+  "side": "S",
+  "text": "相手にＸダメージを与える。Ｘはあなたの思い出置場の「“追走”巨人」の枚数に等しい。（ダメージキャンセルは発生する）\nあなたは自分の思い出置場の「“追走”巨人」を1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ありがと? 実はビキニ初挑戦なんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_054.gif",
+  "level": 0,
+  "name": "ビキニ姿のココア",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ラビットハウス",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

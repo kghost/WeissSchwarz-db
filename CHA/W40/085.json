@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "でも、本当に見たい彗星は別にあるのですーー！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_085.gif",
+  "level": 1,
+  "name": "“夏制服”乙坂 歩未",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《能力者》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "能力者",
+    "ピザソース"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

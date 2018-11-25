@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "今のお前たちの実力ではビーイングニュクスを倒すなどまったくもって不可能！無謀！ナンセンス！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_017.gif",
+  "level": 0,
+  "name": "辛辣な忠告 メタトロン",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「王を抱くシルバー・クロウ」を1枚選び、このカードがいた枠に置く。』\n【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "ビーイング",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

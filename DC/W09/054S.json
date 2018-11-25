@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "エリカ・ムラサキ",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《生徒会》なら、このカードのパワーを＋1000。",
+  "trait": [
+    "生徒会",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

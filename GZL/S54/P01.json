@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_s54/gzl_s54_p01.gif",
+  "name": "世界を蹂躙せしもの",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

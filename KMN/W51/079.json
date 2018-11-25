@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "「「はぁ…はぁ…」」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_079.gif",
+  "level": 1,
+  "name": "ジャパリバス",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の手札の「ジャパリバス」を1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの、《フレンズ》か《メカ》のキャラすべてに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

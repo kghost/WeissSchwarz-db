@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "遠慮するな。刀のことなら、\nいくらでもつきあってやるぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w23/dc3_w23_022.gif",
+  "level": 2,
+  "name": "熱弁をふるう巴",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

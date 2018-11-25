@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "俺のせいで誰かが死ぬのはもうごめんだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_059.gif",
+  "level": 0,
+  "name": "“戦闘態勢”ジャン",
+  "power": 1500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【起】［(1)］ あなたは自分の《兵団》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

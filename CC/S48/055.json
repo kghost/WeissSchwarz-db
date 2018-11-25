@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "光を、掴め――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_055.gif",
+  "level": 3,
+  "name": "闇から光へ ユーリ",
+  "power": 9000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのクロック置場に「鎖を断ち切る ユーリ」があるなら、あなたの手札のこのカードのレベルを?1。\n【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《マナ》のキャラの枚数に等しい。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

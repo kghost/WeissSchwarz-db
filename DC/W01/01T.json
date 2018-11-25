@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_01t.gif",
+  "level": 0,
+  "name": "胡ノ宮 環",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "巫女"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

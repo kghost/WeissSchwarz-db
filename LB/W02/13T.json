@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_13t.gif",
+  "level": 0,
+  "name": "“ミステリックブルー”美魚",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのカードをそのカードがいた枠に【レスト】して置く。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

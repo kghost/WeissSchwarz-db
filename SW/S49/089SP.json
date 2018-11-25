@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "Leia: \"He's got to follow his own path. No one can choose it for him.\"",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_089sp.gif",
+  "level": 3,
+  "name": "“夢を追う若者”ルーク",
+  "power": 10000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「Lightsaber」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。\n【自】【CXコンボ】［(2) 手札の青のキャラを1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「A New Hope」があり、このカードの下にマーカーがあるなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+  "trait": [
+    "新たなる希望",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

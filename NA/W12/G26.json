@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "キリエ 「そういう所が嫌いなの――大っ嫌い……」\nアミタ 「あなたが私を嫌いでも――\n私はあなたを大好きですよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g26.gif",
+  "name": "姉妹の和解",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

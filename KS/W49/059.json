@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "紅き黒炎、万界の王、天地の法を敷衍すれど、我は万象照応の理、崩壊破壊の別名なり。永劫の鉄槌は我が元に下れ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_059.gif",
+  "level": 1,
+  "name": "“呪文詠唱”めぐみん",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 あなたのアンコールステップの始めに、前列にこのカードがいるなら、相手は自分の山札の上から1枚を公開する。そのカードがレベル3以上のキャラなら、相手はそのキャラを舞台の好きな枠に置いてよい。（そうしないなら元に戻す）",
+  "trait": [
+    "冒険者",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

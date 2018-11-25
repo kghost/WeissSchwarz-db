@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "治世の果て セイバー",
+  "power": 8500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの手札が3枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

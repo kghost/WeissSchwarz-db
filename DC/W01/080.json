@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "先輩に会えて、私、変われたから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_080.gif",
+  "level": 2,
+  "name": "ピロスを抱くアリス",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「アリスの願い」があるなら、あなたは1枚引く。\n【起】［(1)］ そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+  "trait": [
+    "人形",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

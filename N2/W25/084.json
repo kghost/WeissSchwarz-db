@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_084.gif",
+  "name": "みんなでメンテナンス",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

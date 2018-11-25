@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "うふ▽ジョーダンですよぅ▽",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_077.gif",
+  "level": 1,
+  "name": "“腹黒策士”モモ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［手札の、《宇宙人》か《植物》のキャラを2枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ドキドキバスタイム”モモ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "宇宙人",
+    "植物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

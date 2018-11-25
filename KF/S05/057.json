@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "跡形も無く散れぇぇい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_057.gif",
+  "level": 2,
+  "name": "オメガ・ルガール",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［(4)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与え、このカードを山札に戻す。その山札をシャッフルする。（ダメージキャンセルは発生する）",
+  "trait": [
+    "オロチ",
+    "暗黒街"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

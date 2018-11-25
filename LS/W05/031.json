@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "いや 田村とかも そういう雑誌見るんだなと思ってな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_031.gif",
+  "level": 1,
+  "name": "桜庭 ひかる",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋1000。\n【自】 絆／「天原 ふゆき」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「天原 ふゆき」を1枚選び、手札に戻す）",
+  "trait": [
+    "先生",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

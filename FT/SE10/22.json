@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "エンジェル『私の祈り・・・・天使のように・・・\n空に・・・・消えたい・・・・』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_22.gif",
+  "level": 1,
+  "name": "六魔の祈り",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは自分の山札を見てそのキャラと同じ特徴を1つ以上持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\nこのカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

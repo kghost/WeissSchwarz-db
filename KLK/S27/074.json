@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "三都制圧襲学旅行、作戦開始！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_074.gif",
+  "level": 0,
+  "name": "大望の第一歩 皐月",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《服》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "服",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "アンリエッタ「私たちはお友達じゃないの！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_077.gif",
+  "level": 1,
+  "name": "ルイズ＆アンリエッタ",
+  "power": 1500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

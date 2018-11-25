@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "週末＆週頭に出張入れてドームにGo！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p17.gif",
+  "level": 1,
+  "name": "“無類のＬ好き”池パン",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ビジュアルアーツ",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

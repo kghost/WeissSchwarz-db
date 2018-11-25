@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "また戦えなかったら、容赦しない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_105.gif",
+  "level": 1,
+  "name": "冷徹な瞳 せいら",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "タロット",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

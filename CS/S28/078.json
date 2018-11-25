@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "しんのすけ「オラ達は帰ったあとも、ずっとここにいるよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_078.gif",
+  "level": 0,
+  "name": "青空を見上げるひろし",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《家族》か《和服》のキャラすべてに、パワーを＋500。\n【自】 絆／「怖いもの知らずなしんのすけ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「怖いもの知らずなしんのすけ」を1枚選び、手札に戻す）",
+  "trait": [
+    "家族",
+    "サラリーマン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

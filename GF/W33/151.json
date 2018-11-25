@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あの、これは…　先輩の作った物？…くれるんですか？　でも、それじゃ…それならこれと交換？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_151.gif",
+  "level": 1,
+  "name": "等価交換？ 鴫野睦",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "trait": [
+    "ガール",
+    "人形"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

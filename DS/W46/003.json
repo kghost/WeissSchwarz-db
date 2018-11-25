@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "あはっ。ここの景色、気に入ったみたいだね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_003.gif",
+  "level": 2,
+  "name": "白い帽子の少女 ひまり",
+  "power": 7000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場に「無邪気な水しぶき ひまり」があるなら、あなたの手札のこのカードのレベルを?1。\n【自】 あなたのクライマックス置場に「風のいたずら」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《風南島》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "風南島",
+    "帽子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

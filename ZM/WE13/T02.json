@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あれが、ガリア王ジョゼフ……。\nあいつの詠唱を、止めればいいんだな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_t02.gif",
+  "level": 0,
+  "name": "真っ直ぐな目 サイト",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "使い魔",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

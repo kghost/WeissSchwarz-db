@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ジラ「もう1人のマスターが、シリルなの」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_082.gif",
+  "level": 1,
+  "name": "運命を知るもの シリル＆ジラ",
+  "power": 3500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見る。（見たカードは元に戻す）",
+  "trait": [
+    "本",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

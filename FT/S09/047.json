@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_047.gif",
+  "level": 1,
+  "name": "チェンジリング",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て『チェンジ』を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

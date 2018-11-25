@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "あ、え、なな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we21/lb_we21_01.gif",
+  "level": 2,
+  "name": "想いのカタチ 鈴",
+  "power": 6500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「うきうきなんかしてない！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《動物》のキャラの枚数×2000に等しい。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

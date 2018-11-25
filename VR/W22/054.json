@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ここは……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vr_w22/vr_w22_054.gif",
+  "level": 1,
+  "name": "水着のれい",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《謎》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "鍵",
+    "謎"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

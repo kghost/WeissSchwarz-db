@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "オレ様のことは、エミーゼル様と呼ぶんだ。\n大統領の御曹司エミーゼル様とな！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_06.gif",
+  "level": 0,
+  "name": "生意気なお坊ちゃん エミーゼル",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のクライマックス置場にクライマックスがあるなら、このカードの正面のキャラのソウルを?1。",
+  "trait": [
+    "悪魔",
+    "死"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

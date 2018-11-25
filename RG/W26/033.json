@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "『アイテム』を舐めるなよ、クソガキ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_033.gif",
+  "name": "原子崩し",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trigger": [
+    "SOUL",
+    "SHOT"
+  ],
+  "type": "Climax"
+}

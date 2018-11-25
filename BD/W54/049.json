@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "つぐみ「バンドやろうっ！うん、絶対それがいいと思うっ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_049.gif",
+  "name": "バンド、やろう！",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

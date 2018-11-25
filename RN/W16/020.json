@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "わっ、コラ、そこからのぞき込まないでよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_020.gif",
+  "level": 2,
+  "name": "メンテ中 あき穂",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "はっ……これを全部ぶん殴れば全員消えてくれるのかよ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we18/lb_we18_34.gif",
+  "level": 1,
+  "name": "“暴走する最強”真人",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+  "trait": [
+    "筋肉",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

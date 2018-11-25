@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ちょっと自主練してくる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_076.gif",
+  "level": 1,
+  "name": "消えていくハイライト",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のクロックを1枚選び、レベル置場に置いてよい。そうしたら、あなたは自分の控え室のキャラを3枚まで選び、手札に戻し、自分の控え室のクライマックスを1枚まで選び、手札に戻し、自分の控え室の《ゲーム》のキャラを3枚まで選び、ストック置場好きな順番で置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

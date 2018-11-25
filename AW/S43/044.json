@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_044.gif",
+  "level": 1,
+  "name": "ノックスコーア",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 他のあなたの前列の「ノックスコーア」1枚につき、このカードのパワーを＋2000。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《エネミー》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "エネミー",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

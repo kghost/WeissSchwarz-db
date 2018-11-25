@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_022.gif",
+  "level": 2,
+  "name": "恋人として 戦場ヶ原ひたぎ",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「二人の砂浜」があるなら、あなたは他の自分のキャラを1枚まで選び、【レスト】し、後列のキャラのいない枠に動かし、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "怪異",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

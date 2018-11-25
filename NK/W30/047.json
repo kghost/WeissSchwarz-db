@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "はわわわ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_047.gif",
+  "level": 2,
+  "name": "ポーカーフェイス!?",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《お菓子》か《動物》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

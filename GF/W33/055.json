@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いつも気をつけて、って言ってるんだけど…困っちゃうよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_055.gif",
+  "level": 1,
+  "name": "似合の二人 笹原野々花",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「エール」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

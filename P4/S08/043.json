@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "雪子「いけいけー!」\n千枝「雪子やるー」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_043.gif",
+  "level": 2,
+  "name": "大切な友達 千枝＆雪子",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時かこのカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル1以上のキャラなら、そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "扇子",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

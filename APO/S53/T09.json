@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "獅子劫「素に銀と鉄。礎に石と契約の大公。手向ける色は?赤?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_t09.gif",
+  "level": 1,
+  "name": "召喚の儀",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の山札を上から4枚まで見て、《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_049.gif",
+  "level": 0,
+  "name": "“しでの鳥”阿良々木月火",
+  "power": 3500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのドローフェイズの始めに、あなたに1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "怪異",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

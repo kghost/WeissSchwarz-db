@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "このデカ顔は地上から！上から落ちてきた！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_t20.gif",
+  "name": "やっぱり地上はあったんじゃねぇか！",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

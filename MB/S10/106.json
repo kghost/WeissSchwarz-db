@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "戦いの系譜は流転する…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_106.gif",
+  "level": 2,
+  "name": "メルティブラッド",
+  "power": 9000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "錬金術",
+    "血"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

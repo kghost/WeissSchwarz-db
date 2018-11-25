@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私の本当の狙いは誰にもわからないわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_080.gif",
+  "level": 1,
+  "name": "優雅な日常 アンリエット",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。\n【自】［(1) 他のあなたの前列のキャラを2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「ヤケ烏龍茶」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラすべてを、山札の下に好きな順番で置く。",
+  "trait": [
+    "探偵",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ありがとう、みんな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s47/sao_s47_p01s.gif",
+  "level": 1,
+  "name": "思い出の22層へ アスナ",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋500。\n【自】 バトル中のこのカードが【リバース】した時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

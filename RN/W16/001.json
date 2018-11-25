@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おじゃりもうせ?！\n種子島ロボ部、これより始動します！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_001.gif",
+  "level": 2,
+  "name": "東京万博 あき穂",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「ロボットが世界を救う！」があるなら、あなたは自分の控え室の「スーパーガンつく１」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "さあ、幕引きだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_084.gif",
+  "level": 1,
+  "name": "調教師サイス",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《仮面》のキャラすべてに、パワーを＋1000。\n【起】［このカードをクロック置場に置く］ あなたは自分の山札を見て《仮面》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "メガネ",
+    "マスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

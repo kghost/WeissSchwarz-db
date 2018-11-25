@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "…わたしの身体が目当てですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_081.gif",
+  "level": 3,
+  "name": "メイド服の美魚",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［このカードを思い出にする］ あなたは自分の山札を見て《メイド》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "本",
+    "メイド"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

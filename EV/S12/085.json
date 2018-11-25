@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……おいしい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_085.gif",
+  "level": 1,
+  "name": "綾波 レイ",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 経験 ［(2)］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "パイロット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

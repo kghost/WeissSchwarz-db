@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "えへへ。ニオイを満喫していたのだ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_054.gif",
+  "level": 1,
+  "name": "Ｙシャツの美夏",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「雪村 杏」すべてに、パワーを＋1000。\n【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［(1)］ このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【リバース】する。』",
+  "trait": [
+    "メカ",
+    "バナナ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

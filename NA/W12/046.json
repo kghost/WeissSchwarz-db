@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "グレアム「私のミスだった……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_046.gif",
+  "level": 1,
+  "name": "遠い日の思い出",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手のキャラを1枚選び、そのターン中、パワーを?2000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

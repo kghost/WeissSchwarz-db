@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "私、今は少しだけ先を行ってますけど…。\nきっと皆なら、すぐに追いついてきますよね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_044.gif",
+  "level": 2,
+  "name": "愛を歌う あずさ",
+  "power": 9000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの思い出置場に「どっとっぷTV」がないなら、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

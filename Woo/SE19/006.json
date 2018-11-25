@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/woo_se19/woo_se19_006.gif",
+  "level": 1,
+  "name": "一人前の男の証 うーさー",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。\n【起】［このカードを【レスト】する］ あなたはこのカードの下のマーカーを1枚ストック置場に置く。",
+  "trait": [
+    "謎",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

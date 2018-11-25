@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私にまかせろ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_001.gif",
+  "level": 0,
+  "name": "魔法剣士 エルザ",
+  "power": 2000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 チェンジ ［手札を1枚クロック置場に置き、このカードを思い出にする］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“黒羽の鎧”エルザ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

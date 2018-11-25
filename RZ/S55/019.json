@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "そこまでにしていただこう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s55/rz_s55_019.gif",
+  "level": 1,
+  "name": "危機に向かう ヴィルヘルム",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】［このカードを控え室に置く］ このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

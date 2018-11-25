@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "シェイクスピアも言っている。真実は、すべてのことを平易にする……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t69.gif",
+  "level": 2,
+  "name": "“噂の王子様”瀬田薫",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\n【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "ハロー、ハッピーワールド！"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

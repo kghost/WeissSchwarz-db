@@ -1,0 +1,12 @@
+{
+  "color": "BLUE",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_098.gif",
+  "name": "王と臣下",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

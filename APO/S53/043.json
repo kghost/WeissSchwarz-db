@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "それでこそ、この槍で貫くに相応しい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_043.gif",
+  "level": 1,
+  "name": "“黄金の鎧”赤のランサー",
+  "power": 5500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "サーヴァント",
+    "太陽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

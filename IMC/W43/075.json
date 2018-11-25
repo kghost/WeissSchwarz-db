@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "流れ星を探そうよ 夜が明ける前に\nこの物語は一つ星たちの出会いのキセキ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_075.gif",
+  "name": "流れ星キセキ",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

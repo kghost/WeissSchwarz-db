@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "プロデューサー、まだまだレッスンが足りません\nもう３時間ほどお願いします",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_072.gif",
+  "level": 2,
+  "name": "ボイスレッスン",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたの《音楽》のキャラすべてに、そのターン中、『【自】 アンコール ［(1)］』を与える。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

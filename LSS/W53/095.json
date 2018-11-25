@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_095.gif",
+  "level": 2,
+  "name": "Aqours ダンスフォーメーション アイディアノート",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないなら、あなたはそのキャラを【レスト】する。（公開したカードは元に戻す）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

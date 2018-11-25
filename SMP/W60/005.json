@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "羽依里『……』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_005.gif",
+  "level": 0,
+  "name": "“未来の羽音色”しろは",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札の《時間》のキャラを1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、他のあなたの《時間》のキャラがいて、あなたの思い出が2枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《時間》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "俺は構わないよ。気にしないでいい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s20/sao_s20_087.gif",
+  "level": 1,
+  "name": "さりげない優しさ キリト",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ユニークスキルの発現 キリト」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

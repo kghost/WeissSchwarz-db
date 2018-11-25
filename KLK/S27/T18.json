@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "流子ちゃん、あなたの友達は鮮血ちゃんだけじゃない。\n私もだからね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_t18.gif",
+  "level": 1,
+  "name": "“超”ド天然少女 マコ",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "家族",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

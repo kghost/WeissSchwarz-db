@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "又兵衛「金打」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_097.gif",
+  "level": 1,
+  "name": "武士の誓い",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の、《家族》のキャラと《和服》のキャラを1枚ずつ別々に選び、次の相手のターンの終わりまで、パワーを＋2500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

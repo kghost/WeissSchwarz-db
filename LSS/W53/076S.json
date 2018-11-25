@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_076s.gif",
+  "level": 1,
+  "name": "“私たちの輝き”松浦 果南",
+  "power": 4000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

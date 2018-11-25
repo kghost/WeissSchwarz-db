@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "私――外に出るのが初めてなの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_t08.gif",
+  "level": 2,
+  "name": "“初めての外”アイリスフィール",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "ホムンクルス",
+    "錬金術"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

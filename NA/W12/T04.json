@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "怖い夢を見たのね……でも、もう大丈夫よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_t04.gif",
+  "level": 1,
+  "name": "優しい母親 プレシア",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「フェイト」を含むキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\n【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "鴨志田「来いよ…盗れるもんなら盗ってみろ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_070.gif",
+  "level": 1,
+  "name": "予告状",
+  "rarity": "U",
+  "side": "S",
+  "text": "相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。\nあなたは相手の前列のレベル1以下のキャラを1枚まで選び、控え室に置き、自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

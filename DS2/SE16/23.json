@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "こんな時こそ笑いは大切なんやけどね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds2_se16/ds2_se16_23.gif",
+  "level": 2,
+  "name": "“悪魔使い”ヒナコ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《サマナー》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "サマナー",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

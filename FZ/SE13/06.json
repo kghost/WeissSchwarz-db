@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "…アイリスフィール、本当に私のこの格好は\nこの時代になじむものなのですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_se13/fz_se13_06.gif",
+  "level": 0,
+  "name": "英霊の少女 セイバー",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《マスター》か《ホムンクルス》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

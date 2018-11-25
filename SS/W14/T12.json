@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "悠二「ただのトーチなのに無理しすぎたかな…」\nシャナ「ただのなんて言わないで。お前は坂井悠二よ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_t12.gif",
+  "level": 1,
+  "name": "トーチとフレイムヘイズ",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《炎》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

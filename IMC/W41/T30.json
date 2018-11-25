@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t30.gif",
+  "level": 1,
+  "name": "はじめてのお仕事 みく",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "音楽",
+    "ネコキャラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

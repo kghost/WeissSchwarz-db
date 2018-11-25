@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "フェイト「強くなろう…」\nなのは「悲しい事を、見過ごさずに済むように！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_052.gif",
+  "level": 1,
+  "name": "誰も傷つけないように",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

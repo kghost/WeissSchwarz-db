@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "散開！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se31/pi_se31_44.gif",
+  "level": 0,
+  "name": "“潜伏中”サファイア",
+  "power": 1000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「“サファイアVer”イリヤ」か「“精神置換”イリヤ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

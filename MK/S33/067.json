@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "遠慮なんかしなくていいから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_067.gif",
+  "level": 1,
+  "name": "おもてなし シャロ",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「シャロ」か「シャーロック」を含むキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカード名に「シャロ」か「シャーロック」を含むキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "探偵",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

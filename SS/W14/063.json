@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "封絶！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_063.gif",
+  "level": 1,
+  "name": "封絶",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠のカード名に「シャナ」を含むキャラに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

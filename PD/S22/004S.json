@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "鏡音リン“SW しましまビキニ”",
+  "power": 4500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「リン」か「レン」を含むキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "音楽",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

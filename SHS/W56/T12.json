@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "本当に初めて会ったのは一年前の入学式だけどね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_t12.gif",
+  "level": 0,
+  "name": "初めての出逢いの坂 恵",
+  "power": 500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「はじまりの日 倫也」すべてに、パワーを＋1000。\n【自】 絆／「はじまりの日 倫也」 [(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「はじまりの日 倫也」を1枚選び、手札に戻す）",
+  "trait": [
+    "ゲーム",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

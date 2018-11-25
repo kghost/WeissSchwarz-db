@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "にこみたいに要領がよくないと、短時間で一汁三菜の食事を作るのは難しいわね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_006.gif",
+  "level": 1,
+  "name": "“お菓子の妖精”矢澤 にこ",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「にこ」を含むキャラが2枚以上なら、このカードのパワーを＋1000。\n【起】［あなたの《音楽》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+  "trait": [
+    "音楽",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_078.gif",
+  "level": 0,
+  "name": "あかぷよ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 他のあなたの前列の「あかぷよ」1枚につき、このカードのパワーを＋2000。",
+  "trait": [
+    "ぷよ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

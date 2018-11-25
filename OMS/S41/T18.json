@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なんかウケなかったな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_t18.gif",
+  "level": 1,
+  "name": "“異次元のバカ”十四松",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「松」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "６つ子",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "はじめまして、お嬢ちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_020.gif",
+  "level": 2,
+  "name": "マダム・ビスコンテ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のレベル1以下のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "怪盗",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

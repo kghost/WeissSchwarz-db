@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_008.gif",
+  "level": 0,
+  "name": "【我流・猛虎翔脚：力】響",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「響」か「未来」を含むキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「我流・猛虎翔脚」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

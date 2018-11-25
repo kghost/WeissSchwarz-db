@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ちょ、あたしは普通に歩いてたんだけど",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_t03.gif",
+  "level": 1,
+  "name": "助けを求める佐天",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

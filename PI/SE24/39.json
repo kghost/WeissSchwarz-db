@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se24/pi_se24_39.gif",
+  "level": 0,
+  "name": "クラスメイト 美々",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "本",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

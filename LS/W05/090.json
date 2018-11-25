@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "やっぱりお風呂上がりはこれにかぎるね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_090.gif",
+  "level": 0,
+  "name": "湯上りのこなた",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "オタク",
+    "牛乳"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

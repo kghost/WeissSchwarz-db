@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "ドライ「あんたと逢えて、良かった……それだけで、もう充分、嬉しかった……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_074.gif",
+  "name": "決着",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

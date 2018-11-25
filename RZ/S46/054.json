@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "後で客観的に、自分がなにを言ってるのか振り返って死にたくなりなさい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_054.gif",
+  "name": "ナツキ・スバル囮大作戦",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

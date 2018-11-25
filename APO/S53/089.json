@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "でも、先生の宝具はもっともっとすごいんだろうなあ。早く見てみたいなあ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_089.gif",
+  "level": 0,
+  "name": "ロシェ・フレイン・ユグドミレニア",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "マスター",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

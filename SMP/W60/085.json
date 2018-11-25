@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……明日、ちょっと時間貰える？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_085.gif",
+  "level": 1,
+  "name": "“記憶を探す理由”蒼",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「“妹想い”藍」があるなら、このカードのパワーを＋3000。",
+  "trait": [
+    "サマポケ",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

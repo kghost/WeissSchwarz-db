@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "……コンニチ…………ワ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_034.gif",
+  "level": 0,
+  "name": "“もう一人のルチア”アカリ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "クローン",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

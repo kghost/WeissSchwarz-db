@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "はい！ヨキソバ!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_062.gif",
+  "level": 3,
+  "name": "ヨキソバ",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。\nあなたは自分の山札の上から1枚を控え室に置く。そのカードのレベルが1以上なら、相手に5ダメージを与える。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

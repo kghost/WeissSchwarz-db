@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "心配いらんよ。\nうちがついておるから、この艦隊は大丈夫じゃて！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-021.gif",
+  "level": 0,
+  "name": "陽炎型駆逐艦11番艦 浦風",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《艦娘》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

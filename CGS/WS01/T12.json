@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "無駄に生きるか、何かのためにカードゲームするか、君が決めるんだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_t12.gif",
+  "level": 0,
+  "name": "“Fiｒｓｔ Blｏｏd”怒りのしよ子",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "カードゲーム",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

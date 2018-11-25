@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "やっと、見つけてくれましたね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_103.gif",
+  "level": 2,
+  "name": "うわさの幽霊！？ 愛理",
+  "power": 4000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは相手の効果に選ばれない。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "科学",
+    "ネット"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

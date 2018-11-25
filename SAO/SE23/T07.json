@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "おまえ。本物、か",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_se23/sao_se23_t07.gif",
+  "level": 2,
+  "name": "予期せぬ遭遇《死銃》",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、相手の《標的》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

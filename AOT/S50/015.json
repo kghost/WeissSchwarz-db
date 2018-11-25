@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "どこに！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_015.gif",
+  "level": 0,
+  "name": "“エレンの奪還”アルミン",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠の「“囚われの身”エレン」に、パワーを＋2000。\n【自】 絆／「“囚われの身”エレン」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“囚われの身”エレン」を1枚選び、手札に戻す）",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

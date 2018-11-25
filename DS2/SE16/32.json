@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "最後のセプテントリオンの特徴は……『最強』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds2_se16/ds2_se16_32.gif",
+  "level": 1,
+  "name": "“悪魔使い”フミ",
+  "power": 6000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《サマナー》のキャラでないなら、あなたのアンコールステップの始めに、このカードを控え室に置く。（公開したカードは元に戻す）",
+  "trait": [
+    "サマナー",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

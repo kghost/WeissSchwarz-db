@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "薔薇と肉体の狂い咲き！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_20.gif",
+  "level": 1,
+  "name": "「戦慄のガチムチ皇帝」巽 完二",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「ゲンコと絆」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "不良",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_074sec.gif",
+  "level": 0,
+  "name": "元気な妹 マヤ",
+  "power": 2500,
+  "rarity": "SEC",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の青のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの青のキャラの枚数×500に等しい。",
+  "trait": [
+    "八重歯",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

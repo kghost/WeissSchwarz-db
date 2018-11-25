@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ごめんあそばせ…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_03.gif",
+  "level": 0,
+  "name": "“二丁拳銃”濃姫",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたの前列のキャラが1枚以下なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trait": [
+    "武器",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

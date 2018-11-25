@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "渚｢最後の曲はとっても上手に弾けていたと思います！」\nことみ「よかった・・・。嬉しいの」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_21.gif",
+  "level": 2,
+  "name": "渚＆ことみ",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 相手のターン中、他のあなたの黄と緑のキャラがいるなら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］ 』を得る。",
+  "trait": [
+    "演劇",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

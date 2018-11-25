@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "セルリアンは、ハンターに任せてくださいね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_004.gif",
+  "level": 0,
+  "name": "セルリアンハンター キンシコウ",
+  "power": 2000,
+  "rarity": "FR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。",
+  "trait": [
+    "フレンズ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "私を見て、暦お兄ちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_098.gif",
+  "name": "なでこスネイク",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "そんなこと言われちまったら、死んでも抵抗したくなっちまうじゃねぇか！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w10/id_w10_008.gif",
+  "level": 0,
+  "name": "“無能力者”当麻",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［手札を1枚クロック置場に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“幻想殺し”当麻」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

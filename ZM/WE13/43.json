@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "なんのことかしら？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_43.gif",
+  "level": 1,
+  "name": "入浴中のアンリエッタ",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "trait": [
+    "魔法",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

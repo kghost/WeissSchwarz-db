@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "クールに決めるゼ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_t07.gif",
+  "level": 2,
+  "name": "すけとうだら",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたの《ぷよ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "ぷよ",
+    "ダンス"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

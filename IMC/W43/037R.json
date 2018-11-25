@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "flavor": "小さな光を 胸に抱いて\n青空へ飛ばそう 希望の種",
+  "name": "つぼみ",
+  "rarity": "RRR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

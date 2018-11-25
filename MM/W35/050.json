@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_050.gif",
+  "level": 1,
+  "name": "欺くほむら",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "魔法",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

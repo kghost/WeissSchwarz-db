@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "黒雪姫「取り憑かれた者が討伐されても、\n《災禍の鎧》だけは消えず、また別のバーストリンカーへ\n取り憑いては人格を変貌させる」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_077.gif",
+  "level": 1,
+  "name": "災禍の鎧",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠の《アバター》のキャラに、パワーを＋1500し、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードをクロック置場に置く。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "だって……ミッシェルは、……あたしもそれなりに、気に入っ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t60.gif",
+  "level": 0,
+  "name": "“なにごともほどほど”奥沢美咲",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「“桜ミッシェル”奥沢美咲」を1枚選び、手札に戻す。",
+  "trait": [
+    "音楽",
+    "ハロー、ハッピーワールド！"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

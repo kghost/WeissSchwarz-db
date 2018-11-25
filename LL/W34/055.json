@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_055.gif",
+  "level": 1,
+  "name": "“Anemone heart”園田 海未",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてがカード名に「海未」を含むなら、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

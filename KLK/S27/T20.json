@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "答えが知りたければ腕で聞け",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_t20.gif",
+  "level": 0,
+  "name": "支配する生徒会長 皐月",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは1枚引く。",
+  "trait": [
+    "服",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

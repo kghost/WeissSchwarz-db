@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "現場のみんなばっかり、ずるいであります?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_32.gif",
+  "level": 1,
+  "name": "発明王 リコ",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはダイレクトアタックできない。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

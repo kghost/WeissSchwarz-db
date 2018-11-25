@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "そう。手作りのお話って、すごく思い出になると思うよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_t14.gif",
+  "level": 1,
+  "name": "“気持ちが大切”鴎",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《サマポケ》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "サマポケ",
+    "海賊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

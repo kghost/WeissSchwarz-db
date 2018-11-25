@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_078.gif",
+  "level": 2,
+  "name": "“あたたかな家族”十四松",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「一松」か「十四松」を含むキャラがいるなら、このカードのパワーを＋3000。",
+  "trait": [
+    "６つ子",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

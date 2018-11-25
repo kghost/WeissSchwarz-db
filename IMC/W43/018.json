@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "やっぱお姉ちゃんっていったらコレだよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_018.gif",
+  "level": 1,
+  "name": "仲直り 莉嘉",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の「しっぽもふもふ みりあ」1枚につき、このカードのパワーを＋2000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「私色ギフト」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "音楽",
+    "ギャル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

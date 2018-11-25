@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "人間とはいつの時代でも愚かしい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds2_se16/ds2_se16_22.gif",
+  "level": 2,
+  "name": "イオ＆ルーグ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「私、生きたい」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "trait": [
+    "サマナー",
+    "悪魔"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

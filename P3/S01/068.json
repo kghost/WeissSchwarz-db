@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "俺は、俺が正しいと信じる事をする。…それだけだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_068.gif",
+  "level": 1,
+  "name": "辰巳東交番",
+  "rarity": "R",
+  "side": "S",
+  "text": "あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

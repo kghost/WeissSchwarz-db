@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "あたしは2036年から来たんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_036s.gif",
+  "level": 3,
+  "name": "“タイムトラベラー”阿万音 鈴羽",
+  "power": 9000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのクロック置場に「IBN5100」があるなら、あなたの手札のこのカードのレベルを−1。\n【永】 他のあなたの《ラボメン》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "ラボメン",
+    "バイト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "おしゃべり虫は退治だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_060.gif",
+  "level": 1,
+  "name": "“容赦無用”美希",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは相手のレベル0以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "サマポケ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

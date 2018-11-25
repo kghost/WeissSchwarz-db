@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "大抵のアニオタは同時に\n漫画オタ、ゲーオタでもあるんだよ!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_125.gif",
+  "level": 0,
+  "name": "カンフーマスター こなた",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《オタク》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。",
+  "trait": [
+    "オタク",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

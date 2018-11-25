@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "弓の魔法少女 まどか",
+  "power": 6500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが4枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

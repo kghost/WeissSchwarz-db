@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "シャナ「最後、お前の声が聞こえたから立てた」\n悠二「役に立ててうれしいよ…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_062.gif",
+  "level": 1,
+  "name": "トーチとフレイムヘイズ",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《炎》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

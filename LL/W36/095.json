@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "さむっ……　ちょっと、あなたのマフラー貸しなさいよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_095.gif",
+  "level": 1,
+  "name": "年に一度の晴れ姿",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

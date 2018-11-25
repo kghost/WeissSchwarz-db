@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ヴァイスシュヴァルツで勝てますように！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_p07.gif",
+  "level": 1,
+  "name": "御祈願 しよ子",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の願い事を唱えてよい。そうしたら、あなたはその願いが叶うよう、日々努力する。\n※このカードは公式・公認大会では使用できません。",
+  "trait": [
+    "カードゲーム",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

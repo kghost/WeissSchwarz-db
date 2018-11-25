@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いろいろあったさ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_046.gif",
+  "level": 0,
+  "name": "思い出す昔 ノーヴェ",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】［(1) あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「選手との絆」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「託された約束 ヴィヴィオ」を1枚までと「ミウラ・リナルディ」を1枚まで選び、舞台の別々の枠に【レスト】して置き、その山札をシャッフルする。",
+  "trait": [
+    "格闘",
+    "トレーナー"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

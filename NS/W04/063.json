@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "セインさん、到着ッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_063.gif",
+  "level": 0,
+  "name": "潜行する密偵セイン",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2) このカードを手札に戻す］ 他のあなたのバトルしているキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。",
+  "trait": [
+    "メカ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "タカくん、おなか空いたね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_wpr/dc3_wpr_007.gif",
+  "level": 0,
+  "name": "甘やかしお姉さん シャルル",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

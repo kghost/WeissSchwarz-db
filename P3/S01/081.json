@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私…影時間を無くす為に戦いたい。お父さんの遺志を…継ぎたいから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_081.gif",
+  "level": 2,
+  "name": "ゆかり＆イシス",
+  "power": 7000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「父の遺志」があるなら、あなたは1枚引く。\n【起】［(4)］ あなたは自分のクロックを1枚選び、手札に戻す。",
+  "trait": [
+    "魔法",
+    "神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

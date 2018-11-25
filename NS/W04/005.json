@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "フリード……！ブラストレイッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_005.gif",
+  "level": 1,
+  "name": "キャロ＆フリードリヒ",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

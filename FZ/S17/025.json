@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "わーっ！ 高い高い！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_025.gif",
+  "level": 2,
+  "name": "冬芽探し",
+  "rarity": "U",
+  "side": "S",
+  "text": "すべてのプレイヤーは自分の山札の上から3枚を、控え室に置く。あなたのこの効果で控え室に置かれたレベル1以下のキャラの枚数が、相手のこの効果で控え室に置かれたレベル0以下のキャラの枚数より多いなら、あなたは1枚引いてよい。\nこのカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

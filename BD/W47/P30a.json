@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_p30a.gif",
+  "level": 0,
+  "name": "止まらないドキドキ Poppin'Party",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "Poppin'Party"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "そういえば、オカリンとお帰りは似てるねぇ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_t17r.gif",
+  "level": 2,
+  "name": "“ネコミミメイド”椎名 まゆり",
+  "power": 5000,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ラボメン",
+    "メイド"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

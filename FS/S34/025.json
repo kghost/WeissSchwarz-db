@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "げ、遠坂…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_025.gif",
+  "level": 1,
+  "name": "生徒会長 一成",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "生徒会",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

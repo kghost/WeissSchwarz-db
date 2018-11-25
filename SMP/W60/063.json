@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "かみひこーき、みんなでいっしょに……\nなかよくとばしたい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_063.gif",
+  "level": 0,
+  "name": "“三つの紙飛行機”うみ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“おかーさん”しろは」すべてに、パワーを＋2000。\n【永】 他のあなたのカード名に「しろは」を含むキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

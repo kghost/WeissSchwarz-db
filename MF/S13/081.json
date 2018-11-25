@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "俺は戦うしか能のない男だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_081.gif",
+  "level": 1,
+  "name": "命懸けで守りたいもの オズマ",
+  "power": 7000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、他のあなたの《パイロット》のキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを控え室に置く。（公開したカードは元に戻す）",
+  "trait": [
+    "パイロット",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

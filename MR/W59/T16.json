@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "何を為すべきか…それをわたしは知っている",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_t16.gif",
+  "level": 2,
+  "name": "美国 織莉子",
+  "power": 6500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラが2枚以上なら、このカードのパワーを＋3000。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "魔法",
+    "マギア"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

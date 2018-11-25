@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "禍を恐るるまじ、主が我と共にあるが故に",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_089.gif",
+  "level": 3,
+  "name": "言峰 綺礼",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分の山札を見て《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "虚無",
+    "マスター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "母さん…リニス…お姉ちゃん…\n会えて嬉しかった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_023.gif",
+  "name": "夢の終わり",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "SECRET",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w00/dc_w00_000.gif",
+  "name": "ゲーマーの意地",
+  "rarity": "SR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n([TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

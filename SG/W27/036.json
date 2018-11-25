@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "響「――ッ、この歌！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_036.gif",
+  "level": 0,
+  "name": "飛び入り参加 切歌",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「月読 調」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「月読 調」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

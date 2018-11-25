@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "まさかミーを知らないザンスか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_107.gif",
+  "level": 0,
+  "name": "SDイヤミ",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 相手がレベルアップした時、このカードを控え室に置く。",
+  "trait": [
+    "出っ歯",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

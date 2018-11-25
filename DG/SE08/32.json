@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "この世界に主役は、ただひとり！　それが、このオレさま！\n魔王ラハール大統領閣下だ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_32.gif",
+  "level": 1,
+  "name": "魔王ラハール大統領閣下",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

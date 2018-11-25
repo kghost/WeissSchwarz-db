@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ソレジャア「ガイド」ヲ開始スルヨ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_003.gif",
+  "level": 1,
+  "name": "“ガイド”ハ マカセテ ラッキービースト",
+  "power": 5500,
+  "rarity": "FR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+  "trait": [
+    "メカ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

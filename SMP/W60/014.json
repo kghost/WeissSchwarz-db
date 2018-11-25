@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "すぅ……すぅ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_014.gif",
+  "level": 0,
+  "name": "“もーいーよー”うみ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、後列の左の枠にこのカードがいて、他のあなたの「“もーいーかーい？”しろは」がいるなら、他のあなたのキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

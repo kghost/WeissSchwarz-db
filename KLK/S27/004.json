@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "だって、やっと掴んだ贅沢だもん！もう貧乏には戻れないもん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_004.gif",
+  "level": 2,
+  "name": "喧嘩部部長 マコ",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《服》か《家族》のキャラが3枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "家族",
+    "服"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

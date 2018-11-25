@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "わあ、見て見て、兄さん。飛行機だよ、飛行機",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w46/dc3_w46_083.gif",
+  "level": 1,
+  "name": "まるでハネムーンのように 姫乃",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "魔法",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

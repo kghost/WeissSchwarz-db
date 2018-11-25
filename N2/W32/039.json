@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "疾風迅雷ッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w32/n2_w32_039.gif",
+  "level": 1,
+  "name": "今いるべき場所 フェイト",
+  "power": 6500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのアンコールステップの始めに、クライマックス置場に「夢の終わり」があるなら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「今いるべき場所 フェイト」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1500し、ソウルを＋1。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

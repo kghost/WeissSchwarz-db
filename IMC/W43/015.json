@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "最近、忙しいけど、みんなと会ってる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_015.gif",
+  "level": 0,
+  "name": "ファミリアツイン 美嘉",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが黄のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "ギャル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

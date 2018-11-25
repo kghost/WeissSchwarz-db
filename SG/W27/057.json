@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私の歌の全部を！世界中にくれてあげるッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_057.gif",
+  "level": 1,
+  "name": "“QUEENS of MUSIC”マリア",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のコスト0以下のキャラを1枚まで選び、控え室に置く。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

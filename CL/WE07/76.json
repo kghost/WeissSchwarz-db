@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "いや、お前といるのが楽しい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_76.gif",
+  "level": 1,
+  "name": "まじめな女の子 智代",
+  "power": 4000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「生徒会長 智代」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたはキャラを1枚選び、そのターン中、《スポーツ》を与える。",
+  "trait": [
+    "生徒会",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

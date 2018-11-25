@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "司令官、高波をお呼びかも…ですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_020.gif",
+  "level": 1,
+  "name": "夕雲型駆逐艦6番艦 高波改",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

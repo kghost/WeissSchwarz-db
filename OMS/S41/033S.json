@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "“F６”カラ松",
+  "power": 2000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のカード名に「松」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "６つ子",
+    "まゆげ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

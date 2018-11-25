@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "そっか……そうだよねっ　ありがとう　みなみちゃんっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_010.gif",
+  "level": 2,
+  "name": "名前が呼べたゆたか",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの『絆』を持つキャラすべてに、ソウルを＋1。\n【自】 あなたのクライマックス置場に「夏休み明け」が置かれた時、他のあなたのカード名に「みなみ」を含むキャラがいるなら、そのターン中、このカードは次の能力を得る。『【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードとバトルしているキャラと、このカードを選び、手札に戻してよい。』",
+  "trait": [
+    "保健室",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

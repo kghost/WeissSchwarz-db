@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "心底、虫唾が走る！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_033.gif",
+  "level": 3,
+  "name": "黒の軍勢 エイレヌス",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードが「黒の兵士」なら、あなたはこのカードを手札に戻してよい。",
+  "trait": [
+    "黒の軍勢",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

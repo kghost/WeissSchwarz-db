@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私の夢はこすもなーふと…宇宙飛行士になることですよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_076.gif",
+  "level": 1,
+  "name": "宇宙への憧れ クド",
+  "power": 3000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《科学》のキャラすべてに、パワーを＋1000。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

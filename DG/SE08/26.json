@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "何度言えば、わかるのだ！？　誇り高き悪魔であるこの俺が約束を破ることなど、ありえんと！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_26.gif",
+  "level": 1,
+  "name": "悪の美学 ヴァルバトーゼ",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "悪魔",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

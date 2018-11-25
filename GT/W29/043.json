@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "普通に生活してたら……きっと出会っていなかった……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_043.gif",
+  "level": 1,
+  "name": "朝日に輝く るな",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "タロット",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

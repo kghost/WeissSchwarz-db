@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "――全員蜂の巣になりやがれッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_072.gif",
+  "level": 1,
+  "name": "【GIGA ZEPPELIN：技】クリス",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「GIGA ZEPPELIN」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】し、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

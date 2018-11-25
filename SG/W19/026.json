@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "おらおらあッ\nやっさいもっさいッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_026.gif",
+  "level": 0,
+  "name": "みなぎる力 クリス",
+  "power": 2500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「MEGA DETH QUARTET」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4500。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

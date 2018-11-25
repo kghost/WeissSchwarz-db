@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "アルミン「え……？えぇ??」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_088b.gif",
+  "level": 0,
+  "name": "“追走”巨人",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。\n【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「“紅蓮の闘志”エレン」を1枚選び、手札に戻す。",
+  "trait": [
+    "巨人",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

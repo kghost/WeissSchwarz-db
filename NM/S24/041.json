@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "手短にお願いしただけ。『あんまり聞き分けが\nないようだと、私が阿良々木くんに告っちゃうぞ』って",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_041.gif",
+  "level": 2,
+  "name": "いたずら心 羽川翼",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《怪異》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "怪異",
+    "委員長"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "デート……だもんね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_008.gif",
+  "level": 0,
+  "name": "水着のひまり",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《風南島》のキャラすべてに、パワーを＋500。\n【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「始まりと始まり」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《風南島》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "風南島",
+    "帽子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

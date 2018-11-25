@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ああ、こっちこっち。　遅いよ?？なに、どうかした？　変な顔しちゃって",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_016.gif",
+  "level": 0,
+  "name": "振袖 九重忍",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが黄のキャラでないなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはアタックできない。』（公開したカードは元に戻す）",
+  "trait": [
+    "ガール",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

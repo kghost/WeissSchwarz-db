@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "これでまっすぐ打てれば、多分ですけど、ちゃんと入るはず",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_170.gif",
+  "level": 1,
+  "name": "台上遊戯 椎名心実",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

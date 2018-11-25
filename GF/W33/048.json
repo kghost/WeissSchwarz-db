@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "…なんでこれのモデルにきみを選んだか？ん?、基本的にはサイズと…後は勘だな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_048.gif",
+  "name": "服飾姫",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

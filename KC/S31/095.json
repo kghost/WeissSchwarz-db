@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ドラム缶を繋いだ簡易輸送用部材です。\n\"東京急行\"などに用いられました。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-095.gif",
+  "level": 1,
+  "name": "ドラム缶（輸送用）",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を上から4枚まで見て、《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

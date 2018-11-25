@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_041.gif",
+  "level": 1,
+  "name": "弓道部員 桜",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたの、《スポーツ》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n",
+  "trait": [
+    "スポーツ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

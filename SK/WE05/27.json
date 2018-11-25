@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "いつき「サイズが合いませんか？怪奇課の標準装備なんですけど」\n秋葉「ううん、ピッタリ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we05/sk_we05_27.gif",
+  "level": 1,
+  "name": "小川で遊ぼう！",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

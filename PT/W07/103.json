@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "今この瞬間を生き残る……それだけ、殺し屋は過ぎたことも先のことも、何もない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_103.gif",
+  "level": 1,
+  "name": "“操り人形”アイン",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "武器",
+    "人形"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

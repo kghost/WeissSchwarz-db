@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "ぷっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_049.gif",
+  "name": "キズナイーバーでいいじゃない",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

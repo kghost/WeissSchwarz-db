@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "ごめん…私、この力と責任から逃げ出してた…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_023.gif",
+  "name": "ガングニール、再び",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trigger": [
+    "SOUL",
+    "SHOT"
+  ],
+  "type": "Climax"
+}

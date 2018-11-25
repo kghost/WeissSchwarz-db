@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "それこそがギャルゲーの主人公の醍醐味だよ、詩羽先輩！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_068.gif",
+  "level": 1,
+  "name": "ドヤ顔で決める 倫也",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\n【自】【ＣＸコンボ】 相手がレベルアップした時、あなたは自分のクライマックス置場の「二人の夜の選択肢」を1枚選び、手札に戻してよい。",
+  "trait": [
+    "ゲーム",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "俺の望んでいた胸躍る冒険の世界とはほど遠い……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_021.gif",
+  "level": 1,
+  "name": "“冒険者”カズマ",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』\n【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "冒険者",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

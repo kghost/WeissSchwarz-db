@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "純潔",
+  "rarity": "SR",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《服》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "またわけのわからないことを……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_105.gif",
+  "level": 2,
+  "name": "しっかり者 ギンギツネ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「引っ込み思案 キタキツネ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+  "trait": [
+    "フレンズ",
+    "雪"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

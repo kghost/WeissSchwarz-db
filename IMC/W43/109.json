@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "偉い人のお眼鏡に適ったということですね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_109.gif",
+  "level": 0,
+  "name": "メガネアイドル 春菜",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「メガネアイドル 春菜」を1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "音楽",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "こん、かん、きん、とん、ころん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_094.gif",
+  "level": 2,
+  "name": "謎の木琴少女 萌",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "音楽",
+    "鍋"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

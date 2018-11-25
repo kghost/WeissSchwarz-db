@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "清隆、はっきりと言ってあげなさい。\n俺は百年前からずっと立夏さんのことを愛してますって",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_110.gif",
+  "level": 1,
+  "name": "ちび立夏",
+  "power": 4000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

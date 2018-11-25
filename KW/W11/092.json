@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私の方もやれることは全て終わらせたわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_092.gif",
+  "level": 2,
+  "name": "氷室 憂希",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場の《科学》のキャラが2枚以上なら、あなたは1枚引いてよい。\n【自】［(2)］ このカードがアタックした時、クライマックス置場に「飛べないアルビナの願い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "毎度毎度のことではあるんだけど…なんでここまで本的にやるかなぁ…\nこれってその辺の下手なオバケ屋敷より、よっぽど完成度高いんじゃないの…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_045.gif",
+  "level": 2,
+  "name": "肝試し",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの黄のキャラの枚数×1000に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

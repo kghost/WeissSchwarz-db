@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we30/lb_we30_29ssp.gif",
+  "level": 0,
+  "name": "“のほほん担当”小毬",
+  "power": 4000,
+  "rarity": "SSP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。\n【永】 他のあなたのカード名に「鈴」を含むキャラがいるなら、このカードは《動物》を得る。",
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "わたしは…”生きろ”と命じられた機械。命じたのは…わたし自身。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_050.gif",
+  "name": "命ある者",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

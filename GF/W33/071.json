@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "わわ、寄ってきましたヨ？　人懐っこくて、可愛いですネ。エサをあげてもいいですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_071.gif",
+  "level": 0,
+  "name": "トロピカル クロエ・ルメール",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ガール》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "ガール",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

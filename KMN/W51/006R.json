@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "がおー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_006r.gif",
+  "level": 0,
+  "name": "うー！がおー！ サーバル",
+  "power": 2000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラか「紙ヒコーキ」なら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）",
+  "trait": [
+    "フレンズ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

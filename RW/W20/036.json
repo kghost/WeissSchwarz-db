@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あなたの育ったそのおっぱいには未来が詰まっているのだから…！\nだからこれは…絶つ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_036.gif",
+  "level": 0,
+  "name": "“過去を絶ち未来へ”西九条",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "武器",
+    "先生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あ、この場合のコレクションしたいって言うのは、甘利の愛の表現の一つですよぉ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_033.gif",
+  "level": 1,
+  "name": "スプラッタドール 甘利燈",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの黄のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。",
+  "trait": [
+    "ガール",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

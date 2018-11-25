@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "おめでとう。奇跡は…果された",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_006.gif",
+  "level": 3,
+  "name": "主人公＆メサイア",
+  "power": 9000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードは相手の効果に選ばれない。\n【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)\n【起】［(6)］ あなたは他の自分と相手のキャラすべてを、手札に戻す。",
+  "trait": [
+    "魔法",
+    "神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

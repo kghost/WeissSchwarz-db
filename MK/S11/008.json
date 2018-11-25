@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "この、パン泥棒が…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_008.gif",
+  "level": 0,
+  "name": "調理長 石流さん",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1) あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋1500し、ソウルを＋1。",
+  "trait": [
+    "怪盗",
+    "コック"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

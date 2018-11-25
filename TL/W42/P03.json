@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_p03.gif",
+  "level": 0,
+  "name": "“真夏のビーチサイド”唯",
+  "power": 500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋500。【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《動物》か《植物》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "風紀委員",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

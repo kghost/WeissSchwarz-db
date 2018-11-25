@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "距離１５００…？そんなの、丸めた紙を屑篭になげこむようなものだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_se23/sao_se23_t20.gif",
+  "name": "相棒《Hecate?》",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

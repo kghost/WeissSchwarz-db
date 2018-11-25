@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私の強敵を嗅ぎつける嗅覚が、まだ香ばしい危険の香りを嗅ぎとっている",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_023.gif",
+  "level": 1,
+  "name": "“危険察知”ダクネス",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「“不安でいっぱい”カズマ」と「“紅魔族”めぐみん」と「“魔力提供”アクア」がいるなら、このカードのソウルを＋4。",
+  "trait": [
+    "冒険者",
+    "煩悩"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

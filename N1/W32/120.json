@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "フェイトちゃんは立ち止まれないし……\nわたしはフェイトちゃんを止めたい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_w32/n1_w32_120.gif",
+  "level": 2,
+  "name": "運命の戦い なのは",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀3000 レベル2 ［? 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

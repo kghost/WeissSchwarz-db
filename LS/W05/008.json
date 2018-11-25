@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "…保健委員の私がついてるから大丈夫だよ…ゆたか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_008.gif",
+  "level": 0,
+  "name": "クールでカッコいい みなみ",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「名前が呼べたゆたか」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「名前が呼べたゆたか」を1枚選び、手札に戻す)\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「ゆたか」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "保健室",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

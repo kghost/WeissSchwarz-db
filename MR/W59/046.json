@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "このままでいいの、私の人生って!?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_046.gif",
+  "level": 0,
+  "name": "矢宵 かのこ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたは自分のクロックフェイズに、手札のクライマックスをクロック置場に置いてカードを引くことができない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+  "trait": [
+    "魔法",
+    "アタック"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

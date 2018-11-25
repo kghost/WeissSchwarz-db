@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "せいぜい楽しませてくれよ。 Gambleをけしかけやがったからにはな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_36.gif",
+  "level": 2,
+  "name": "“蒼い雷光”伊達 政宗",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 あなたのクライマックス置場に「蒼鬼」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたは相手の山札を上から5枚まで見てカードを5枚まで選び、控え室に置く。その後、残りのカードを山札に戻し、その山札をシャッフルし、あなたの《武器》のキャラすべてに、次の相手のターンの終わりまで、パワーを＋2000。",
+  "trait": [
+    "武器",
+    "眼帯"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

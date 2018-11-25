@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "だから――翼のやりたいことは、あたしが助けてやる…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_098.gif",
+  "level": 2,
+  "name": "奏の残した言葉",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは1枚まで引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "あいつ、絶滅していなかったのか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_030.gif",
+  "level": 2,
+  "name": "未確認生物 ツチノコ",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは相手の効果に選ばれない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開し、そのターン中、このカードのソウルを＋Ｘ。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "フレンズ",
+    "謎"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

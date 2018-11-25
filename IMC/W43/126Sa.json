@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "気高く咲く花見つめ 姿重ねた\n奏でる和音響き 静寂にこだました",
+  "name": "Trancing Pulse",
+  "rarity": "SR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

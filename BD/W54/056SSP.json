@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_056ssp.gif",
+  "level": 1,
+  "name": "“真っ白な居場所”白鷺千聖",
+  "power": 5500,
+  "rarity": "SSP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、このカードのパワーを＋1500。\n【自】 バトル中のこのカードが【リバース】した時、他のあなたの《音楽》のキャラが1枚以下なら、このカードをクロック置場に置く。",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "杏「ほらいじめないから、いい子いい子?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_22.gif",
+  "level": 2,
+  "name": "渚＆杏＆椋",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの『応援』を持つキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "演劇",
+    "双子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

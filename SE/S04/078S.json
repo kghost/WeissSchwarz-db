@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "聖剣の主トウマ",
+  "power": 8500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のターン中、他のあなたのカード名に「シリル」を含むキャラがいるなら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］ 』を得る。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

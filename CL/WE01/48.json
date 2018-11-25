@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "渚「えへへ…綺麗に撮れてますか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_48.gif",
+  "level": 0,
+  "name": "花畑の少女たち",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "演劇",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

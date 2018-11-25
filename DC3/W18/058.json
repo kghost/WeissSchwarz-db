@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "か、鍵！　鍵かけないと！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_058.gif",
+  "level": 0,
+  "name": "朝のハプニング シャルル",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

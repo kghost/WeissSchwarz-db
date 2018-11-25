@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "どうしたらいいのか困っちゃうくらい、嬉しい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_005.gif",
+  "level": 1,
+  "name": "風見鶏の生徒会長 シャルル",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《生徒会》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

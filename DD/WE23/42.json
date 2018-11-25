@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "シャ、シャルです…！竜の巫女です！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we23/dd_we23_42.gif",
+  "level": 1,
+  "name": "人見知り シャル",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「竜の森」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て赤か青のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "動物",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "私、麻婆豆腐が好きなの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_t11.gif",
+  "level": 1,
+  "name": "天使の麻婆豆腐",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《死》のキャラを3枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を2枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "その青は、どこからくるんだろうね…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_045.gif",
+  "level": 2,
+  "name": "“本当の願い”美鳥",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2) このカードを思い出にする］ このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを山札に戻し、自分の山札を見て「“ふたりはひとつ”美魚」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+  "trait": [
+    "影",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "彼らは、あなたを危険に晒す存在…　よって、排除します",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_048.gif",
+  "name": "機械の乙女",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

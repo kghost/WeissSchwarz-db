@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "がおー！たべちゃうぞ?！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_015.gif",
+  "level": 3,
+  "name": "“たべちゃうぞ？”穂乃果",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

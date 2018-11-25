@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "わたしコーラ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_003.gif",
+  "level": 0,
+  "name": "Xmasパーティ キョンの妹",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「“いつも”のキョン」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“いつも”のキョン」を1枚選び、手札に戻す）\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のカード名に「キョン」を含むキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

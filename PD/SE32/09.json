@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "Maximum insert なう。\nAre you ready?　愛撫ハニー　指噛み",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_se32/pd_se32_09.gif",
+  "level": 1,
+  "name": "聖槍爆裂ボーイ",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、【スタンド】し、自分の控え室のキャラを1枚選び、山札の下に置き、このカードをストックに置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

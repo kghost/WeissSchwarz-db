@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "がいしゅういっしょく、わけもなし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_s06/sb_s06_077.gif",
+  "level": 2,
+  "name": "“神速聖将”上杉 謙信",
+  "power": 8500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［(3) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動できる。このカードとバトル中のキャラが【リバース】した時、あなたのクライマックス置場に「疾風迅雷」があるなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+  "trait": [
+    "武器",
+    "薔薇"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

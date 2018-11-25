@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "いつまでも、元気一杯に生きてね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_007.gif",
+  "level": 3,
+  "name": "みんなの幸せ まひる",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000し、ソウルを＋2。\n【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）\n【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
+  "trait": [
+    "たとえ話",
+    "和服"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "このパジャマ気に入ってるんですけど…\nじっと見られると恥ずかしい…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_060.gif",
+  "level": 2,
+  "name": "パジャマのことり",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ひつじのきもち”ことり」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "パジャマ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ふんッ、まるで、できそこない！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_041.gif",
+  "level": 1,
+  "name": "鎧の少女 クリス",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

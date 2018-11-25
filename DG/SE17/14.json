@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "いいですねー。微笑ましいですねー。\nすっかり仲のいい兄妹ですねー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_14.gif",
+  "level": 0,
+  "name": "愛の堕天使 フロン",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ あなたのクライマックス置場に「愛に包まれた魔界」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ピンチリバイバル”ピュアフロン」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "天使",
+    "悪魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

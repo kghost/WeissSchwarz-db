@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "どこでもサポート！ 小鳥さん",
+  "power": 2500,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

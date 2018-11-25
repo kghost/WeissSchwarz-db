@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "邪魔しないで！　その犬はね、人の胸触って、\n大平原呼ばわりしたんだから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_t10.gif",
+  "level": 2,
+  "name": "ぺったんこなルイズ",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

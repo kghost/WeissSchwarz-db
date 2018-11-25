@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "あなたが蒼天の青玉の継承者だとしても",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we03/mh_we03_017.gif",
+  "level": 2,
+  "name": "ニナ・ウォン",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのレベル置場の《エレメント》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "エレメント",
+    "宝石"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

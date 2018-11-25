@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "杏「当たり前よ。ね、茜」\n茜「うん、見損なわないでよね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_081.gif",
+  "level": 1,
+  "name": "“雪月花”小恋＆杏＆茜",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「“3バカ”杉並＆義之＆渉」があるなら、このカードのパワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "演劇"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

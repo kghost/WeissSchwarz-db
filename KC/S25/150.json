@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "つまらない戦略たてないでよね、ふんっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_150.gif",
+  "level": 0,
+  "name": "朝潮型駆逐艦3番艦 満潮",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

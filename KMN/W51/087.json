@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_087.gif",
+  "level": 2,
+  "name": "“PPP”ジェンツーペンギン",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+  "trait": [
+    "フレンズ",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

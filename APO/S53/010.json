@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ああ、俺は……ここから逃げないことだけは、決めていたんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_010.gif",
+  "level": 0,
+  "name": "“聖杯大戦”ジーク",
+  "power": 1000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《マスター》か《サーヴァント》か《ホムンクルス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ホムンクルス",
+    "マスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

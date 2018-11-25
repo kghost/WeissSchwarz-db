@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "つーかよぉ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w13/id_w13_010.gif",
+  "level": 0,
+  "name": "変化する日常 一方通行",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "超能力",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "アイドルだろうが、オレさまに許可なく\n名を上げる悪魔は野放しに出来ん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_33.gif",
+  "level": 2,
+  "name": "アイドル魔王 ラハールちゃん",
+  "power": 10000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

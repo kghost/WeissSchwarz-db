@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "海に来るのは久しぶりだったけど…来てよかったわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_138.gif",
+  "level": 0,
+  "name": "二人の海 神楽坂砂夜",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「誰かの悪戯 笹原野々花」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「誰かの悪戯 笹原野々花」を1枚選び、手札に戻す）",
+  "trait": [
+    "ガール",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

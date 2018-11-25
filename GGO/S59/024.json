@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "小さい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_024.gif",
+  "level": 1,
+  "name": "《SHINC》 アンナ",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。\n【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "trait": [
+    "アバター",
+    "ＳＨＩＮＣ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

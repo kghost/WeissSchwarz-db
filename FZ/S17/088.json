@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ご期待あれ、リュウノスケ。\n最高のCOOLをご覧に入れましょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_088.gif",
+  "level": 2,
+  "name": "嗜虐の芸術家 キャスター",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に青のクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+  "trait": [
+    "サーヴァント",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

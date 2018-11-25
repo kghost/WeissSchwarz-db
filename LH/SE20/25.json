@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "無事なんやな……！？\nああ、良かった?、ホンマ良かったわ?…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_25.gif",
+  "name": "三日月同盟",
+  "rarity": "C",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

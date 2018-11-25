@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ハニー。ミキ、まだまだ頑張れるよ？\nさあさあ2回戦しよ♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_034.gif",
+  "level": 1,
+  "name": "誘い上手な美希",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき3回まで発動する。他のあなたのキャラが控え室から舞台に置かれた時、そのターン中、このカードのパワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

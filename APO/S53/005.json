@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "令呪がある！俺にはマスターとしての資格があるらしい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_005.gif",
+  "level": 0,
+  "name": "“マスターの資格”ジーク",
+  "power": 3000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "ホムンクルス",
+    "マスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

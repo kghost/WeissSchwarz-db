@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ねえねえ、猫カフェっていうところがあるんだって！　今度一緒に行ってみたいにゃ?♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_077.gif",
+  "level": 1,
+  "name": "“盆踊りするにゃ！”星空 凛",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「凛のひみつ」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+  "trait": [
+    "音楽",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

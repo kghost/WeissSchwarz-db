@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "碇司令とシンちゃんをくっつけるキューピットになりたいみたいよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_005.gif",
+  "level": 1,
+  "name": "葛城 ミサト",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が1以上なら、このカードのパワーを＋1500。\n【起】［あなたの《パイロット》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

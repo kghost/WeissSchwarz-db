@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "花陽、幸せオーガストです♡",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_106.gif",
+  "level": 2,
+  "name": "“Wonderful Rush”小泉 花陽",
+  "power": 4000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

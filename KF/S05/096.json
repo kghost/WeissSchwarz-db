@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "リョウ「極限流道場は、現在入門者募集中！……ゴホン。入門者大募集中！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_096.gif",
+  "level": 1,
+  "name": "龍虎の拳チーム",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの控え室にカード名に「タクマ」か「リョウ」か「ロバート」を含むキャラがないなら、手札からプレイできない。\nあなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

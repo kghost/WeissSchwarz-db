@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "みなみ「ほめてくれるのはわかるけど―――\n何か素直に喜べない」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_009.gif",
+  "level": 1,
+  "name": "みゆき＆みなみ",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの《メガネ》のキャラを1枚【レスト】する］ あなたは自分の《メガネ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "メガネ",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "晴れましたね?。凄く暑いです。人もいっぱいで、海水浴って感じですね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_066.gif",
+  "level": 1,
+  "name": "海水浴 優木苗",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「エンジョイサマー」があるなら、あなたは相手の前列の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置いてよい。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ガール",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

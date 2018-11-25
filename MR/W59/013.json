@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "―固く閉ざされた心は少しずつ開いていった\n―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_013.gif",
+  "level": 2,
+  "name": "“光、降り注いて?”フェリシア＆さな",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、相手の前列のキャラすべてに、そのターン中、パワーを?1000。\n【起】【カウンター】 助太刀0 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋0）",
+  "trait": [
+    "魔法",
+    "アビリティ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

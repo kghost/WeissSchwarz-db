@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お母さんのオムライス、久々に食べたいなぁーー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_t13.gif",
+  "level": 1,
+  "name": "“乙坂家の食卓”乙坂 歩未",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ピザソース",
+    "家事"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

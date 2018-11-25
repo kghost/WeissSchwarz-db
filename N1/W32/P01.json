@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "うん…フェイトちゃん！　きっとまた…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_w32/n1_w32_p01.gif",
+  "level": 0,
+  "name": "“また会う日まで”なのは",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの「“また会う日まで”フェイト」がアタックした時、前列にこのカードがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

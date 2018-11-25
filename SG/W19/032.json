@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あいつよりもあたしのほうが\n優秀だってことを見せてやる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_032.gif",
+  "level": 2,
+  "name": "闘争心を燃やすクリス",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［他のあなたの前列の【スタンド】している緑のキャラを1枚【レスト】する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、次の相手のターンの終わりまで、レベルを＋1し、パワーを＋2500。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

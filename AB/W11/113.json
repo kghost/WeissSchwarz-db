@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "かっちょいいのがいいの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_113.gif",
+  "level": 2,
+  "name": "衣装交換！？ かなで",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "死",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

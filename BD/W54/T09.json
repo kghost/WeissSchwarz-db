@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "いつか、私も......本当の自分を見せられる日が......",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t09.gif",
+  "level": 1,
+  "name": "“ステージ”氷川紗夜",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

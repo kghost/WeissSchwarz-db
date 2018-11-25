@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "もう、ほんとだらしないんだから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_t12.gif",
+  "level": 1,
+  "name": "風紀委員 音夢",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「たった1つの願い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "魔法",
+    "風紀委員"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "曜「美少女…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_028.gif",
+  "level": 1,
+  "name": "美少女の微笑み",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

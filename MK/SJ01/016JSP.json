@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_016sp.gif",
+  "level": 3,
+  "name": "“け”んじゃの贈り物 エリー",
+  "power": 10000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたと相手が望むなら、あなたと相手は未開封のヴァイスシュヴァルツのパックを交換してもよい。",
+  "trait": [
+    "探偵",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ですから、ロボ部をもう一度復活させるために、\n全員、入部届を書きなさいと言っているのです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_045.gif",
+  "level": 2,
+  "name": "臼井 薫子",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは他の自分の《科学》のキャラを2枚まで選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "trait": [
+    "先生",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

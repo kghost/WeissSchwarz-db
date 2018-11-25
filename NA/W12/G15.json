@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "厄介事を起こす連中は、\nあたしらがブチのめすだけだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g15.gif",
+  "level": 1,
+  "name": "天邪鬼 ヴィータ",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "魔法",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

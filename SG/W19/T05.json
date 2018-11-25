@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "翼さんっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_t05.gif",
+  "level": 1,
+  "name": "一生懸命な響",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "Up Side Down A B A B B A B A 左 右\nL R L R Stop & Dash & Up & Talk 異常ナシ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_025.gif",
+  "name": "リモコン",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

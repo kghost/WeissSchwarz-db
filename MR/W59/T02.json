@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "大切な…大切な人たちは喜んでくれるかなぁ…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_t02.gif",
+  "level": 0,
+  "name": "“初めての手作りチョコレート”れん",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "魔法",
+    "アビリティ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

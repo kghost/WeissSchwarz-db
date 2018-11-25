@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なんて素敵なわ・た・く・し?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_066.gif",
+  "level": 0,
+  "name": "愛が止まらない ステフ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「存在感のないステフ」すべてに、パワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「存在感のないステフ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

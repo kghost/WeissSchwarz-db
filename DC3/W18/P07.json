@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "そんなの負けなきゃいいのよ。\n新聞部部長としてその勝負、受けてたちましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_p07.gif",
+  "level": 2,
+  "name": "学園のアイドル 立夏",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

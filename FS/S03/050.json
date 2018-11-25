@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "さあ。\nそれじゃあ今年も、約束の花を見に行こう――――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_050.gif",
+  "name": "Heaven's Feel",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "しろは「私、あなたを知っている。\n別の場所で……会った」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_073r.gif",
+  "name": "縫い止められた未来",
+  "rarity": "RRR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_007.gif",
+  "level": 0,
+  "name": "物語のゆくえ シグナム",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。\n【自】【CXコンボ】［(1) あなたのクライマックス置場の「紫電一閃」を1枚控え室に置く］ あなたのクライマックス置場に「紫電一閃」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

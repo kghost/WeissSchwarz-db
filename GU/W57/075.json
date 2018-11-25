@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_075.gif",
+  "level": 0,
+  "name": "For You！ チノ",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アタックフェイズ中、あなたは自分のカードの効果で自分の控え室のキャラを手札に戻せない。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを−1500。",
+  "trait": [
+    "ラビットハウス",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

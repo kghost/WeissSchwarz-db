@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あたし知らないわよ、そんなの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s26/sao_s26_038.gif",
+  "level": 1,
+  "name": "スイルベーンの特産品",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のクロック置場の、《アバター》か《ネット》のキャラを1枚選び、手札に戻す。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

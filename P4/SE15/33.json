@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私も…今は自分で決めた願い事があるのです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_33.gif",
+  "level": 1,
+  "name": "永い旅路の途中 エリザベス",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "魔法",
+    "神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

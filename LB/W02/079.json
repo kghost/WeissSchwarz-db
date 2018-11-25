@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ほわぁっ、ど、どうしよう?っ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_079.gif",
+  "level": 1,
+  "name": "“ほんわかきゅーと”小毬",
+  "power": 5500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "お菓子",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

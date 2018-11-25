@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 4,
+  "flavor": "すぅ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_022.gif",
+  "level": 3,
+  "name": "夢のような生活",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

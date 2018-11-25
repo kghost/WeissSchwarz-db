@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we24/ll_we24_24.gif",
+  "level": 0,
+  "name": "“SUNNY DAY SONG”綺羅 ツバサ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「“SUNNY DAY SONG”統堂 英玲奈」と「“SUNNY DAY SONG”優木 あんじゅ」すべてに、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

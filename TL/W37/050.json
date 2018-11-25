@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_050.gif",
+  "level": 2,
+  "name": "“ハレンチハプニング”唯",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの、《動物》か《植物》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "風紀委員",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

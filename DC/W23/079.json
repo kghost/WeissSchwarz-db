@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "聴いて。あたしのあんたへの想い――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_079.gif",
+  "level": 0,
+  "name": "銀色の旋律 眞子",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「大切なフルート」があるなら、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "鍋"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

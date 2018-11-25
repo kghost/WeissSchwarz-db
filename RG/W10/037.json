@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "疲れて寝ちゃったんですよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_037.gif",
+  "level": 2,
+  "name": "“風紀委員”初春",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水着の初春」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

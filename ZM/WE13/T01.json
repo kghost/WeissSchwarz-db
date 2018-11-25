@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "サイト「あの、姫様……俺達、来てよかったんですか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_t01.gif",
+  "level": 0,
+  "name": "ひそひそ話 アンリエッタ＆サイト",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

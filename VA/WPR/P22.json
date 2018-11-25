@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "書き換えてやんよ！ そのWEBページを！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p22.gif",
+  "level": 0,
+  "name": "“カスケーディングスタイル”しばP",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
+  "trait": [
+    "ビジュアルアーツ",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

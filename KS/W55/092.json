@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_092.gif",
+  "level": 1,
+  "name": "“にっこり笑顔”アクシズ教徒",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは《アクシズ教徒》以外の相手の前列のキャラを1枚選び、そのターン中、パワーを?1000。",
+  "trait": [
+    "アクシズ教徒",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

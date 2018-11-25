@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "こう「……何て言うかひより　浮いてんなぁ」\nひより「心当たりありすぎるんですが　それはどの意味でっスかね……？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_019.gif",
+  "level": 2,
+  "name": "ゆたか＆みなみ＆ひより",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "保健室",
+    "オタク"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

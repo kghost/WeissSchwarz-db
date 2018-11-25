@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "（私もみんなと海に行けたら、今ごろは……）",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-002.gif",
+  "level": 3,
+  "name": "“今を大切に”小鳥さん",
+  "power": 9000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを?1。\n【永】 記憶 あなたの思い出置場のイベントが2枚以上なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

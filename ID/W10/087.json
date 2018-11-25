@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ねぇ、とうまー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w10/id_w10_087.gif",
+  "level": 3,
+  "name": "完全記憶能力 インデックス",
+  "power": 10000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのソウルを?1。\n【自】 このカードとバトル中のレベル2以上のキャラが【リバース】した時、あなたは1枚引いてよい。",
+  "trait": [
+    "魔法",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "フフッ…もう逃げられんぞ芳乃清隆！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we16/dc3_we16_18.gif",
+  "level": 1,
+  "name": "武闘派 巴",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "生徒会",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

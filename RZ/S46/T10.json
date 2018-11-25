@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "その心がけは立派だと思いますけど、花瓶を落としたのもスバルくんでしょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_t10.gif",
+  "level": 0,
+  "name": "ロズワール邸のメイド レム",
+  "power": 500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 絆／「双子の姉 ラム」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双子の姉 ラム」を1枚選び、手札に戻す）",
+  "trait": [
+    "魔法",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

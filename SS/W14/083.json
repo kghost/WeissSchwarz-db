@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "久方ぶりだねえ。天壌の劫火、それに万条の仕手",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_083.gif",
+  "level": 1,
+  "name": "“逆理の裁者”ベルペオル",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードは次の能力を得る。『【起】［(1)］ そのターン中、このカードはサイドアタックしてもソウルが減少しない。』",
+  "trait": [
+    "炎",
+    "眼帯"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

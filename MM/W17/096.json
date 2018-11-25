@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "その気になれば、痛みなんて……\n完全に消しちゃえるんだぁ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_096.gif",
+  "level": 2,
+  "name": "傷つきながら戦うさやか",
+  "power": 9500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。\n【起】［あなたの《魔法》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

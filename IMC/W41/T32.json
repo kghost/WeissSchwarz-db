@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "「みく「こうなったらストライキにゃあ！」杏「おお！」」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t32.gif",
+  "level": 2,
+  "name": "働かないためには本気 杏",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［あなたの赤のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "音楽",
+    "飴"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

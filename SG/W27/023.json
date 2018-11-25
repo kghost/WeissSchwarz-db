@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "戦わない事だけが、本当に暖かい世界を約束してくれる。\n戦いから解放してあげないと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_023.gif",
+  "level": 2,
+  "name": "“凶祓い”の力 未来",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

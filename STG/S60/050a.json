@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "鈴羽「父さんのやろうとしてたこと、あたし絶対やり遂げるから…だから見てて欲しい」\n至「うん…見てるよ。絶対に見てる」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_050a.gif",
+  "name": "不可逆のネクローシス",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Treasure]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "TREASURE"
+  ],
+  "type": "Climax"
+}

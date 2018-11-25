@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "そして、望みの代償として義務を背負った。それが……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_077.gif",
+  "level": 1,
+  "name": "“鍵の守護”小鳥",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「篝」を含むキャラがいるなら、他のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】［(1) 手札の「パワースポット」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下のキャラを2枚まで選び、舞台の別々の枠に置く。",
+  "trait": [
+    "植物",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

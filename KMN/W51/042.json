@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "これで、やってみようかと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_042.gif",
+  "level": 0,
+  "name": "虫眼鏡 かばんちゃん",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「かまどの火」を1枚選び、手札に戻す。\n【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "フレンズ",
+    "帽子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

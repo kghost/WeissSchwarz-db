@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "マミ「これがグリーフシード。魔女の卵よ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_017.gif",
+  "level": 2,
+  "name": "グリーフシード",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《魔法》のキャラの枚数×1000に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

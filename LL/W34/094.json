@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "は、はじめまして。音ノ木坂学院スクールアイドル、μ'sです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_094.gif",
+  "level": 2,
+  "name": "“Love wing bell”",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のカード名に「凛」を含むキャラを1枚選び、控え室に置く。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻し、このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

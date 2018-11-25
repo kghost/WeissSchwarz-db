@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "伝説のアイドル伝説DVD全巻ボックス！\n持ってる人に初めて会いました！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_077.gif",
+  "level": 2,
+  "name": "アイドル大好き 花陽",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ あなたのクライマックス置場に「入部宣言」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てコスト0以下の《音楽》のキャラか、「アルパカ」を3枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。",
+  "trait": [
+    "音楽",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

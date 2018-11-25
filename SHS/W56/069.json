@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "その点、顔見知りなら安心かな?って",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_069.gif",
+  "level": 2,
+  "name": "霞詩子の担当編集 苑子",
+  "power": 6500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下にマーカーがあるなら、他のあなたの前列の《小説》のキャラ1枚につき、このカードのパワーを＋3000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「混乱の極み 詩羽」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+  "trait": [
+    "小説",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

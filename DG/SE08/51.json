@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "この監獄からの?卒業??♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_51.gif",
+  "level": 1,
+  "name": "仙丹で回復中 フーカ",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
+  "trait": [
+    "プリニー",
+    "死"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

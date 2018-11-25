@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "みんながいるからだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we18/lb_we18_12.gif",
+  "level": 2,
+  "name": "頑張る鈴",
+  "power": 9500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたのカード名に「理樹」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

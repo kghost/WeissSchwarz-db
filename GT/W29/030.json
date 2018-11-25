@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "審判の鉄槌よ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_030.gif",
+  "level": 1,
+  "name": "『審判』の使い手 アリエル",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの「『世界』の使い手 エティア」がアタックした時、そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "タロット",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

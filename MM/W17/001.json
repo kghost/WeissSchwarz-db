@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "今日という今日は速攻で片付けるわよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_001.gif",
+  "level": 2,
+  "name": "銀の魔銃 マミ",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。",
+  "trait": [
+    "魔法",
+    "お茶"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "恭介「まずは告白だ！　俺が作戦を考えた」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we18/lb_we18_22.gif",
+  "level": 2,
+  "name": "“恋の花火大会”理樹",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの舞台のキャラの持つ色の合計が3色以上なら、このカードのパワーを＋3000。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

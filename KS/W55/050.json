@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "我が名はゆんゆん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_050.gif",
+  "level": 1,
+  "name": "“ちょっと恥ずかしい”ゆんゆん",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《冒険者》か《魔法》なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "冒険者",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

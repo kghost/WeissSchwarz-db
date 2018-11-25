@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "えっ！？　あ　うん　どうしようか　なぁ……っ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_063.gif",
+  "level": 0,
+  "name": "お守りを買うゆたか",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「マイペースこなた」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マイペースこなた」を1枚選び、手札に戻す)",
+  "trait": [
+    "保健室",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

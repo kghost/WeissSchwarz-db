@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "『神様』に挑むんだ。正気でやれるか。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_101.gif",
+  "level": 1,
+  "name": "異世界からの来訪者 空",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 0,
+  "text": "【自】 このカードがアタックした時、他のあなたの《ゲーム》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

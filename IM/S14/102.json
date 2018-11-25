@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ここはミキが歌うの！　おまかせなの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_102.gif",
+  "level": 1,
+  "name": "ユニットメンバー 美希",
+  "power": 6000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているキャラを2枚選び、【レスト】する。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

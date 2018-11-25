@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ごめんなさい、寝ちゃってた……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_022.gif",
+  "level": 2,
+  "name": "一時の休息 遥月",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の控え室のクライマックスが3枚以下なら、あなたの手札のこのカードのレベルを?1。\n【自】［(2) あなたの控え室の「つながるこころ 遥月」を1枚思い出にし、このカードを思い出にする］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「完全無欠なお嬢様 遥月」を1枚まで選び、このカードがいた枠に防御キャラとして置く。",
+  "trait": [
+    "風南島",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

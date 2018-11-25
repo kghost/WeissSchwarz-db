@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_027.gif",
+  "level": 1,
+  "name": "過去の記憶 リンディ",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「クロノ」か「リンディ」を含むキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "お茶"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

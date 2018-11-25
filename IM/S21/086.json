@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "やよい・雪歩・亜美・真美「「「「にゃー！」」」」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_086.gif",
+  "level": 2,
+  "name": "ネコミミ！ やよい＆雪歩＆亜美＆真美",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

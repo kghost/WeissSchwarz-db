@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "…さあさ、どうだったかな？人の多さといい、カメラの列といい…ミッチーさん、なかなかのもんでしょ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_011.gif",
+  "level": 2,
+  "name": "晴れ舞台 戸村美知留",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「さあコレを！」があり、あなたのキャラすべてが黄なら、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "ガール",
+    "コスプレ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

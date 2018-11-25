@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "楽様も私の事をちゃんと思い出して下されば、\nきっと……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_070.gif",
+  "level": 2,
+  "name": "楽の許嫁 万里花",
+  "power": 10000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+  "trait": [
+    "警察",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

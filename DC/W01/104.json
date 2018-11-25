@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "「今度からは一緒に勉強しようね。 お姉ちゃんが教えてあげるから」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_104.gif",
+  "level": 1,
+  "name": "登校する朝倉姉妹",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

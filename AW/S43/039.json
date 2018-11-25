@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ニュクス「私たちを起こさないで」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_039.gif",
+  "level": 2,
+  "name": "ニュクス&リサ",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 絆／「白いデュエルアバター」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「白いデュエルアバター」を1枚選び、手札に戻す）\n【起】［(1) あなたの舞台の「白いデュエルアバター」を1枚とこのカードを思い出にする］ あなたは自分の手札の「夜の女神 ニュクス」を1枚まで選び、このカードがいた枠に置く。",
+  "trait": [
+    "エネミー",
+    "ネット"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

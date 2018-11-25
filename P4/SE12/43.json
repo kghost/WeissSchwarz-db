@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "我は汝、汝は我、\n双眸を見開きて汝、今こそ発せよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_43.gif",
+  "name": "イザナギ覚醒",
+  "rarity": "RE",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

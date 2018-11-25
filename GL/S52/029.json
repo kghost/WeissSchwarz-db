@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_029.gif",
+  "level": 2,
+  "name": "大グレン団の旗",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《大グレン団》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

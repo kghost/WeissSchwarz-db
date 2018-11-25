@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "勝負だ。淘汰されるのは俺の方か……、\nあるいは世界か――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_020.gif",
+  "level": 2,
+  "name": "“葬儀社”涯",
+  "power": 9000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "葬儀社",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

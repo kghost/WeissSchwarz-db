@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "言ったでしょ、フロンちゃん。アタシに\n兄貴なんていないし、欲しいとも思わないって",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_11.gif",
+  "level": 3,
+  "name": "“孤高の魔神”エトナ",
+  "power": 9500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのキャラすべてが《プリニー》かカード名に「エトナ」を含むキャラなら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

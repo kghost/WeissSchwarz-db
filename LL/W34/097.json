@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "よーし！さあ！今日も練習！いっくにゃ――！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_097.gif",
+  "name": "元気いっぱいガッツポーズ",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

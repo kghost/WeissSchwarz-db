@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "悪いね。このあいだの騒ぎで、あいつの妹さんケガしちゃってさ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_063.gif",
+  "level": 0,
+  "name": "相田 ケンスケ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "メガネ",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

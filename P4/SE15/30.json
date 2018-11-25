@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "見た目は子供　頭脳はバケモノ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_30.gif",
+  "level": 3,
+  "name": "「IQ2000のKY探偵」　白鐘 直斗",
+  "power": 9500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《男装》か《女装》のキャラが3枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは1枚引いてよい。』\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "男装",
+    "探偵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

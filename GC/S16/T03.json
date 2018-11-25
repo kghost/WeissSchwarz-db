@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "俺たちは、こういう事態に備えてきた。\n――生き残りたければ、俺の指示に従え！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_t03.gif",
+  "level": 0,
+  "name": "葬儀社の司令塔 涯",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「秘めたる能力 集」すべてに、パワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "葬儀社",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

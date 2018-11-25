@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "剣を棄て、我が妻となれ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_110.gif",
+  "level": 2,
+  "name": "ちびアーチャー",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

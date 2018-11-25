@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "こ、このケダモノ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_025.gif",
+  "level": 1,
+  "name": "約束の時 朱音",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたの思い出置場のイベントが2枚以上なら、あなたは自分のカード名に「瑚太朗」を含むキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』",
+  "trait": [
+    "魔法",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

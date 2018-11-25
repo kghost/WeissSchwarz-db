@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "頼れよな。これでもお前たちより２歳くらい年は取ってるんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_058.gif",
+  "level": 0,
+  "name": "白河 暦",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「美春」を含むキャラすべてに、パワーを＋500。\n【自】 絆／「ロボ美春」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ロボ美春」を1枚選び、手札に戻す）",
+  "trait": [
+    "先生",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

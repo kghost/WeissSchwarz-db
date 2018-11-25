@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "江漣「しっかりエスコートしてね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_101.gif",
+  "level": 0,
+  "name": "平和な生活 江漣＆玲二",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたのキャラが2枚以下なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

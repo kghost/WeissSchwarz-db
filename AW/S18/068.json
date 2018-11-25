@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いーさいーさ。どーせ俺様ちゃんはタダのネジなのさ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_068.gif",
+  "level": 0,
+  "name": "クリムゾン・キングボルト",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "アバター",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

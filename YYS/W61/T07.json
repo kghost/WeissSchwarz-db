@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "すみません、すみません！　もっと離れて寝るようにしますからぁ～",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t07.gif",
+  "level": 3,
+  "name": "だめっ娘幽霊 幽奈",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《ゆらぎ荘》か《湯煙町》のキャラが2枚以上なら、このカードのパワーを＋500し、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "霊",
+    "ゆらぎ荘"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

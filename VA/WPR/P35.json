@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "焼き肉＆ラーメン大好きッ子！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p35.gif",
+  "level": 2,
+  "name": "“クリスタルヴォイスの歌姫”Lia",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(6)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）\n【起】［あなたの《ビジュアルアーツ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "ビジュアルアーツ",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

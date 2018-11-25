@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "お願い…私を、使って…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_052.gif",
+  "level": 2,
+  "name": "集のパートナー いのり",
+  "power": 6500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「楪 いのり」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "音楽",
+    "葬儀社"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

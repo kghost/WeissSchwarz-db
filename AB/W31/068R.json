@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "“ゴッドファーザー”ゆり",
+  "power": 8500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 他のあなたの《死》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "死",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

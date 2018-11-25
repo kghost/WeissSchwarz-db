@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "この目標が達成できた時に、\nわたしは自分を見つけられるような気がします",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_037.gif",
+  "level": 0,
+  "name": "“やりたいこと探し”紬",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻し、自分の手札を1枚選び、クロック置場に置く。",
+  "trait": [
+    "サマポケ",
+    "ヌイグルミ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

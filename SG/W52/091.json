@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "翼「言われるまでもない。\n――背中は預けたぞ、雪音ッ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_091.gif",
+  "level": 0,
+  "name": "【バトルプレリュード】翼＆クリス",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「【QUEEN's INFERNO：心】クリス」すべてに、パワーを＋1000。\n【自】 絆／「【QUEEN's INFERNO：心】クリス」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「【QUEEN's INFERNO：心】クリス」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

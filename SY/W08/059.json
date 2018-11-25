@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なんかよく分かんないけど、でかしたわ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_059.gif",
+  "level": 0,
+  "name": "おめかしハルヒ",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードとバトル中のキャラが【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+  "trait": [
+    "団長",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ではでは、ことり、行っきま?す",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_028.gif",
+  "level": 0,
+  "name": "大好きな歌 ことり",
+  "power": 1000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのレベル1以下のキャラすべてに、パワーを＋500。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "trait": [
+    "音楽",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

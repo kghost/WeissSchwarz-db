@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "踊ろうか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_30.gif",
+  "level": 1,
+  "name": "ふたりでワルツを シロエ",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの手札が4枚以上なら、このカードのパワーを＋1500。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "魔法",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

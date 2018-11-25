@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "フォワード四名をはじめ、機動六課部隊員、全員揃いました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_089.gif",
+  "level": 0,
+  "name": "グリフィス・ロウラン",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "メガネ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

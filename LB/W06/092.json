@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…はい。絶対しません\n宮沢さんが拾ってくれた命です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_092.gif",
+  "level": 1,
+  "name": "弓道部のみゆき",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "スポーツ",
+    "眼帯"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

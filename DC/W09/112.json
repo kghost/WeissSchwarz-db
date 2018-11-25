@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "干し終わったらすぐにご飯の用意をするから待ってて下さいね、旦那様♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_112.gif",
+  "level": 0,
+  "name": "気配り上手な奥さん ことり",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

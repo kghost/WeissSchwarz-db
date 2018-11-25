@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "切り裂け、ヴィンデルシャフト！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_092.gif",
+  "level": 1,
+  "name": "シャッハ・ヌエラ",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

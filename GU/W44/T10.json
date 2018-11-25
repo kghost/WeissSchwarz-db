@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "チノちゃん、チノちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_t10.gif",
+  "level": 3,
+  "name": "木組みの街で ココア",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《ラビットハウス》か《パン》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "ラビットハウス",
+    "パン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

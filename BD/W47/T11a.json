@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_t11a.gif",
+  "level": 3,
+  "name": "My Favorite item",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたの、「“Poppin’Party”戸山香澄」と「“Poppin’Party”花園たえ」と「“Poppin’Party”牛込りみ」と「“Poppin’Party”山吹沙綾」と「“Poppin’Party”市ヶ谷有咲」がいるなら、相手に5ダメージを与え、そのターン中、このカードのパワーを＋5000。』（ダメージキャンセルは発生する）\n【永】 このカードと同じカード名のカードは、デッキに5枚まで入れることができる。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

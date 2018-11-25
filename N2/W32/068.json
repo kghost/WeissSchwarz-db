@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "えへへ…はやて、冷凍庫のいちごアイス食べていい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w32/n2_w32_068.gif",
+  "level": 0,
+  "name": "はやてからの贈り物 ヴィータ",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "魔法",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "音無「あのさ……ここに…残らないか…？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_we14/ab_we14_12.gif",
+  "level": 1,
+  "name": "かなで＆音無",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《死》のキャラの枚数×500に等しい。",
+  "trait": [
+    "死",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

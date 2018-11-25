@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "おお、これは…\nふむ、思ったよりは手の込んだものだなぁ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_088.gif",
+  "level": 2,
+  "name": "夕景演出 不知火五十鈴",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「不測の事態」があるなら、あなたの《ガール》のキャラすべてに、そのターン中、パワーを＋1500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。』",
+  "trait": [
+    "ガール",
+    "水着"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

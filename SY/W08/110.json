@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ハルヒ「入っていいわよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_110.gif",
+  "level": 2,
+  "name": "長門＆ハルヒ＆みくる",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたのカード名に「キョン」を含むキャラがいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "SOS団",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "な、泣いてないわっ！　泣いたことすらないわっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_028.gif",
+  "level": 1,
+  "name": "クールキャラ クラミー",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「最後の駒」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

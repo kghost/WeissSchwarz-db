@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "……天も地もない暗闇の中で…\n…キミの声だけが聞こえた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_102.gif",
+  "level": 2,
+  "name": "奇跡の生還 黒雪姫",
+  "power": 4000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［(1) このカードを【レスト】する］ あなたは相手のレベル0以下のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "生徒会",
+    "アバター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

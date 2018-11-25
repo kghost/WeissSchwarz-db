@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "みんな！　後は頼んだよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_011.gif",
+  "level": 0,
+  "name": "《SHINC》 ソフィー",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《ＳＨＩＮＣ》か《スポーツ》のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「デグチャレフ対戦車ライフル」を1枚選び、手札に戻す。",
+  "trait": [
+    "アバター",
+    "ＳＨＩＮＣ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

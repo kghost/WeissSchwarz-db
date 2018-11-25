@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "やっほー！　元気ー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_30.gif",
+  "level": 1,
+  "name": "水着の由夢＆さくら",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す。クライマックスのレベルは0として扱う）",
+  "trait": [
+    "魔法",
+    "水着"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

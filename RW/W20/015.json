@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "瑚太朗は瑚太朗でいてくれればいいんです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_015.gif",
+  "level": 0,
+  "name": "“二人の未来”ちはや",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《お菓子》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "お菓子",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

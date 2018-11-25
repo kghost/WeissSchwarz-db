@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "朋也くん、おかえりなさい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we04/cl_we04_02.gif",
+  "level": 1,
+  "name": "岡崎 渚",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「前向きな朋也」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「前向きな朋也」を1枚選び、手札に戻す）",
+  "trait": [
+    "だんご",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

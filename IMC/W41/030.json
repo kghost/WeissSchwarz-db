@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "サイキック逮捕ー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_030.gif",
+  "level": 2,
+  "name": "堀 裕子",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の【レスト】しているキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】してよい。",
+  "trait": [
+    "音楽",
+    "超能力"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

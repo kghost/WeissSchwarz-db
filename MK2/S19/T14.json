@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "頑張るんです、優勝するんです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_t14.gif",
+  "name": "初めてのダンス",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

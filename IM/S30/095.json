@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "なんだ、765プロじゃねーか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-095.gif",
+  "level": 2,
+  "name": "偶然の再会 冬馬",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《音楽》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

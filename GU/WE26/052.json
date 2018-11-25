@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "甘い和菓子はいかが？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_052.gif",
+  "level": 1,
+  "name": "いらっしゃいませ ミニ千夜",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "甘兎庵",
+    "和菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

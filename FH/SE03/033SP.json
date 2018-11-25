@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "アーチャー「これでようやく―――最後に。加減なしで、戦えるというものだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_033sp.gif",
+  "level": 2,
+  "name": "月下の紅 凛＆アーチャー",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの控え室の「月下の紅 凛＆アーチャー」1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "マスター",
+    "サーヴァント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

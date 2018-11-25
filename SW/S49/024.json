@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おまえの計画は？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_024.gif",
+  "level": 2,
+  "name": "“救出作戦”ハン・ソロ",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“ウーキー族”チューバッカ」がいるなら、このカードのパワーを＋3000し、ソウルを＋1。\n【永】 記憶 あなたの思い出置場に「Millennium Falcon」があるなら、このカードのパワーを＋3000。\n【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "新たなる希望",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

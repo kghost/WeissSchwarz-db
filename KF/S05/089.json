@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "メキシコの風が俺の勝利を呼ぶぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_089.gif",
+  "level": 0,
+  "name": "ラモン",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《改造》か《クローン》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "眼帯",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

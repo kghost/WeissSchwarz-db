@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ん……っ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we16/dc3_we16_35.gif",
+  "level": 1,
+  "name": "桜の木の下で",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたの前列のキャラが2枚以下なら、あなたの前列の《新聞》のキャラすべてに、そのターン中、パワーを＋2500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

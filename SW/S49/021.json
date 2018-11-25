@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ランド「何しに来たんだ？」\nハン・ソロ「ああ、修理だ。おまえなら手を貸してくれるかと思って」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_021.gif",
+  "level": 0,
+  "name": "ロボト",
+  "power": 3500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、他のあなたの黄のキャラが1枚以下なら、このカードをクロック置場に置く。",
+  "trait": [
+    "帝国の逆襲",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

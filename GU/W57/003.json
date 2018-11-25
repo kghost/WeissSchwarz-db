@@ -1,0 +1,22 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "リゼ先輩っ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_003.gif",
+  "level": 0,
+  "name": "先輩と一緒 シャロ",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お祭り気分 シャロ」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）\n【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

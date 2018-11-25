@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "被害者ぶるなよ。無理やりの撮影なんて、そっちが加害者でしょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_039.gif",
+  "level": 0,
+  "name": "舌戦 由多",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［このカードを【レスト】する］ あなたのクライマックス置場に「磯臭いやつら」が置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trait": [
+    "キズナ",
+    "ナルシスト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

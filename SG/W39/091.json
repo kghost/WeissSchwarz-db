@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "頭でも冷やしゃあああああ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_091.gif",
+  "level": 1,
+  "name": "形式番号XMH_020 ガリィ・トゥーマーン",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "trait": [
+    "錬金術",
+    "人形"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

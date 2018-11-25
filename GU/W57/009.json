@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_009.gif",
+  "level": 0,
+  "name": "ポットでお届け シャロ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラは他の枠に動かせない。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

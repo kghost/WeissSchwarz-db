@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "キャラクターとリアルライブがリンクする次世代のガールズバンド・プロジェクト「BanG Dream!」アニメ化＆ヴァイスシュヴァルツ参戦決定！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_p01.gif",
+  "level": 0,
+  "name": "はじめましてPoppin'Party",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ハラショー…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_039.gif",
+  "level": 0,
+  "name": "“ハラショー”絵里",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“僕らのLIVE 君とのLIFE”絢瀬 絵里」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

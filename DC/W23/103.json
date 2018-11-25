@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "そんなの決まってるじゃない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_103.gif",
+  "level": 3,
+  "name": "第二ボタンのお守り 由夢",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「兄さんとの思い出」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\n【起】［(1)］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "もちろん。一緒にたのしみましょう、夕子",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we28/hll_we28_10.gif",
+  "level": 0,
+  "name": "面倒見の良い使者 ウェスタ",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の山札を見てカード名に「夕子」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "使者",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

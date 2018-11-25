@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あぁぁ、でもやってみたいです、是非っ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_043.gif",
+  "level": 2,
+  "name": "“うずうず”クド",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "でも楽しくしたいホントに",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_we27/lss_we27_18.gif",
+  "name": "未熟DREAMER",
+  "rarity": "C",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ふぁー。おはよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_28.gif",
+  "level": 0,
+  "name": "寝起きのはかせ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの「学校デビュー なの」すべてに、パワーを＋2000。",
+  "trait": [
+    "科学",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

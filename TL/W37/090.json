@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "いらっしゃいませぇ▽",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_090.gif",
+  "level": 1,
+  "name": "沢田 未央",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《動物》か《煩悩》のキャラの枚数×500に等しい。",
+  "trait": [
+    "メガネ",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

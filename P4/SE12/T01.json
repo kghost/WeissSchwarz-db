@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "菜々子「おにいちゃん……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_t01.gif",
+  "level": 0,
+  "name": "“お兄ちゃん”悠",
+  "power": 500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台にこのカードがいるなら、このカードのカード名は「“お兄ちゃん”主人公」としても扱う。\n【永】 他のあなたの「しっかり者の小学生 菜々子」すべてに、パワーを＋1000。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

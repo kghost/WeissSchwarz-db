@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "――触れる物を例外なく切断する光の刃――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_024.gif",
+  "name": "約束された勝利の剣",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

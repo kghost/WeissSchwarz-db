@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ミンタオ「いくわよ、ブー！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we05/sk_we05_10.gif",
+  "level": 0,
+  "name": "ミンタオ＆ブーゲンビリア",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］ あなたは自分の「ミンタオ＆ブーゲンビリア」を1枚選び、そのターン中、パワーを＋2500。",
+  "trait": [
+    "コロニー",
+    "警察"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

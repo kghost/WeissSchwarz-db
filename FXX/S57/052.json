@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "まだやってないよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_052.gif",
+  "level": 3,
+  "name": "エリートパラサイト ゼロツー",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。\n【自】[(4) 他のあなたの舞台のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "パラサイト",
+    "叫竜"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

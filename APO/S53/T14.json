@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "この戦いの規律を守る義務があります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_t14.gif",
+  "level": 0,
+  "name": "“歩き出す運命”ルーラー",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の、《マスター》か《サーヴァント》か《ホムンクルス》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラの枚数×500に等しい。",
+  "trait": [
+    "サーヴァント",
+    "旗"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

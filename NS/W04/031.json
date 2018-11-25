@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "１０８部隊、ギンガ・ナカジマ陸曹です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_031.gif",
+  "level": 2,
+  "name": "ギンガ・ナカジマ",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの《メカ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "メカ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

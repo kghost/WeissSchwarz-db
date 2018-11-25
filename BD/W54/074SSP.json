@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_074ssp.gif",
+  "level": 1,
+  "name": "“巴だけの看護師さん”宇田川あこ",
+  "power": 4000,
+  "rarity": "SSP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】 共鳴 ［手札の「“鳥籠の歌姫”湊友希那」を1枚公開し、このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

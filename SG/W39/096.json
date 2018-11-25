@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "Imyuteus amenohabakiri tron…\n",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_096.gif",
+  "level": 2,
+  "name": "天羽々斬",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のレベル2以上のカード名に「翼」を含むキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札のカード名に「翼」を含むキャラを1枚まで選び、舞台の好きな枠に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

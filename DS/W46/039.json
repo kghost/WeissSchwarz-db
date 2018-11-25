@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "えへへ……って、頭撫でるの禁止！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_039.gif",
+  "level": 0,
+  "name": "二人で迎える朝 乃絵里",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "風南島",
+    "家族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

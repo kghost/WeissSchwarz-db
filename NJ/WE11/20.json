@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ねーねー、はかせ、\nどんくらいお姉さんっぽい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_20.gif",
+  "level": 0,
+  "name": "ポニーテール はかせ",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「なの」か「阪本」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "科学",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

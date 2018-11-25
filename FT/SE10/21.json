@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "一人が寂しいと気づいた時、人はやさしくなれるの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_21.gif",
+  "level": 2,
+  "name": "優しい笑顔 ミラジェーン",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。\n【自】［(1)］ 他のあなたのバトル中の《魔法》のキャラが【リバース】した時、このカードの下にマーカーがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
+  "trait": [
+    "魔法",
+    "ウェイトレス"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

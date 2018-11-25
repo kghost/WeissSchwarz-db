@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "私は……うーんと……?お嫁さん?……かな？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_042.gif",
+  "level": 1,
+  "name": "異文化の人あやの",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "お菓子",
+    "オデコ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

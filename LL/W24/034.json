@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "にっこにっこにー！　どう？　似合ってる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_034.gif",
+  "level": 1,
+  "name": "メイド服のにこ",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「笑顔にさせる仕事」があるなら、そのターン中、このカードのパワーを＋5500し、あなたのアンコールステップの始めに、このカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

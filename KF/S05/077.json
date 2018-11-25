@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "カーンペキ！でしょ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_077.gif",
+  "level": 2,
+  "name": "セーラー服のアテナ",
+  "power": 8500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「スーパーフェニックスインフィニティー」があるなら、あなたは自分の山札を見て「サイコソルジャーチーム」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "超能力",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

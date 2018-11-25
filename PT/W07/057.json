@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "サイス「らしくないな、アイン。痛みなど精神力で克服したまえ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_057.gif",
+  "level": 0,
+  "name": "完璧な素材アイン",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの《武器》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_t08.gif",
+  "level": 2,
+  "name": "BL大好き 神原駿河",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "怪異",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

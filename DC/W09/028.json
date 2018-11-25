@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "何人たりとも私の前を走らせないぞーっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_028.gif",
+  "level": 0,
+  "name": "体操着のミキ",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「体操着のまひる」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「体操着のまひる」を1枚選び、手札に戻す）\n【起】［(1)］ あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "スポーツ",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

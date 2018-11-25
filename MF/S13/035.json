@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ホントにシェリルのチケットとれたの!?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_035.gif",
+  "level": 1,
+  "name": "歌姫に憧れる少女 ランカ",
+  "power": 5500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\n【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「開拓重機 ランカ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

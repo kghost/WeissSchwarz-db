@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…頑張ろうね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_093.gif",
+  "level": 0,
+  "name": "ライブへの想い 花陽",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(1)］ あなたのクライマックス置場に「みんなで決めた答え」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "雪"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

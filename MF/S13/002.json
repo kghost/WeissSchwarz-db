@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "アタシの歌で、銀河を震わせてみせるから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_002.gif",
+  "level": 2,
+  "name": "幼い日の決意 シェリル",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのソウルを＋1。\n【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“歌は祈命”シェリル」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ひよこだって頑張れば飛べる･･･！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_16.gif",
+  "level": 0,
+  "name": "“勇者超特急”シンク",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2) あなたの山札の上から1枚をクロック置場に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《動物》のキャラを1枚と、このカードを選び、手札に戻す。",
+  "trait": [
+    "勇者",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

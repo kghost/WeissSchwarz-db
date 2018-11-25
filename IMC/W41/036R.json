@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "無限大　どんなもんだい　笑顔でしょ　大丈夫！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w00/dc_w00_000.gif",
+  "name": "LET’S GO HAPPY!!",
+  "rarity": "RRR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

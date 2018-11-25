@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "昨日はお見苦しいところをお見せしてしまいました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we16/dc3_we16_32.gif",
+  "level": 1,
+  "name": "戦闘準備？ 葵",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードを控え室に置く］ あなたのクライマックス置場に「あまえられるところ」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「戦闘服！？ 葵」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "新聞",
+    "ウェイトレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

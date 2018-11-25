@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "もうすぐ2時間目よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_t22.gif",
+  "level": 1,
+  "name": "模範的な生徒 かなで",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの《死》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "死",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "環「ええ、とっても。気持ち良いですよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_45.gif",
+  "level": 1,
+  "name": "小川で遊ぼう！",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

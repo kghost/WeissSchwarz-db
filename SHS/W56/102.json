@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "倫也センパイ!?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_102.gif",
+  "level": 1,
+  "name": "ねんどろいどぷらす 出海",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のコスト1以上のキャラを1枚選び、後列のキャラのいない枠に置く。",
+  "trait": [
+    "ゲーム",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

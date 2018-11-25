@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "泳げること、証明します！さあさあ先輩、早く海に入りましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_107.gif",
+  "name": "エンジョイサマー",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "まぁ、効果が切れるまでゆっくりして行きなよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_t07.gif",
+  "level": 2,
+  "name": "“結城家の食卓”美柑",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "家事",
+    "ランドセル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

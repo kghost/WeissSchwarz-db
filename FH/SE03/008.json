@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "いま着ている形の方がシロウは喜ぶと言われまして――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_008.gif",
+  "level": 2,
+  "name": "水辺の王様セイバー",
+  "power": 9000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "サーヴァント",
+    "水着"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

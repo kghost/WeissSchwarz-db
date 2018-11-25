@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ねえ黒子……。ありがとね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_084.gif",
+  "level": 3,
+  "name": "努力家 美琴",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】このカードが手札から舞台に置かれた時、あなたは自分の控え室の《超能力》のキャラを1枚選び、手札に戻してよい。\n【自】他のあなたの《超能力》のキャラがアタックした時、そのターン中、このカードのパワーを+1000。",
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "あなたは優しく殺してあげます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_049.gif",
+  "name": "放課後に踊る",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

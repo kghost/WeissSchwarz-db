@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "どうやったら言うコトを聞いてくれるようになるのかしらね、このひねくれ者は……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_008.gif",
+  "level": 0,
+  "name": "白レン",
+  "power": 1000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1000 レベル0 ［ 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "使い魔",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

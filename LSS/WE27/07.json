@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_we27/lss_we27_07.gif",
+  "level": 1,
+  "name": "“未熟DREAMER”津島 善子",
+  "power": 5500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

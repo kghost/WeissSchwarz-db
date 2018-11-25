@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "睡眠と読書と執筆だけで生きていきたいわね。他にもしたいことあるけど全部寝ながらできるし。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_t18s.gif",
+  "level": 3,
+  "name": "シナリオ担当 詩羽",
+  "power": 9500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ゲーム》か《小説》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ようこそ……第三魔法の起動を望みますか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_022.gif",
+  "level": 1,
+  "name": "大聖杯",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を上から4枚まで見て、黄のキャラを1枚までと赤のキャラを1枚までと青のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

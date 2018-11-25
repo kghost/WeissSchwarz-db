@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ストーンリバー「こ!! これは!! エルキュールの…!?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se29/mk_se29_24.gif",
+  "level": 1,
+  "name": "消えた探偵服",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードを思い出にする。\n【自】 記憶 あなたがレベルアップした時、思い出置場にこのカードがあるなら、あなたは自分の控え室の《探偵》のキャラを2枚まで選び、ストック置場に好きな順番で置き、このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

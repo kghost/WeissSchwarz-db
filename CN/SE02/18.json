@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "個人の欲望を持って、なお――私は無敵であり続ける",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cn_se02/cn_se02_18.gif",
+  "level": 2,
+  "name": "テロリスト アルファルド",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのレベル置場のカード1枚につき、このカードのパワーを＋1500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

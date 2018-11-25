@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あんたのラボは幼稚だけど居心地がいい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_066.gif",
+  "level": 0,
+  "name": "“ラボでのなにげない時間”牧瀬 紅莉栖",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、あなたは自分の《ラボメン》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "ラボメン",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_079.gif",
+  "level": 0,
+  "name": "“本物”羽川翼",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "怪異",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

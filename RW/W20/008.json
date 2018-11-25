@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "面白みがない。大衆は刺激を求めているのよ。\n記者としては危険に飛び込んでいかないと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_008.gif",
+  "level": 0,
+  "name": "“敏腕高校生記者”イノウェイ",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、ソウルを＋1。",
+  "trait": [
+    "新聞",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私。ファンの皆さんのためにも、絶対に次のステージ、成功させてみせます！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_080.gif",
+  "level": 1,
+  "name": "三浦 あずさ",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードのトリガーチェックでクライマックスがでた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マイペースあずさ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

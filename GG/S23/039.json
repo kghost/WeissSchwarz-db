@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "レド「離すな！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gg_s23/gg_s23_039.gif",
+  "level": 2,
+  "name": "戦闘中 チェインバー",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［あなたのクロック置場の《パイロット》のキャラを1枚手札に戻す］ このカードがアタックした時、クライマックス置場に「くたばれ、ブリキ野郎！」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500し、アンコールステップの始めに、このカードをクロック置場に置く。",
+  "trait": [
+    "メカ",
+    "軍隊"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

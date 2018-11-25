@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "シロウ――――貴方を、愛している",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_023.gif",
+  "name": "黄金の別離",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

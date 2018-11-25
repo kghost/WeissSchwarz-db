@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "根源への到達。我ら遠坂の悲願はその一点において他はない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_076.gif",
+  "level": 1,
+  "name": "必勝への策謀 時臣",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの《マスター》のキャラを2枚【レスト】する］ そのターン中、このカードのレベルを＋1し、パワーを＋2000。",
+  "trait": [
+    "マスター",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

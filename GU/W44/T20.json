@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ココア「チノちゃんもふもふ??」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_t20.gif",
+  "level": 1,
+  "name": "ひとつ屋根の下",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《ラビットハウス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

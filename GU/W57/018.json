@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "みんな早く〜〜",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_018.gif",
+  "level": 0,
+  "name": "浴衣でお出かけ 千夜",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。\n【自】 あなたのクライマックスフェイズの始めに、あなたは自分のカード名に「シャロ」か「千夜」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［このカードの下のマーカーを1枚控え室に置く］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "甘兎庵",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

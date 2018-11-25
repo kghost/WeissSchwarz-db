@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "みんなっ！座ってないで、立ち上がって！\n次の曲は『Ｉ　Ｗant』！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_051.gif",
+  "level": 1,
+  "name": "素直で前向き春香",
+  "power": 4000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「I Want」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻し、相手の【スタンド】しているキャラすべてを、【レスト】する。\n【自】 相手の【スタンド】しているキャラが【レスト】した時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

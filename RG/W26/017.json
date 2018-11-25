@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "血液の向きを逆流させると、\n人間の体はどうなっちまうでしょうかァ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_017.gif",
+  "level": 2,
+  "name": "容赦無い性格 一方通行",
+  "power": 7500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「絶対能力進化計画 一方通行」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "超能力",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

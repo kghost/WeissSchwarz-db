@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "魔法使いは自分の中のマナを使って魔法を使う、逆に精霊使いは大気中のマナを使って術を使うんだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_075.gif",
+  "level": 1,
+  "name": "大精霊 パック",
+  "power": 4000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「エミリア」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋2500。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "魔法",
+    "精霊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

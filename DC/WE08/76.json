@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "さて、迷える仔羊をどういう風に料理しちゃおうかな？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_76.gif",
+  "level": 0,
+  "name": "黒サンタの杏",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1000。（公開したカードは元に戻す。クライマックスのレベルは0として扱う）",
+  "trait": [
+    "魔法",
+    "演劇"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

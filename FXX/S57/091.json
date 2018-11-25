@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お前に俺の気持ちがわかるか！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_091.gif",
+  "level": 1,
+  "name": "パートナーシャッフル フトシ",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】舞台にこのカードがいるなら、このカードのカード名は「クロロフィッツのステイメン ミツル」としても扱う。\n【自】このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。\n【自】アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "パラサイト",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

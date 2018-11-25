@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "やはりゲームはこうでないとな。\n一方的な展開ほど退屈なゲームはない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_13.gif",
+  "level": 2,
+  "name": "楽園の塔の支配者 ジェラール",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分のカード名に「エルザ」を含むキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

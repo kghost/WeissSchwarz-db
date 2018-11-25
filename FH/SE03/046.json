@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "シロウ！ あまりこちらを見ないでください！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_046.gif",
+  "level": 0,
+  "name": "メイド服のセイバー",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたがレベルアップした時、あなたのキャラすべてに、そのターン中、レベルを＋1。",
+  "trait": [
+    "サーヴァント",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

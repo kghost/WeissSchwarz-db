@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "花の咲いたその傘の上には\nとても幸せそうな顔で　小さく眠る二人がいた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_117.gif",
+  "name": "WORLD'S END UMBRELLA",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_087.gif",
+  "level": 0,
+  "name": "魂の躍動 綺礼",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［手札の《マスター》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "虚無",
+    "マスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

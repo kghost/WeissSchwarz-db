@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あたしだってとことん賭ける！３人のTriad Primusに！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_081.gif",
+  "level": 0,
+  "name": "Trancing Pulse 奈緒",
+  "power": 1500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のカード名に「凛」か「奈緒」か「加蓮」を含むキャラに、パワーを＋1000。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの「Trancing Pulse」か「Triad Primus」1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

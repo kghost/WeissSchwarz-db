@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "“クイントール族”ファークリン",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「爆弾娘アミタリリ」すべてに、パワーを＋1000。",
+  "trait": [
+    "動物",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

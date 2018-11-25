@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私は吉永和花那。　演劇部の部長ね。\n君をスカウトに来たんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_025.gif",
+  "level": 0,
+  "name": "吉永和花那",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "からあげはなぁ、外の衣がカリッとしててなぁ、\n噛んだらジューって肉汁が出る\nふわっふわのやつがなぁ、ええねん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p04.gif",
+  "level": 2,
+  "name": "“JFK”折戸伸治",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。（公開したカードは元に戻す）",
+  "trait": [
+    "ビジュアルアーツ",
+    "ユニゾン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 4,
+  "flavor": "ゼスト「共に語り合った、俺とお前の正義は……\n今は、どうなっている……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_096.gif",
+  "level": 2,
+  "name": "守るべきもの",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のクロックを3枚まで選び、控え室に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

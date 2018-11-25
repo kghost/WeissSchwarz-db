@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "こんな俺の命でも、奪えばお前は、俺と同じ重みを背負う事になる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_053.gif",
+  "level": 1,
+  "name": "真次郎＆カストール",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［(1)］ このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【リバース】する。』",
+  "trait": [
+    "スポーツ",
+    "神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

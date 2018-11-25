@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "残念ながら、私はじょーくは苦手なのです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_075.gif",
+  "level": 1,
+  "name": "一日署長 貴音",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台にこのカードがいるなら、このカードは《警察》を得る。\n【自】［(1)］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

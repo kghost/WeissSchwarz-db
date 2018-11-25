@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "やっほーーーーーーーーうっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_080.gif",
+  "level": 0,
+  "name": "スキーウェアのまゆき",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《生徒会》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+  "trait": [
+    "生徒会",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

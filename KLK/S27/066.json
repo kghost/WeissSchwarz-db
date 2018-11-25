@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "羅暁「純潔に心をゆだねなさい流子…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_066.gif",
+  "level": 1,
+  "name": "純潔",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《服》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

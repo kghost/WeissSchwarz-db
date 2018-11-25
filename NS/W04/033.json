@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あれは姉が抑える……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_033.gif",
+  "level": 0,
+  "name": "刃舞う爆撃手チンク",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。",
+  "trait": [
+    "メカ",
+    "眼帯"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "こんなトコまで来るなんて\nりせちー、超うれしー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se01/p4_se01_10.gif",
+  "name": "現役美少女アイドル",
+  "rarity": "C",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

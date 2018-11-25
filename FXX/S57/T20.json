@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "議長「命を燃やせ。その血、最期の一滴まで！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_t20.gif",
+  "name": "入隊の儀式",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "よき理解者 岩沢＆ひさ子",
+  "power": 4500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "死",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

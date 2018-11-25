@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "私はお前と一緒の春がいい\nそれだけでいい…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_60.gif",
+  "level": 2,
+  "name": "生徒会長 智代",
+  "power": 7500,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードのバトル中、このカードのバトル相手が《スポーツ》なら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に「智代の誓い」があるなら、あなたの《演劇》のキャラすべてに、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+  "trait": [
+    "生徒会",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

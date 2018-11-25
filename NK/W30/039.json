@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "私はずっとお嬢の事を想っておりました……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_039.gif",
+  "level": 0,
+  "name": "幼い頃の誠士郎",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「スポーツ万能 千棘」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「スポーツ万能 千棘」を1枚選び、手札に戻す）",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "チビ太「どうだうめぇか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_t11.gif",
+  "level": 2,
+  "name": "チビ太のおでん",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,12 @@
+{
+  "color": "GREEN",
+  "flavor": "SECRET",
+  "name": "ハリネズミのジレンマ",
+  "rarity": "MR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（[TRIGGER:Treasure]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "TREASURE"
+  ],
+  "type": "Climax"
+}

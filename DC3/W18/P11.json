@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "さら「寒いのにアイスですか？」\n葵「寒いからこそです！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_p11.gif",
+  "level": 0,
+  "name": "寄り道 葵＆さら",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "ウェイトレス",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "答えを知るにはまだ早いな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_097.gif",
+  "level": 2,
+  "name": "たどり着いた答え",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたの控え室のクライマックスが4枚以上なら、あなたは2枚まで引く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

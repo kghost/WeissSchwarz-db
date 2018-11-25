@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "君ではルイズを守れない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_025.gif",
+  "name": "手合わせ",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

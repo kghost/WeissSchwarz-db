@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ほかにもいっぱいみつけよう。\nみんなと一緒にすてきなことを…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_t06.gif",
+  "level": 2,
+  "name": "“すてきなこと”小毬",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

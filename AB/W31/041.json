@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "フェンス越えに決まってんじゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_041.gif",
+  "level": 1,
+  "name": "野球少女 ユイ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "死",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

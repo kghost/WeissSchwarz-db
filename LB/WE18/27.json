@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "おーい、おまえら。準備、手伝ってくれ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we18/lb_we18_27.gif",
+  "level": 1,
+  "name": "“みんなで一緒に”鈴",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《動物》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

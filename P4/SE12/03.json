@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "菜々子、へーきだよ。お母さんいなくても、\n菜々子にはお父さんいるし。……お兄ちゃんもいるし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_03.gif",
+  "level": 1,
+  "name": "フードコートの菜々子",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「悠」か「主人公」を含むキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+  "trait": [
+    "ジュネス",
+    "テレビ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

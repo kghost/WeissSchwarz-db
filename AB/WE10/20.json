@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "音無「消えないでくれ、かなで…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_we10/ab_we10_20.gif",
+  "name": "いつかどこかで",
+  "rarity": "C",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

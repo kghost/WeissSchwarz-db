@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "誰もやらないのだから、私達がやる。\n意思を持って、力を尽くして、策を巡らせ──結果を、掴む",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_16.gif",
+  "level": 0,
+  "name": "揺るがぬ心 シャナ",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《炎》のキャラが2枚以下なら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

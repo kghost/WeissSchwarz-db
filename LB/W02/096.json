@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "今度は全部見られたぁーーーっ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_096.gif",
+  "level": 2,
+  "name": "鮮やかなしまぱん",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の手札を1枚選び、ストック置場に置いてよい。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

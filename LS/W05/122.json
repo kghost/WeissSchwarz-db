@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "はっはっは、萌えに求めるのは理想であって\n現実ではないのだよかがみん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_122.gif",
+  "level": 0,
+  "name": "晴れ着のこなた",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「つっぱしる女こなた」と「戦場のこなた」すべてに、パワーを＋500。\n【永】 他のあなたの《オタク》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "オタク",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

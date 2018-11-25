@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "一緒に行こう、恭介",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_098.gif",
+  "name": "僕らはリトルバスターズ",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

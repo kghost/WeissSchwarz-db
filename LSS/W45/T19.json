@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_t19.gif",
+  "level": 3,
+  "name": "“真夏のアクアリウム”松浦 果南",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 あなたのクライマックス置場に「“真夏のアクアリウム”鞠莉＆果南＆ダイヤ」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

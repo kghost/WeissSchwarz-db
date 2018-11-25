@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "――この世界には秘密がある――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we18/lb_we18_13.gif",
+  "level": 1,
+  "name": "世界の秘密",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠のカード名に「理樹」か「鈴」を含むキャラに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

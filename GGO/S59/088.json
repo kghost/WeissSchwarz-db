@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ひゃはああああああああ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_088.gif",
+  "level": 0,
+  "name": "マシンガンたのしーなー！ ZEMAL",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 あなたはイベントと『助太刀』を手札からプレイできない。\n【永】 他のあなたの「マシンガンたのしーなー！ ZEMAL」1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "アバター",
+    "ＺＥＭＡＬ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

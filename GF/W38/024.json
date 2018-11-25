@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "急いでどこか移動しましょう。\n一刻も早く、雨の中から抜けないと！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_024.gif",
+  "level": 0,
+  "name": "御宝死守 掛井園美",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "スペアリブうっま！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_022.gif",
+  "level": 1,
+  "name": "山中のバーベキュー",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の《能力者》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

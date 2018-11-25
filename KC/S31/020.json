@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "モグラじゃないもん。まるゆだもん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-020.gif",
+  "level": 0,
+  "name": "三式潜航輸送艇 まるゆ改",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 経験 このカードが手札から舞台に置かれた時、あなたはＸ枚まで引き、自分の手札をＸ枚選び、控え室に置く。Ｘはあなたのレベル置場の「三式潜航輸送艇 まるゆ改」の枚数に等しい。",
+  "trait": [
+    "艦娘",
+    "潜水艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

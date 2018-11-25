@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "M@STERS OF IDOL WORLD!! 四条貴音",
+  "power": 6500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
+  "trait": [
+    "音楽",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_019.gif",
+  "level": 0,
+  "name": "“駐屯兵団所属”ハンネス",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはアタックできない。\n【永】 他のあなたのカード名に「エレン」か「ミカサ」か「アルミン」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "リイン「はやてちゃん！コアの位置発見しました！」\nはやて「了解！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_096.gif",
+  "name": "見事な連携",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

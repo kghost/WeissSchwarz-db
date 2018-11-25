@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "貴様らごときに、我らを止められるか…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we03/mh_we03_012.gif",
+  "level": 1,
+  "name": "ミドリ",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "武器",
+    "病気"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

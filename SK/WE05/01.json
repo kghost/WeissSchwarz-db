@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "秋葉「行かせて――レオパルドの所に！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we05/sk_we05_01.gif",
+  "level": 1,
+  "name": "最後の希望 秋葉",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「黄金銃」があるなら、あなたは自分の《コロニー》のキャラを1枚選び、そのターン中、パワーを＋2500。\n【自】 絆／「ブレインコロニー レオパルド」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ブレインコロニー レオパルド」を1枚選び、手札に戻す）",
+  "trait": [
+    "コロニー",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

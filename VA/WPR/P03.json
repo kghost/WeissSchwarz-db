@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "（無言でこちらを見ている）",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p03.gif",
+  "level": 2,
+  "name": "“殺伐”の麻枝准",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。\n【自】［他のあなたの舞台の《ビジュアルアーツ》のキャラすべてを控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはこの能力のコストで控え室に置かれたキャラの枚数×1500に等しい。",
+  "trait": [
+    "ビジュアルアーツ",
+    "謎"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

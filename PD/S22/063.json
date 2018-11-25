@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_063.gif",
+  "level": 1,
+  "name": "巡音ルカ“ゆるふわコーデ”",
+  "power": 7000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないなら、このカードを【レスト】する。（公開したカードは元に戻す）\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

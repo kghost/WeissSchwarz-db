@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ふふっ♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_105.gif",
+  "level": 2,
+  "name": "捜査再開！ コーデリア",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

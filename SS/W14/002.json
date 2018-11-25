@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "今日から二回戦スタートだもん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_002.gif",
+  "level": 3,
+  "name": "ドレス姿の一美",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、ソウルを＋1。\n【自】 このカードがアタックした時、クライマックス置場に「校舎裏の宣戦布告」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋3000。\n【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "愛",
+    "ドレス"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

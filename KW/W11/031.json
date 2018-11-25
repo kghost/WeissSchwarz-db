@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "だって…えぐっ…レシピ守らないと、おいしくできないでしょ…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_031.gif",
+  "level": 2,
+  "name": "几帳面な佳奈多",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出が3枚以上なら、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは相手のキャラを1枚選び、そのターン中、パワーを?2000。』",
+  "trait": [
+    "双子",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

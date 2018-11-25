@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "お前の相手は私であります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_t09.gif",
+  "level": 1,
+  "name": "『万条の仕手』ヴィルヘルミナ・カルメル",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "炎",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

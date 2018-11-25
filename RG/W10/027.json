@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "わわっ、佐天さん、やめてくださいー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_027.gif",
+  "level": 3,
+  "name": "水着の初春",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

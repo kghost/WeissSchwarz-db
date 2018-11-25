@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あぁもう！　兄さんの鈍感！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_e13.gif",
+  "level": 3,
+  "name": "水着の由夢",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から4枚まで見て、山札の上に好きな順番で置く。\n【自】 このカードがアタックした時、クライマックス置場に「ねことお風呂で」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "魔法",
+    "水着"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

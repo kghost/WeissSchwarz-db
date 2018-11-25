@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "はい、ポーズ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_p17.gif",
+  "name": "みんなそろって記念撮影",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

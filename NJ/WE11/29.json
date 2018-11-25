@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ふ…普通の…女の子っぽく…見えますかっ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_29.gif",
+  "level": 0,
+  "name": "学校デビュー なの",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "メカ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "みくる「…どどこ触ってるんですかぁ!?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_061.gif",
+  "level": 1,
+  "name": "浴衣のハルヒ＆みくる",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "和服",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

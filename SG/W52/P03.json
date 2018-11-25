@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "（フレーバー無し）",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_p03.gif",
+  "level": 0,
+  "name": "【騎刃ノ一閃-終雷：体】翼",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

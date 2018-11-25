@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "すぅ?！すぅ?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_070.gif",
+  "level": 1,
+  "name": "吸いましょう！",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】しているカード名に「シャロ」を含むキャラを1枚選び【レスト】する。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にし、このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

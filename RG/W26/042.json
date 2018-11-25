@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "佐天「じゃあやっぱあたしの見間違いだったのかなー」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_042.gif",
+  "level": 1,
+  "name": "仲良し 佐天＆初春",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のクライマックスを1枚選び、手札に戻し、自分の手札を1枚選び、クロック置場に置く。",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

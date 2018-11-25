@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ぷよぷよで勝負だ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_t06.gif",
+  "level": 2,
+  "name": "冒険大好き アルル",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《ぷよ》のキャラを1枚選び、そのターン中、ソウルを＋1し、そのキャラ以外の自分の、そのキャラと同じカード名のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "ぷよ",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

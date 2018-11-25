@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "七枚の花弁はアーチャーを守護し、\n主を撃ち抜こうとする魔弾に対抗する――――！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_069.gif",
+  "level": 2,
+  "name": "熾天覆う七つの円環",
+  "rarity": "R",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の控え室のキャラを1枚選び、手札に戻す。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

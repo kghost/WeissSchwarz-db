@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "それは義之くん相手だからだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_50.gif",
+  "name": "我がままなアイシア",
+  "rarity": "C",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

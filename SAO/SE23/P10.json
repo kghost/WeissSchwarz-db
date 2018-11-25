@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ちょっと、気合入れなおさないと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_se23/sao_se23_p10.gif",
+  "level": 0,
+  "name": "端正な構え アスナ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

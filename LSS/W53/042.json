@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "人は生まれてきたの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_042.gif",
+  "level": 0,
+  "name": "“MY舞☆TONIGHT”渡辺 曜",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 他のあなたの「“MY舞☆TONIGHT”高海 千歌」がアタックした時、クライマックス置場に「みんなと挑むステージ」があり、そのキャラの下のマーカー置場に表向きの「“MY舞☆TONIGHT”渡辺 曜」がないなら、あなたは自分の「“MY舞☆TONIGHT”黒澤 ダイヤ」を1枚とこのカードを選び、その「“MY舞☆TONIGHT”高海 千歌」の下にマーカーとして好きな順番で表向きに置いてよい。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

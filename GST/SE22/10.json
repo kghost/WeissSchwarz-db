@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "おれたちは、死ぬまで一緒だぜっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_10.gif",
+  "level": 2,
+  "name": "燃え盛る炎の落とし子 つかさ",
+  "power": 9500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、あなたは自分の手札をランダムに1枚選び、控え室に置く。（公開したカードは元に戻す）\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ギガント",
+    "主人公"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

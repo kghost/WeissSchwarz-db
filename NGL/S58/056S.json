@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "せっかくです、楽しみましょう。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_056s.gif",
+  "level": 1,
+  "name": "実力者の矜持 ジブリール",
+  "power": 4500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】[(1)］ あなたのクライマックス置場に「“死”そのもの」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《ゲーム》のキャラを1枚選び、【スタンド】する。",
+  "trait": [
+    "ゲーム",
+    "天翼種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

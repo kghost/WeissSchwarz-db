@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ゲームクリアっと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_t11.gif",
+  "level": 0,
+  "name": "“女スパイ”沙耶",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

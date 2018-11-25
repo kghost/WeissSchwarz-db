@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_036r.gif",
+  "level": 3,
+  "name": "必殺の打撃 ミウラ",
+  "power": 9500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《格闘》のキャラか「スターセイバー」を1枚選び、手札に戻してよい。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「抜剣」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "格闘",
+    "家事"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

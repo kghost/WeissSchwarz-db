@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "大丈夫だよ、私たちだっているし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_19.gif",
+  "level": 0,
+  "name": "仲間との約束 雪子",
+  "power": 2000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "trait": [
+    "扇子",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "銀十字 「猫型端末によって、ブック本体に軽度の損傷。\n能動排除の許可を願います」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g12.gif",
+  "name": "未来に帰る方法",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

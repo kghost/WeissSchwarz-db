@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_p02s.gif",
+  "level": 0,
+  "name": "“ロックな一体感”美竹蘭",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

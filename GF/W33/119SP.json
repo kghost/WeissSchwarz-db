@@ -1,0 +1,18 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "level": 1,
+  "name": "楽しむ姿 鴫野睦",
+  "power": 4500,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの青のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "ガール",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

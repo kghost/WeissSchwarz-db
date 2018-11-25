@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "はい！私、頑張っちゃいますから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_153.gif",
+  "level": 0,
+  "name": "白露型駆逐艦6番艦 五月雨",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《艦娘》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

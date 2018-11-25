@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "だ、だれにも言えない秘密の共有。デュフフ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_062.gif",
+  "level": 2,
+  "name": "秘密の共有 フラウ",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「神代 フラウ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "科学",
+    "オタク"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

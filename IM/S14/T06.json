@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ステージの上なら、私でも輝けるんだ…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_t06.gif",
+  "level": 2,
+  "name": "チャーミングヴィーナス 雪歩",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "お茶"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

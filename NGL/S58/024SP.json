@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_024sp.gif",
+  "level": 3,
+  "name": "クラミー・ツェル",
+  "power": 10000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「遠き約束の日」があるなら、あなたはそのキャラをクロック置場に置いてよい。",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

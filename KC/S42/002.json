@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "今日はいい風…。正規空母、大鳳、出撃します！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_002.gif",
+  "level": 3,
+  "name": "大鳳型装甲空母 大鳳改",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 相手が【起】を使った時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "艦娘",
+    "装甲空母"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

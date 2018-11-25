@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_036.gif",
+  "level": 0,
+  "name": "“Puella Magi Holy Quintet”ほむら",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。\n【起】[(1)］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

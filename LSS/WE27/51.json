@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "シャイ煮?プリーズ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_we27/lss_we27_51.gif",
+  "level": 2,
+  "name": "“シャイ煮”小原 鞠莉",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーのキャラのいない枠がないなら、すべてのプレイヤーは1枚引く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "きゃぁぁぁぁぁぁぁぁっ！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_025.gif",
+  "name": "オペラとの出会い",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

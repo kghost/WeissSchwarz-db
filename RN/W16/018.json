@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "お兄ちゃん、お散歩行きましょう♪\nいい天気ですよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_018.gif",
+  "level": 1,
+  "name": "青空の下 愛理",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の《科学》のキャラを2枚まで選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "科学",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

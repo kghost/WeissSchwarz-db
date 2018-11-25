@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あと…ペロペロも素敵かも…▽",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_t04.gif",
+  "level": 0,
+  "name": "“ペロペロ大好き”芽亜",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "変身",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

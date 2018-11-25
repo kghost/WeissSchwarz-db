@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "それが義理だろ、人情だろ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_20.gif",
+  "level": 0,
+  "name": "古河 秋生",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《パン》か《だんご》のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「古河 早苗」を1枚選び、手札に戻す。",
+  "trait": [
+    "パン",
+    "演劇"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "この街の全てを敵に回しても止まる訳にはいかないんだっ!!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_031.gif",
+  "level": 2,
+  "name": "“多才能力者”木山",
+  "power": 6500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《超能力》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックス置場に「せんせいの執念」が置かれた時、あなたは自分の控え室の《超能力》のキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "科学",
+    "超能力"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

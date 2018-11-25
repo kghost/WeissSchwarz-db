@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_057a.gif",
+  "level": 1,
+  "name": "ふたつのタバコ",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたのカード名に「獅子劫」か「赤のセイバー」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

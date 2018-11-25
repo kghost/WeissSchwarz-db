@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t46.gif",
+  "level": 1,
+  "name": "はじめてのお仕事 蘭子",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの青のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "闇"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

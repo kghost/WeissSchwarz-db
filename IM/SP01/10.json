@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "うっう?！全国のプロデューサーさん、楽しんでますか?？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_sp01/im_sp01_10.gif",
+  "level": 3,
+  "name": "M@STERS OF IDOL WORLD!! 高槻やよい",
+  "power": 9000,
+  "rarity": "PS",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのクロック置場に「CM出演 やよい」があるなら、あなたの手札のこのカードのレベルを?1。\n【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "音楽",
+    "カエル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

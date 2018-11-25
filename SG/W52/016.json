@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "クリス「ちょ、待てッ！　心の準備がッ……\nお、お前ッ、その……あ……あうう……ッ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_016.gif",
+  "level": 2,
+  "name": "ドキドキの急接近",
+  "rarity": "U",
+  "side": "W",
+  "text": "すべてのプレイヤーは自分の山札の上から3枚を、控え室に置く。あなたのこの効果で控え室に置かれたレベル1以下のキャラの枚数が、相手のこの効果で控え室に置かれたレベル0以下のキャラの枚数より多いなら、あなたは1枚引いてよい。\nこのカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

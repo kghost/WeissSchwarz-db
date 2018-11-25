@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "勇者様とみんなの愛と勇気の物語は、ここからまた、始まるんです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_p01.gif",
+  "level": 0,
+  "name": "真夏を想うミルヒ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《音楽》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "動物",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

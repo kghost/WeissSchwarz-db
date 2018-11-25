@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "はぁ?…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_035.gif",
+  "level": 2,
+  "name": "“さんま大好き”静流",
+  "power": 8500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［手札の「ちっぽけな幸せ」を1枚控え室に置く］ すべてのプレイヤーのアンコールステップの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【レスト】し、自分の山札を見てレベル2以下のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "風紀委員",
+    "眼帯"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

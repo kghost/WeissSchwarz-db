@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "level": 2,
+  "name": "“それは僕たちの奇跡”絢瀬 絵里",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

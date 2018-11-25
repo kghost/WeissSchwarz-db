@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "すぅぅぅぱぁぁぁありんぺぇぇいい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_047.gif",
+  "level": 2,
+  "name": "スーパーリンペイ",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

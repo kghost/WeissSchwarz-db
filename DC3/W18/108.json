@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私、先輩のこと、信じてます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_108.gif",
+  "level": 1,
+  "name": "ちびさら",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "新聞",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

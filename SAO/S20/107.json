@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "これからキリトさんのこと、\nお兄ちゃんって呼んでもいいですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s20/sao_s20_107.gif",
+  "level": 0,
+  "name": "ＳＤシリカ",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

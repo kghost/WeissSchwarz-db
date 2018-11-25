@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "女は外見で舐められたら終わりだよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_049.gif",
+  "level": 1,
+  "name": "鹿目 詢子",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「まどか」を含むキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

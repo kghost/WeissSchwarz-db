@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "沢山の名探偵を生んだミステリーのふるさと！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_018.gif",
+  "level": 2,
+  "name": "ロンドン観光 シャロ",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「シャロ」か「シャーロック」を含むキャラが2枚以上なら、このカードのパワーを＋1000し、ソウルを＋1。",
+  "trait": [
+    "探偵",
+    "カメラ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

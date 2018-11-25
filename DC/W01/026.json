@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あけましておめでとーございまーーーっす！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_026.gif",
+  "level": 0,
+  "name": "晴れ着のななか",
+  "power": 500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「月島 小恋」すべてに、パワーを＋1000。\n【自】 絆／「月島 小恋」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「月島 小恋」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

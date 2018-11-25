@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_p06.gif",
+  "name": "漢泣き シャロ",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

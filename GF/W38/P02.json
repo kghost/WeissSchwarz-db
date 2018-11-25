@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ケーキもいろいろあって凄いですよね?どれも美味しそうで、迷っちゃいます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_p02.gif",
+  "level": 1,
+  "name": "至福の時 優木苗",
+  "power": 4000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの《ガール》のキャラすべてに、レベルを＋1し、パワーを＋500。",
+  "trait": [
+    "ガール",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

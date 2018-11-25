@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "セェイシュンッテェェーッッ！！！\nナンヤァァアァァーーッ！！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_012.gif",
+  "level": 0,
+  "name": "“カザコーのアウトロー”吉野",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
+  "trait": [
+    "不良",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

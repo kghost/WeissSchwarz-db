@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "この気持ち、この思いを届けなければ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_097.gif",
+  "level": 2,
+  "name": "王となる決意",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは1枚引き、自分の《マナ》のキャラすべてに、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

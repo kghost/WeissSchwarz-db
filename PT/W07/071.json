@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "サイス「……久々の狙撃任務だ。まぁ、お前なら容易だろうが」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_071.gif",
+  "level": 2,
+  "name": "狙撃",
+  "rarity": "U",
+  "side": "W",
+  "text": "相手に2ダメージを与える。このダメージがキャンセルされたなら、あなたに1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

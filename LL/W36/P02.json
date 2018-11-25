@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "『ここは私に任せておけ！　君は逃げるんだ。さあ、早く！』……なーんて。似合っていますか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_p02.gif",
+  "level": 0,
+  "name": "“稽古中”園田 海未",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "音楽",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "かなり強力な魔物が投入されていると考えるべきだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_047.gif",
+  "level": 1,
+  "name": "“歴戦の戦士”江坂",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 アンコール ［手札の緑のカードを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "武器",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "キョン｢あのうかつで愛らしい方は、なかなかドアに施錠することを覚えないからなぁ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_017.gif",
+  "level": 0,
+  "name": "がんばりすぎのみくる＆キョン",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "時間",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

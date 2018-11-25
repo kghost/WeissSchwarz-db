@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "すももとあたしの仲に割って入ろうだなんて百万年早いわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3-w46/dc3-w46-p04.gif",
+  "level": 1,
+  "name": "“With You”ちび美琴",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】他のあなたの、《新聞》か《愛》のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは『【自】アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "新聞",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ま、どっちにしても、私達の出番は、ほんまの非常事態だけや",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_107.gif",
+  "level": 0,
+  "name": "八神機動六課部隊長",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "trait": [
+    "魔法",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

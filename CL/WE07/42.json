@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "おっはよ、差し入れに来てやったわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_42.gif",
+  "level": 0,
+  "name": "世話好きな 杏",
+  "power": 1000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《スポーツ》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "双子",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

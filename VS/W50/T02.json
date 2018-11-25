@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "はは…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_t02.gif",
+  "level": 0,
+  "name": "苦笑い ミウラ",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "格闘",
+    "家事"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "教えて、メアド",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_t08.gif",
+  "level": 2,
+  "name": "“ラボメンNo.005” 桐生 萌郁",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたの《ラボメン》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
+  "trait": [
+    "ラボメン",
+    "ケータイ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

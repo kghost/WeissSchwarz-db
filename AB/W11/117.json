@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ゆり『やったね、かなでちゃん』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_117.gif",
+  "level": 0,
+  "name": "“卒業式”かなで＆ゆり",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "死",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

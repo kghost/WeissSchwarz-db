@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "急げ！切り込みはシロエ班だ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_sp02/lh_sp02_06.gif",
+  "level": 1,
+  "name": "ウィリアム＝マサチューセッツ",
+  "power": 4000,
+  "rarity": "PS",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《武器》か《魔法》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「ゲーマーの意地」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《武器》か《魔法》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

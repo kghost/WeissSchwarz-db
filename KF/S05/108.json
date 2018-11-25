@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "やさしいユリお姉さんが師範をつとめる極限流道場のお申しこみはこちら！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_108.gif",
+  "level": 0,
+  "name": "極限小町 ユリ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「サカザキ」を含むキャラすべてに、パワーを＋500。",
+  "trait": [
+    "スポーツ",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

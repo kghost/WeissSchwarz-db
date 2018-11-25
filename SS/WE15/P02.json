@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "うるさいうるさいうるさい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_p02.gif",
+  "level": 1,
+  "name": "水着のシャナ",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "炎",
+    "メロンパン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

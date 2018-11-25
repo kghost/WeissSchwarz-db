@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ごめんなさいね…ちょっとだけ、じっとしてて",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_058.gif",
+  "level": 0,
+  "name": "サポート役 シャマル",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの、《魔法》か《本》のキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の、《魔法》か《本》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

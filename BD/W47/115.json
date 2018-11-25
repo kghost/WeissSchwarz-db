@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "わ?！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-115_u.gif",
+  "level": 2,
+  "name": "はじめて聴いたギター",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたの《音楽》のキャラが2枚以下なら、手札からプレイできない。\nあなたは自分の手札の「花園たえ」を1枚まで選び、舞台の好きな枠に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

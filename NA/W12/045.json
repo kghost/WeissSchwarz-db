@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "すずか「こんにちわー」　アリサ「来たよー」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_045.gif",
+  "level": 1,
+  "name": "お宅訪問",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のクロック置場の《動物》のキャラを1枚選び、手札に戻す。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_t17.gif",
+  "level": 1,
+  "name": "超絶変形型メモカ管理専用お掃除ロボ《ムネーモシュネーmk.III》",
+  "rarity": "TD",
+  "side": "S",
+  "text": "このカードは、あなたの《ストライカー》のキャラがいないなら、手札からプレイできない。あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

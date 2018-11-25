@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "今　咲き誇る狂色の葉が世界を飾る",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_t07.gif",
+  "name": "天樂",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

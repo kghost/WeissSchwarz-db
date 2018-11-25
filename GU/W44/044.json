@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "私も犬の役ならやったことあるよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_044.gif",
+  "level": 1,
+  "name": "わんわんココア",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《ラビットハウス》か《パン》のキャラが3枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ラビットハウス",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

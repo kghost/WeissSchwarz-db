@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "でも…今は違うだろ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_096.gif",
+  "level": 2,
+  "name": "“本当の友達”リト",
+  "power": 9500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、このカードを【レスト】する。\n【自】 あなたの青のクライマックスがクライマックス置場に置かれた時、このカードを【スタンド】する。\n【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。",
+  "trait": [
+    "植物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

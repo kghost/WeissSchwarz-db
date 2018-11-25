@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "今日の俺は、鬼より鬼がかってるぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_100.gif",
+  "name": "鬼がかったやり方",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

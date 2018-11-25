@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あたしも、毎日楽しいよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we05/mh_we05_09.gif",
+  "level": 1,
+  "name": "舞衣＆なつき＆命",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「HiMEの力」があるなら、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "エレメント",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

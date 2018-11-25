@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ミサイルぅぅぅぅ……\nキイィィィィィィック！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_097.gif",
+  "level": 2,
+  "name": "渾身の一撃",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《葬儀社》のキャラの枚数に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

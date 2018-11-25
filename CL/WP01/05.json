@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "世界にたったひとり残された女の子のお話です。\nそれはとてもとても悲しい…冬の日の、幻想物語なんです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_wp01/cl_wp01_05.gif",
+  "level": 1,
+  "name": "やりたい演劇 渚",
+  "power": 4000,
+  "rarity": "PS",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「汐」を含むキャラがいるなら、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「家族の絆」があるなら、あなたは自分の山札を見て黄のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "演劇",
+    "だんご"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

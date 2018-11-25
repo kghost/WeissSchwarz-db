@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ふふ……さあ、どうでしょう？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t35.gif",
+  "level": 2,
+  "name": "“ハートの女王様”白鷺千聖",
+  "power": 4000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

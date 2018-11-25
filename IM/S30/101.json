@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "律子「あんたたちー！」\n亜美・真美「わーーい！！」\nあずさ「あらあら?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s30/im_s30_101.gif",
+  "name": "新しいステージ衣装",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

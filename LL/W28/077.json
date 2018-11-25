@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "この服……変じゃないでしょうか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_077.gif",
+  "level": 1,
+  "name": "私服の花陽",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

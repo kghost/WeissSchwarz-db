@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "巨人を一匹残らず駆逐してやる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_003.gif",
+  "level": 3,
+  "name": "“運命への抗い”エレン",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを?1。\n【永】 他のあなたの《兵団》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

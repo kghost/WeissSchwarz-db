@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "アクア「めぐみ〜ん？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_p04s.gif",
+  "level": 0,
+  "name": "“おうちに帰ろう”アクア＆めぐみん",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《魔法》か《女神》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+  "trait": [
+    "魔法",
+    "女神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "残念だけど、私未成年だから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_007.gif",
+  "level": 1,
+  "name": "“ドクトルペッパリアン”牧瀬 紅莉栖",
+  "power": 5500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 この能力は1ターンにつき1回まで発動する。あなたのカードがレベル置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "ラボメン",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

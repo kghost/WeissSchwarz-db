@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "なっかなっおり！なっかなっおり！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_072.gif",
+  "level": 2,
+  "name": "おまじないシリーズ13『仲直りのおまじない』",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

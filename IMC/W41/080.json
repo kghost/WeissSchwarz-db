@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "我が魂の、赴くままにっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_080.gif",
+  "level": 3,
+  "name": "神崎 蘭子",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「-LEGNE- 仇なす剣 光の旋律」があるなら、あなたは自分の山札の上から5枚を、控え室に置き、相手にＸダメージを与え、そのターン中、このカードのパワーを＋2000。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "音楽",
+    "闇"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

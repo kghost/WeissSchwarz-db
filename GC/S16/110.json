@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "これは力。人の心を紡いで形となす--“罪の王冠”",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_110.gif",
+  "level": 2,
+  "name": "“運命の邂逅”集＆いのり",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「死にゆくものへ餞を」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "武器",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

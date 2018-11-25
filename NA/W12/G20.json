@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私が目覚めたら――\nあとには破壊の爪痕しか残らない――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g20.gif",
+  "level": 1,
+  "name": "砕け得ぬ闇",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

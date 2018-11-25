@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…アイドルデビューするのですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_091.gif",
+  "level": 1,
+  "name": "“マネージャー”美魚",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他の《スポーツ》のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

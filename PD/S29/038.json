@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s29/pd_s29_038.gif",
+  "level": 2,
+  "name": "初音ミク“メテオライト”",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋2000。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+  "trait": [
+    "音楽",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

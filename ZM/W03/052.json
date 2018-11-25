@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "俺、手加減とかできませんよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_052.gif",
+  "level": 1,
+  "name": "“ガンダールヴ”サイト",
+  "power": 3500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「ルイズ」を含むキャラがいるなら、このカードのパワーを＋2000。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「伝説の使い魔」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "使い魔",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

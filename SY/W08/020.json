@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "変ったことも無く、無事一日目を終了した",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_020.gif",
+  "level": 1,
+  "name": "合宿の夜",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札の上から1枚を公開する。そのカードが《SOS団》のキャラなら、あなたは1枚引いてよい。（そうでないなら元に戻す）\nあなたの《SOS団》のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

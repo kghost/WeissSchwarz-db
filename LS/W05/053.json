@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "一見万能に見えて不得手をさらすことで\n影ですごい努力をしてるのを連想させるかがみ萌え",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_053.gif",
+  "level": 0,
+  "name": "泉 こなた",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「ツンデレ特急かがみ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ツンデレ特急かがみ」を1枚選び、手札に戻す）\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「かがみ」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "オタク",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

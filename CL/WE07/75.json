@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたしの妹をいじめるとはいい度胸じゃない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_75.gif",
+  "level": 0,
+  "name": "朋也のクラスメート 杏",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは自分のストックの上から1枚を、控え室に置く。（公開したカードは元に戻す）",
+  "trait": [
+    "双子",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

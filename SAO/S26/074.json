@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ヒトを求める心を、\nあんなふうにややこしく表現する心理は理解できません",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s26/sao_s26_074.gif",
+  "level": 1,
+  "name": "シンプルな答え ユイ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "ネット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

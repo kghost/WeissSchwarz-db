@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "わかんないところがあったら、あたしが教えてあげるから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_088.gif",
+  "level": 0,
+  "name": "音楽部の眞子",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "鍋"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

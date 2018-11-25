@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "新しい商品を入荷したぞ！　たっぷり買っていけ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_096.gif",
+  "level": 1,
+  "name": "青ひげファーマシー",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

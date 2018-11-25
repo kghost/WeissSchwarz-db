@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "キース「……グリシャ……今日お前の息子が……兵士になったぞ……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_t12_td.gif",
+  "name": "進撃の一歩",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

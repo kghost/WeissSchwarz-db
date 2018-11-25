@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "みなさん、がんばってるじゃないですか。\nわたしも心から応援したくなってきました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_113.gif",
+  "level": 3,
+  "name": "“物静か”美魚",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "私なんかがロマリアに行っていいのでしょうか……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_16.gif",
+  "level": 3,
+  "name": "もう一人の担い手 ティファニア",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場の『集中』を持つカード1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

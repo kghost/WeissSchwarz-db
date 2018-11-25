@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "一網打尽にするです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_002.gif",
+  "level": 1,
+  "name": "澄原 サトカ",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《ストライカー》なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「お腹すく前に 終わらすです」があるなら、あなたは自分の山札を見て《ストライカー》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ストライカー",
+    "探偵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

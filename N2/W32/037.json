@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "我等にも、成さねばならぬ事がある",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w32/n2_w32_037.gif",
+  "level": 0,
+  "name": "謎の剣士 シグナム",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードがアタックした時、クライマックス置場に「立ちはだかる強敵」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

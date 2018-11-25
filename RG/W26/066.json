@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "この街の治安を脅かすなら、たとえお姉さまが相手でも\n黒子のやることは変わりませんの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_066.gif",
+  "level": 1,
+  "name": "強い正義感 黒子",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

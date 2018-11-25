@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "綾波が一番だなんて……嬉しいです。\n……司令官のおかげですね。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_044.gif",
+  "level": 0,
+  "name": "綾波型駆逐艦1番艦 綾波",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

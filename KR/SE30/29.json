@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "そうゆうわけなんで、雇用契約をお願いします",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_29.gif",
+  "level": 0,
+  "name": "“契約黒猫”六文",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "契約黒猫",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

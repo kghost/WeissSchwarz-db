@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "おりょ、提督？睦月、呼んだ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_t11.gif",
+  "level": 0,
+  "name": "睦月型駆逐艦1番艦 睦月",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのソウルを＋1。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

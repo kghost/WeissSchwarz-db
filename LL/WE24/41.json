@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we24/ll_we24_41.gif",
+  "level": 1,
+  "name": "ふわふわなアルパカさん",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

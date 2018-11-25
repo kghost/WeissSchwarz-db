@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "言ったでしょう。この世界では私の思い通りになる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_091.gif",
+  "level": 1,
+  "name": "“戯睡郷”メア",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 アラーム このカードがクロックの1番上にあるなら、あなたか相手のクライマックス置場にクライマックスが置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trait": [
+    "炎",
+    "宝具"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

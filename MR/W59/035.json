@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "手出ししないで。あれは私たちの獲物よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_035.gif",
+  "level": 1,
+  "name": "静海 このは",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「戻れないあの頃」があるなら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の「遊佐 葉月」を1枚までと「三栗 あやめ」を1枚まで選び、ストック置場に好きな順番で置く。』",
+  "trait": [
+    "魔法",
+    "バランス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

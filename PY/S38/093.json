@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "よぉ?し　いってみよう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_093.gif",
+  "level": 0,
+  "name": "すずらん中学校の生徒 りんご",
+  "power": 2000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ぷよ",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

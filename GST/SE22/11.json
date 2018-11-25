@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "キングメンガー、頼むぞ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_11.gif",
+  "name": "ギャラクティカドラゴン",
+  "rarity": "C",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

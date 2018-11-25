@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私たち…血よりも固い絆で結ばれた家族です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_004.gif",
+  "level": 1,
+  "name": "“アネックス1号の乗組員”エヴァ",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) あなたの舞台のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「DESIRE 願い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“幹部乗組員”アドルフ」を1枚までと《改造》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "改造",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

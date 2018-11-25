@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "まーまー、ちょっとは肩の力抜こうよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_049.gif",
+  "level": 1,
+  "name": "遊佐 葉月",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "サポート"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ああ、長かったな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_058.gif",
+  "level": 1,
+  "name": "“任務完了”美砂",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《能力者》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“転入生”西森 柚咲」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "能力者",
+    "死"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

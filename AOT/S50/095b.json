@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ミケ「いや、潮時だ……十分時間は稼いだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_095b.gif",
+  "level": 1,
+  "name": "“捕食”巨人",
+  "power": 4500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 他のあなたの前列の「“捕食”巨人」1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "巨人",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

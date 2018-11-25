@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "サプラ??イズだよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_028.gif",
+  "level": 3,
+  "name": "Welcome！ ココア",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）\n【自】【CXコンボ】 記憶 あなたのクライマックス置場に「ただいま」が置かれた時、あなたのレベルが3以上で、思い出置場にこのカードがあるなら、あなたはこのカードを舞台のキャラのいない枠に置いてよい。",
+  "trait": [
+    "ラビットハウス",
+    "Dear My Sister"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_007.gif",
+  "level": 1,
+  "name": "“憎しみの記憶”フェリシア",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのアタックフェイズの始めに、あなたは自分の前列のキャラを1枚選び、自分の前列のキャラすべてのレベルがそのキャラと同じなら、そのターン中、このカードのパワーを＋3000。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

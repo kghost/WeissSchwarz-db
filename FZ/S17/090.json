@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "そうです！その通りです！さすがリュウノスケ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_090.gif",
+  "level": 1,
+  "name": "死の美学 キャスター",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「運命の悪戯」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見てレベル0以下のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。",
+  "trait": [
+    "サーヴァント",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

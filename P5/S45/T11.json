@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私じゃ志帆の力になれないのかな…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_t11.gif",
+  "level": 0,
+  "name": "友達想い 杏",
+  "power": 500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《怪盗》か《スポーツ》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "怪盗",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

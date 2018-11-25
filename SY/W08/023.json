@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "みんな聞いて！朗報よ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_023.gif",
+  "name": "涼宮ハルヒの朗報",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

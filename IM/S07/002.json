@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "世界中の皆さんに、この歌を届けます。\n歌は『ＫＯＳＭＯＳ，ＣＯＳＭＯＳ』！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_002.gif",
+  "level": 2,
+  "name": "情熱家 雪歩",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「Kosmos,Cosmos」があるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。",
+  "trait": [
+    "音楽",
+    "お茶"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

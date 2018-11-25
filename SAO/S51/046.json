@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "エイジ「僕の思い出の日記みたいなものさ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s51/sao_s51_046.gif",
+  "level": 2,
+  "name": "SAO事件記録全集",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。\n以下の効果のうちあなたが選んだ1つを行う。\n『あなたは相手の前列のレベル2以下の『記憶』を持つキャラを1枚選び、控え室に置く。』\n『あなたは相手のキャラを1枚選び、そのターン中、パワーを?2000。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

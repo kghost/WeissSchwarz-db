@@ -1,0 +1,12 @@
+{
+  "color": "BLUE",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_098.gif",
+  "name": "氷欠泉",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

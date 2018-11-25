@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "犬（ハルちゃん）をもふもふしたい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p16.gif",
+  "level": 0,
+  "name": "“シャレオツ業界人（）”どんまる",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "ビジュアルアーツ",
+    "仏像"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

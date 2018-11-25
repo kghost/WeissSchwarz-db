@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "謙吾「二人はここにいてくれ」\n真人「クド公を頼むぜ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_p07.gif",
+  "level": 1,
+  "name": "頼れる馬鹿 謙吾＆真人",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《筋肉》か《スポーツ》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "筋肉",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

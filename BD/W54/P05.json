@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "友希那「あなた達――“Roselia”にすべてを賭ける覚悟はある？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_p05.gif",
+  "level": 0,
+  "name": "“Roselia Stage”リサ＆友希那&紗夜",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

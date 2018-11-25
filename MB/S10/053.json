@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "元気になったら、また遊びに来てくださいまし？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_053.gif",
+  "level": 0,
+  "name": "割烹着の悪魔 琥珀",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《双子》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "双子",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

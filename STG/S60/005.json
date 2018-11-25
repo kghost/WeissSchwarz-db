@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "お前の3週間の世界線漂流を無駄にしてはならない。なかったことにしてはいけない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_005.gif",
+  "level": 1,
+  "name": "“囚われた時空のインフェルノ”岡部 倫太郎",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の《ラボメン》のキャラを1枚選び、入れ替えてよい。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Dメール」を1枚選び、手札に戻す。",
+  "trait": [
+    "ラボメン",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

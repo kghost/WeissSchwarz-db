@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "巴「しかし、あれだな。そんなに素直になられたらアタシの役目がなくなっちまうな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_046.gif",
+  "level": 2,
+  "name": "素直じゃないヤツ",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたの《Afterglow》のキャラがいないなら、手札からプレイできない。\nあなたは自分のクロックを1枚選び、手札に戻す。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

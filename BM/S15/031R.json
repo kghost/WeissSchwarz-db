@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "暦の恋人 戦場ヶ原ひたぎ",
+  "power": 6500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 このカードのパワーを＋Ｘ。Ｘはあなたのレベル置場のカードのレベルの合計×500に等しい。",
+  "trait": [
+    "怪異",
+    "文房具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "がんばるよぉ、リオンちゃん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we29/hll_we29_41.gif",
+  "level": 0,
+  "name": "リオンの新たな使者 ワッフル",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［このカードをカード名に「リオン」を含むキャラの下にマーカーとして表向きに置く］ 他のあなたのカード名に「リオン」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "使者",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

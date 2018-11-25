@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ゆたか「お姉ちゃんは毎日お弁当作ってるの―――？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_065.gif",
+  "level": 0,
+  "name": "こなた＆ゆたか",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《保健室》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "オタク",
+    "保健室"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

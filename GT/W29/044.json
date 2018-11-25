@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ですねー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_044.gif",
+  "level": 2,
+  "name": "天道三姉妹 ななせ",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《タロット》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+  "trait": [
+    "ホムンクルス",
+    "タロット"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

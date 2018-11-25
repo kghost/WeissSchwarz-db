@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "……危ないのは、志貴の方",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_102.gif",
+  "level": 1,
+  "name": "使い魔 レン",
+  "power": 6000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "使い魔",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

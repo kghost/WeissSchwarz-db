@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "リオン「ねー、ベル」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we28/hll_we28_18.gif",
+  "level": 0,
+  "name": "いつも一緒 ベル",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「リオン」を含むキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "使者",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

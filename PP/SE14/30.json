@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "いけるね。計画に修正は必要ない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pp_se14/pp_se14_30.gif",
+  "level": 1,
+  "name": "管理社会への反抗 槙島",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(4) 手札のクライマックスを1枚控え室に置き、このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「槙島 聖護」を1枚選び、このカードがいた枠に置く。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《サイコパス》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "サイコパス",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

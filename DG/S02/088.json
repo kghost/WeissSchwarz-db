@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……ところで『ターン終了』したら、どうなるんじゃ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_088.gif",
+  "level": 0,
+  "name": "箱入りお嬢様ロザリンド",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたは1枚引く］ あなたのメインフェイズを終了しエンドフェイズに進む。",
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

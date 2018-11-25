@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "前から思っていたけど\n貴方、ロックスターみたい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_044.gif",
+  "name": "スパイラル・ラダー",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

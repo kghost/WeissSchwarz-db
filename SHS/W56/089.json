@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "つまりあたしら目当てで来る客はいないってことだね?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_089.gif",
+  "level": 2,
+  "name": "icy tail 叡智佳",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。\n【自】 共鳴 ［手札を1枚控え室に置き、手札の「icy tail 美智留」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「blessing software 美智留」を1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "ゲーム",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "みゆき「少しだけ…」\nこなた「あ あれ…何か出ましたネ――」\nかがみ「――出たわね」\nこなた「空間隔離してますね――」\nかがみ「しばらく戻ってこなそうね――」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_020.gif",
+  "level": 2,
+  "name": "戦闘モード",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《メガネ》のキャラの枚数×1000に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

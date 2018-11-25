@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ハンカチまで貸してくれたの　仲のいい友達ができそうで嬉しいんだ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_015.gif",
+  "level": 0,
+  "name": "小早川 ゆたか",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたのキャラとバトルしているキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "保健室",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

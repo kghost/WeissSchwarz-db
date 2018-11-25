@@ -1,0 +1,11 @@
+{
+  "color": "RED",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_p01.gif",
+  "name": "いつかあの娘と戦うことになっても",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+  ],
+  "type": "Climax"
+}

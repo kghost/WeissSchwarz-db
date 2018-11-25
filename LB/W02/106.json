@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "こんなところで奇遇ね、わが最強のライバル、棗鈴",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_106.gif",
+  "level": 0,
+  "name": "“ライバル”佐々美",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の「“神なるノーコン”鈴」1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "スポーツ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

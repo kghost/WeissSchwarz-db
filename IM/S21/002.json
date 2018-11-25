@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "蕩けるほど　私の眠りにキスして",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_002.gif",
+  "level": 3,
+  "name": "情熱のスノーホワイト 雪歩",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「Little Match Girl」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trait": [
+    "音楽",
+    "お茶"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

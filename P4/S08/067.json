@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "話は署で聞こうか…\nくー！　このセリフ、言ってみたかった！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_067.gif",
+  "level": 1,
+  "name": "署内一の頭脳派 足立",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "警察",
+    "ジュネス"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

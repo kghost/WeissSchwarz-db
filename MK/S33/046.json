@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "桃怪盗「あなたのトイズ、本当に怪盗向きなのね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_046.gif",
+  "level": 1,
+  "name": "初めての怪盗",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を上から4枚まで見て、カード名に「アリス」か「カズミ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

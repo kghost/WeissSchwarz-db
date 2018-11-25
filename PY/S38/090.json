@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "かんぜんに　まよったよ?♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_090.gif",
+  "level": 0,
+  "name": "謎に夢中♪ りんご",
+  "power": 2500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《ぷよ》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "ぷよ",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

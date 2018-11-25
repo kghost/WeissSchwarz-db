@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "おかえりなさい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_071.gif",
+  "level": 0,
+  "name": "Welcome！ チノ",
+  "power": 1500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。\n【起】【CXコンボ】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの「ただいま」か「おかえりなさい」1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "trait": [
+    "ラビットハウス",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

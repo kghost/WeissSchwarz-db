@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私はいちギタリストとしての意見を言っただけよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t02r.gif",
+  "level": 0,
+  "name": "“揺るぎない覚悟”氷川紗夜",
+  "power": 500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。\n【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

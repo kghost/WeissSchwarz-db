@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ま、負けないのです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we21/lb_we21_p02.gif",
+  "level": 1,
+  "name": "ねばー・ぎぶあっぷ　クド",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "動物",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

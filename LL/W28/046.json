@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "何か探してるん？幸運の女神ならここにおるよ♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_046.gif",
+  "level": 0,
+  "name": "私服の希",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "占い"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

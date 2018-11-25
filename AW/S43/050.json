@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ま、友達かな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_050.gif",
+  "level": 1,
+  "name": "現実への帰還",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたのキャラすべてに、そのターン中、『【自】 アンコール ［(1)］』を与える。\nこのカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

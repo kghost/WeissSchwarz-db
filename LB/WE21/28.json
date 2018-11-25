@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お遊びはここまでよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we21/lb_we21_28.gif",
+  "level": 1,
+  "name": "エーススナイパー沙耶",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《武器》のキャラ1枚につき、このカードのパワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "武器",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

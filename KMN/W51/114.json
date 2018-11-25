@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ああっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_114.gif",
+  "level": 1,
+  "name": "お化けの正体？ タイリクオオカミ",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+  "trait": [
+    "フレンズ",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

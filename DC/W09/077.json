@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "私たちの代が格上だってコトを、あらためて後輩ドモに叩き込んであげましょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_077.gif",
+  "level": 3,
+  "name": "新生徒会長 杏",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(2)］ このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《演劇》か《生徒会》のキャラなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。（公開したカードは元に戻す）",
+  "trait": [
+    "演劇",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

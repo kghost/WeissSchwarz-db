@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "あのね……卯月……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_118.gif",
+  "level": 2,
+  "name": "夜空の決意 凛",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「Trancing Pulse」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、そのターン中、このカードのパワーを＋4500。（公開したカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

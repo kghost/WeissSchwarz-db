@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "消せ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_012.gif",
+  "level": 2,
+  "name": "幽鬼の支配者のマスター・ジョゼ",
+  "power": 8500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《エレメント》のキャラを2枚まで選び、山札に戻す。その山札をシャッフルする。2枚戻したなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
+  "trait": [
+    "魔法",
+    "マスター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

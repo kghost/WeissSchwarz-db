@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "なんだ…この、どうしようもない感覚は…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_09.gif",
+  "level": 0,
+  "name": "中之条 剛",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "モヒカン",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

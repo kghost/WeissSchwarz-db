@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "じゃあ、次こそは絶対、倒さなきゃな。\n教皇の仇打ちだ。な、ルイズ、テファ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_33.gif",
+  "level": 1,
+  "name": "気丈なサイト",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ 他のあなたの《魔法》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "使い魔",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

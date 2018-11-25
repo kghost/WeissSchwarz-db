@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "お目覚め かなで",
+  "power": 8000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《生徒会》のキャラの枚数×500に等しい。",
+  "trait": [
+    "死",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

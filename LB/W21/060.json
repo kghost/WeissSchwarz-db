@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "だって、葉留佳はわたしの…わたしの…\n――いもうとだもの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_060.gif",
+  "name": "あの時の約束",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

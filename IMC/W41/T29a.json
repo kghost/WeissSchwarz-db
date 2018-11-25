@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "未央「…『働いたら負け』？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t29a.gif",
+  "level": 1,
+  "name": "働きたくない 杏",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「かな子」か「智絵里」か「きらり」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "飴"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

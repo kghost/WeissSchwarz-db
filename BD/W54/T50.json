@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "アタシ達一人ひとりの音が混じって重なりあって、『音』が『音楽』になる瞬間……アタシはそれが大好きなんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t50.gif",
+  "level": 2,
+  "name": "“頼れる姉御肌”宇田川巴",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ 他のあなたの《音楽》のキャラすべてに、そのターン中、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

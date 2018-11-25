@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "人の『死』に慣れるな。\n戦いに慣れるな、殺し合いに慣れるな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_066.gif",
+  "level": 2,
+  "name": "炎蛇のコルベール",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたの赤のキャラすべてに、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』\n【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。",
+  "trait": [
+    "魔法",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

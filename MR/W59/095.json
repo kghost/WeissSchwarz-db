@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あたしはさ、自分の大切な人が幸せだったらそれでいいんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_095.gif",
+  "level": 1,
+  "name": "“大切な人のために”さやか",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「さやか」を含むキャラとカード名に「杏子」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋2500。",
+  "trait": [
+    "魔法",
+    "スキル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

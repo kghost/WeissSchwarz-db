@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "バンバン投げちゃえ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_t18.gif",
+  "level": 0,
+  "name": "戦場激写 望月エレナ",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［?］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【自】このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "ガール",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

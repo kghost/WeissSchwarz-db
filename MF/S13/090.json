@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "何やってるお前らぁぁっ!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_090.gif",
+  "level": 0,
+  "name": "ランカの義兄 オズマ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "パイロット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

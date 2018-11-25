@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "もうちょい笑った方が可愛いよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_t06.gif",
+  "level": 2,
+  "name": "挑発する挑戦者 空",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

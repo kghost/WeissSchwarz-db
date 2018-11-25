@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "パトリシア「ニホンはセーフクだから\nスバらしいんじゃないですカ!!」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_089.gif",
+  "level": 0,
+  "name": "こなた＆ひより＆パティ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの《オタク》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "オタク",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

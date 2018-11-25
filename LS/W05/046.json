@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "こなた「前から思ってたんだけど」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_046.gif",
+  "level": 1,
+  "name": "ツインテール",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《双子》のキャラの枚数×500に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

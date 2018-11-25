@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "だからこそ、お互いのことをもっと知りたいし\n仲良くなりたい……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_054.gif",
+  "level": 0,
+  "name": "朝日に輝く あかり",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《タロット》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "タロット",
+    "占い"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

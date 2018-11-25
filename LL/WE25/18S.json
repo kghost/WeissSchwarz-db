@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おいでおいで?っ！　どっちが速く泳げるか?、本気で競走だよっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we25/ll_we25_18s.gif",
+  "level": 2,
+  "name": "“夕焼けサマーガール”星空 凛",
+  "power": 8000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "水着"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

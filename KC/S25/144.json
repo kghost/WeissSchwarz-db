@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "モガミンはどこ？彼女には気をつけないと。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_144.gif",
+  "level": 1,
+  "name": "最上型重巡2番艦 三隈",
+  "power": 6000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「最上型航空巡洋艦2番艦 三隈改」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "艦娘",
+    "重巡洋艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

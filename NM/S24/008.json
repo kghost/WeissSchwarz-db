@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "べ、べ、別に、暦お兄ちゃんが\n初めてうちに遊びに来てくれるんだからって、\n勇気を振り絞ったりなんて、撫子、してないよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_008.gif",
+  "level": 1,
+  "name": "おめかし千石撫子",
+  "power": 4000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《怪異》のキャラすべてに、パワーを＋500。\n【自】［(1)］ あなたのクライマックス置場に「お出迎え」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500し、ソウルを＋1。",
+  "trait": [
+    "怪異",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

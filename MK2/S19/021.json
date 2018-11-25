@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "カビ――！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_021.gif",
+  "level": 1,
+  "name": "カビ",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札の上から1枚を公開する。そのカードが《探偵》のキャラなら、あなたはそのカードを手札に加えてよい。（そうでないなら元に戻す）\nあなたの《探偵》のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

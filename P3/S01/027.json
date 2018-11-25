@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "”耐力”は防御力の要。それが高い私は、つまりタフガイであります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_027.gif",
+  "level": 2,
+  "name": "アイギス＆パラディオン",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他の《メカ》のあなたのキャラが2枚以上いるなら、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "メカ",
+    "神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

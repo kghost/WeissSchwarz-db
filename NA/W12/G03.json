@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "さすがにそうそう、\n同じ技で落とされたりはしませんよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g03.gif",
+  "level": 0,
+  "name": "スクライアの子 ユーノ",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

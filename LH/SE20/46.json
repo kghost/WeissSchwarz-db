@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "この魔法がこの世界にどんな影響を与えるのかわからない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_46.gif",
+  "level": 2,
+  "name": "筆写師 シロエ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋3000。",
+  "trait": [
+    "魔法",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

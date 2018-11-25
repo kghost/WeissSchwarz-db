@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "対怪盗事件捜査チーム 平乃",
+  "power": 8000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたのカード名に「対怪盗事件捜査チーム」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "警察",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

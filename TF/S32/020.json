@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_020.gif",
+  "level": 2,
+  "name": "“高い戦闘力”ジョセフ",
+  "power": 9000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "改造",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

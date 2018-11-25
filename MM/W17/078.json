@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ブッ潰しちゃえばいいんでしょ？ その子",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_078.gif",
+  "level": 2,
+  "name": "魔法少女現る",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

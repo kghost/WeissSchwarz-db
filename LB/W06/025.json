@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "…さよなら、理樹君",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_025.gif",
+  "name": "鳴り続けるピアノ",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

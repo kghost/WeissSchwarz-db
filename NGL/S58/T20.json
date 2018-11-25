@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "空「生き残るための力を！　強者が手にしたからだ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_t20.gif",
+  "name": "戴冠式",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

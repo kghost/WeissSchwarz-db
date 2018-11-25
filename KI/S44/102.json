@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "高城千鳥……洲籠高校、2年A組",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_102.gif",
+  "level": 1,
+  "name": "SD千鳥",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "キズナ",
+    "家事"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

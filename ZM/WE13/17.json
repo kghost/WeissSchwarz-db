@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "サイトさんが一緒で、良かった……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_17.gif",
+  "level": 0,
+  "name": "秘めた想い ティファニア",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠の《使い魔》のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 絆／「気丈なサイト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「気丈なサイト」を1枚選び、手札に戻す）",
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

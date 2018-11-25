@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "道は私が切り開くのだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_125.gif",
+  "level": 1,
+  "name": "末葉 あおい",
+  "power": 5500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+  "trait": [
+    "ストライカー",
+    "剣術"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

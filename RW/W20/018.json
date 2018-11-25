@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "たとえ小さな幸せでも、\n積もり積もれば大きな幸せに両替できるからだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_018.gif",
+  "level": 1,
+  "name": "“小さなしやわせ”小鳥",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "植物",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "まさに救済と言うに相応しい計画だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_033s.gif",
+  "level": 1,
+  "name": "“決戦”赤のライダー",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のレベル置場のカードと控え室のクライマックスを1枚ずつ選び、入れ替える。\n【起】【カウンター】 助太刀3000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "サーヴァント",
+    "不死"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

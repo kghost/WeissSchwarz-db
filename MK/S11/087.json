@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "それじゃみんな、ついてきて",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_087.gif",
+  "level": 3,
+  "name": "頼れるお姉さん コーデリア",
+  "power": 10000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［(4) あなたのキャラを2枚【レスト】する］ あなたは自分の山札を見て《探偵》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "たとえここが仮想世界でも、わたしの気持ちは本物だよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s20/sao_s20_009.gif",
+  "level": 0,
+  "name": "無防備な素顔 アスナ",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「囚われの女王 アスナ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

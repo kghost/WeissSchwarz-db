@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "せめて、は、はにゃしぐらい聞いてくれないか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_061.gif",
+  "level": 2,
+  "name": "廃墟の訪問者 昴",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "科学",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "御法川「見事な肉まん型だな……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cn_se02/cn_se02_20.gif",
+  "level": 0,
+  "name": "天然娘ユンユン",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "病気",
+    "ウェイトレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

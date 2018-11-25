@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ちょっと昔のことを思い出していただけです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_054.gif",
+  "level": 0,
+  "name": "昔の思い出 音夢",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

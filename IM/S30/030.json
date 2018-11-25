@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "プロデューサーさんも、ごいっしょにいかがですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-030.gif",
+  "level": 1,
+  "name": "“今を大切に”あずさ",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《愛》のキャラ1枚につき、このカードのパワーを＋500。\n【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

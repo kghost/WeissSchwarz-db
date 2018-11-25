@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "皆ほら、落ち着いて?ひっくり返りそう…\nわぁ、止まってぇ?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_026.gif",
+  "level": 0,
+  "name": "雪上ハイスピード 櫻井明音",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ガール",
+    "雪"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

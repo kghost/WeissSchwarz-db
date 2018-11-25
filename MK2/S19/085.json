@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "女の子がスタイルを維持するのは\n並々ならぬ努力が必要なの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_085.gif",
+  "level": 0,
+  "name": "眩しい水着姿 コーデリア",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

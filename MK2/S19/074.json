@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "シャロ「どうしてかな……、\n体が……、勝手に動きます……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_074.gif",
+  "name": "初めてのダンス",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

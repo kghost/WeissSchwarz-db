@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あーっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_069.gif",
+  "level": 2,
+  "name": "病院の美琴",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《超能力》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

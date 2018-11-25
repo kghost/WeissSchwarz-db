@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "鈴さんにはこの雷ネットカードをもらったのです！ゴールド！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_082.gif",
+  "level": 1,
+  "name": "“雷ネットチルドレン”椎名 まゆり",
+  "power": 5500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ラボメン》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ラボメン",
+    "裁縫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "まぁ私はやっぱ、基本雷撃よねー。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_094.gif",
+  "level": 1,
+  "name": "球磨型軽巡3番艦 北上",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「球磨型雷巡4番艦 大井改二」がいるなら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「球磨型雷巡3番艦 北上改二」を1枚選び、このカードがいた枠に置く。』",
+  "trait": [
+    "艦娘",
+    "軽巡洋艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

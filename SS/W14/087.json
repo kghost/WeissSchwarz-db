@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "何が入ってるのかな、その中…楽しみだ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_087.gif",
+  "level": 0,
+  "name": "“狩人”フリアグネ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "炎",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

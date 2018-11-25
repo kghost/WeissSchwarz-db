@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "それにしても……この案件はやはり素晴らしい……。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_020.gif",
+  "level": 1,
+  "name": "Ｆの遺産",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を上から3枚まで見て、カード名に「フェイト」か「エリオ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

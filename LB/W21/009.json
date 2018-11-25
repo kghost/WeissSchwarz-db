@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "こ…小毬ちゃんに任せる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_009.gif",
+  "level": 2,
+  "name": "“新たな絆”鈴",
+  "power": 7500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“踏み出した勇気”鈴」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "笑顔も涙でも　この世界中が\nWonder Land な Never Land",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_074.gif",
+  "name": "GO MY WAY!!",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

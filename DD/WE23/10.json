@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "アデル「フランスの片田舎に押し込められていた…訳ありの貴族の小娘…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we23/dd_we23_10.gif",
+  "level": 1,
+  "name": "伝説の勇者召喚",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《動物》のキャラを1枚までと《勇者》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

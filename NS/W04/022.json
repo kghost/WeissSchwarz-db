@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ありがとうございました……助かりました……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_022.gif",
+  "level": 2,
+  "name": "着地失敗",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。あなたは自分の《竜》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

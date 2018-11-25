@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "友達、だろ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_055.gif",
+  "level": 1,
+  "name": "天枷 美夏",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「美夏の願い」が置かれた時、このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\n【自】［(1) このカードの下のマーカーを1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+  "trait": [
+    "メカ",
+    "バナナ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

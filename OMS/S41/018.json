@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_018.gif",
+  "level": 2,
+  "name": "“クリスマスの奇跡”トト子",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの黄のキャラが3枚以上で、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "魚"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

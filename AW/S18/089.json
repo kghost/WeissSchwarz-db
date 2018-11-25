@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "久しぶりね、アッシュ。\nまだ私のことを忘れてないと解って嬉しいわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_089.gif",
+  "level": 2,
+  "name": "アッシュの師匠 スカイ・レイカー",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1) あなたの、《アバター》か《ネット》キャラを1枚【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "アバター",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

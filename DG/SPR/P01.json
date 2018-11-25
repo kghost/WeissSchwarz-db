@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "皆様のご来店をお待ちしているのです。\nゆくゆくは日本一の看板娘になるのです。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_spr/dg_spr_p01.gif",
+  "level": 0,
+  "name": "“PRINNY CLUB 看板娘”プリンちゃん",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500し、《カードゲーム》を与える。",
+  "trait": [
+    "プリニー",
+    "カードゲーム"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "直継「たぶん30秒先の未来を読んで戦うってこと\nなんだろうな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_29.gif",
+  "level": 0,
+  "name": "全力管制戦闘 シロエ",
+  "power": 1000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "魔法",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

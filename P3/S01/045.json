@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ずいぶんと調子悪そうですねぇ。\n　これは…出番ですね、イヒヒヒヒヒヒヒヒ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_045.gif",
+  "level": 2,
+  "name": "保健室",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手の前列のキャラを2枚まで選び、そのターン中、パワーを?1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

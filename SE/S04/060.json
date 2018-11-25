@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "魔族の長ともあろう者が、こうも恥をかかされて黙ってはおれん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_060.gif",
+  "level": 0,
+  "name": "煉獄の業火リームシアン",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードの与えたダメージがキャンセルされた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。",
+  "trait": [
+    "悪魔",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

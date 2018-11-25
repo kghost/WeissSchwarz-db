@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "今よ、永遠に　僕らはずっと、僕らのまま",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_094.gif",
+  "level": 2,
+  "name": "うみのあをにも……",
+  "rarity": "R",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

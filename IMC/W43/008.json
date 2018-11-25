@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "にょ?！？ 怖いぃ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_008.gif",
+  "level": 0,
+  "name": "お化けは苦手 きらり",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "ハピハピ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

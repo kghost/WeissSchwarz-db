@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "清隆……さん……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_092.gif",
+  "level": 1,
+  "name": "お風呂上りの葵",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "新聞",
+    "ウェイトレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

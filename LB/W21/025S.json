@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“可愛いは正義”クド",
+  "power": 4500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

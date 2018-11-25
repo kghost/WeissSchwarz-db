@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "だんご大家族 汐＆渚",
+  "power": 4000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「共に歩む道程 渚」があるなら、このカードのパワーを＋3000。",
+  "trait": [
+    "愛",
+    "だんご"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "日本の為に！ For Japan!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cj_mir/cj_mir_001.gif",
+  "level": 0,
+  "name": "カルチャージャパンのアイドル みらい",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "未来"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

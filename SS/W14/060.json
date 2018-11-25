@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ヴィルヘルミナ「始めるのであります」\nティアマトー「覚悟」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_060.gif",
+  "level": 2,
+  "name": "ヴィルヘルミナ&ティアマトー",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 アンコール ［あなたの舞台の《炎》のキャラを1枚クロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "炎",
+    "メイド"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

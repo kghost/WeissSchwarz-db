@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "それで、どうですか？　私の水着姿は",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_e02.gif",
+  "level": 0,
+  "name": "水着の音夢＆さくら",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "魔法",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

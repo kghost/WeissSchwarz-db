@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "ことりの歌声が、ふたりをそっと、優しく包み込んでいた……。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_049.gif",
+  "name": "結婚式の歌姫",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

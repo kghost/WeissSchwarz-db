@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_063.gif",
+  "level": 0,
+  "name": "“気さくな青年”膝丸 燈",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「差し伸べられた手」を1枚選び、手札に戻す。\n【自】 このカードがアタックした時、あなたは自分の《改造》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "改造",
+    "虫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

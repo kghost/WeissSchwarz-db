@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "我が知略に前に、為す術もなく散るがよい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_18.gif",
+  "level": 2,
+  "name": "“強固なる意志”毛利 元就",
+  "power": 9000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "武器",
+    "日輪"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

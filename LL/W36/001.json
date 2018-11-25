@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "夏祭り、あなたが一緒だとテンションあがっちゃうかも♪　今日は楽しみましょ☆",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_001.gif",
+  "level": 0,
+  "name": "“夏祭りデート”絢瀬 絵里",
+  "power": 2500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《音楽》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "音楽",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

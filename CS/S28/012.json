@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_012.gif",
+  "level": 3,
+  "name": "幸せな家族 野原一家",
+  "power": 10000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《家族》か《幼稚園》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "家族",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

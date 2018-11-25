@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "それじゃあみんな、精一杯やりましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_079.gif",
+  "level": 1,
+  "name": "新田 美波",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「みんなのリーダー」があるなら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

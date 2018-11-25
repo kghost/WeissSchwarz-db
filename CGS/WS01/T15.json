@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "カードゲームしよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_t15.gif",
+  "level": 0,
+  "name": "しましまビキニ しよ子",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "カードゲーム",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

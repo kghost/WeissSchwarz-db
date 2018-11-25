@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "もち、顔パスだよね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_031.gif",
+  "level": 2,
+  "name": "優しいお姉ちゃん 美嘉",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "音楽",
+    "ギャル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

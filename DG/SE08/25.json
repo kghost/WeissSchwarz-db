@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "最高だ───この『イワシ』という小魚はッ！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_25.gif",
+  "level": 0,
+  "name": "“イワシのチカラ”ヴァルバトーゼ",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』",
+  "trait": [
+    "悪魔",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

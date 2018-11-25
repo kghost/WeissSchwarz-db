@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_we27/lss_we27_23.gif",
+  "level": 1,
+  "name": "“未熟DREAMER”高海 千歌",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】［(1) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「未熟DREAMER」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の青のキャラを3枚まで選び、手札に戻す。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

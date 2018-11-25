@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "雪子「コノハナサクヤ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_28.gif",
+  "name": "コノハナサクヤ発動",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

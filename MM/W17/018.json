@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "――えっ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_018.gif",
+  "level": 2,
+  "name": "一瞬の出来事",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

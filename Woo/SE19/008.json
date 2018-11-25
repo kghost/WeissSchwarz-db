@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/woo_se19/woo_se19_008.gif",
+  "level": 1,
+  "name": "氷の島のうーさー",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「クリスマス中止のお知らせ」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《謎》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "謎",
+    "氷"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ななか「楽しいことはあっという間だね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_35.gif",
+  "level": 0,
+  "name": "水着のななか＆由夢",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す。クライマックスのレベルは0として扱う）",
+  "trait": [
+    "音楽",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

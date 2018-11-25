@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "敵がいきなり襲い掛かってきた！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_083.gif",
+  "level": 1,
+  "name": "真・暗黒狼竜フェンリルドラグーンと愉快な魔物たち",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

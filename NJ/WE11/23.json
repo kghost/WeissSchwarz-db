@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "どうしてみんな知ってたんだろう？\n私の誕生日…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_23.gif",
+  "level": 2,
+  "name": "“おたんじょうび”なの",
+  "power": 9000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「はかせ」を含むキャラがいないなら、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』",
+  "trait": [
+    "メカ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

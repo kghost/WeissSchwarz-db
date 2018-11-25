@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "今日はどんな詩を書こうかな…♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_52.gif",
+  "level": 0,
+  "name": "佐々木未来",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "探偵",
+    "声優"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

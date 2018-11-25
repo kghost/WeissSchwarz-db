@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "希「μ'sは９人、それ以上でも以下でも\nダメやって、カードは言うてるよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_p11.gif",
+  "level": 1,
+  "name": "おやつの時間 希＆にこ",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

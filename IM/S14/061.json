@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ミキ、スタイルにはけっこう\n自信あるよ？　もっと近くで見る？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_061.gif",
+  "level": 2,
+  "name": "スタイル抜群！ 美希",
+  "power": 4000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(3)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。\n【自】 記憶 バトル中のこのカードが【リバース】した時、あなたの思い出置場に「BK MANIAC」があるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

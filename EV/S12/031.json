@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "マリ「ザ・ビースト！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_031.gif",
+  "level": 2,
+  "name": "エヴァ２号機 獣化第２形態",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「最後の１枚」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "メカ",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "おとなしくてイイコイイコ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_058.gif",
+  "level": 0,
+  "name": "もふもふ みなみ",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の《動物》のキャラがいるなら、このカードはアタックできない。",
+  "trait": [
+    "保健室",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

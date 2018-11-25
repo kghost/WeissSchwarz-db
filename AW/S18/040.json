@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ヒャーハハハハァ！　もっと踊れぇ――――ッ!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_040.gif",
+  "level": 0,
+  "name": "アッシュ・ローラー",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "アバター",
+    "バイク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

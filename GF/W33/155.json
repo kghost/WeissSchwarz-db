@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "えっと……生け花は美しさが大事。ふんふん、それで……って、それだけ！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_155.gif",
+  "level": 2,
+  "name": "気迫の花 上条るい",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの青のキャラの枚数×500に等しい。",
+  "trait": [
+    "ガール",
+    "和服"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

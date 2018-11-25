@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ねーねー聞こえてるんでしょ？お話しようよ―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_36.gif",
+  "level": 0,
+  "name": "成仏できない者たち",
+  "power": 3500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。",
+  "trait": [
+    "霊",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

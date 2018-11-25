@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "みんなを運ぶ仕事は……私が引き継ぎます！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_095.gif",
+  "level": 1,
+  "name": "アルトの誓い",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたは2枚引いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

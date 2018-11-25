@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "当たり前じゃない。貴族に二言はないわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_05.gif",
+  "level": 3,
+  "name": "貴族の務め ルイズ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場に、「揺るぎない信頼 ルイズ」と「聖国のルイズ」があるなら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

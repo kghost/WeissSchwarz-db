@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "感謝の形 神楽坂砂夜",
+  "power": 4000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋1500。\n【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

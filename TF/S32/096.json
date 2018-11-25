@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_096.gif",
+  "level": 1,
+  "name": "悪魔の血脈",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは自分のカード名に「テラフォーマー」を含むキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

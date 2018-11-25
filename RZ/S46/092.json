@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…もう、スバルのオタンコナス",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_092.gif",
+  "level": 2,
+  "name": "優しい罵倒 エミリア",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたの、《魔法》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードがアタックした時、クライマックス置場に「ぼうやの夢よ」があるなら、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+  "trait": [
+    "魔法",
+    "精霊"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

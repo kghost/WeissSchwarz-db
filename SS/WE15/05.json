@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "今、逃げたら……私は本当に、踏み込んだはずの場所から\n放り出されてしまう気がする",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_05.gif",
+  "level": 1,
+  "name": "逃げない勇気 一美",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "愛",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

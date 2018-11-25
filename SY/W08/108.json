@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "もちろんあたしも着るわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_108.gif",
+  "level": 0,
+  "name": "ウェディングドレスのハルヒ",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクロック1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "団長",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

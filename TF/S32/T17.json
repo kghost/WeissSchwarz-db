@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "― 「最も危険な野生動物」は…“熊”でも“鮫”でもない“蜂”である ―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_t17.gif",
+  "level": 3,
+  "name": "“オオスズメバチ”小町 小吉",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《改造》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【永】 このカードの正面のキャラのソウルを?1。",
+  "trait": [
+    "改造",
+    "虫"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

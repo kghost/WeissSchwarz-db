@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "マリア「あなたの覚悟はそんなもの？\nフフ、我慢しなさいッ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_077.gif",
+  "level": 1,
+  "name": "ヨガ初体験",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたのカード名に「クリス」か「マリア」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

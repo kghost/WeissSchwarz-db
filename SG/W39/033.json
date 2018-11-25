@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "俺はお前らの全ての希望をブチ砕いてやる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_033.gif",
+  "level": 1,
+  "name": "満ちたる力 キャロル",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "錬金術",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

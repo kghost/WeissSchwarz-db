@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "恵「も??、めんどくさいなぁ安芸君はぁ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_052.gif",
+  "level": 1,
+  "name": "徹夜でゲーム",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の《ゲーム》のキャラを2枚選び【レスト】し、それらのキャラは次のあなたのスタンドフェイズに【スタンド】しない。2枚【レスト】したなら、あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の控え室の《ゲーム》のキャラを1枚まで選び、ストック置場に置き、このカードを山札の下に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

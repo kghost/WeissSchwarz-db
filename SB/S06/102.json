@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "政宗「来い、真田幸村！　アンタを倒して俺が勝つ！」\n幸村「ならばこの幸村、貴様という壁を超える！　今ここに、命を賭して！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_s06/sb_s06_102.gif",
+  "level": 2,
+  "name": "“宿敵”政宗＆幸村",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 あなたのターン中、このカードとバトル中のキャラが【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "trait": [
+    "武器",
+    "眼帯"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

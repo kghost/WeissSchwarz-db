@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "やはりワタクシとは持ち主の格というものが違う…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se18/pi_se18_007.gif",
+  "level": 1,
+  "name": "カレイドサファイア ルヴィア",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "宝石",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "葬儀社の看板は重てぇぞ。\n――この程度でビビんなよオラァ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_011.gif",
+  "level": 2,
+  "name": "月島 アルゴ",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、あなたのストックが4枚以上なら、このカードのパワーを＋1500。\n【自】【クロック】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "trait": [
+    "葬儀社",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

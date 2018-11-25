@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "おいっス！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_002.gif",
+  "level": 1,
+  "name": "魔法薬作りを勉強中 ウィッチ",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ぷよ》のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、クライマックス置場に「お馬鹿さんね」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《ぷよ》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "ぷよ",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

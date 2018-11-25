@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_037.gif",
+  "level": 1,
+  "name": "毎日が宝物 チノ",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) あなたのクライマックス置場の「宝物がいっぱい」を1枚思い出にする］ あなたのクライマックス置場に「宝物がいっぱい」が置かれた時、他のあなたの、「毎日が宝物 シャロ」と「毎日が宝物 千夜」と「毎日が宝物 ココア」と「毎日が宝物 リゼ」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは3枚まで引く。",
+  "trait": [
+    "ラビットハウス",
+    "コーヒー"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

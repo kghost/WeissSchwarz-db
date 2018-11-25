@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "では、遠慮なく…いきます！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_29.gif",
+  "name": "シャイニンググラスホッパー",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

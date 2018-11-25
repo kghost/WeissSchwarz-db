@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "このアイスはもう、最高のご褒美…\nあたた、一気に食べたら頭痛がぁ…　え、えへへ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_029.gif",
+  "level": 1,
+  "name": "御褒美最高 大山真由里",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。",
+  "trait": [
+    "ガール",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

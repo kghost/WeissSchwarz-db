@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なんかあったのか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_058.gif",
+  "level": 0,
+  "name": "アドバイザー 阿良々木暦",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「新学期 神原駿河」すべてに、パワーを＋1000。\n【自】 絆／「新学期 神原駿河」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新学期 神原駿河」を1枚選び、手札に戻す）",
+  "trait": [
+    "怪異",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

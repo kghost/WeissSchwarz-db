@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_095.gif",
+  "level": 2,
+  "name": "“引き継いだ力”膝丸 燈",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《改造》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 相手の【スタンド】しているキャラが【レスト】した時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "改造",
+    "虫"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

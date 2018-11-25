@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "……問い質すべきことがある。矢を放つのは、その後でもいいだろう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_053.gif",
+  "level": 2,
+  "name": "“防御”赤のランサー",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《マスター》か《サーヴァント》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "trait": [
+    "サーヴァント",
+    "太陽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "？？？　これは……なんですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_038.gif",
+  "level": 0,
+  "name": "たじたじなカズミ",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたのカード名に「アリス」を含むキャラすべてに、そのターン中、パワーを＋500。\n【自】 絆／「探偵への憧れ アリス」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「探偵への憧れ アリス」を1枚選び、手札に戻す）",
+  "trait": [
+    "探偵",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

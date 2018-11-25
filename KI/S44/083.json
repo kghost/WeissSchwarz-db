@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あなたは、何を求めていますか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_083.gif",
+  "level": 0,
+  "name": "七変化 園崎",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1500。\n【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+  "trait": [
+    "キズナ",
+    "謎"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

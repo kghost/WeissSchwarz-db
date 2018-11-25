@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "おおぅ、いい湯加減ですなぁ…極楽極楽",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_016.gif",
+  "level": 0,
+  "name": "水着の小鳥",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "植物",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

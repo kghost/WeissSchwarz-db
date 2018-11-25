@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "イラッシャイ……カンゲイスルワネ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_se28/kc_se28_30.gif",
+  "level": 1,
+  "name": "南方棲鬼",
+  "power": 1500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《深海棲艦》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "深海棲艦",
+    "鬼"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

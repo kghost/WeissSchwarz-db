@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "覗きに来たら殺すわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_003s.gif",
+  "level": 3,
+  "name": "ツンデレ系幼なじみ 英梨々",
+  "power": 10000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【ＣＸコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「パチモン幼なじみ」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの控え室の「パチモン幼なじみ」の枚数に等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "ゲーム",
+    "漫画"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

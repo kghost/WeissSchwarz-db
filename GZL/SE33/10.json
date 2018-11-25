@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "卵は何も、語らない……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_10.gif",
+  "level": 1,
+  "name": "卵の歌",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードを思い出にする。\nあなたは自分の山札の上から1枚を公開する。そのカードが緑のキャラかイベントなら手札に加える。（そうでないなら元に戻す）\n【自】 記憶 あなたのキャラのトリガーチェックで「“耳澄ます”フツアの民」がでた時、思い出置場にこのカードがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

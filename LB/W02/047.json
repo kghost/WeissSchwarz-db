@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "いつかの家庭科部室は覚えてますか、リキ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_047.gif",
+  "level": 3,
+  "name": "勉強会",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】あなたがこのカードの能力を使うまで、このカードの能力のコストで控え室に置くストックを?2する。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あの日出会った絆は……今もちゃんと結ばれて……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_053.gif",
+  "level": 0,
+  "name": "中学三年生のなのは",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたのカード名に「フェイト」を含むキャラすべてに、そのターン中、パワーを＋500。\n【自】 絆／「“雷光”フェイト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“雷光”フェイト」を1枚選び、手札に戻す）",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

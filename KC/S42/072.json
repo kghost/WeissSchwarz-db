@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "燃料弾薬が欠乏すると戦闘航海中に「洋上補給」が発動し、\n燃料弾薬が洋上で「補給」されます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_072.gif",
+  "level": 1,
+  "name": "洋上補給",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "御坂妹「お姉さま、もう少し左です」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_wp03/rg_wp03_08.gif",
+  "name": "取り戻した日常",
+  "rarity": "PS",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

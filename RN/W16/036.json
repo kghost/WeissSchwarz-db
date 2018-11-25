@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あ、ごめん。えと、たこ焼き、好きだから、つい……。\nあの、日高くんも、よかったら",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_036.gif",
+  "level": 0,
+  "name": "よいら?いき祭り 淳和",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの【レスト】している《科学》のキャラがいるなら、このカードのパワーを＋1000。",
+  "trait": [
+    "科学",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

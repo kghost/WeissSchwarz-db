@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "何もできないのも、何も考えつかないのもいつものことじゃん!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se29/mk_se29_02.gif",
+  "level": 0,
+  "name": "逆襲のネロ",
+  "power": 1000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+  "trait": [
+    "探偵",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

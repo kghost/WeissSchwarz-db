@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "すぅーべてが計・画・どおり！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_088.gif",
+  "level": 0,
+  "name": "“探耽求究”ダンタリオン",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "炎",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

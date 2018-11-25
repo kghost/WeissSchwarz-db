@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "備えあれば憂いなし、ね？\nまぁ、確かにそうかもだけど……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_023h.gif",
+  "level": 0,
+  "name": "“重なり合う青薔薇”今井リサ",
+  "power": 2500,
+  "rarity": "HR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

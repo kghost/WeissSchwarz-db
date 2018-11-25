@@ -1,0 +1,18 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_108.gif",
+  "level": 0,
+  "name": "新種の怪異 ブラック羽川",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "怪異",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

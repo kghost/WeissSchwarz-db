@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "もうね……治らないんだ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_013.gif",
+  "level": 0,
+  "name": "“フェイト・T”リーゼロッテ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札に戻す。その山札をシャッフルする。",
+  "trait": [
+    "双子",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

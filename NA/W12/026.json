@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "管理局のテクノロジーなめてもらっちゃ困りますなぁ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_026.gif",
+  "level": 1,
+  "name": "アースラのNo.3 エイミィ",
+  "power": 3500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出が2枚以上なら、他のあなたのキャラすべてに、パワーを＋500。\n【自】［手札の「アルカンシェル」を1枚控え室に置く］ 他のあなたのキャラのバトル相手でレベル3以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

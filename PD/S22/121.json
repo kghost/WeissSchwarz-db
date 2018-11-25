@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "夢見てるの？君だけに　好きなんていわないよ\n勘違いしないでね！　I'm liar girl.",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_121.gif",
+  "name": "Sweet Devil",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Pool]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "STOCK"
+  ],
+  "type": "Climax"
+}

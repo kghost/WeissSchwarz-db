@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "お前の心の動きが手に取るようにわかるぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_084.gif",
+  "level": 2,
+  "name": "天眼通を超える心眼通 猿投山",
+  "power": 8500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「本能字四天王、極戦装束！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見てカードを1枚まで選び、山札の下に置く。その後、残りのカードを山札の上に好きな順番で置き、そのターン中、このカードのパワーを＋4000。",
+  "trait": [
+    "服",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

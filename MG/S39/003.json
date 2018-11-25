@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "おじさん、撫子の話し相手になってよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_003.gif",
+  "level": 0,
+  "name": "神様 千石撫子",
+  "power": 1000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。\n【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場に「“前髪娘”千石撫子」があるなら、あなたは自分のレベル1以上のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "怪異",
+    "神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

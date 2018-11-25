@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "弟が出来るのは嬉しいなって、それだったら\n行っても良いかなって思って、だから、その……\nそういう感じのがいいかなあ、なんて……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_t08.gif",
+  "level": 1,
+  "name": "はじめまして、るる姉。",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

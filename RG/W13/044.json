@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "佐天「うーいーはーるーーんっ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w13/rg_w13_044.gif",
+  "level": 1,
+  "name": "仲良しクラスメイト 初春＆佐天",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

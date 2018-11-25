@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なんか瑚太朗の様子が変ですねえ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_063.gif",
+  "level": 0,
+  "name": "“オオトリウィルス”ちはや",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "お菓子",
+    "マスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

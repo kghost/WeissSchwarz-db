@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "艦載機の練度も十分。出撃ね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_041.gif",
+  "level": 2,
+  "name": "千歳型軽空母2番艦 千代田航改二",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\n【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "艦娘",
+    "軽空母"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

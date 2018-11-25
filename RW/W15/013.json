@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ここは部外者が立ち入っていい場所ではありませんよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_013.gif",
+  "level": 1,
+  "name": "“ちはやの執事”咲夜",
+  "power": 3000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "執事",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

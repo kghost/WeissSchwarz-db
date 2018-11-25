@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "は?い、ちょっとこっち向いて下さいね?\nみんなで記念撮影を一枚。　はい、笑顔で?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_102.gif",
+  "level": 1,
+  "name": "笑顔の記録 望月エレナ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "trait": [
+    "ガール",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

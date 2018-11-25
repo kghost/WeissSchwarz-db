@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "扶桑型戦艦姉妹、妹のほう、山城です。\nあの、扶桑姉さま、見ませんでした？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_120.gif",
+  "level": 2,
+  "name": "扶桑型戦艦2番艦 山城",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「扶桑型航空戦艦2番艦 山城改」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "艦娘",
+    "戦艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

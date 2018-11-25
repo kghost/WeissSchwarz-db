@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "幸村「この幸村、竜を喰らって見せようぞ！」\n政宗「Hahn？ 寝言は寝てから言うもんだぜ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_s06/sb_s06_110.gif",
+  "level": 1,
+  "name": "“英雄”政宗＆幸村",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】相手のターン中、他のあなたの《武器》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "眼帯",
+    "鉢巻"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

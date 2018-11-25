@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "おいおい、見誤るなよ。\n儂がそんな小さい人間に見えるか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_019.gif",
+  "level": 1,
+  "name": "“幼女”忍野忍",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "怪異",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

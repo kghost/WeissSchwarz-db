@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "…くかー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_019.gif",
+  "level": 2,
+  "name": "夢の中へ",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたはレベル1以下の相手のキャラを1枚選び、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

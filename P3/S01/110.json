@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お父様を守るためなら……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_110.gif",
+  "level": 0,
+  "name": "決意の美鶴",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】[(2)] このカード手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分の山札を見てカード名「美鶴」を含むキャラを1枚選んで相手に見せ、手札に加える。 その山札をシャッフルする。",
+  "trait": [
+    "魔法",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

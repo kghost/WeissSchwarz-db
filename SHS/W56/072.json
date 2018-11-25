@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "倫也「いや、俺、そんなに凄い質問したか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_072.gif",
+  "level": 0,
+  "name": "混乱の極み 詩羽",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

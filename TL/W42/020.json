@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "解放の手順を誤ればソレは………",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_020.gif",
+  "level": 0,
+  "name": "“ネコミミ浴衣姿”ネメシス",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚とそのキャラが持つ特徴を1つ選び、そのターン中、このカードはその特徴を得る。",
+  "trait": [
+    "変身",
+    "だんご"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

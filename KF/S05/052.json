@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "楽しかったです\nハイ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_052.gif",
+  "level": 0,
+  "name": "クリス",
+  "power": 1500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「挑発するシェルミー」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "オロチ",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

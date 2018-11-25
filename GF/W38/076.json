@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お礼と言うほどではないけど、ほら、お茶",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_076.gif",
+  "level": 1,
+  "name": "弓場の雨情 重藤秋穂",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《ガール》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「仲良し【芽以＆秋穂】」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ガール》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

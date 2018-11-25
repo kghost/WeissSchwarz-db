@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "影のない女の子は嫌い？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_081.gif",
+  "level": 1,
+  "name": "“小悪魔少女”美鳥",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“天然素材”美魚」すべてに、パワーを＋1000。\n【起】［(1)］ そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+  "trait": [
+    "影",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

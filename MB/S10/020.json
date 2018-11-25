@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "夏の雪に千切れて消えるのが、お互いに幸福なんだろうさ――――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_020.gif",
+  "level": 2,
+  "name": "七夜 志貴",
+  "power": 9000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "武器",
+    "マスター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

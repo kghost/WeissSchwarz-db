@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_074.gif",
+  "level": 1,
+  "name": "仲良くなる水晶",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室の、カード名に「めぐみん」を含むキャラを1枚までとカード名に「ゆんゆん」を含むキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。\nすべてのプレイヤーは自分の手札を公開する。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

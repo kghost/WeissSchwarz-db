@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_068.gif",
+  "level": 2,
+  "name": "“聖女”朱音",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 手札のこのカードをプレイするにあたり、あなたは自分の「日沈むひととき 朱音」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\n【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

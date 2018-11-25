@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "僕のこと、そんなふうに考えてたんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_020.gif",
+  "level": 1,
+  "name": "万能のトイズ？",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋2500し、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

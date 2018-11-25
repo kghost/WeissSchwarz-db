@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "アレね、2人じゃ無理だわ。仲間を募集しましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_t12.gif",
+  "level": 0,
+  "name": "“仲間急募！”アクア",
+  "power": 500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "冒険者",
+    "女神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

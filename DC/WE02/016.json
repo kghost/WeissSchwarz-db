@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "弟くんもこっちにきなよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_016.gif",
+  "level": 0,
+  "name": "アジサイ畑のまゆき",
+  "power": 1000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《生徒会》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "trait": [
+    "生徒会",
+    "傘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

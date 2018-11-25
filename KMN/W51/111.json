@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おんせんさいこ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_111.gif",
+  "level": 2,
+  "name": "いい湯だね サーバル",
+  "power": 7000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの《フレンズ》のキャラすべてに、パワーを＋500し、ソウルを＋1。",
+  "trait": [
+    "フレンズ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

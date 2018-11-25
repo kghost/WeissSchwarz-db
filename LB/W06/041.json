@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "リキ……わた、私……いま……わらっていますか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_041.gif",
+  "level": 1,
+  "name": "“頑張り屋さん”クド",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき2回まで発動できる。他のあなたの《動物》のキャラが、手札かクロック置場から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。\n【自】 あなたのクライマックス置場に「ただいまです、リキ」が置かれた時、あなたは自分のクロック置場のレベル1以下の《動物》のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

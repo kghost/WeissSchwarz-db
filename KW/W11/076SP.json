@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "宇宙への憧れ クド",
+  "power": 3000,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《科学》のキャラすべてに、パワーを＋1000。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

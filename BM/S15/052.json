@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_052.gif",
+  "level": 3,
+  "name": "蟹に行き遭った少女 戦場ヶ原ひたぎ",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋500し、このカードは次の能力を得る。『【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。』\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "怪異",
+    "文房具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

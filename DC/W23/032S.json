@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "温もりを感じて 茜",
+  "power": 8500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "千聖「みなさんに生演奏ならではの臨場感を楽しんでいただけたみたいで、何よりです♪彩ちゃんの歌のおかげね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t27s.gif",
+  "name": "しゅわりん☆どり〜みん",
+  "rarity": "SR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Pool]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "STOCK"
+  ],
+  "type": "Climax"
+}

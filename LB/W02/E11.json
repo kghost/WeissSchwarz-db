@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "…そんなに人付き合い苦手そうに見える？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_e11.gif",
+  "level": 2,
+  "name": "“無表情で無愛想”佳奈多",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ 次の相手のターンの終わりまで、相手は舞台にいるキャラの【起】を使えない。",
+  "trait": [
+    "委員長",
+    "双子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

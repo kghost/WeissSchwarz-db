@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "……では、ゆくとするか。神への反逆の道を！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_34.gif",
+  "level": 3,
+  "name": "神への反逆者 ヴァルバトーゼ",
+  "power": 10000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《悪魔》か《天使》か《プリニー》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【永】 このカードの正面のキャラのソウルを?1。\n【自】［(1)］ あなたのクライマックス置場に「『絆』のチカラ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "悪魔",
+    "血"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

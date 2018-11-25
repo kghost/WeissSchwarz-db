@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ここから彼女たちの「みんなで叶える物語」が始まった！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_t14.gif",
+  "level": 2,
+  "name": "みんなで叶える物語(ルビ：スクールアイドルプロジェクト)",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

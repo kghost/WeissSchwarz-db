@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "キリト「うそだろ……アスナ……こんな……こんなの……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s20/sao_s20_022.gif",
+  "level": 1,
+  "name": "身代わり",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

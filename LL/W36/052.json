@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "雪を見ると、なんとなくホッとするんです。不思議ですよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_052.gif",
+  "level": 0,
+  "name": "“雪の降る夜に”園田 海未",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "雪"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

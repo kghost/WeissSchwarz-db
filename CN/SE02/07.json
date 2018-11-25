@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "それに、私たち――もう友達だよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cn_se02/cn_se02_07.gif",
+  "level": 0,
+  "name": "大沢 マリア",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたのキャラすべてに、そのターン中、ソウルを＋1。",
+  "trait": [
+    "カメラ",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

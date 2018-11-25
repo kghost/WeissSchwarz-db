@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "紬「幸せです。みなさんと出会えて……、\nシズクと出会えて……、ハイリさんと出会えて……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_100.gif",
+  "name": "たくさんの思い出",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

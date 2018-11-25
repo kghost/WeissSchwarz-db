@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "……じゃあ、行くぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_se23/sao_se23-p02.gif",
+  "level": 2,
+  "name": "《死銃》に挑むキリト",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋1000し、このカードは『【自】アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

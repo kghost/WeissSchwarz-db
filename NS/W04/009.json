@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "いくよ、バルディッシュ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_009.gif",
+  "level": 1,
+  "name": "金の閃光フェイト",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの《魔法》のキャラすべてに、レベルを＋1し、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

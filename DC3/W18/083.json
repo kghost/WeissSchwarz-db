@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "えいえいえい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_083.gif",
+  "level": 1,
+  "name": "星明かりの下で 葵",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+  "trait": [
+    "新聞",
+    "ウェイトレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

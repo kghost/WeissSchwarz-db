@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "唐突に鳴り響く　僕を呼ぶ別れの音\n見慣れたその泣き顔も　しばらくは見れないね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_029.gif",
+  "level": 0,
+  "name": "初音ミク“サマーメモリー”",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「タイムマシン」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋5500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

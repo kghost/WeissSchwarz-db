@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "これ、貸すから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_090.gif",
+  "level": 0,
+  "name": "エプロン姿の長門",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《本》のキャラすべてに、パワーを＋500。\n【起】［(1) あなたのキャラを2枚【レスト】する］ 他のあなたの《本》のキャラが3枚以上なら、あなたは1枚引く。",
+  "trait": [
+    "宇宙人",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

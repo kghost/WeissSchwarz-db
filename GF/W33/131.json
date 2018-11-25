@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "青い空に白い雲、大きく広がる海…これこそまさに夏、という感じですよ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_131.gif",
+  "level": 1,
+  "name": "海水浴 椎名心実",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "ガール",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

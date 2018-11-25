@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "オマケに相手がピッカピカのニュービー。\nメガラッァァァァッキィィッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_050.gif",
+  "level": 2,
+  "name": "良きライバル アッシュ・ローラー",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "アバター",
+    "バイク"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

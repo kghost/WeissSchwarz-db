@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "帰ってきた力の狂信者！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_24.gif",
+  "level": 2,
+  "name": "「剛拳のプロテインジャンキー！」真田 明彦",
+  "power": 9500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "trait": [
+    "魔法",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

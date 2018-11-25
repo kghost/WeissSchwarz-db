@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ムテキでーす",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_t10.gif",
+  "level": 0,
+  "name": "“夕暮れの灯台”紬",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "サマポケ",
+    "ヌイグルミ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

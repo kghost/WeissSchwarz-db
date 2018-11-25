@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_043.gif",
+  "level": 2,
+  "name": "魔力の高速回転増幅路",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《宝石》のキャラの枚数×1000に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

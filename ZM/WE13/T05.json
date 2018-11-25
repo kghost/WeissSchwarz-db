@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "それに大平原は事実ですよね?。私は山脈ですけど",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_t05.gif",
+  "level": 1,
+  "name": "サイトの専属メイド シエスタ",
+  "power": 6500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "メイド",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

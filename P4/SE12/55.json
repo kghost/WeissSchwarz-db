@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "な…なんじゃこりゃああ！！\nおおお…クマの自慢の毛並みが…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_55.gif",
+  "level": 1,
+  "name": "ペラペラ クマ",
+  "power": 4500,
+  "rarity": "RE",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(4)］ 相手のアンコールステップの始めに、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trait": [
+    "影",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

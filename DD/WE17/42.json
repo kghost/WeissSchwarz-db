@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "なるほど…シンクの師というのも納得でござるな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_42.gif",
+  "level": 2,
+  "name": "大陸最強 ダルキアン",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのストックが4枚以下なら、このカードのパワーを＋2000。",
+  "trait": [
+    "動物",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

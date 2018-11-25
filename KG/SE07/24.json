@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "お主の情報はいつも正確だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kg_se07/kg_se07_24.gif",
+  "level": 2,
+  "name": "神の鳳凰",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「忍法断罪円」があるなら、あなたは自分の控え室の《忍》のキャラを1枚まで選び、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "忍",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

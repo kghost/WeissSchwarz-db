@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "つかさ「こなちゃん　どこ行くの？」\nこなた「ん？　つかさも一緒に行かない？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_107.gif",
+  "level": 0,
+  "name": "お出かけこなた",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《双子》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "オタク",
+    "ネトゲ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

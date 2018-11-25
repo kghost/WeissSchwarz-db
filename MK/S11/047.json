@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "もう…こっちをむいて…平気…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_047.gif",
+  "level": 1,
+  "name": "こじ開けられたドア",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《探偵》のキャラの枚数×500に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

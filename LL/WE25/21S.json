@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "穂乃果「穂乃果、身体動かすの大好きなんだ?♪　今日も頑張っちゃお！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we25/ll_we25_21s.gif",
+  "name": "あなたへのエール",
+  "rarity": "SR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trigger": [
+    "SOUL",
+    "SHOT"
+  ],
+  "type": "Climax"
+}

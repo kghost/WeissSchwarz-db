@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "トモじゃん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_105.gif",
+  "level": 0,
+  "name": "ねんどろいどぷらす 美智留",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ゲーム》のキャラの枚数×1000に等しい。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "ゲーム",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

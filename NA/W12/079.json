@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "こっちのデータは以上よ……お役にたってる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_079.gif",
+  "level": 0,
+  "name": "レティ・ロウラン",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

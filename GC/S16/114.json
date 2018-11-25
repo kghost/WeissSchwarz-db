@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ツグミ「心拍数絶賛上昇ちゅう?」\n綾瀬「黙んなさいよ、ツグミ!!」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_114.gif",
+  "level": 0,
+  "name": "綾瀬＆ツグミ",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "オペレーター",
+    "葬儀社"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_08t.gif",
+  "level": 1,
+  "name": "“エプロン”葉留佳",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがプレイされて舞台に置かれた時、あなたは自分の山札を上から1枚選び、このカードの下にマーカーとして置く。\n【起】［このカードを【レスト】する］ このカードの下のマーカーが1枚以下なら、あなたは自分の山札を上から1枚選び、このカードの下にマーカーとして置く。\n【起】［このカードを【レスト】する］ そのターン中、あなたが自分の緑のキャラの能力を使う時、このカードの下のマーカーを、ストックのかわりに払ってよい。",
+  "trait": [
+    "ビー玉",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

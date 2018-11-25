@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_108.gif",
+  "level": 3,
+  "name": "エレメンタル・タロット 『太陽』",
+  "rarity": "PR",
+  "side": "W",
+  "text": "集中 あなたは自分の山札の上から1枚をめくり、控え室に置く。相手にＸダメージを与える。Ｘはそのカードのレベルに等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

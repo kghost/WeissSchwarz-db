@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_087r.gif",
+  "level": 1,
+  "name": "【天ノ逆鱗：力】翼",
+  "power": 5500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 舞台のこのカードのレベルを?1。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「天ノ逆鱗」があるなら、あなたは自分の山札を上から4枚まで見て、カード名に「翼」か「奏」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "我ら、闇の書の蒐集を行い、主を護る、守護騎士めでございます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_082.gif",
+  "level": 2,
+  "name": "“ヴォルケンリッター”シャマル",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは相手の山札を上から2枚まで見てカードを2枚まで選び、控え室に置く。残りのカードを山札に戻す。その山札をシャッフルする。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

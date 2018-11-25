@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "前田慶次、まかり通る！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_s06/sb_s06_027.gif",
+  "level": 0,
+  "name": "“絢麗豪壮”前田 慶次",
+  "power": 2500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたのカード名に「慶次」を含むキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "武器",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

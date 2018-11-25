@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_045.gif",
+  "level": 0,
+  "name": "“高飛び込み”渡辺 曜",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはダイレクトアタックできない。",
+  "trait": [
+    "音楽",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

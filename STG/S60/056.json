@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "でもでも…今の話は内緒にしておいて欲しいニャ。みんなも今までどおりフェイリスLOVEで接して欲しいニャ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_056.gif",
+  "level": 1,
+  "name": "“本名「秋葉 留未穂」”フェイリス・ニャンニャン",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「フェイリス杯」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《ラボメン》のキャラを1枚選び、【スタンド】する。",
+  "trait": [
+    "ラボメン",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

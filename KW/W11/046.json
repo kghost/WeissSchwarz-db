@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "では五千の半分、二千五百からはじめましょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_046.gif",
+  "level": 1,
+  "name": "ランニング",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n記憶 思い出置場にこのカードがあるなら、あなたのカード名に「クド」を含むキャラすべてに、パワーを＋500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

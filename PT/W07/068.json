@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ドライ「……初めまして、アイン。……それとも、元ファントムと呼んだほうがいいかい……？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_068.gif",
+  "level": 2,
+  "name": "江漣VSドライ",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "武器",
+    "時計"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "はじめまして…………になるんでしょうか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_047.gif",
+  "level": 1,
+  "name": "転入生",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分のストックを上から1枚見る。そのカードがレベル1以下のキャラなら、舞台のいずれかの枠に置いてよい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

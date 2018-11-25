@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "うっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_025.gif",
+  "level": 2,
+  "name": "身をかわす縫",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「運命の糸車 縫」を1枚まで選び、このカードがいた枠に防御キャラとして置く。",
+  "trait": [
+    "服",
+    "眼帯"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "また…ひとりに逆戻りか…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_t08.gif",
+  "level": 3,
+  "name": "水波 レナ",
+  "power": 10000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+  "trait": [
+    "魔法",
+    "アタック"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

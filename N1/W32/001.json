@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "アリシアになれなくて……期待に応えられなくて……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_w32/n1_w32_001.gif",
+  "level": 0,
+  "name": "代わりの人形フェイト",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

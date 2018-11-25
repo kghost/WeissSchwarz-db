@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "いつもオドオド 雪歩",
+  "power": 3500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、他のあなたの《音楽》のキャラが1枚以下なら、このカードをクロック置場に置く。",
+  "trait": [
+    "音楽",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

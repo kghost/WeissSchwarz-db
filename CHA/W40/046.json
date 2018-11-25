@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ずっとこの時を待っていたんだ。このタイミングでしか弟さんは本気にならないからね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_046.gif",
+  "level": 2,
+  "name": "“ここにない世界”前泊",
+  "power": 9500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《能力者》のキャラを1枚選び、【レスト】する。",
+  "trait": [
+    "能力者",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

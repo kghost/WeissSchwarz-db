@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kg_se07/kg_se07_25.gif",
+  "level": 2,
+  "name": "巻き戻しの鴛鴦",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場に「真庭忍軍 真庭虫組」があるなら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【起】［(1)］ そのターン中、このカードのパワーを＋1000。』",
+  "trait": [
+    "忍",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

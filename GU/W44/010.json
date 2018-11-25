@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "愛想笑いで私に勝てると思ってるの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_010.gif",
+  "level": 0,
+  "name": "最高の愛想笑い シャロ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "特待生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

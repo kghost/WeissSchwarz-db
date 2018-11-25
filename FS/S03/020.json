@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 3,
+  "flavor": "―――問おう。貴方が、私のマスターか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_020.gif",
+  "level": 1,
+  "name": "セイバー召喚",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の手札の自分のレベル＋1以下のレベルのカード名に「セイバー」を含むキャラを1枚まで選び、舞台の好きな枠に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

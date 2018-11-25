@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "紙の本を買いなよ。電子書籍は味気ない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pp_se14/pp_se14_p03.gif",
+  "level": 1,
+  "name": "精神的な調律 槙島",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "サイコパス",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

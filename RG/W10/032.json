@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "佐天「よっしゃー！　初春、どーんといってみよーかぁ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_032.gif",
+  "level": 2,
+  "name": "初春＆佐天",
+  "power": 9500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

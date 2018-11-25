@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "助けた者が女ならば殺すな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_082.gif",
+  "level": 0,
+  "name": "代行者 言峰綺礼",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "マスター",
+    "神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

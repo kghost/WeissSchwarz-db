@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "シメジも一緒に行っていい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_013.gif",
+  "level": 0,
+  "name": "星 輝子",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
+  "trait": [
+    "音楽",
+    "キノコ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

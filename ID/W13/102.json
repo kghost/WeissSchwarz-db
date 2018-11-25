@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "静かだね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w13/id_w13_102.gif",
+  "level": 1,
+  "name": "冬の贈り物 インデックス",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "魔法",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

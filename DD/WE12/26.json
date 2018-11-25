@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "見知らぬ機械をみつけると、\n自分はしっぽのつけねと研究心が\nキュンキュンきちゃうのであります！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_26.gif",
+  "level": 0,
+  "name": "機械大好き！ リコ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）\n【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

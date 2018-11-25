@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "なんていうか、ポピパの雰囲気に合ってるもんね？\nポップで元気な感じ、というか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_018.gif",
+  "level": 2,
+  "name": "“カラフルポッピン！”山吹沙綾",
+  "power": 6500,
+  "rarity": "NR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+  "trait": [
+    "音楽",
+    "Poppin’Party"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

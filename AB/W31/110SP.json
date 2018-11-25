@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "“Crow Song ”岩沢",
+  "power": 7000,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【永】 このカードは相手の効果に選ばれない。",
+  "trait": [
+    "死",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

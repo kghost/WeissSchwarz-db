@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ここは『実戦は実戦で学べ』がモットーやしな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_003.gif",
+  "level": 0,
+  "name": "たこ焼き大好き ぎんか",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《タロット》のキャラなら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）",
+  "trait": [
+    "タロット",
+    "商人"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

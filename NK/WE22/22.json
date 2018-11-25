@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ウフフフフ。作戦、大成功ですわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_we22/nk_we22_22.gif",
+  "level": 1,
+  "name": "ドレス姿の万里花",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「楽」を含むキャラがいるなら、このカードのパワーを＋3000。",
+  "trait": [
+    "警察",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "相手になってやるさ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_079.gif",
+  "level": 0,
+  "name": "クルーク",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "―",
+  "trait": [
+    "ぷよ",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

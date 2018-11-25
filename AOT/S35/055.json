@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "ハンジ「私は思うんだ。私たちに見えている物と実在する物の本質は全然違うんじゃないかってね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_055.gif",
+  "name": "真相",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

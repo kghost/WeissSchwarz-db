@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "いざ、死力を尽くして来るがいい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_001.gif",
+  "level": 1,
+  "name": "守護者セイバー",
+  "power": 6000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(2)］ あなたのクライマックス置場に「決戦！　デッドブリッジ」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』\n【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラをストック置場に置く。",
+  "trait": [
+    "サーヴァント",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

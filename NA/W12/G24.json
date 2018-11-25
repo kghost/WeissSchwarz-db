@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "王の往く道――\n私とルシフェリオンが切り拓くのみ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g24.gif",
+  "level": 2,
+  "name": "星光の殲滅者",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

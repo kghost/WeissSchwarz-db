@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あたしは構わないけど……命の保証まではできないわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s26/sao_s26_028.gif",
+  "level": 0,
+  "name": "“古参プレイヤー”リーファ",
+  "power": 3500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたは自分のクライマックスフェイズに、クライマックスを手札からプレイできない。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 3,
+  "flavor": "フィーネ「あなたは知り過ぎてしまったわ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_047.gif",
+  "level": 1,
+  "name": "ソロモンの杖",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたのカード名に「クリス」か「フィーネ」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の山札を見て「ノイズ（第4話）」を3枚まで選び、舞台の別々の枠に置く。その後、その山札をシャッフルし、そのターン中、それらのキャラのパワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

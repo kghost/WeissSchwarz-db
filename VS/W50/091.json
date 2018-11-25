@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "服も宝飾品も身につけてこそだ。傷もよごれも失ってしまうことさえも、大切な思い出になるんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_091.gif",
+  "level": 1,
+  "name": "大好きなおじいちゃん ロイ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】［(1) このカードを思い出にする］ あなたのクライマックス置場に「変えられない過去」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“全部終わりでいい”リンネ」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋2000。",
+  "trait": [
+    "服",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

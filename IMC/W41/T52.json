@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t52.gif",
+  "level": 2,
+  "name": "デビュー決定 アナスタシア",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "音楽",
+    "星"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

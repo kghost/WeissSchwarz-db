@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "次回もよろしくぅ♥\n",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se31/pi_se31_24.gif",
+  "name": "超絶美少女ドールズ",
+  "rarity": "C",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

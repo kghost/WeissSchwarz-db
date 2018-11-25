@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "テリー「一応、大会では常連なんでね。このくらいの活躍は当然さ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_071.gif",
+  "level": 2,
+  "name": "餓狼伝説チーム",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたのカード名に「テリー」か「アンディ」か「ジョー」を含むキャラがいないなら、手札からプレイできない。\nあなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

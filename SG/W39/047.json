@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ナリを理由に本気が出せなかったなどと、言い訳される訳にはいかないな…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_047.gif",
+  "level": 2,
+  "name": "ファウストローブ",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

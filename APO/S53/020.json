@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "俺に……どうして令呪が……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_020.gif",
+  "level": 1,
+  "name": "“竜告令呪”ジーク",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+  "trait": [
+    "ホムンクルス",
+    "マスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

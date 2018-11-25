@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……蒔の字。君の蔭口は、\n遠坂嬢に聞こえているようだが",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_089.gif",
+  "level": 0,
+  "name": "氷室 鐘",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚引く。",
+  "trait": [
+    "スポーツ",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

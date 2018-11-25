@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あはは……ども",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_02.gif",
+  "level": 1,
+  "name": "帰って来たカノジョ まひる",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 ［(1) 手札の「へーよーぶらざー」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《たとえ話》か《委員長》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\n【自】 ［(1)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。",
+  "trait": [
+    "たとえ話",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

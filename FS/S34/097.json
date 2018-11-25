@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "セイバーは今や私の傀儡",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_097.gif",
+  "level": 2,
+  "name": "略奪",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】している《マスター》のキャラを1枚選び【レスト】する。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の下に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お二人とも、そう硬くならないで",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_079.gif",
+  "level": 1,
+  "name": "カリム・グラシア",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】あなたのクライマックス置場に「限定解除」があるなら、他のあなたのカード名に「フェイト」か「なのは」か「はやて」を含むキャラすべてに、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

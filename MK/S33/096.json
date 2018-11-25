@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "一緒に来るんだ、アリス。そして、怪盗になるんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_096.gif",
+  "level": 1,
+  "name": "怪盗への誘い",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 このカードは、あなたの控え室のクライマックスが1枚以下なら、手札からプレイできない。\nあなたは自分の山札を上から4枚まで見て、《怪盗》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

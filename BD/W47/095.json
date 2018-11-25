@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ここは練習スタジオじゃないよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-095_u.gif",
+  "level": 1,
+  "name": "“SPACE”オーナー 都築詩船",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、以下の効果のうちあなたが選んだ1つを行ってよい。『あなたは自分のストックの上から2枚を、控え室に置いてよい。そうしたら、あなたは自分の控え室のレベル1以下のキャラを1枚選び、舞台の好きな枠に置く。』『あなたは自分のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。』",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

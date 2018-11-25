@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 3,
+  "flavor": "男の子は知らないけど意外に簡単",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_022.gif",
+  "level": 3,
+  "name": "ビーフストロガノフ",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手のキャラを3枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

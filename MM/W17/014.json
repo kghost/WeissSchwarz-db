@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あなた自身が希望になるのよ。私達、全ての希望に",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_014.gif",
+  "level": 1,
+  "name": "希望を託すマミ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

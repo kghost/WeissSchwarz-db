@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "暑い?っ　誰かうちわで扇いでくれないかしら？　……誰かっていうか、キミに言ってるんだけどね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_078.gif",
+  "level": 1,
+  "name": "“金魚すくい名人？”西木野 真姫",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+  "trait": [
+    "音楽",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_128.gif",
+  "level": 2,
+  "name": "“謎の少女” 篝",
+  "power": 4000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "鍵",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_p26a.gif",
+  "level": 0,
+  "name": "届け！私たちの歌 山吹沙綾",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。",
+  "trait": [
+    "音楽",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "紅莉栖「どうやらあなた達ふたりとも変態みたいね」\n至「いやぁ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_015.gif",
+  "level": 1,
+  "name": "“HENTAI紳士”橋田 至",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの《ラボメン》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《ラボメン》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ラボメン",
+    "オタク"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

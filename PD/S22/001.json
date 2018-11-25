@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "全智全能の言葉を　ほら聞かせてよ\n脳みそ以外　もういらないと　why not, I don't know",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_001.gif",
+  "level": 2,
+  "name": "鏡音リン“シザーズ”",
+  "power": 5000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［(1) あなたの舞台の《音楽》のキャラを1枚控え室に置く］ あなたのクライマックス置場に「東京テディベア」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルの《音楽》のキャラを1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

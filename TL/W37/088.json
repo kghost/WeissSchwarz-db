@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "私ももっと積極的にならなきゃ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_088.gif",
+  "level": 3,
+  "name": "“お座り”春菜",
+  "power": 9500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 他のあなたの、《動物》か《植物》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "スポーツ",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

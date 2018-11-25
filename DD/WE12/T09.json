@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "頑張る勇気を乗せて歌います……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_t09.gif",
+  "name": "きっと恋をしている",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "実体を伴うって、全然違うんだなあ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_018.gif",
+  "level": 0,
+  "name": "つながるこころ 遥月",
+  "power": 1000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。\n【起】［(1)］ あなたは自分の《風南島》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "風南島",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

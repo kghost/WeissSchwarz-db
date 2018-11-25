@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "……なんだ、翼はまだ片づけが出来ないままなのかい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_068.gif",
+  "level": 0,
+  "name": "私服の奏",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「【天ノ逆鱗：力】翼」すべてに、レベルを＋1し、パワーを＋500。\n【自】 絆／「【天ノ逆鱗：力】翼」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「【天ノ逆鱗：力】翼」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

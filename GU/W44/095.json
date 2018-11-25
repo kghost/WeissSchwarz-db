@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "皆さんをじっくり撮らせてもらえませんか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_095.gif",
+  "level": 2,
+  "name": "カメラにハマったチノ",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "ラビットハウス",
+    "コーヒー"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "おおっ！なんちゃって",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_082.gif",
+  "level": 2,
+  "name": "怖いもの知らずなしんのすけ",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【永】 相手のターン中、他のあなたの、《家族》か《和服》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "家族",
+    "幼稚園"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

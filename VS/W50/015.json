@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "晩飯かけるか？オレはヴィヴィのＫ．Ｏ．勝ちだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_015.gif",
+  "level": 2,
+  "name": "ハリー・トライベッカ",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】［手札の《格闘》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エルス・タスミン」を1枚選び、舞台の好きな枠に置く。\n【自】 他のあなたの《格闘》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "格闘",
+    "不良"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

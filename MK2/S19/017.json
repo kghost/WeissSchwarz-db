@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "それじゃあ頼んだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_017.gif",
+  "level": 1,
+  "name": "動物は友達 ネロ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "探偵",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

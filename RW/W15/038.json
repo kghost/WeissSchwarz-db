@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "…もういい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_038.gif",
+  "level": 0,
+  "name": "上目遣いの静流",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「ひまわり畑のルチア」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ひまわり畑のルチア」を1枚選び、手札に戻す）",
+  "trait": [
+    "風紀委員",
+    "オッドアイ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

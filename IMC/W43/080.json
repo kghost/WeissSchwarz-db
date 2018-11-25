@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "感じたんだ。奈緒と加蓮と歌った時に、新しい何かを",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_080.gif",
+  "level": 3,
+  "name": "Trancing Pulse 凛",
+  "power": 9000,
+  "rarity": "RR+",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを?1。\n【永】 前列の中央の枠にこのカードがいるなら、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500し、このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

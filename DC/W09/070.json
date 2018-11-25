@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "来年こそは、兄さんに素敵な彼女ができますように",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_070.gif",
+  "level": 1,
+  "name": "ホワイトクリスマス",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

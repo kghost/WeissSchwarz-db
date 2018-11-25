@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "セクシーな格闘女王 ルルー",
+  "power": 6000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "ぷよ",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

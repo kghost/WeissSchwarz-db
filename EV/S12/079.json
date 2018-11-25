@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ミサト「発進」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_079.gif",
+  "level": 1,
+  "name": "エヴァンゲリオン試作零号機（改）",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋500。\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "メカ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

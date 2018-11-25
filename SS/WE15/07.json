@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ふん、どうだかね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_07.gif",
+  "level": 0,
+  "name": "一流の自在師 マージョリー",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［(1)］ あなたは相手の山札の上から1枚を控え室に置き、 相手の控え室のカードを1枚選び、山札の上に置く。",
+  "trait": [
+    "炎",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

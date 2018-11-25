@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "よーし、穂乃果と一緒に歌おうよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_064.gif",
+  "level": 1,
+  "name": "レッスン着の穂乃果",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

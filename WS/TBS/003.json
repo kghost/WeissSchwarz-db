@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "『爆裂のカードクイーンおしず』といえば、ちょっとは有名なのよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_tbs/ws_tbs_003.gif",
+  "level": 0,
+  "name": "平成巨乳娘 しずる",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】あなたのターン中、このカードのパワーを+1000。",
+  "trait": [
+    "愛",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

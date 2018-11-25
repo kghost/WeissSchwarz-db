@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_we27/lss_we27_06.gif",
+  "level": 1,
+  "name": "“未熟DREAMER”黒澤 ルビィ",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「未熟DREAMER」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加える。（そうでないなら元に戻す）\n【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。（公開したカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "鈴「馬鹿が二体か…困った幼なじみどもだな…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_035.gif",
+  "level": 2,
+  "name": "真人＆謙吾",
+  "power": 9000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "筋肉",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

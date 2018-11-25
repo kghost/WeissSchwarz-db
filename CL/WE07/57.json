@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "芽衣「私も、お手伝いできて嬉しいですっ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_57.gif",
+  "level": 1,
+  "name": "恋の仕掛け人 芽衣",
+  "power": 4500,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2) このカードを【レスト】する］ あなたのカード名に「渚」を含むキャラすべてに、そのターン中、ソウルを＋1。",
+  "trait": [
+    "愛",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_t18.gif",
+  "level": 2,
+  "name": "“ドヤ顔”チノ",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ラビットハウス",
+    "コーヒー"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

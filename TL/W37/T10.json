@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "わぁ、ホントに破れちゃった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_t10.gif",
+  "name": "ドキドキハプニング",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "姫様からのお呼びに預かり……\n勇者シンク、ただいま見ッ参ッッ！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_30.gif",
+  "level": 1,
+  "name": "召喚勇者 シンク",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを?1。",
+  "trait": [
+    "勇者",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

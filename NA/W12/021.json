@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 3,
+  "flavor": "我等の不義理をお許し下さい……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_021.gif",
+  "level": 1,
+  "name": "主への想い",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n記憶 思い出置場にこのカードがあるなら、あなたの「“強敵”シグナム」と「“八神家”シグナム」すべてに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

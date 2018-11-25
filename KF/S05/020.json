@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "庵「貴様に用は無い……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_020.gif",
+  "level": 1,
+  "name": "紫炎と緑炎",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、手札に戻す。そうしたら、相手は自分のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

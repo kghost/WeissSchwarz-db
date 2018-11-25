@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "しろは『……』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_010.gif",
+  "level": 1,
+  "name": "“共鳴する記憶”羽依里",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「“未来の羽音色”しろは」があるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 共鳴 ［手札の「“未来の羽音色”しろは」を1枚公開する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。』",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ちょっと一人では食べきれないかも…\n少し食べてくれる、ですか？　それなら…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_083.gif",
+  "level": 0,
+  "name": "分け合えば 正岡真衣",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の青のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ガール",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

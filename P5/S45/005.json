@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "俺、坂本竜司な。\n見かけたら声かけっから。シカトすんなよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_005.gif",
+  "level": 1,
+  "name": "坂本 竜司",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《怪盗》か《スポーツ》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "怪盗",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

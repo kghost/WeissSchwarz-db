@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "黒子「お姉さまったら、\nあれほど念を押しましたのに」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_p07.gif",
+  "name": "守りたい日常",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

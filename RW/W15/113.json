@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ここは鳥の声も人の声も、いろんな音がする",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_113.gif",
+  "level": 0,
+  "name": "“お気に入りの場所”静流",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "風紀委員",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

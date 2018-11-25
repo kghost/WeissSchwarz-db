@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "アリサ＆ちびアルフ",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2)］ そのターン中、このカードのパワーを＋5000。",
+  "trait": [
+    "動物",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

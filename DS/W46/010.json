@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "綺麗……かな？えへへ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_010.gif",
+  "level": 0,
+  "name": "温泉で一息 ひまり",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。\n【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "風南島",
+    "帽子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

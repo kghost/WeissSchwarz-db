@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "んもう、おだてても何もでないわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_14.gif",
+  "level": 0,
+  "name": "おめかし 麻耶",
+  "power": 1000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】 ［手札のクライマックスを1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の山札を見て『チェンジ』を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "委員長",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

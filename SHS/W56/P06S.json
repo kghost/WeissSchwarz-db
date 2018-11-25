@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "お待たせ〜〜\n晴れてよかったね〜〜今日",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_p06s.gif",
+  "level": 0,
+  "name": "フラットなポジション 恵",
+  "power": 500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ゲーム》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。\n【自】 このカードが舞台から控え室に置かれた時、あなたは自分の控え室の「理想の女の子 恵」を1枚選び、思い出にしてよい。",
+  "trait": [
+    "ゲーム",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

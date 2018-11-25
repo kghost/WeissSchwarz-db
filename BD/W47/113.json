@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ハ、ハァ！？カスタネッ――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-113_c.gif",
+  "level": 2,
+  "name": "テンパる有咲",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 手札のこのカードをプレイするにあたり、あなたは自分の「魅惑の卵焼き 有咲」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\n【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "盆栽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

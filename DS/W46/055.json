@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "助け出された姫は、勇者と……口づけをするのが……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_055.gif",
+  "level": 1,
+  "name": "お姫様の願い 依愛",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時か「魔王の娘 依愛」の【起】の効果で舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［あなたのキャラを2枚【レスト】する］ このカードを控え室に置く。あなたは自分の控え室の「魔王の娘 依愛」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "風南島",
+    "中二病"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

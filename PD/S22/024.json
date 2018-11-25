@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "変われないの？　飼われたいの？\n何も無い？　こんなのボクじゃない！\n縫い目は解けて引き千切れた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_024.gif",
+  "name": "東京テディベア",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trigger": [
+    "SOUL",
+    "SHOT"
+  ],
+  "type": "Climax"
+}

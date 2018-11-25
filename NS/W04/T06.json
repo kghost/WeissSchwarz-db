@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "きっかけひとつ……思いひとつで……\n変わっていけるんだ……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_t06.gif",
+  "level": 2,
+  "name": "エリオ＆キャロ",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

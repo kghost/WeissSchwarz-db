@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ラズベリル「へへ、覚えときな。その暑苦しさが友情ってんだよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_021.gif",
+  "level": 2,
+  "name": "大切な…仲間？",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の控え室のカードを1枚選び、山札に戻す。その山札をシャッフルする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

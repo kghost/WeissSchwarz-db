@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "現役時代、私は小さくて、非力でしたから…\n悔しい思いをたくさんしたものです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_094.gif",
+  "level": 1,
+  "name": "かつての肖像",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の青のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

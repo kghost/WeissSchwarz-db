@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "さすがアタシの夢！　ハッピーエンドも近そうね！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_04.gif",
+  "level": 3,
+  "name": "風祭 フーカ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000し、ソウルを＋2。\n【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "trait": [
+    "プリニー",
+    "死"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

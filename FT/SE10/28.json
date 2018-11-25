@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "うおおぉおお!!!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_28.gif",
+  "level": 3,
+  "name": "仲間の力 ナツ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

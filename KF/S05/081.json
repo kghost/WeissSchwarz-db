@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "いくよっ　おっきーの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_081.gif",
+  "level": 2,
+  "name": "クーラ・ダイアモンド",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Kを超えるもの」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "改造",
+    "人形"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…練習でバテた？　仕方ないわねぇ。それなら、はい、これ。…それを飲んだら、続きに行ってきてね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_137.gif",
+  "level": 2,
+  "name": "一時の休息 神楽坂砂夜",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ あなたのクライマックス置場に「体験取材」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚まで選び、相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "ガール",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

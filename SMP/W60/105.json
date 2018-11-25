@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "誰が食べても美味しいといえる、\n究極のチャーハンをめざしています",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_105.gif",
+  "level": 1,
+  "name": "ちびうみ",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "これもボクがカワイイからですかね?？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_049.gif",
+  "level": 1,
+  "name": "輿水 幸子",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードのレベルを＋1。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。",
+  "trait": [
+    "音楽",
+    "カワイイ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

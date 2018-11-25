@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "綺礼「…お前ならばあの遠坂邸の\n要塞のような魔術結界も恐るるに足りぬだろう」　",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_se13/fz_se13_24.gif",
+  "level": 1,
+  "name": "“妄想幻像”アサシン",
+  "power": 4500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 他のあなたの「“妄想幻像”アサシン」すべてに、パワーを＋500。",
+  "trait": [
+    "サーヴァント",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

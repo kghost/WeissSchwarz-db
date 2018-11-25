@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "さ、世界を笑顔にしにいきましょっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_p10.gif",
+  "level": 0,
+  "name": "“弦巻家の差し入れ”弦巻こころ",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』",
+  "trait": [
+    "音楽",
+    "ハロー、ハッピーワールド！"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

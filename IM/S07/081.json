@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私の思いが、皆さんに届きますように。\n『隣に…』聞いて下さい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_081.gif",
+  "level": 2,
+  "name": "お姉さん あずさ",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(3)］ このカードがアタックした時、クライマックス置場に「隣に･･･」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

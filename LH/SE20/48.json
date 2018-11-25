@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ちょっとリスキーだけど仕方ない。……排除しよう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_48.gif",
+  "level": 1,
+  "name": "マインドショック",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の、《武器》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

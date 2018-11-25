@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あれ・・ジュビア・・・・目から雨が降ってきました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_44.gif",
+  "level": 1,
+  "name": "“合体魔法”ジュビア",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 記憶 このカードのバトル相手が【リバース】した時、あなたの思い出置場に「“合体魔法”ルーシィ」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "魔法",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

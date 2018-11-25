@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "すぐに聞かせてやる！私の気持ちを",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_054.gif",
+  "level": 0,
+  "name": "『炎髪灼眼の討ち手』シャナ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

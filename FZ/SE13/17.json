@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "彼らとの絆こそ我が至宝！我が王道！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_se13/fz_se13_17.gif",
+  "level": 2,
+  "name": "我が王道 ライダー",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 アンコール ［手札のクライマックスを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「伝説の征服王 ライダー」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

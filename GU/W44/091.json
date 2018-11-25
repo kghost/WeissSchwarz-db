@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "マスター、お元気そうで何よりです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_091.gif",
+  "level": 0,
+  "name": "木組みの街の小説家 青山ブルーマウンテン",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "小説",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "罰ゲーム執行?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_t02.gif",
+  "level": 0,
+  "name": "メガネっ娘 咲",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "警察",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

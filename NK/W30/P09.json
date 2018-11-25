@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ほら行くぞ、一条楽！グズグズするな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_p09.gif",
+  "level": 1,
+  "name": "真夏のビーチ 誠士郎",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?1000。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

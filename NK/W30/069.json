@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "へっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_069.gif",
+  "level": 2,
+  "name": "解せぬ出来事 千棘",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの、《鍵》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《鍵》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "令嬢",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_039.gif",
+  "level": 1,
+  "name": "“明日に備えて”静流",
+  "power": 4000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に「一日の終わりに」があるなら、あなたは自分の控え室のカード名に「ルチア」か「静流」を含むキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "風紀委員",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

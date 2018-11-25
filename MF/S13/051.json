@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "俺はいつか大気のある星に行って、\n本物の空を飛ぶんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_051.gif",
+  "level": 0,
+  "name": "本物の空を求めるアルト",
+  "power": 1000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「シェリル」か「ランカ」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「シェリル」か「ランカ」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "パイロット",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

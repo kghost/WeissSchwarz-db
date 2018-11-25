@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "私は、私の守るものを守る…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_043.gif",
+  "level": 1,
+  "name": "戦闘服の静流",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "武器",
+    "オッドアイ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

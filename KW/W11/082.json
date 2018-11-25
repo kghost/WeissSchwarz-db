@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "でもそんな恐がり屋さんもきらいじゃないです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_082.gif",
+  "level": 2,
+  "name": "水着のクド",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの《科学》のキャラが3枚以上なら、あなたの手札のこのカードのレベルを?1。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

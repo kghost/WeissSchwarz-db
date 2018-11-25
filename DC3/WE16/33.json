@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "にゃはは、ボクが一番なついていたのは清隆だからね?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we16/dc3_we16_33.gif",
+  "level": 1,
+  "name": "約束のあの場所で さくら",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

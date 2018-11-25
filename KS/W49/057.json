@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "キャベキャベぷーーー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_057.gif",
+  "level": 1,
+  "name": "キャベツ",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 あなたのクライマックスフェイズの始めに、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの前列の「キャベツ」の枚数×2000に等しい。\n【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。",
+  "trait": [
+    "-",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

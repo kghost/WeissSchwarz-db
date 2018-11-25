@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "…で、なんで知らない宴会に誘われて、カラオケのマイク持ってるの?！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_061.gif",
+  "level": 0,
+  "name": "歌います 風町陽歌",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたの控え室のクライマックスが1枚以下なら、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+  "trait": [
+    "ガール",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

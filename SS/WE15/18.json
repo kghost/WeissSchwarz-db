@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "アラストール「対策はないが……」\nシャナ「押し切る！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_18.gif",
+  "level": 1,
+  "name": "乾坤一擲 シャナ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

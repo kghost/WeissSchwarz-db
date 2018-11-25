@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "ルイズ「ゴ、ゴーレム!?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_t18.gif",
+  "name": "ゴーレム",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "おかえりなさいませ、ご主人様…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_057.gif",
+  "level": 0,
+  "name": "メイド服の海未",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のカード名に「穂乃果」を含むキャラに、パワーを＋500。\n【自】 絆／「μ'sの牽引役 穂乃果」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「μ'sの牽引役 穂乃果」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

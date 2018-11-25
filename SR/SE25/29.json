@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "参りますゾー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sr_se25/sr_se25_29.gif",
+  "level": 0,
+  "name": "フロマージュ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の、《音楽》か《竜》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "精霊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

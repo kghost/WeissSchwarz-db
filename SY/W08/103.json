@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "名前なら、たった今考えたから――ＳＯＳ団！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_103.gif",
+  "level": 0,
+  "name": "涼宮ハルヒの憂鬱",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "SOS団",
+    "団長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

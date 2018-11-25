@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "香澄もキラキラドキドキしてたし、本当に最高のクライブでした",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t90r.gif",
+  "level": 0,
+  "name": "“この恩は一生忘れない”花園たえ",
+  "power": 1500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "音楽",
+    "Poppin'Party"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

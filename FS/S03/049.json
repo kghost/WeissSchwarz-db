@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "彼女の前面に、赤い血で結ばれた巨大な眼が現れる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_049.gif",
+  "name": "騎英の手綱",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Pool]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "STOCK"
+  ],
+  "type": "Climax"
+}

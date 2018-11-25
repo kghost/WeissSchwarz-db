@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "根性見せますっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_016.gif",
+  "level": 1,
+  "name": "岩沢の後継者 ユイ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "死",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

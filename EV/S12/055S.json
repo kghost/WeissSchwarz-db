@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "お引っ越し アスカ",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "パイロット",
+    "軍隊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

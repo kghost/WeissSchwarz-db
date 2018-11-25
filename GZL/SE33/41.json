@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "この距離ではだめか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_41.gif",
+  "level": 0,
+  "name": "“強敵に挑む者”ベルベ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのレベルが1以上なら、このカードは次の能力を得る。『【起】［このカードをストック置場に置く］ あなたは自分の手札の「“文明の結晶”ヴァルチャー」を1枚まで選び、このカードがいた枠に置く。』\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“蘇る決戦兵器”メカゴジラ」を1枚選び、手札に戻す。",
+  "trait": [
+    "アラトラム号",
+    "ビルサルド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

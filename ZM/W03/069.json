@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ルイズ「いいこと？　これ、再契約の証だからね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_069.gif",
+  "level": 1,
+  "name": "再契約の証",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

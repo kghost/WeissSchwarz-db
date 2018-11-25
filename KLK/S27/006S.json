@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "2年甲組 流子",
+  "power": 6500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置く。",
+  "trait": [
+    "服",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

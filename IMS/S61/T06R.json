@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "翼「今の、かなりイイ感じじゃなかったですか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/ims_s61/ims_s61_t06r.gif",
+  "name": "Angelic Parade♪",
+  "rarity": "RRR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

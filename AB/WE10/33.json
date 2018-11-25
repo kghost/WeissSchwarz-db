@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "『高松うううぅぅぅーーー！』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_we10/ab_we10_33.gif",
+  "level": 1,
+  "name": "自己を解き放つ高松",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "trait": [
+    "死",
+    "筋肉"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

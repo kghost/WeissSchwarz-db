@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "タバサ「馬、二人乗ってる 食べちゃダメ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_t02.gif",
+  "level": 0,
+  "name": "シルフィード",
+  "power": 500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「タバサ」か「シャルロット」を含むキャラすべてに、パワーを＋500。\n【自】 絆／「シャルロット・エレーヌ・オルレアン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「シャルロット・エレーヌ・オルレアン」を1枚選び、手札に戻す）",
+  "trait": [
+    "使い魔",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

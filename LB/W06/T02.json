@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私は…お星様に願いました…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_t02.gif",
+  "level": 0,
+  "name": "“ねがいぼし”小毬",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

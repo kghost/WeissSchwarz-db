@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "＃＃＃……ウラ＆％＆……ヤマ……シイ％％……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_072.gif",
+  "level": 2,
+  "name": "遮られる光",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室の《悪魔》のキャラを3枚まで選び、手札に戻す。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

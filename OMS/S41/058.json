@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "チョロ松警部「彼の役目はただ一つ。殺人現場において謎やトリックが解けずついピリピリしてしまいがちな我々刑事の空気をなごませることだ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_058.gif",
+  "level": 1,
+  "name": "なごみ",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のカード名に「松」を含むキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

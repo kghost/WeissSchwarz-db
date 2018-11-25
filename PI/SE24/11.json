@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se24/pi_se24_11.gif",
+  "level": 0,
+  "name": "制服の凛",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(1)］ あなたは自分のカード名に「イリヤ」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』",
+  "trait": [
+    "宝石",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

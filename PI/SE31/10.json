@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se31/pi_se31_10.gif",
+  "level": 1,
+  "name": "“準備運動”美遊",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、緑か《魔法》のキャラの枚数×500に等しい。",
+  "trait": [
+    "マスター",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

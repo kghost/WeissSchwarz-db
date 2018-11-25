@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あかね「なんだろ……」\nあおい「何か……流れ込んでくる……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vr_w22/vr_w22_t07.gif",
+  "level": 1,
+  "name": "つながる心",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の控え室の《鍵》のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

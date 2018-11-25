@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "きらりたちと一緒にぃ、たのすぃ?時間にしようね☆",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_022.gif",
+  "level": 0,
+  "name": "凸レーション きらり",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのクライマックス置場に「LET’S GO HAPPY!!」が置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1000に等しい。",
+  "trait": [
+    "音楽",
+    "ハピハピ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

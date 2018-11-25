@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "key開発室に栄光あれえぇ！！ ぎゃあぁあ！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p10.gif",
+  "level": 0,
+  "name": "“最弱の実力を持つ”yucchi",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。",
+  "trait": [
+    "ビジュアルアーツ",
+    "怪異"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

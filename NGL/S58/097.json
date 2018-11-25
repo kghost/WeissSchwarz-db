@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "空「頼むぞ白。初手で決められなかった以上、ここからはアドリブだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_097.gif",
+  "level": 1,
+  "name": "思考の加速",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】している《ゲーム》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を見て《ゲーム》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

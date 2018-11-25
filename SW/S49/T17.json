@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ポー「それはBBユニットだ。オレンジと白のな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_t17.gif",
+  "level": 2,
+  "name": "BBユニット",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《フォースの覚醒》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

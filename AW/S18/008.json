@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "君は私のものだ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_008.gif",
+  "level": 2,
+  "name": "純粋な独占欲 黒雪姫",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "生徒会",
+    "アバター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

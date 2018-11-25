@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "とーちゃんがロボになっちゃった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_p02.gif",
+  "level": 1,
+  "name": "“オラのロボとーちゃん” しんのすけ",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+  "trait": [
+    "家族",
+    "幼稚園"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "こんな風に一面雪景色になってると、\nいつも見慣れた公園でも雰囲気違うわね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_060.gif",
+  "level": 0,
+  "name": "雪の日 浅見景",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ガール",
+    "雪"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

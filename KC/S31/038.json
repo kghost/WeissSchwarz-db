@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "探照灯照射…突撃します。私に続いて！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-038.gif",
+  "level": 2,
+  "name": "川内型軽巡2番艦 神通改二",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「神通、いきます！」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、パワーを＋3500し、ソウルを＋1。",
+  "trait": [
+    "艦娘",
+    "軽巡洋艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

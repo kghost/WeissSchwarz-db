@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "だから悪いんだけど君とは……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_013.gif",
+  "level": 3,
+  "name": "素敵なダーリン!? 楽",
+  "power": 10000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたのキャラすべてに、そのターン中、ソウルを＋1。\n【自】 他のあなたの、《鍵》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "動物",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

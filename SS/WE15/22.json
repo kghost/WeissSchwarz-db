@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "私はこの今からでも、悠二と一緒に歩いて行ける！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_22.gif",
+  "level": 2,
+  "name": "理屈と気持ち シャナ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《炎》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "『世界』の使い手 エティア",
+  "power": 5000,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "タロット",
+    "日傘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

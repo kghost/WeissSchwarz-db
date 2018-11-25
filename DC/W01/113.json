@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "先輩って呼んでいいですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_113.gif",
+  "level": 0,
+  "name": "付属1年生まひる",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを+500。",
+  "trait": [
+    "たとえ話",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

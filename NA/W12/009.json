@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ありがとうございます……母さん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_009.gif",
+  "level": 0,
+  "name": "中学三年生のフェイト",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「祝福するなのは」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「祝福するなのは」を1枚選び、手札に戻す）",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

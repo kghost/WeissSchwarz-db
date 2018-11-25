@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "Just thought that we haven't gone home together in a while…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_102b.gif",
+  "level": 0,
+  "name": "Yume in the warm glow of the setting sun.",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "※このカードはDC/W01-102「夕暮れにたたずむ由夢」と同名カードとして扱います。日本国内で開催する公認大会・公式大会では、英語版のカードはデッキに入れることができません。",
+  "trait": [
+    "magic",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

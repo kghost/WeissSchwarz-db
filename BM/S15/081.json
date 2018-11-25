@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "んにゃ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_081.gif",
+  "level": 2,
+  "name": "ブラック羽川",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「つばさキャット」があるなら、あなたは自分の山札を見て自分の舞台にいるキャラと同じカード名のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "怪異",
+    "委員長"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "それなら持ってる。これ、魔法のステッキ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w10/id_w10_094.gif",
+  "level": 2,
+  "name": "姫神 秋沙",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "trait": [
+    "魔法",
+    "巫女"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

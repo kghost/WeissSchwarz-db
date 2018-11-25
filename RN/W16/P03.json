@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "フラウ「空手先輩、テラいい匂い……クンカクンカ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_p03.gif",
+  "level": 2,
+  "name": "放課後のフラウ＆淳和＆昴",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "科学",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

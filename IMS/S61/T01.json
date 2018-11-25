@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "わたし、ヴァイオリンもちゃんと頑張りますっ。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/ims_s61/ims_s61_t01.gif",
+  "level": 0,
+  "name": "諦めない気持ち　箱崎星梨花",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "trait": [
+    "音楽",
+    "箱入娘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

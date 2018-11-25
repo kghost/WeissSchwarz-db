@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ふつつかものですがよろしくお願いしますっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_029.gif",
+  "level": 1,
+  "name": "“マスコット”クド",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

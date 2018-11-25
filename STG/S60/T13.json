@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "オーカリン！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_t13.gif",
+  "level": 0,
+  "name": "“抗える者たち”椎名 まゆり",
+  "power": 500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“抗える者たち”岡部 倫太郎」すべてに、パワーを＋1000。\n【自】 絆／「“抗える者たち”岡部 倫太郎」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“抗える者たち”岡部 倫太郎」を1枚選び、手札に戻す）",
+  "trait": [
+    "ラボメン",
+    "裁縫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

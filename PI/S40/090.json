@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "でもまぁそんな堅苦しく考える必要もないぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_090.gif",
+  "level": 2,
+  "name": "“誕生日とは？”士郎",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋2000。\n【永】 相手の【レスト】しているキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "スポーツ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

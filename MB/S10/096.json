@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ワラキアの夜｢フィナーレとは悲劇にしろ喜劇にしろ、終焉は華やかであるべきだ｣",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_096.gif",
+  "level": 1,
+  "name": "タタリ再演",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。\nあなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

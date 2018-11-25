@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私にできることだったらなんでもするよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vr_w22/vr_w22_047.gif",
+  "level": 1,
+  "name": "いつでもポジティブ あかね",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードを控え室に置く］ 他のあなたの《鍵》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2500。",
+  "trait": [
+    "鍵",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

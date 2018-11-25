@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "アテナ、行きまーす",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_083.gif",
+  "level": 0,
+  "name": "麻宮 アテナ",
+  "power": 1000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(3) このカードを控え室に置く］ あなたは自分の控え室の自分のレベル以下のレベルのカード名に「アテナ」を含むキャラを1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "超能力",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

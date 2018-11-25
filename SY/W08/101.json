@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "みくる「だめ?っ！ 見ないで?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_101.gif",
+  "level": 2,
+  "name": "いつものハルヒ＆みくる",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたは自分のクロックフェイズに、手札をクロックに置いてカードを引くことができない。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "団長",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

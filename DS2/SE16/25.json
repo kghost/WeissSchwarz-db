@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ま、やるしかないでしょ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds2_se16/ds2_se16_25.gif",
+  "level": 2,
+  "name": "“悪魔使い”ジョー",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。",
+  "trait": [
+    "サマナー",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "恥ずかしいからはっきり言わないの。\nあと、こっち見るのも禁止",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_t33.gif",
+  "level": 1,
+  "name": "膝枕するエミリア",
+  "power": 4000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《魔法》か《武器》のキャラが3枚以上なら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に青のクライマックスがあるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "魔法",
+    "精霊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

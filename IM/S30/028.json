@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "みんなで夢、かなえましょ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-028.gif",
+  "level": 0,
+  "name": "輝きの向こう側へ！ あずさ",
+  "power": 2000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "吹雪「はい！任せてください！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_p04.gif",
+  "level": 1,
+  "name": "いざ出撃！赤城＆吹雪＆伊勢",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "trait": [
+    "艦娘",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

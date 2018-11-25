@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_102.gif",
+  "level": 2,
+  "name": "同じ願い さやか＆杏子",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 相手のターン中、他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "魔法",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

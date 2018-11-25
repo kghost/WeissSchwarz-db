@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "しんのすけ「風間くんはすぐ怒るし」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_031.gif",
+  "level": 1,
+  "name": "エリート園児 風間くん",
+  "power": 7000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはダイレクトアタックできない。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "幼稚園",
+    "優等生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

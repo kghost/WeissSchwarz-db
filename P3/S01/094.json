@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 4,
+  "flavor": "ヒーホー！　俺たちジャックブラザーズ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_094.gif",
+  "level": 2,
+  "name": "ジャックブラザーズ",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは相手のキャラを1枚選び、【レスト】する。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

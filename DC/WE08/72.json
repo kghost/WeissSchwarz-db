@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "あれは、皆の物語。私たち皆の。\nね？　それでいいでしょ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_72.gif",
+  "level": 2,
+  "name": "人形劇",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは2枚まで引く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

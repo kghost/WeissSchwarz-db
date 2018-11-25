@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ミク「ツノ……？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_067.gif",
+  "level": 1,
+  "name": "はじめての同調 ゼロツー",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［他のあなたの舞台の《パラサイト》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《パラサイト》か《フランクス》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "パラサイト",
+    "叫竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

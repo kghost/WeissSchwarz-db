@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "flavor": "ゼナス「この城は『ジオフォート』という。聖剣の主を守り、ともに戦うための城だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_096.gif",
+  "level": 1,
+  "name": "ジオフォートの目覚め",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは相手の前列のレベル1以下のキャラを2枚まで選び、山札の下に好きな順番で置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

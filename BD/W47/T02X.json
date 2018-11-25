@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-02_xr.gif",
+  "level": 0,
+  "name": "“Poppin’Party”山吹沙綾",
+  "power": 500,
+  "rarity": "XR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

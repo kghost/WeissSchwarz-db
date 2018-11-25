@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "木曾だ。お前に最高の勝利を与えてやる。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_117.gif",
+  "level": 1,
+  "name": "球磨型軽巡5番艦 木曾",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+  "trait": [
+    "艦娘",
+    "軽巡洋艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

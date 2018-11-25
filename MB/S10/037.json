@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "納得がいかないのなら、今度は私の手で直接たたき落としてやろう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_037.gif",
+  "level": 2,
+  "name": "タタリの後継 吸血鬼シオン",
+  "power": 8500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "錬金術",
+    "血"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

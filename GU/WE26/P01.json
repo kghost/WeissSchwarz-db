@@ -1,0 +1,23 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "普段の私って……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_p01.gif",
+  "level": 2,
+  "name": "気品オーラ シャロ",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "特待生"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

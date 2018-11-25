@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "藤巻「ゆりっぺに刃向うとはいい度胸じゃねぇか」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_064.gif",
+  "level": 0,
+  "name": "藤巻＆大山",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "死",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

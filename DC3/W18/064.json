@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "どう？　芳乃清隆！\n杉並様はいつだってあたしのことを正当に\n評価してくれているのよ！　羨ましいでしょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_064.gif",
+  "level": 2,
+  "name": "部員一号 美琴",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "新聞",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

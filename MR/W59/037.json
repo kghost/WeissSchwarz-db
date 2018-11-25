@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あなたが、私を呼んだの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_037.gif",
+  "level": 2,
+  "name": "魔法少女の素質 まどか",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 他のあなたのバトル中の《魔法》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "ヒール"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

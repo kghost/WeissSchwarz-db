@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_p08s.gif",
+  "level": 3,
+  "name": "もふもふあったかい チマメ隊",
+  "power": 9500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［手札の青のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、他のあなたの青のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。",
+  "trait": [
+    "ラビットハウス",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

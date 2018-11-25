@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "今年も24時間カードゲームしよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/si_wpr/si_wpr_005.gif",
+  "level": 1,
+  "name": "しろくろフェス しよ子 2014",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "カードゲーム",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

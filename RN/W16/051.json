@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "神代さん……っ、せめて……っ、\n少しは歩こうとして……っ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_051.gif",
+  "level": 2,
+  "name": "小さくても力持ち 淳和",
+  "power": 6000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《科学》のキャラすべてに、パワーを＋1000。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードは次の能力を得る。『【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』",
+  "trait": [
+    "科学",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

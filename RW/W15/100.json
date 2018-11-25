@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "俺は思うのだ。\n…こいつの力になりたい、って",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_100.gif",
+  "name": "失くした記憶",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

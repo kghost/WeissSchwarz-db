@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "リーズ｢……さあ、眠りなさいシオン。今度こそ、悪い夢に捕まらないように｣",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_047.gif",
+  "level": 2,
+  "name": "あなたの手で…",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手のキャラを1枚選び、そのターン中、パワーを?4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

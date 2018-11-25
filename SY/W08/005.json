@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ハルヒ「キョン、勝負事なんていうのはね、言い出したその時から勝負なの。」　",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_005.gif",
+  "level": 1,
+  "name": "見えざる信頼関係 ハルヒ＆キョン",
+  "power": 5500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのアンコールステップの始めに、クライマックス置場に「涼宮ハルヒの朗報」があるなら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「見えざる信頼関係 ハルヒ＆キョン」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋3000。",
+  "trait": [
+    "団長",
+    "SOS団"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

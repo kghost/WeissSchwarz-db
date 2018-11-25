@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ば…ばかっ　だからそんなんじゃないってば…っっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_112.gif",
+  "level": 1,
+  "name": "恥ずかしがるかがみ",
+  "power": 4000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】[(2)] このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分の山札を見てカード名に「つかさ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。 その山札をシャッフルする。",
+  "trait": [
+    "双子",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

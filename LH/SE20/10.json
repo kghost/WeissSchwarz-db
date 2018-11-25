@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ルディってスゴイ……犬だけど",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_10.gif",
+  "level": 0,
+  "name": "ルディの飼い主？ 五十鈴",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「ルンデルハウス」を含むキャラすべてに、パワーを＋500。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《武器》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "武器",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

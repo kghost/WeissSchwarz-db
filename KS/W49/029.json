@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "んんっ……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_029.gif",
+  "level": 1,
+  "name": "快感に震える",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n【自】 記憶 ［このカードを控え室に置く］ あなたの受けたダメージがキャンセルされなかった時、思い出置場にこのカードがあり、そのダメージが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《煩悩》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、ストック置場に置き、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

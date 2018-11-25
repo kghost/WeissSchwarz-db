@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "勘違いするなよ。\nお前達の助っ人になったつもりはねえ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_030.gif",
+  "level": 1,
+  "name": "シンフォギアの装者 クリス",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「忘れていた温もり」があり、他のあなたのカード名に「クリス」を含むキャラが4枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

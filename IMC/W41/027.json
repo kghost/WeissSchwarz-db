@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "今日のライブ、全力で熱く燃えましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_027.gif",
+  "level": 1,
+  "name": "日野 茜",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 あなたのアンコールステップの始めに、このカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "熱血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

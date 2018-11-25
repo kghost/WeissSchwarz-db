@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "パイル「やっぱりだ……。《ライム・ベル》は、《ヒーラー》だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_052.gif",
+  "level": 1,
+  "name": "クワイアー・チャイム",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の【スタンド】しているカード名に「チユリ」か「ライム･ベル」を含むキャラを1枚選び【レスト】する。そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

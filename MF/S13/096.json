@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ランカ「今日はマゼラン星雲のおまけ付きだよ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_096.gif",
+  "level": 1,
+  "name": "娘娘ラーメン",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

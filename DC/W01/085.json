@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ご名答。成績も授業態度も悪いのに、空気を読むのだけは得意みたいね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_085.gif",
+  "level": 1,
+  "name": "沢井 麻耶",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "委員長",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

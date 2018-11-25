@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "おうとも、やらいでかっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_025.gif",
+  "level": 1,
+  "name": "ハリーと仲良し？エルス",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "格闘",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

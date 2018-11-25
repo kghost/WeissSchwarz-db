@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "潰しやすいところから潰すのは常道でしょう？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_104.gif",
+  "level": 1,
+  "name": "ぷち黒のアサシン",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\n【永】 舞台のこのカードのレベルを?1。",
+  "trait": [
+    "サーヴァント",
+    "霧"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

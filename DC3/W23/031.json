@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "大変です、お箸をひと組忘れちゃいましたー\nもうこーなったら、あれしかないですねー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w23/dc3_w23_031.gif",
+  "level": 2,
+  "name": "恋愛実践中！ サラ",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［手札の《スポーツ》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋3500。",
+  "trait": [
+    "魔法",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

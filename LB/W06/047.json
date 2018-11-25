@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ふぅ…ふぅ…よし、が、がんばるぞっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_047.gif",
+  "level": 2,
+  "name": "お引越し",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分のクロックを1枚選び、手札に戻す。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

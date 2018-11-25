@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "…なして？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we05/sk_we05_16.gif",
+  "level": 2,
+  "name": "不思議少女ほのか",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) あなたの《コロニー》のキャラを2枚【レスト】する］ あなたは自分の控え室の、《コロニー》か《メカ》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "コロニー",
+    "超能力"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

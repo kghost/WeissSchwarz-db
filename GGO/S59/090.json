@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ぶっ！　ぶはははあははははっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_090.gif",
+  "level": 1,
+  "name": "看破された抵抗 エルザ",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「看破された抵抗 エルザ」を1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "ネット",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

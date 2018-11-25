@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "なんだ静流。わからないのか。\n仲間のための戦いだからだろう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_073.gif",
+  "level": 0,
+  "name": "“星を救うために”ルチア",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "武器",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

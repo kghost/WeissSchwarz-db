@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "はぁ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_082.gif",
+  "level": 2,
+  "name": "深い溜息 コーデリア",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のターン中、他のあなたの《探偵》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「ハイパーセンシティブ」があるなら、あなたは自分の山札を見て《探偵》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "神裂「私達の所属する組織の名前は…ネセサリウス」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w10/id_w10_100.gif",
+  "name": "必要悪の教会の魔術師",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

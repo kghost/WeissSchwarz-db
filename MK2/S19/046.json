@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "我が名は――、そう、ＧＯＬ。ゴッド・オブ・ラード。\nきたるべきラード新世界の神だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_046.gif",
+  "level": 2,
+  "name": "ラードの神",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?3000。\nあなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

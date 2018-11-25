@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "忠告くらいさせなよ。趣味なんだからさ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_032.gif",
+  "level": 0,
+  "name": "サポート役リズィ",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《暗黒街》のキャラすべてに、パワーを＋500。\n【起】［(2)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?2500。",
+  "trait": [
+    "暗黒街",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

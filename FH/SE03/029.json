@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "もっきゅもっきゅ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_029.gif",
+  "level": 3,
+  "name": "“暴君”セイバーオルタ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）\n【自】 このカードが、アタックした時かアタックされた時、あなたは自分のストックの上から1枚を、このカードの下にマーカーとして置く。\n【起】［このカードの下のマーカーを2枚控え室に置く］ 相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "サーヴァント",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_p01.gif",
+  "level": 1,
+  "name": "夏休み直前 恵",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。",
+  "trait": [
+    "ゲーム",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

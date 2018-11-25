@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "紅莉栖って呼ばれたこと…私、忘れちゃうんだね…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_058s.gif",
+  "level": 3,
+  "name": "“在りし日の残影”牧瀬 紅莉栖",
+  "power": 10000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《ラボメン》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
+  "trait": [
+    "ラボメン",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

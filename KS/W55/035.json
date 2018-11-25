@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "カズマ「―今、その危険なゲームの障害物に彼女が選ばれていた」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_035.gif",
+  "level": 2,
+  "name": "チキンレース",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手のキャラの中でパワーが1番高いキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

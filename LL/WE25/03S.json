@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we25/ll_we25_03s.gif",
+  "level": 0,
+  "name": "“メイド服”μ's",
+  "power": 1000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル1以上のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "音楽",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

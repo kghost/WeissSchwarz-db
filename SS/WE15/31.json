@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "何でも出来る、そんな気がする",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_31.gif",
+  "level": 0,
+  "name": "確かな存在 悠二",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "炎",
+    "蛇"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

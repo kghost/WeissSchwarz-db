@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "この間から考えてた。僕のための幸せな話を書きたいって",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_014.gif",
+  "level": 1,
+  "name": "神木 秋成",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたがレベルアップした時、このカードを控え室に置く。\n【自】 このカードが舞台から控え室に置かれた時、相手は自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "病気",
+    "童話"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

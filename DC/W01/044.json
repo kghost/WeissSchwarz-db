@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "これより、手芸部主催の“ミス風見学園コンテスト”を実施します！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_044.gif",
+  "level": 1,
+  "name": "ミス風見学園コンテスト",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札の上から1枚を、ストック置場に置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

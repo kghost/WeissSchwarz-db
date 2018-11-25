@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "シリカ「これでピナが生き返るんですね……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s20/sao_s20_070.gif",
+  "level": 1,
+  "name": "《プネウマの花》",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたのカード名に「シリカ」を含むキャラがいないなら、手札からプレイできない。あなたは自分の山札を見てカード名に「ピナ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

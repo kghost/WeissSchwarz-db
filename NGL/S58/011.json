@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "今、この瞬間、 我がエルキアは、全世界の国に対して宣戦布告するッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_011.gif",
+  "level": 2,
+  "name": "宣戦布告 空",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

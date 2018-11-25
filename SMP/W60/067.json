@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ま・も・り・な・さ・い",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_067.gif",
+  "level": 0,
+  "name": "“島のしたきり”蒼",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "サマポケ",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

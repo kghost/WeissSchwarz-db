@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "…どうしてこんな事になっちゃったかな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w10/id_w10_001.gif",
+  "level": 2,
+  "name": "幼い頃の記憶 美琴",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたのターン中、あなたの思い出置場の「御坂妹」が2枚以上なら、このカードのパワーを＋4000し、ソウルを＋1。",
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

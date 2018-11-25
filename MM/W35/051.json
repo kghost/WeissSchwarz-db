@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ほむら「これからもあなた達の存在が必要なの。\n協力してもらうわよ、インキュベーター」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_051.gif",
+  "level": 1,
+  "name": "立場逆転 キュゥべえ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、パワーを＋500。\n【自】 この能力は1ターンにつき1回まで発動する。あなたが『シフト』を使った時、次の相手のターンの終わりまで、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。",
+  "trait": [
+    "宇宙人",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

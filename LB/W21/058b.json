@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_058b.gif",
+  "level": 2,
+  "name": "家族のぬくもり",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のカード名に「葉留佳」か「佳奈多」を含むキャラを2枚まで選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

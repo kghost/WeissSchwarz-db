@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "な……なんか見られてませんか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_009.gif",
+  "level": 0,
+  "name": "眩しい水着姿 姫百合",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの『応援』を持つキャラがいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "探偵",
+    "警察"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

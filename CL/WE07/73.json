@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "風子「これですか、これは…大好きな…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_73.gif",
+  "level": 1,
+  "name": "夏祭りの智代＆風子＆渚",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
+  "trait": [
+    "演劇",
+    "ヒトデ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

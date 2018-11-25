@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "音無「みんな新しい人生に向かっていったんだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_t24.gif",
+  "level": 3,
+  "name": "冬の日の音無＆かなで",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。』\n【自】［(1)］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の上に置く。",
+  "trait": [
+    "死",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

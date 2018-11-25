@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "甘兎庵 大手チェーンへの第一歩！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_031.gif",
+  "name": "大いなる野望",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Pool]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "STOCK"
+  ],
+  "type": "Climax"
+}

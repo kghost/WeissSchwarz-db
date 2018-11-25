@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "美夏＆麻耶",
+  "power": 4000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックを上から1枚選び、控え室に置く。",
+  "trait": [
+    "メカ",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

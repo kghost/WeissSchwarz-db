@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…良い旅を、人類…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_060.gif",
+  "level": 1,
+  "name": "“書き換わる運命”篝",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【起】［手札を1枚控え室に置く］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "時間",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

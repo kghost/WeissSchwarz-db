@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "べ、別にね、会いたいからじゃないの、\nわざわざ行ってあげるだけ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_t102.gif",
+  "level": 2,
+  "name": "ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

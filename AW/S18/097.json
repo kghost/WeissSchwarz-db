@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "……僕に心意を教えてくれた人が言っていた。\nシアン・パイルのポテンシャルは、\nこのパイルドライバーに占められていると",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_097.gif",
+  "level": 1,
+  "name": "杭打ち機",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

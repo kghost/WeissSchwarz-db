@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "じゃあ、私と私が、お仕置きしてあげないと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_012.gif",
+  "level": 0,
+  "name": "ステンノ＆エウリュアレ",
+  "power": 1500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「ステンノ＆エウリュアレ」がいるなら、他のあなたのカード名に「ライダー」を含むキャラすべてに、パワーを＋1000。\n【永】 他のあなたのカード名に「ライダー」を含むキャラすべてに、次の能力を与える。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。このカードはサイドアタックできない。』",
+  "trait": [
+    "神",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

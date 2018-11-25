@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "桜「ライダー、次はどこいこうか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_037.gif",
+  "level": 3,
+  "name": "桜＆ライダー",
+  "power": 9500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのソウルを?1。\n【自】［(2)］ あなたのクライマックス置場に「Heaven's Feel」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のレベル2以下のキャラを1枚選び、舞台の好きな枠に置く。\n【起】［(1)］ あなたは相手のキャラを1枚選び、そのターン中、パワーを?500。",
+  "trait": [
+    "マスター",
+    "サーヴァント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

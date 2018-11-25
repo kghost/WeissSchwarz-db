@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "……にぃ……、童貞卒業、おめ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_t17.gif",
+  "level": 2,
+  "name": "不健全への誘い 白",
+  "power": 7500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ゲーム》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

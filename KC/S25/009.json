@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "これはよいものですね、Danke scho?n。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_009.gif",
+  "level": 1,
+  "name": "巡潜III型潜水艦2番艦 伊8",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「巡潜?型潜水艦2番艦 伊8改」を1枚選び、舞台の好きな枠に【レスト】して置く。",
+  "trait": [
+    "艦娘",
+    "潜水艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

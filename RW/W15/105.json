@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "願うなら。この先も、その先にもずっと。楽しいことばかりが待っていることを",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_105.gif",
+  "name": "みんなでガーデニング",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

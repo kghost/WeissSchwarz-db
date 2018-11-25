@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ミスヴァリエールとどっちが可愛いぴょん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_081.gif",
+  "level": 2,
+  "name": "バニーガールのシエスタ",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(3)］ あなたは相手のキャラを2枚まで選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "メイド",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

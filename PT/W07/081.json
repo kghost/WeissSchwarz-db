@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "この手で人を殺し、この手で物を食べる……どっちも同じことなんだ。そうやって僕は生きてる……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_081.gif",
+  "level": 2,
+  "name": "生き残る才能ツヴァイ",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「長い夢」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

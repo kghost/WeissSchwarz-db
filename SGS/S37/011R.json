@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“お正月”美山 椿芽",
+  "power": 4500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの黄のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "ストライカー",
+    "謎"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

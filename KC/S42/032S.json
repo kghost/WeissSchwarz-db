@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "Bismarck級戦艦1番艦 Bismarck",
+  "power": 4000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが3枚以上なら、このカードを【レスト】する。",
+  "trait": [
+    "艦娘",
+    "戦艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

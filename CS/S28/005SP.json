@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "最強の０才児 ひまわり",
+  "power": 2500,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "家族",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

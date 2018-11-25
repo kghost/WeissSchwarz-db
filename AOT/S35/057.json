@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "この世界は残酷だ……そして……とても美しい……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_057.gif",
+  "level": 3,
+  "name": "“運命への抗い”ミカサ",
+  "power": 9000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《兵団》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《兵団》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

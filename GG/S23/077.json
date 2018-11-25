@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "俺は、中佐と戦えるか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gg_s23/gg_s23_077.gif",
+  "level": 3,
+  "name": "人類銀河同盟との訣別 レド",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「最後の支援啓発」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+  "trait": [
+    "パイロット",
+    "軍隊"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

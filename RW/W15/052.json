@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "たあぁぁーーーっ！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_052.gif",
+  "level": 3,
+  "name": "鳳 ちはや",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 あなたのクライマックスフェイズの始めに、あなたは自分のストックすべてを、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "お菓子",
+    "マスター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "クルナ…ト……イッテイル…ノニ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_se28/kc_se28_21.gif",
+  "level": 1,
+  "name": "港湾棲姫",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。",
+  "trait": [
+    "深海棲艦",
+    "姫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

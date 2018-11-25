@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ねえ、プロデューサー。\nミキ達の、思いの全て、受けとめて",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_036.gif",
+  "level": 2,
+  "name": "完成するビジュアルクイーン美希",
+  "power": 8500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのストックが6枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "吹き飛べー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_46.gif",
+  "level": 2,
+  "name": "千枝＆トモエ",
+  "power": 8500,
+  "rarity": "RE",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 手札のこのカードをプレイするにあたり、あなたは自分の「里中 千枝」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\n【自】［(2)］ あなたのターン中、相手の【スタンド】しているキャラが【レスト】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の【スタンド】しているキャラを1枚選び、思い出にする。",
+  "trait": [
+    "スポーツ",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

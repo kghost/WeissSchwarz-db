@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_046.gif",
+  "level": 1,
+  "name": "みんなで宝物 チノ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「宝物」を含むキャラが2枚以上なら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』",
+  "trait": [
+    "ラビットハウス",
+    "コーヒー"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "Ｐ「竜宮小町のライブを成功させるために、\n現時点で一番ふさわしい人材は誰か……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_037.gif",
+  "level": 2,
+  "name": "ためらう鬼軍曹 律子",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アイドル復帰！ 律子」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

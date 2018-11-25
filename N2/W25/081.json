@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_081.gif",
+  "level": 0,
+  "name": "休息の時 フェイト",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「みんなでメンテナンス」があり、他のあなたの《魔法》のキャラが2枚以上なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

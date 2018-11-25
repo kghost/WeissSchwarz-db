@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "おかあさん、おなかすいた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_066sp.gif",
+  "level": 3,
+  "name": "“殺戮”黒のアサシン",
+  "power": 10000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "サーヴァント",
+    "霧"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

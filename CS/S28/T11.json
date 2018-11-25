@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "ひろし「俺たちは同じ夢を同じ時間に見るくらい、\n一心同体だってこと」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_t11.gif",
+  "name": "家族はやっぱりいいもんだゾ",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

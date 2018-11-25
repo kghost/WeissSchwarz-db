@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "厄介ね…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_107.gif",
+  "level": 0,
+  "name": "“偉大なる者”シャナ",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】応援 このカードの前のあなたのキャラすべてに、パワーを+500。",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

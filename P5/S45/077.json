@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "我は汝、汝は我…人世の美醜の誠のいろは…\n今度はキサマが教えてやるがいい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_077.gif",
+  "level": 3,
+  "name": "祐介＆ゴエモン / FOX",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［(1) 手札の《怪盗》のキャラを1枚控え室に置く］ このカードがアタックした時、他のあなたの《怪盗》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。\n【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trait": [
+    "怪盗",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

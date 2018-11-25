@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "亜美、みんながいれば\n☆をとった時みたいにムテキだよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_037.gif",
+  "level": 2,
+  "name": "ムテキ姉妹！ 亜美",
+  "power": 8500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "双子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "まどか「私だけが誰にも会えなくなるほど遠くに一人で行っちゃうなんてありっこないよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_046.gif",
+  "level": 0,
+  "name": "二人は親友 ほむら＆まどか",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

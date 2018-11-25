@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "江漣「……気づかないところだったわ」\n玲二「当たり前の景色だからな。案外、そういうもんだよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_011.gif",
+  "level": 3,
+  "name": "虹を見る 江漣＆玲二",
+  "power": 10000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのソウルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

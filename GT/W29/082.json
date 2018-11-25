@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "持ってて欲しい……花苗のものだから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_082.gif",
+  "level": 2,
+  "name": "淋しげな微笑み せいら",
+  "power": 9000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードはサイドアタックできない。\n【永】 他のあなたの《タロット》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "タロット",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

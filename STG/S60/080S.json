@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "みんなでいる時は仲良くしたほうが楽しいと思うよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_080s.gif",
+  "level": 1,
+  "name": "“ラボのムードメーカー”椎名 まゆり",
+  "power": 2000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ラボメン》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "ラボメン",
+    "裁縫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "青葉「目標内部に高エネルギー反応！」\nミサト「何ですって！？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_021.gif",
+  "level": 1,
+  "name": "使徒の一撃",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手のレベル1以下のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

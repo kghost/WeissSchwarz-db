@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あんた、言葉がどんどんうまくなるね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gg_s23/gg_s23_060.gif",
+  "level": 1,
+  "name": "感心するエイミー",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "手紙",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

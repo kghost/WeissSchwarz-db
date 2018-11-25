@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "それでも、私は生きることを決して諦めはしない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_084.gif",
+  "level": 3,
+  "name": "“過去と未来”やちよ",
+  "power": 9500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《魔法》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードが舞台から控え室に置かれた時、あなたは自分の手札を1枚選び、控え室に置く。そうしたら、このカードを手札に戻す。』\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "魔法",
+    "スキル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

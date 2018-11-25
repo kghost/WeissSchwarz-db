@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "しまっていこー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_057.gif",
+  "level": 2,
+  "name": "ビーチバレー ハルヒ",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのキャラすべての持つ異なる特徴１つにつき、このカードのパワーを＋500。",
+  "trait": [
+    "団長",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

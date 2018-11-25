@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_042.gif",
+  "level": 1,
+  "name": "鬼族の神童 ラム",
+  "power": 5500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「ロズワール」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【永】 他のあなたのカード名に「ロズワール」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋2500。",
+  "trait": [
+    "魔法",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

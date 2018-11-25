@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "トウマが、あんまりバカだからよ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_t01.gif",
+  "level": 0,
+  "name": "怒ったシリル",
+  "power": 500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、ストック置場に置く。",
+  "trait": [
+    "魔法",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

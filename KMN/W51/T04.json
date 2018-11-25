@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "サーバルさん！セルリアンの後ろに！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_t04.gif",
+  "level": 1,
+  "name": "イシ発見！かばんちゃん",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "フレンズ",
+    "帽子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

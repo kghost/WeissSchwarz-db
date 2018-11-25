@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 5,
+  "flavor": "そろそろ教育してやる。てめぇの弱さを――。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_018.gif",
+  "level": 3,
+  "name": "『　』に敗北はない",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたの、カード名に「空」を含むキャラと「白」を含むキャラが別々に1枚ずついるなら、あなたは自分のカード名に「ステ」を含むキャラを1枚選び、控え室に置く。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

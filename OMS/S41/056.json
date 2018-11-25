@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "カラ松これ食べる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_056.gif",
+  "level": 2,
+  "name": "“弟思いのお兄ちゃん”おそ松",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたのカード名に「松」を含むキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "６つ子",
+    "ギャンブル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "今日もいざ焼かん!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_042.gif",
+  "level": 0,
+  "name": "“パン銃士”ココア",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「Hot Bakery」があるなら、このカードは次の能力を得る。『【起】［手札の「Hot Bakery」を1枚控え室に置く］ あなたは自分の山札を上から4枚まで見て、カード名に「ココア」か「モカ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』\n【自】【CXコンボ】［このカードを手札に戻す］ あなたのクライマックス置場に「三姉妹？」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Hot Bakery」を1枚選び、手札に戻す。",
+  "trait": [
+    "ラビットハウス",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

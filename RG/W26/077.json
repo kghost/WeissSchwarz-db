@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "………………はっ！　い、いけませんのっ！\nお姉さまの香りに包まれていると思わず意識が",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_077.gif",
+  "level": 1,
+  "name": "鬼の居ぬ間に",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の《超能力》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

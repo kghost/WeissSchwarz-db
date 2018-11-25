@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "フフン、なかなか、言ってくれるじゃない♪\nこの私に勝とうなんて、１００年早いんだから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_093.gif",
+  "level": 2,
+  "name": "売れっ子アイドル伊織",
+  "power": 7000,
+  "rarity": "RE",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 アンコール ［(2)］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "人形"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

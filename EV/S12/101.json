@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "…ま、色々と貸しがあるのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_101.gif",
+  "level": 0,
+  "name": "作戦部長 ミサト",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "さぁいよいよ、本番ですわね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_063.gif",
+  "level": 0,
+  "name": "浴衣の万里花",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "警察",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

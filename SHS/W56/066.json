@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "だからわざわざ昔捨てた女の所にのこのこ顔出したのよね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_066.gif",
+  "level": 0,
+  "name": "毒舌系先輩 詩羽",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《ゲーム》か《小説》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

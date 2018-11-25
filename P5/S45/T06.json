@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "今さら、謝っても…\n許さねえ…からな…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_t06.gif",
+  "level": 2,
+  "name": "反逆のドクロ 竜司",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "怪盗",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

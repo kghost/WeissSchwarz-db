@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "衛宮、早く弁当を食べないと昼休みが終わってしまうぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_021.gif",
+  "level": 0,
+  "name": "士郎の親友　一成",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「放課後の戦い 士郎」1枚につき、このカードのパワーを＋1500し、このカードの正面のキャラのソウルを＋1。",
+  "trait": [
+    "生徒会",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

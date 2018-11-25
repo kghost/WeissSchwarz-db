@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "アンチスパイラル「螺旋の墓場だ…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_098.gif",
+  "level": 3,
+  "name": "デススパイラルマシン",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたはバトル中以外の相手のキャラを2枚選び、それぞれを【スタンド】して入れ替える。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

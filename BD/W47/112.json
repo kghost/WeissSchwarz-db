@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "香澄うぜー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-112_c.gif",
+  "level": 2,
+  "name": "けだるげな有咲",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。\n【起】【カウンター】 助太刀2500 レベル2 ［? 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "trait": [
+    "音楽",
+    "盆栽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

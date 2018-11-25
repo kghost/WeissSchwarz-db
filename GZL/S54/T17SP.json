@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_s54/gzl_s54_t17sp.gif",
+  "level": 3,
+  "name": "“繋ぐ希望”ユウコ・タニ",
+  "power": 10000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、あなたは他の自分の《アラトラム号》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《アラトラム号》のキャラの枚数×500に等しい。",
+  "trait": [
+    "アラトラム号",
+    "人類"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

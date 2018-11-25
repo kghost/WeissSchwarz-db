@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "ブラック★ロックシューター「あの子を助けたい？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/br_se06/br_se06_36.gif",
+  "name": "アナタは誰？",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

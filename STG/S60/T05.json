@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ラボ創設者にして、狂気のマッドサイエンティスト。この俺、鳳凰院 凶真",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_t05.gif",
+  "level": 1,
+  "name": "“ラボメンNo.001”岡部 倫太郎",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「エル・プサイ・コングルゥ」があるなら、あなたは自分の山札を見て《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ラボメン",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

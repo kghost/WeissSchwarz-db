@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "中学の頃は、こうして一条君と海に来るなんて想像もしなかった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_p11.gif",
+  "level": 2,
+  "name": "ナツイロ 小咲",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「約束のペンダント」があるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "お菓子",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

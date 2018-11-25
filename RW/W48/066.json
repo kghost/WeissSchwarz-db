@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "………",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_066.gif",
+  "level": 1,
+  "name": "夜のバニラアイス 朱音",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

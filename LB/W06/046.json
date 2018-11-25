@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ええ、ママと一緒に。遊びましょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_046.gif",
+  "level": 1,
+  "name": "クロの願い",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 このカードは、あなたの《スポーツ》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

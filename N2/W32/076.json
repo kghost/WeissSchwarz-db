@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "『大切なパートナー、レイジングハートとの出逢い。\nそれから、フェイトちゃんとの出逢い』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w32/n2_w32_076.gif",
+  "name": "約束の朝",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

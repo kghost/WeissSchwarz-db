@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ダース・ベイダー「守りを甘くするな、愚か者」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_082.gif",
+  "level": 2,
+  "name": "Lightsaber Duel",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の控え室の、カード名に「ルーク」を含むキャラを1枚までとカード名に「ベイダー」か「アナキン」を含むキャラを1枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ならば聴くがいい！防人の歌を！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_082.gif",
+  "level": 3,
+  "name": "抜身の刀身 翼",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時か「天羽々斬」の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「千ノ落涙」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "佐々美先輩、加勢いたしますっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_008.gif",
+  "level": 0,
+  "name": "ソフト部三人組",
+  "power": 3000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "スポーツ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

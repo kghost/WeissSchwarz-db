@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "《記録の地平線》の具体的な方策とやらを、\n聞かせてもらおうか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_47.gif",
+  "level": 2,
+  "name": "アイザック",
+  "power": 10000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+  "trait": [
+    "武器",
+    "団長"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "――取ろうぜ、聖杯",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_035.gif",
+  "level": 1,
+  "name": "“円卓の騎士”赤のセイバー",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「紅い雷鳴」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“最後の一閃”赤のセイバー」を1枚までと「ふたつのタバコ」を1枚まで選び、手札に戻す。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

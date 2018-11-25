@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ゲンキ「笑顔でいれば、元気は自然と出てくるぜ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_072.gif",
+  "level": 1,
+  "name": "ゲンキ＆ロゼッタ",
+  "rarity": "U",
+  "side": "W",
+  "text": "以下の効果のうちあなたが選んだ1つを行う。\n『あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは相手のレベル0以下のキャラを1枚選び、山札の上に置く。』\n『あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋5500。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

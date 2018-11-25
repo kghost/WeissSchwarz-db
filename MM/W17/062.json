@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "そういうもんじゃん？\n最後に愛と勇気が勝つストーリーってのは",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_062.gif",
+  "level": 3,
+  "name": "佐倉 杏子",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。\n【起】［(1) あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "trait": [
+    "魔法",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

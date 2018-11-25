@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "その動き……命取りです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_127.gif",
+  "level": 2,
+  "name": "“ショコラーデ・ミラ”千年 夕依",
+  "power": 4000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ストライカー》のキャラすべてに、パワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か「“ショコラーデ・ミラ”賢宮 ほたる」の【自】の効果で舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【自】 あなたのクライマックス置場に「決戦の時」が置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。",
+  "trait": [
+    "ストライカー",
+    "巫女"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

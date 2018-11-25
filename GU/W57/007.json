@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_007.gif",
+  "level": 1,
+  "name": "“うさみみ営業中”シャロ",
+  "power": 6500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは、あなたのカード名に「シャロ」か「千夜」を含むキャラが2枚以下なら、手札からプレイできない。\n【永】 アタックフェイズ中、あなたは自分のカードの効果で自分の控え室のキャラを手札に戻せない。",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

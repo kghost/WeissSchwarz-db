@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "どんなデキゴトも越えてゆける強さ\nキミがボクにくれた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_039.gif",
+  "name": "七彩ボタン",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

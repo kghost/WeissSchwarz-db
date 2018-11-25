@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あっ、包丁、そんな風に持っちゃ危ないよ。ちゃんと手を添えて、こう……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_022.gif",
+  "level": 2,
+  "name": "朝倉姉妹のお料理",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋6000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

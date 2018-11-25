@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ルーリン「じゃあ早速変身よ、小咲ちゃん！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_we22/nk_we22_p02.gif",
+  "level": 3,
+  "name": "愛と正義と甘味の魔法少女 マジカルパティシエ小咲ちゃん",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《お菓子》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置く。残りのカードを山札の上に好きな順番で置く。",
+  "trait": [
+    "お菓子",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "お茶です、どーぞ♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_039.gif",
+  "level": 0,
+  "name": "SOS団のマスコットみくる",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《SOS団》のキャラが手札か思い出置場から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《お茶》を与える。",
+  "trait": [
+    "時間",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "さぁ、行くわよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_079.gif",
+  "level": 1,
+  "name": "“走り出せ”アクア",
+  "power": 5000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「女神の名において」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《冒険者》か《女神》か《アクシズ教徒》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "冒険者",
+    "女神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

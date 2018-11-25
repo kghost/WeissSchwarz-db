@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "もう大丈夫だね…まゆしぃが人質じゃなくても",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_081s.gif",
+  "level": 1,
+  "name": "“君が描く未来”椎名 まゆり",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「世界の分岐点」があり、他のあなたの《ラボメン》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "ラボメン",
+    "裁縫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

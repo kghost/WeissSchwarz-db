@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_082.gif",
+  "level": 1,
+  "name": "夏祭り フーコ",
+  "power": 5500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「夏の宵のまどろみ」があり、他のあなたの、《アバター》か《ネット》のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "ネット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

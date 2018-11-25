@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……私ばっかり話してたから疲れちゃった。次はあなたの話を聞かせてよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_s09.gif",
+  "level": 0,
+  "name": "“カフェメイド”西木野 真姫",
+  "power": 3000,
+  "rarity": "-",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

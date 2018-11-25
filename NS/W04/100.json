@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "機動六課隊長、副隊長一同……能力限定、完全解除……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_100.gif",
+  "name": "限定解除",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "その代償が我が命であろうとも、だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_016.gif",
+  "level": 2,
+  "name": "ウェールズ・テューダー",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【起】［(4)］ あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "魔法",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

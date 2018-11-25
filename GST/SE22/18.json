@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "いや、ただのメンコだろ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_18.gif",
+  "level": 3,
+  "name": "的確なツッコミ あたる",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのキャラすべてが《ギガント》なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "錦",
+    "ギガント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

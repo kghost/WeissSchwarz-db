@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "何が起こるかわからない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_021.gif",
+  "level": 2,
+  "name": "真夏の夜の夢",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは相手の手札をランダムに1枚選び、控え室に置く。そのカードがクライマックスなら、あなたは自分の手札をランダムに2枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

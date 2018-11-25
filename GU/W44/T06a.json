@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私はパン屋さんか、弁護士さんになりたいなぁ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_t06a.gif",
+  "level": 1,
+  "name": "“将来のこと”ココア",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ラビットハウス",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

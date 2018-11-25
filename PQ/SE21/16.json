@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "善「…玲、怯えなくていい。\n大丈夫だ、守るから」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pq_se21/pq_se21_16.gif",
+  "name": "守りたい人",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Treasure]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "TREASURE"
+  ],
+  "type": "Climax"
+}

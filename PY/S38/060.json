@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "うふふふふ　よだ…　いや　たかなりが　とまらない…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_060.gif",
+  "level": 3,
+  "name": "ウ・ン・メ・イ",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のクロック置場のキャラを1枚選び、手札に戻す。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

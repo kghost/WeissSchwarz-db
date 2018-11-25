@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "イリス…あたしは…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_071.gif",
+  "level": 0,
+  "name": "怒りと悲しみ キリエ",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたの《フォーミュラ》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "武器",
+    "フォーミュラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

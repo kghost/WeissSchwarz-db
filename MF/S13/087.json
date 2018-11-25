@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ここで食い止めないと、次はまたフロンティア船団が…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_087.gif",
+  "level": 2,
+  "name": "コックピットのルカ",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(3)］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが自分のレベル以下のレベルの《パイロット》のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。（そうしないなら元に戻す）",
+  "trait": [
+    "パイロット",
+    "メカ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

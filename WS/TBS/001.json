@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "手加減抜きで行くからね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_tbs/ws_tbs_001.gif",
+  "level": 0,
+  "name": "学園のアイドル ミチ",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "オタク",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

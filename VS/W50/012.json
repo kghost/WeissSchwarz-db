@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_012.gif",
+  "level": 1,
+  "name": "上達の実感 フーカ",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《格闘》のキャラの枚数×500に等しい。",
+  "trait": [
+    "格闘",
+    "覇王流"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

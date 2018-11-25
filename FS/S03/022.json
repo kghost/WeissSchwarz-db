@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "逃が――――\nすかってんだ、このヤロウ――――！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_022.gif",
+  "level": 1,
+  "name": "士郎ＶＳギルガメッシュ",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、山札の上に置く。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

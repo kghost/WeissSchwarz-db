@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ちょっと痛いけど、ごめんなさいっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_084.gif",
+  "level": 0,
+  "name": "弓塚 さつき",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。",
+  "trait": [
+    "血",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "私たち、未来のことを考えちゃ、いけないの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_046b.gif",
+  "level": 1,
+  "name": "楽園のキス",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の手札の「楽園のキス」を1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。\n【永】記憶 思い出置場にこのカードがあるなら、あなたの、《パラサイト》か《フランクス》のキャラすべてに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

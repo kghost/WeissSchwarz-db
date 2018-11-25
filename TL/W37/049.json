@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "この着信音…結城君…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_049.gif",
+  "level": 2,
+  "name": "“猫の着信音”唯",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードがアタックした時、クライマックス置場に「魅惑ボイス」があるなら、そのターン中、このカードのパワーを＋Ｘし、相手は『助太刀』を手札からプレイできない。Ｘは他のあなたの、《動物》か《植物》のキャラの枚数×500に等しい。",
+  "trait": [
+    "風紀委員",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

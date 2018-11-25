@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "俺は貴様らを許さない……\n薄汚い魔術師どもめ……ッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_078.gif",
+  "level": 2,
+  "name": "運命から逃げた男 雁夜",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "マスター",
+    "虫"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

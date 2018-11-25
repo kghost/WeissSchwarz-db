@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "シロウ、手を―――！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_006.gif",
+  "level": 3,
+  "name": "士郎＆セイバー",
+  "power": 9500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「黄金の別離」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。",
+  "trait": [
+    "マスター",
+    "サーヴァント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

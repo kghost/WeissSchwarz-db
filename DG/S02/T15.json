@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "次回『女王エトナ誕生』　魔界の闇に美少女が舞う！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_t15.gif",
+  "level": 2,
+  "name": "超時空美少女悪魔エトナ",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

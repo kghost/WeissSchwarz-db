@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "今年一年の無事を、ちゃんと願わないと。ぼーっとしてないで行くわよ、ほら",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_036.gif",
+  "level": 1,
+  "name": "明るい新年 櫻井明音",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードが黄のカードなら、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "ガール",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

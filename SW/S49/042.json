@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ジャバ「ついに怪力のチューバッカも我が手に落ちたか」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_042.gif",
+  "level": 0,
+  "name": "ガモーリアン",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 他のあなたの前列の「ガモーリアン」1枚につき、このカードのパワーを＋1000。\n【永】 他のあなたの「ガモーリアン」すべてに、パワーを＋500。",
+  "trait": [
+    "ジェダイの帰還",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "だが俺たちはメカゴジラ開発に失敗し、お前たちの教義も地球人を洗脳しきれなかった。それが歴史だ。『もしも』は夢物語でしかない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_s54/gzl_s54_t08.gif",
+  "level": 0,
+  "name": "“惑星の沿革”ガルグ",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《アラトラム号》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "アラトラム号",
+    "ビルサルド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

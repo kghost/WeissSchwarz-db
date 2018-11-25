@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ブラックロックシューター　ひとりじゃないよ\n声をあげて泣いたって構わない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_103.gif",
+  "level": 1,
+  "name": "“ブラック★ロックシューター”初音ミク",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「ブラック★ロックシューター」があるなら、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

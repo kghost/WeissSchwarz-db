@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_084c.gif",
+  "level": 0,
+  "name": "“忌むべき存在”テラフォーマー",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 このカードはサイドアタックできない。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたのカード名に「テラフォーマー」を含むキャラの枚数×500に等しい。",
+  "trait": [
+    "虫",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

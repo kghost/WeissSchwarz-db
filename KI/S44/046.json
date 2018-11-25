@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "穂乃香「悪い虫がつかなくなるでしょ？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_046.gif",
+  "level": 1,
+  "name": "防虫クレープ",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの《キズナ》のキャラが2枚以下なら、手札からプレイできない。\nあなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラならストック置場に置く。（そうでないなら元に戻す）\nあなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

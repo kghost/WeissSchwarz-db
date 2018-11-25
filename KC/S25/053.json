@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "やったで！ウチ大活躍や！褒めて褒めてぇ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_053.gif",
+  "level": 2,
+  "name": "龍驤型軽空母 龍驤",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［手札の《艦娘》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋3500。",
+  "trait": [
+    "艦娘",
+    "軽空母"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

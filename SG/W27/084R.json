@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“QUEENS of MUSIC”翼",
+  "power": 6000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

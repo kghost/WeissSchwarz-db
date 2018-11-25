@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "熱い国のパトリシア",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "オタク",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

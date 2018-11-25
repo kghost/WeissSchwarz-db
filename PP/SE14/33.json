@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "flavor": "殺したのかい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pp_se14/pp_se14_33.gif",
+  "level": 2,
+  "name": "深淵なる洞察力 槙島",
+  "power": 9500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "サイコパス",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

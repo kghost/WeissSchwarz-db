@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "いいぞ…吉田さんがボクに注目している",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_019.gif",
+  "level": 0,
+  "name": "池 速人",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを１枚選び、そのターン中、パワーを＋2500。",
+  "trait": [
+    "メガネ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

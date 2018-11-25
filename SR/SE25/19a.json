@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "みんなの想い、僕に響いた！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sr_se25/sr_se25_19a.gif",
+  "level": 1,
+  "name": "B.A.N.D",
+  "rarity": "C",
+  "side": "S",
+  "text": "このカードは、あなたの前列の中央の枠にカード名に「ユーマ」か「ソニア」か「キリカ」を含むキャラがいないなら、手札からプレイできない。\n【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

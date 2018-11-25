@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "練習もバッチリです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_t01.gif",
+  "level": 0,
+  "name": "“さあどこへ行こうかな”黒澤 ルビィ",
+  "power": 500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの「“さあどこへ行こうかな”黒澤 ダイヤ」すべてに、パワーを＋2000。\n【自】 絆／「“さあどこへ行こうかな”黒澤 ダイヤ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“さあどこへ行こうかな”黒澤 ダイヤ」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あなたーお願いね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_t06.gif",
+  "level": 1,
+  "name": "強き母 みさえ",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "家族",
+    "主婦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

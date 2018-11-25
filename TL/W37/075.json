@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ふーん、ふ?ん、ふーん?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_075.gif",
+  "level": 0,
+  "name": "“発明品の整理”ララ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "宇宙人",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

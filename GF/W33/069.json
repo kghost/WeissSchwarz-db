@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あ、は?い、こっちのオカズもどうぞ?朝早く起きて、一生懸命作ったんですよ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_069.gif",
+  "level": 0,
+  "name": "努力賞 朝比奈桃子",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ガール",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

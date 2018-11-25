@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "しんのすけ「ネネちゃんは扱いづらいし」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_036.gif",
+  "level": 1,
+  "name": "おませな女の子 ネネちゃん",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+  "trait": [
+    "幼稚園",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

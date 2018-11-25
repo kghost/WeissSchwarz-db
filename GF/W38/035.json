@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "燈「おやぁ？　先輩、電気つけました？\nなんだか、視界が明るくなったような気が…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_035.gif",
+  "name": "仲良し【燈＆ゆらら】",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "…写真出来たら、欲しいの？　う、うん、焼き増し出来るなら、あげよう、かな？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_075.gif",
+  "level": 0,
+  "name": "浮き立つ心 加賀美茉莉",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "ガール",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

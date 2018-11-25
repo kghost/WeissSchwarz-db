@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "C-3PO: \"I'm quite sure you'll be very pleased with that one, sir. He really is in first-class condition.\"",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_087r.gif",
+  "level": 0,
+  "name": "R2-D2",
+  "power": 1500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "新たなる希望",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

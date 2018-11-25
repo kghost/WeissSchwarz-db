@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ニコの秘めごと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_p05.gif",
+  "level": 0,
+  "name": "ネイルのお手入れ にこ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

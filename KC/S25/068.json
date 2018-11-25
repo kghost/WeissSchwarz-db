@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "古鷹型重巡の2番艦、加古ってんだ、\nよっろしくぅー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_068.gif",
+  "level": 1,
+  "name": "古鷹型重巡2番艦 加古",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "艦娘",
+    "重巡洋艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

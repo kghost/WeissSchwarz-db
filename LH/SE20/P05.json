@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "『マエストロ・エコー』！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_p05.gif",
+  "level": 0,
+  "name": "絶妙なコンビネーション 五十鈴",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 ［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "武器",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

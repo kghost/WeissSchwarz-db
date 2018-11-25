@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "私たち、引退します！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_043.gif",
+  "level": 3,
+  "name": "双葉 杏",
+  "power": 9000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを?1。\n【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "音楽",
+    "飴"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

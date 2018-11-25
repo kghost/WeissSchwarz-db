@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "えっと…その…ツノを、あまり見ないでください",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_068.gif",
+  "level": 0,
+  "name": "２本のツノを髪でまいてる リデル",
+  "power": 1500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ぷよ》のキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "trait": [
+    "ぷよ",
+    "ツノ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

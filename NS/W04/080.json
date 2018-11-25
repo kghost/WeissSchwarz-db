@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ザフィーラ。追いこんだわ。そっちに３体",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_080.gif",
+  "level": 2,
+  "name": "守護騎士シャマル＆守護獣ザフィーラ",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "trait": [
+    "魔法",
+    "使い魔"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

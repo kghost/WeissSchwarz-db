@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "……見つけた……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_069.gif",
+  "level": 2,
+  "name": "ＷＡＳ",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたは相手の後列のレベル2以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

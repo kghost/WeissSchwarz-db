@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "って……わ、私別に朝倉くんと\n仲直りしたわけじゃないんだからね……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_039.gif",
+  "level": 0,
+  "name": "不器用なすれ違い 叶",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室のレベル0以下のカード名に「工藤」を含むキャラを1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

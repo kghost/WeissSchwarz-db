@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "起きろ！　蒼！　頼む、目を覚ましてくれ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_070.gif",
+  "level": 2,
+  "name": "あふれ出す記憶",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたのカード名に「蒼」か「藍」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の手札のキャラを1枚選び、思い出にしてよい。そうしたら、あなたは自分の控え室のカード名に「蒼」か「藍」を含むキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

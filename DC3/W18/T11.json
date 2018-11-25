@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お兄ちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_t11.gif",
+  "level": 0,
+  "name": "おひさま少女 葵",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から1枚をめくり、控え室に置く。そのカードが《新聞》のキャラなら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trait": [
+    "新聞",
+    "ウェイトレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

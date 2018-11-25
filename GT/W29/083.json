@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "だからって……こんな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_083.gif",
+  "level": 0,
+  "name": "友への想い せいら",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「お父さんっ子 ぎんか」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お父さんっ子 ぎんか」を1枚選び、手札に戻す）\n【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "タロット",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

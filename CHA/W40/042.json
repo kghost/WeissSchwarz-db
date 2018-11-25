@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "めっさおっそーーい！こんなに遅くなるなら、電話してほしかったのですーー！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_042.gif",
+  "level": 1,
+  "name": "“ご立腹”乙坂 歩未",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "能力者",
+    "ピザソース"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

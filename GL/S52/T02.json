@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "アナタ達、下がってなさい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_t02.gif",
+  "level": 0,
+  "name": "地上から来た女 ヨーコ",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "大グレン団",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

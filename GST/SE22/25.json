@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "おれは、アイドルになるよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_25.gif",
+  "level": 2,
+  "name": "豊穣なる大地の申し子 あたる",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "錦",
+    "ギガント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

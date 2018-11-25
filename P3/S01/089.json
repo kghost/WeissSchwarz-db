@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "僕は無能な奴が嫌いだ。口をききたいとも思わない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_089.gif",
+  "level": 0,
+  "name": "小田桐 秀利",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "生徒会",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

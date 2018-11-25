@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-035_r.gif",
+  "level": 2,
+  "name": "木漏れ日の下で 沙綾",
+  "power": 7000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを-1。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「やさしいお姉ちゃん」があるなら、あなたは自分の控え室の「夜空の下で」を1枚まで選び、手札に戻し、自分の山札の上から1枚までを、ストック置場に置く。",
+  "trait": [
+    "音楽",
+    "パン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

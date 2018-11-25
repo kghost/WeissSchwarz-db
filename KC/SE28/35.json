@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_se28/kc_se28_35.gif",
+  "level": 0,
+  "name": "輸送ワ級",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《深海棲艦》なら、このカードのパワーを＋1000。\n【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "深海棲艦",
+    "補給艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

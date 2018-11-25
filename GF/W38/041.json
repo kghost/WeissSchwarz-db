@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "感謝して、たっくさん撮りなさいね?♪\n…と言いつつ被写体になるのは慣れてないんだけどね?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_041.gif",
+  "level": 0,
+  "name": "撮影コーチ 望月エレナ",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「夏準備 村上文緒」すべてに、パワーを＋1000。\n【自】 絆／「夏準備 村上文緒」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「夏準備 村上文緒」を1枚選び、手札に戻す）",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

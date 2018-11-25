@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 4,
+  "flavor": "…ありがたやありがたや",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_032.gif",
+  "level": 3,
+  "name": "式神軍団",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の手札を2枚選び、控え室に置いてよい。そうしたら、相手のキャラすべてに、そのターン中、ソウルを?2。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

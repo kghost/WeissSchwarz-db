@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "兄さん、実はね…私…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we16/dc3_we16_06.gif",
+  "level": 2,
+  "name": "変わらない時間 姫乃",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「いつまでもいたいところ」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与え、あなたのキャラすべてに、そのターン中、パワーを＋1500。（ダメージキャンセルは発生する）",
+  "trait": [
+    "新聞",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

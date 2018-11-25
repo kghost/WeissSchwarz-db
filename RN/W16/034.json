@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ロボットを、悪者にも、したくねぇんだ\n子供とロボットは、一緒にいない方が、幸せなんだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_034.gif",
+  "level": 0,
+  "name": "藤田 鉄治",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「過去のトラウマ 淳和」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「過去のトラウマ 淳和」を1枚選び、手札に戻す)\n【起】［このカードを【レスト】する］ あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

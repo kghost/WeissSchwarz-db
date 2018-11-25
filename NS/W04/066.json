@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なのは「いい子にしてた？」\nヴィヴィオ「……うん……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_066.gif",
+  "level": 1,
+  "name": "なのは＆ヴィヴィオ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「ママと約束ね」があるなら、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。",
+  "trait": [
+    "魔法",
+    "オッドアイ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

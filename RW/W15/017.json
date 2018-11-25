@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "お家族やご友達を誘って、是非ご参加ください",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_017.gif",
+  "level": 0,
+  "name": "“緑を増やそう委員会”小鳥",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "植物",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

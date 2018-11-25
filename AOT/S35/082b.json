@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "……一人も死なせたくないのなら……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_082b.gif",
+  "level": 2,
+  "name": "対巨人兵器『半刃刀身』",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

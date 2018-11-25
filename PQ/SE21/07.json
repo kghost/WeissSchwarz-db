@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 9,
+  "flavor": "Ｐ４主人公「話は後だ。助けに来た」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pq_se21/pq_se21_07.gif",
+  "level": 3,
+  "name": "シャドウ オブ ザ ラビリンス",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［(2)］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手を思い出にし、自分の後列のキャラを1枚とこのカードを選び、入れ替える。』（カードの向きは変わらない）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

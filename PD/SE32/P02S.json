@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "空の色も　風のにおいも\n海の深さも　あなたの声も\nワタシは知らない　だけど歌を\n歌をうたう　ただ声をあげて",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_se32/pd_se32_p02s.gif",
+  "level": 2,
+  "name": "ハジメテノオト",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室の異なるカード名のクライマックスの枚数×1000に等しい。異なるカード名のクライマックスが6枚以上なら、あなたは自分のクロックを1枚選び、控え室に置いてよい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-044_u.gif",
+  "level": 1,
+  "name": "走り出した思い 沙綾",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "音楽",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_076.gif",
+  "level": 2,
+  "name": "LOVELY BOMBER クラン",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「アルカトラズ慰問ライブ」があるなら、他のあなたのキャラすべてに、そのターン中、パワーを＋1000。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「アルカトラズ慰問ライブ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "パイロット",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

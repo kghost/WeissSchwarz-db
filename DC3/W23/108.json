@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "それでは、みんなとの百年越しの、\n本当の意味での再会を祝して――かんぱーい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w23/dc3_w23_108.gif",
+  "name": "みんなでお花見",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

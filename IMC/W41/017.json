@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ウサミンこと、安部菜々でーす！キャハッ☆",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_017.gif",
+  "level": 0,
+  "name": "安部 菜々",
+  "power": 3017,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、舞台のこのカードのレベルを?1。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分のストックの上から1枚を、控え室に置く。そうしたら、このカードをストック置場に置く。",
+  "trait": [
+    "音楽",
+    "ウサミン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

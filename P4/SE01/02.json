@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "お前は、俺で…俺は、お前か。\n全部ひっくるめて、俺だって事だな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se01/p4_se01_02.gif",
+  "level": 2,
+  "name": "陽介＆ジライヤ",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 手札のこのカードをプレイするにあたり、あなたは自分の「花村 陽介」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "ジュネス",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

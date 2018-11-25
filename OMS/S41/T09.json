@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "希望はビッグっす！あとはカリスマ、レジェンド、人間国宝！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_t09.gif",
+  "level": 2,
+  "name": "“就職しよう”おそ松",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "６つ子",
+    "ギャンブル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "それでも、俺は繰り返す。何度でも――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we18/lb_we18_10.gif",
+  "level": 1,
+  "name": "“苦悶の決意”恭介",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ 相手のアンコールステップの始めに、前列に【リバース】していないこのカードがいるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてを、【レスト】する。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

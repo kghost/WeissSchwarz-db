@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "行こうぜ田中",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_009.gif",
+  "level": 0,
+  "name": "佐藤 啓作",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたのカード名に「マージョリー」を含むキャラすべてに、そのターン中、パワーを＋500。\n【自】 絆／「『弔詞の詠み手』マージョリー・ドー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「『弔詞の詠み手』マージョリー・ドー」を1枚選び、手札に戻す）",
+  "trait": [
+    "愛",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

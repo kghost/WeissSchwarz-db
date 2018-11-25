@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "なにがおきたかわからないですけど、かいけつしたみたいですね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_094.gif",
+  "level": 1,
+  "name": "“ゴーストバスター”チノ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ラビットハウス",
+    "コーヒー"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

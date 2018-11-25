@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あ！見て見てカズマ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_t14.gif",
+  "level": 0,
+  "name": "“お調子者で能天気”アクア",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "冒険者",
+    "女神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

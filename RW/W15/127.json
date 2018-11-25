@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "残念だがそこは譲れない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_127.gif",
+  "level": 0,
+  "name": "“風祭学院高校”静流",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+  "trait": [
+    "風紀委員",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

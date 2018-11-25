@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "太陽すら斬ると言われるほど天才的な剣技を誇る美貌の剣士。まだ年若いながらも日本最強の剣客だと噂されている",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kg_se07/kg_se07_t03.gif",
+  "level": 2,
+  "name": "堕剣士 錆 白兵",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "武器",
+    "和服"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "噛ませ犬と呼ばれてン十年。返上させてもらうぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_t16.gif",
+  "level": 1,
+  "name": "噛ませ犬 藤巻",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "死",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

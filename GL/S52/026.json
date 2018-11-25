@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "よっしゃぁ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_026.gif",
+  "level": 1,
+  "name": "漢は気合！ カミナ",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「穴掘りシモン」がいるなら、このカードのパワーを＋3000。",
+  "trait": [
+    "大グレン団",
+    "サングラス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

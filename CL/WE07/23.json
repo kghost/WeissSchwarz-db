@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "朋也くんとおでかけできてうれしいの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_23.gif",
+  "level": 1,
+  "name": "天然娘 ことみ",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "本",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

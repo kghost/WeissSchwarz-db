@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "その姿はまるで、そうね…ジャンヌダルク！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se09/mk_se09_25.gif",
+  "name": "私がやりました",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

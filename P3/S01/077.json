@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "そう…今回のターゲットは、私、エリザベスでございます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_077.gif",
+  "level": 3,
+  "name": "エリザベス",
+  "power": 9000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 大活躍\n【自】 このカードがアタックした時、クライマックス置場に「最強なる者」があるなら、あなたは1枚引く。\n【起】［(4)］ あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "魔法",
+    "神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

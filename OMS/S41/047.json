@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "らっせーらーらっせーらー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_047.gif",
+  "level": 0,
+  "name": "“お祭り男”おそ松",
+  "power": 3500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがカード名に「松」を含むキャラでないなら、あなたは自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "６つ子",
+    "ギャンブル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "淳和「ああ、愛理ちゃん、\nほら、口、拭いてあげるから、じっとしてて」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_080.gif",
+  "level": 1,
+  "name": "夏祭り 愛理",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "科学",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "え？　お弁当、そんなに多い？私はいつも、これくらいのサイズだよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_026.gif",
+  "level": 0,
+  "name": "健康健啖 春宮つぐみ",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「真尋」を含むキャラすべてに、パワーを＋500。\n【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

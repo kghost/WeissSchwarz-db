@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "そう君達の中で私が生きていてくれるなら\nこれからも空の上から見守りましょう……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_081.gif",
+  "level": 2,
+  "name": "そうじろう＆かなた",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「私が一番安心できる場所」があるなら、あなたは1枚引く。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、他のあなたのカード名に「こなた」か「そうじろう」を含むキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードを1枚選び、山札に戻す。その山札をシャッフルする。",
+  "trait": [
+    "オタク",
+    "霊"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

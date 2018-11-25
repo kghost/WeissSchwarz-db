@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_023sp.gif",
+  "level": 3,
+  "name": "ギャップ萌え いづな",
+  "power": 9000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの《ゲーム》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを-1。\n【永】 他のあなたの後列の《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "ゲーム",
+    "獣人種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

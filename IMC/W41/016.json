@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "高森藍子のゆるふわタイム♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_016.gif",
+  "level": 0,
+  "name": "高森 藍子",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】[(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1し、ターンの終わりに、このカードを思い出にする。",
+  "trait": [
+    "音楽",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

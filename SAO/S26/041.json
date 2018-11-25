@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "よろしくお願いします",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s26/sao_s26_041.gif",
+  "level": 1,
+  "name": "《ケットシー》の少女 シリカ",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが、《アバター》か《ネット》か《竜》のキャラでないなら、あなたのアンコールステップの始めに、このカードを控え室に置く。（公開したカードは元に戻す）",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "自分で作れるって聞くと、やってみたくなるよな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_009s.gif",
+  "level": 0,
+  "name": "“グロウアップロック”宇田川巴",
+  "power": 2000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 あなたのクライマックス置場に「グロウアップロック」が置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の山札の上から1枚を公開する。そのカードが『アラーム』を持つキャラならストック置場に置く。（そうでないなら元に戻す）\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "決勝、もう明後日やけど…どう？やれそう？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_093.gif",
+  "level": 2,
+  "name": "ジークリンデ・エレミア",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "格闘",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

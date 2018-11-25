@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "だって、私はエトが……エトが、好きだから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_094.gif",
+  "level": 2,
+  "name": "人形劇",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは2枚まで引く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

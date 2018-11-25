@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "がおー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_026.gif",
+  "level": 1,
+  "name": "うー！がおー！ フェネック",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "フレンズ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

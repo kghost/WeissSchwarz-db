@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "約束か…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds2_se16/ds2_se16_34.gif",
+  "level": 3,
+  "name": "最後の戦い ヤマト",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』\n【自】 このカードがアタックした時、クライマックス置場に「悪魔合体」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋4500。",
+  "trait": [
+    "サマナー",
+    "竜"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

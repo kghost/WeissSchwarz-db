@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "私の計算通りだったわ。\nもちろん司令官さんの戦略だから、できたのよ。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_071.gif",
+  "level": 2,
+  "name": "高雄型重巡4番艦 鳥海",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "艦娘",
+    "重巡洋艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "我が心は決して折れません",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_047.gif",
+  "level": 1,
+  "name": "使命と誇り",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたのキャラすべてに、そのターン中、『【自】 アンコール ［(1)］』を与える。\nこのカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

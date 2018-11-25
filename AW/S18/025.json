@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "私は……目の前で友情を説き\n不戦を訴える赤の王の意表をつき、首を落とした",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_025.gif",
+  "level": 1,
+  "name": "裏切り",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの黄のキャラが2枚以下なら、手札からプレイできない。\nあなたは相手のレベル1以下のキャラを1枚選び、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

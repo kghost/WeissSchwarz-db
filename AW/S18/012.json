@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "我が名は《ブラック・ロータス》!! 僭王の支配に抗う者だ!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_012.gif",
+  "level": 1,
+  "name": "《黒の王》ブラック・ロータス",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「宣告・貫通による死」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「本当の強さ 黒雪姫」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

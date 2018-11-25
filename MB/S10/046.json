@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "さあ、一切の痕跡なくこの砂に融けるがいいオシリス。\nおまえの技術は私が使ってやる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_046.gif",
+  "level": 1,
+  "name": "“新しい”タタリ",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4500。このカードをクロックに置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

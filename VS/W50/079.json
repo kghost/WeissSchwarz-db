@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私が弱いのがいけなかったんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_079.gif",
+  "level": 1,
+  "name": "“全部終わりでいい”リンネ",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「変えられない過去」があり、あなたのキャラすべてが《格闘》か《服》なら、あなたは自分の控え室の、「大好きなおじいちゃん ロイ」か「ロイ・ベルリネッタ」か「クラスメイトのいじめっ子」を1枚まで選び、思い出にし、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "格闘",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

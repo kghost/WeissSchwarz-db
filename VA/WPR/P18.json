@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "だが断る",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p18.gif",
+  "level": 1,
+  "name": "“近距離パワー型”兎塚エイジ",
+  "power": 7000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ビジュアルアーツ",
+    "悪魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

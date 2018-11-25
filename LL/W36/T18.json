@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "あっつー……　あなた、にこの日よけになりなさいよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_t18.gif",
+  "level": 2,
+  "name": "“夏服”矢澤 にこ",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "とりあえずこんばんは。衛宮くん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_104.gif",
+  "level": 2,
+  "name": "SD凛",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "マスター",
+    "宝石"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "私の攻撃が効果的だったのか……なるほど。\n悪い気持ちではない、が意味もないな。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_052.gif",
+  "level": 2,
+  "name": "伊勢型戦艦2番艦 日向",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「伊勢型戦艦1番艦 伊勢」すべてに、パワーを＋1000。\n【自】［(1) このカードをクロック置場に置く］ あなたのクライマックス置場に「航空戦艦、出撃！」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「伊勢型航空戦艦2番艦 日向改」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "艦娘",
+    "戦艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

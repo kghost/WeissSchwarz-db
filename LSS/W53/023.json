@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ダイヤ「綺麗ですわね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_023.gif",
+  "level": 1,
+  "name": "複雑な心境 黒澤 ルビィ",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、相手のレベルが1以下で、あなたのクロックが相手のクロックより多いなら、そのターン中、このカードのパワーを＋2000し、ソウルを＋1。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

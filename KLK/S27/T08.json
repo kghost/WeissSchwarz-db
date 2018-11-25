@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "神衣を着るってことは、\nおまえと一体になるってこと！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_t08.gif",
+  "name": "人衣一体、神衣鮮血！",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

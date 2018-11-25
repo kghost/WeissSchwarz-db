@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "さあさあ、早くお菓子をくれないと、悪戯しちゃいますよ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_068.gif",
+  "level": 0,
+  "name": "ハロウィン 優木苗",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の赤のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "ガール",
+    "かぼちゃ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

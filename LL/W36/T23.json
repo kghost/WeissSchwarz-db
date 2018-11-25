@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "絵里「ストレッチをしておくと、怪我の予防になるわ。でも、無理に伸ばしちゃダメよ？　ゆっくりね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_t23.gif",
+  "name": "おつかれさま！",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

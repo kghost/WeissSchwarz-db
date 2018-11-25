@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "笹原先輩が…先輩が…\n先輩…先輩…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_05.gif",
+  "level": 2,
+  "name": "ハートブレイク みお",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「みおの暴走」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは以下の能力のうちあなたが選んだ1つを得る。『【永】 このカードのパワーを＋6000し、ソウルを＋1。』『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のコスト1以下のキャラを1枚選び、ストック置場に置いてよい。』",
+  "trait": [
+    "漫画",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "うん……ジブンもです。すごく素敵な舞台でした",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t32.gif",
+  "level": 1,
+  "name": "“感動の涙”大和麻弥",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《Pastel＊Palettes》のキャラなら、あなたは自分の《Pastel＊Palettes》のキャラを1枚選び、そのターン中、パワーを＋1500。（公開したカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

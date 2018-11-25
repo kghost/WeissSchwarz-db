@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "いえーいっ！　今日も張り切っていこー♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-036_r.gif",
+  "level": 3,
+  "name": "Starrin’ PARTY 戸山香澄",
+  "power": 9500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】【CXコンボ】［? 手札を3枚控え室に置く］ あなたのアタックフェイズの始めに、クライマックス置場に「私たち Poppin'Party」があり、前列にこのカードがいて、他のあなたの、「Starrin’ PARTY 花園たえ」と「Starrin’ PARTY 牛込りみ」と「Starrin’ PARTY 山吹沙綾」と「Starrin’ PARTY 市ヶ谷有咲」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラすべてを、【スタンド】し、相手にＸダメージを与え、自分のクロックの上からＸ枚までを、控え室に置く。Ｘは相手の【スタンド】しているキャラの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "音楽",
+    "星"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

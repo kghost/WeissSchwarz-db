@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_104.gif",
+  "level": 0,
+  "name": "ちびいろは",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのアタックフェイズの始めに、前列にこのカードがいるなら、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "ヒール"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

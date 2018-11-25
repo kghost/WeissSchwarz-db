@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "なにが夢だ！ 高校生にもなって、\nなにを子供みたいなことを言っている！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_075.gif",
+  "name": "父親との軋轢",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

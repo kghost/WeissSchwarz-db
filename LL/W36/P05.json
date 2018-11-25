@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "神様は心の広い方やから、そんなに緊張しなくても大丈夫やで☆",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_p05.gif",
+  "level": 1,
+  "name": "“巫女服”東條 希",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "音楽",
+    "巫女"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

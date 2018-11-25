@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "直枝くんにも迷惑かけるかもしれませんけど。ごめんなさい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_039.gif",
+  "level": 0,
+  "name": "ウェイトレス 初",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "スポーツ",
+    "ウェイトレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

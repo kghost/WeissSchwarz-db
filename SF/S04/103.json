@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "異なる羽は、やがて大きな翼に変わる。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sf_s04/sf_s04_103.gif",
+  "level": 1,
+  "name": "シャイニング・フォース フェザー",
+  "rarity": "PR",
+  "side": "S",
+  "text": "あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_090.gif",
+  "level": 0,
+  "name": "“小鳥さん謹製”魔物",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 他のあなたの前列の「“小鳥さん謹製”魔物」1枚につき、このカードのパワーを＋2000。",
+  "trait": [
+    "植物",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

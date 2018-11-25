@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "私が…指揮官？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_103.gif",
+  "level": 3,
+  "name": "新たな指揮官 姫百合",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《探偵》か《警察》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "探偵",
+    "警察"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "この戦に勝利しましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_19.gif",
+  "level": 2,
+  "name": "領主の覚悟 ミルヒ",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《動物》のキャラが3枚以上なら、このカードは次の能力を得る。『【起】［(2) このカードを【レスト】する］ あなたは自分の思い出置場の「シンク・イズミ」を1枚選び、舞台の好きな枠に置く。』\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "動物",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

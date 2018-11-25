@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_070.gif",
+  "level": 0,
+  "name": "探しもの はやて",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の、《魔法》かカード名に「はやて」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "本",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

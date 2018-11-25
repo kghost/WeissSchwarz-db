@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "よし！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_040.gif",
+  "level": 1,
+  "name": "料理が得意 ミウラ",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "格闘",
+    "家事"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "『テスタメントを使って五感の全てに電気的情報を\n入力することで、強制的に脳に書き込む――』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_031.gif",
+  "level": 1,
+  "name": "テスタメント",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠の《クローン》のキャラに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

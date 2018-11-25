@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "嵐のようなピンポンダッシュとイタズラ電話で\n眠れなくしてやる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_079.gif",
+  "level": 0,
+  "name": "“ピンポンダッシュ”アクターレ",
+  "power": 2000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1) このカードを控え室に置く］ 相手は自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。",
+  "trait": [
+    "悪魔",
+    "ダークヒーロー"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

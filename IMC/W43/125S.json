@@ -1,0 +1,12 @@
+{
+  "color": "BLUE",
+  "flavor": "クラシーヴィ……",
+  "name": "Nebula Sky",
+  "rarity": "SR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

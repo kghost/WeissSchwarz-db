@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "あっ！　ど、どこ行ってたんですかっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_t06.gif",
+  "level": 1,
+  "name": "制服のちはや",
+  "power": 6500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「迷子の転校生」があるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500し、ソウルを＋1。",
+  "trait": [
+    "お菓子",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

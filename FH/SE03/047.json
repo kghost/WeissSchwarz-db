@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "―――ふふふん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_047.gif",
+  "level": 0,
+  "name": "メイド服の凛",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(2)］ あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《メイド》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "マスター",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

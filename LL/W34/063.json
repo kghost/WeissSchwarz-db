@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "多分、私…あの時…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_063.gif",
+  "level": 2,
+  "name": "思わぬ失敗",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

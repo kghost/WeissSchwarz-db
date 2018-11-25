@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_077ssp.gif",
+  "level": 3,
+  "name": "“未知数の存在”氷川日菜",
+  "power": 9500,
+  "rarity": "SSP",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

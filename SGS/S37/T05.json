@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あたしにできることがあったら なんでも言ってね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_t05.gif",
+  "level": 0,
+  "name": "容姿端麗 伊緒",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "ストライカー",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

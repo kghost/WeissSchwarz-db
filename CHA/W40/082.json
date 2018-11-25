@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あたしたちも、明日にはどーなってるか、わかりません",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_082.gif",
+  "level": 1,
+  "name": "“いまに挑む”友利 奈緒",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《能力者》のキャラ1枚につき、パワーを＋500。",
+  "trait": [
+    "能力者",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

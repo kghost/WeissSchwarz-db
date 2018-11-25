@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "私は常に妹という存在の味方、絶対的守護でいるって決めてるのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_041.gif",
+  "level": 1,
+  "name": "妹の味方 佳奈多",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分のクライマックス置場のクライマックスを1枚選び、ストック置場に置いてよい。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "双子",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

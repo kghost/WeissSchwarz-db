@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "何かリクエストがあれば、\nチャーハンの具に盛り込みますよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_t03r.gif",
+  "level": 0,
+  "name": "“並々ならぬ情熱”うみ",
+  "power": 1500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《サマポケ》のキャラを1枚選び、そのターン中、パワーを＋1000し、《チャーハン》を与える。",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

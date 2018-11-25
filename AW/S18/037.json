@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ほら、いくわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_037.gif",
+  "level": 3,
+  "name": "倉嶋 千百合",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《アバター》か《ネット》のキャラが2枚以上なら、このカードのパワーを＋1500。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "trait": [
+    "スポーツ",
+    "ネット"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

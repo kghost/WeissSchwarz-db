@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "あの背中に笑われねぇ男になる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_t07.gif",
+  "level": 3,
+  "name": "グレン団リーダー カミナ",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのターン中、他のあなたの《大グレン団》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "大グレン団",
+    "サングラス"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

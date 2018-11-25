@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "渡したいものが、ありますわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_057.gif",
+  "level": 1,
+  "name": "先王からの贈り物 ステフ",
+  "power": 5500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「人類への信頼の全て」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「希望の鍵」を1枚まで選び、手札に戻す。",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

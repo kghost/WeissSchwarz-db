@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "魔女教とこと構えるんやろ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_026.gif",
+  "level": 2,
+  "name": "「鉄の牙」団長 リカード",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたの前列のキャラすべてが【スタンド】しているなら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "武器",
+    "獣人"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

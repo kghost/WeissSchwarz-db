@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おでん作る上で一番大事なのは何かわかるか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_017.gif",
+  "level": 2,
+  "name": "“おでん屋”チビ太",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックス置場に「仕込みの極意」が置かれた時、他のあなたの黄のキャラが4枚以上なら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "おでん",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

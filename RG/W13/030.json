@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "なんてことするんですか！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w13/rg_w13_030.gif",
+  "level": 1,
+  "name": "水辺の初春",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 記憶 あなたがこのカードの『助太刀』を使った時、あなたの思い出置場にカード名に「春上」か「佐天」を含むキャラがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

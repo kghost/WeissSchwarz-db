@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "別種のクエストが見つかったようなのです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s47/sao_s47_092.gif",
+  "level": 1,
+  "name": "情報提供 ユイ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 この能力は1ターンにつき2回まで発動する。他のあなたのカード名に「キリト」か「アスナ」を含むキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "trait": [
+    "ネット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

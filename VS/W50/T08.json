@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "その腐った性根、ワシがブチ壊してやる！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_t08.gif",
+  "level": 3,
+  "name": "“ギフトの宿る拳”フーカ",
+  "power": 9500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "格闘",
+    "覇王流"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

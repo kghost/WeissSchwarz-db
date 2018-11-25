@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ガリィにおまかせです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_084.gif",
+  "level": 0,
+  "name": "自動人形 ガリィ",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《錬金術》のキャラなら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）",
+  "trait": [
+    "錬金術",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

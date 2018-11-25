@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_036.gif",
+  "level": 2,
+  "name": "ノイズ（第1話）",
+  "power": 6500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたの「ノイズ（第4話）」すべてに、パワーを＋Ｘ。Ｘはあなたのストックの枚数×500に等しい",
+  "trait": [
+    "ノイズ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

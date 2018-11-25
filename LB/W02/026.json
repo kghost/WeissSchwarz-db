@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "それが猫の魔力だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_026.gif",
+  "level": 1,
+  "name": "“猫まみれ”鈴",
+  "power": 5000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

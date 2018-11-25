@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "神鳴る力を受けるがいい！\n全権力解放！　プラチナチケーーーット！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_053.gif",
+  "level": 2,
+  "name": "プラチナチケット",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 集中 このカードは、あなたのカード名に「朱音」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\nあなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

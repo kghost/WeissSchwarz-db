@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "こんにちは、Afterglowでーすっ！みんなー！盛り上がってる?！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_041.gif",
+  "level": 1,
+  "name": "“ステージ”上原ひまり",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは自分の控え室のキャラを1枚とこのカードを選び、入れ替えてよい。\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

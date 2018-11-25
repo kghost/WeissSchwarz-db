@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "渚「皆さんのおかげで勝つことができました」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_66.gif",
+  "level": 1,
+  "name": "渚＆杏",
+  "power": 5500,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "演劇",
+    "委員長"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

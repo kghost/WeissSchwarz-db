@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_p04.gif",
+  "level": 0,
+  "name": "“プリンセスドレス”美柑＆ララ",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの、カード名に「ララ」を含むキャラとカード名に「美柑」を含むキャラを1枚ずつ【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "宇宙人",
+    "家事"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

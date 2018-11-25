@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "わ、私といっしょに、歌ってくださいぃー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_101.gif",
+  "level": 0,
+  "name": "ユニットメンバー 雪歩",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "多すぎです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_09.gif",
+  "level": 1,
+  "name": "“マシンガン”エリー",
+  "power": 4500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《探偵》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【起】［(1) あなたの山札の上から1枚をクロック置場に置く］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?3000。",
+  "trait": [
+    "探偵",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

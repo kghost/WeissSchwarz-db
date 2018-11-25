@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ようこそ、フロニャルドへ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_p02.gif",
+  "level": 1,
+  "name": "ほんわか犬姫様 ミルヒ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《勇者》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "動物",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

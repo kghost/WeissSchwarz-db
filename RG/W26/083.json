@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "こんなとこで言い合ってないで、さあ早く行こ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_083.gif",
+  "level": 2,
+  "name": "仲良し4人組 美琴",
+  "power": 7500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】他のあなたの《超能力》のキャラが2枚以上なら、このカードのパワーを+1000。\n【自】［(4)］ このカードがアタックした時、クライマックス置場に「超電磁砲」があるなら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

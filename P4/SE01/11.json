@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "逃げたい…誰かに救って欲しい…\nそうね…確かに、私の気持ち",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se01/p4_se01_11.gif",
+  "level": 2,
+  "name": "雪子＆コノハナサクヤ",
+  "power": 7000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 手札のこのカードをプレイするにあたり、あなたは自分の「天城 雪子」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\n【永】 相手の【レスト】しているキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは【スタンド】している相手のキャラを1枚選び、【レスト】する。",
+  "trait": [
+    "扇子",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

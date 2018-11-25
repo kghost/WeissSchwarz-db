@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "でも本当…無事でよかった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_14.gif",
+  "level": 2,
+  "name": "魔神結晶 レベッカ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「ウィッチカノン 超魔王モード」があるなら、あなたは他の自分のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "勇者",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

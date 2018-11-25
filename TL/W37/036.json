@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "何って…あなたが用意したんでしょ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_036.gif",
+  "level": 0,
+  "name": "“裸Yシャツ”唯",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上からＸ枚を、控え室に置いてよい。Ｘはあなたの、《動物》か《植物》のキャラの枚数に等しい。\n【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "風紀委員",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "鷹原さんは、何があっても恋人さんの事、\n信じてあげてくださいね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_038.gif",
+  "level": 0,
+  "name": "“私にはできなかった事”ツムギ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の《サマポケ》のキャラを1枚選び、入れ替えてよい。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「蔵で見つけた写真」を1枚選び、手札に戻す。",
+  "trait": [
+    "サマポケ",
+    "ヌイグルミ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

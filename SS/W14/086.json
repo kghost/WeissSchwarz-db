@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "さあ、すぐに終わらせようか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_086.gif",
+  "level": 0,
+  "name": "“虹の翼”メリヒム",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［このカードと、あなたのキャラを1枚【レスト】する］ あなたは自分のキャラを１枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "炎",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

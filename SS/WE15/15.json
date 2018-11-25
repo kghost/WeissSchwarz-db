@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "どうなってんだ、こりゃ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_15.gif",
+  "level": 0,
+  "name": "『鬼功の繰り手』サーレ・ハビヒツブルグ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "炎",
+    "神器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

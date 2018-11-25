@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "『ゲジ姉』モードに移行。オペレーションに従い、\nアクセスユーザーに対するナビゲートを開始します",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_094.gif",
+  "level": 2,
+  "name": "モード移行 ゲジ姉",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 相手のターン中、他のあなたの【レスト】しているキャラが2枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "科学",
+    "ネット"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ハグ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_094.gif",
+  "level": 2,
+  "name": "失った時間",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分のクロックの上から1枚までを、控え室に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）\nこのカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

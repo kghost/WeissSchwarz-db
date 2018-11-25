@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ライナー「冗談言ってるように見えるかもしれんが、クリスタだけは何とかしたいという思いを、俺達が受け入れられないと思うか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_069.gif",
+  "level": 0,
+  "name": "“守りたい笑顔”クリスタ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“命果てるまで”ユミル」すべてに、パワーを＋2000。\n【起】［手札の「“命果てるまで”ユミル」を1枚控え室に置く］ あなたは自分の山札を上から4枚まで見て、《兵団》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

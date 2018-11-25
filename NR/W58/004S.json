@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "うん…！すごいね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_004s.gif",
+  "level": 0,
+  "name": "月夜のお出かけ フェイト",
+  "power": 500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「フェイト」を含むキャラすべてに、パワーを＋500。\n【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

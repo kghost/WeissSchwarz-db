@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ロケット！　英語で言うとロケット！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_032.gif",
+  "level": 2,
+  "name": "果てしない高さへの一歩 クド",
+  "power": 7000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］ 』を得る。\n【自】 このカードがアタックした時、クライマックス置場に「ロード・トゥ・マイルハイ」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、ストックの枚数×500に等しい。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

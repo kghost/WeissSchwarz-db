@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "お返しいたします！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_114.gif",
+  "level": 2,
+  "name": "相殺",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 このカードは、あなたの控え室のクライマックスが1枚以下なら、手札からプレイできない。あなたは自分の手札のクライマックスを1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

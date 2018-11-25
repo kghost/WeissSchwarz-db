@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私……私……一生懸命覚えますね……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_005.gif",
+  "level": 1,
+  "name": "頑張り屋 頼子",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《メイド》か《ウェイトレス》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
+  "trait": [
+    "動物",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

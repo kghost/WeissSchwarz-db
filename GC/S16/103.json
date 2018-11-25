@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "全てを俺に預け、ただ俺の命令に従え",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_103.gif",
+  "level": 2,
+  "name": "望む未来の為に 涯",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "葬儀社",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

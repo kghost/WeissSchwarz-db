@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ふああ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t01.gif",
+  "level": 0,
+  "name": "まどろみたいむず 幽奈",
+  "power": 500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「俺たちの204号室 コガラシ」すべてに、パワーを＋1000。\n【自】 絆／「俺たちの204号室 コガラシ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「俺たちの204号室 コガラシ」を1枚選び、手札に戻す）",
+  "trait": [
+    "霊",
+    "ゆらぎ荘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

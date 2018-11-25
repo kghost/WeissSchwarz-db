@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "アルフ「かわいいだろ?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_017.gif",
+  "level": 1,
+  "name": "戯れるフェイト＆アルフ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "クローン",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

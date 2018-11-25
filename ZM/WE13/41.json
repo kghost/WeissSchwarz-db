@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ガリアも、共に戦って戴けませんか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_41.gif",
+  "level": 2,
+  "name": "司令官 アンリエッタ",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《虚無》のキャラと《使い魔》のキャラを1枚ずつ選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "魔法",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

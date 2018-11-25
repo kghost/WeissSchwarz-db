@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "チーノーちゃーん、あーそーぼー？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_p06.gif",
+  "level": 0,
+  "name": "“あーそーぼー？”ココア",
+  "power": 4000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）",
+  "trait": [
+    "ラビットハウス",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "プロデューサーさんも、どうぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_048.gif",
+  "level": 1,
+  "name": "くつろぎタイム かな子",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Heart Voice」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "音楽",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

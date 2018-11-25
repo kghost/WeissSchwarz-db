@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "勉強の邪魔になるので、聴いてませーん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_016.gif",
+  "level": 0,
+  "name": "“思い出の日々”友利 奈緒",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開し、そのターン中、このカードのパワーを＋Ｘ。Ｘは公開されたカードのレベル×1500に等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "能力者",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

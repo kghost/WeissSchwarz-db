@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "自由研究 上条るい",
+  "power": 6500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのレベルが2以上なら、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

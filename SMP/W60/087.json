@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "きゃあああああああああああ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_087.gif",
+  "level": 2,
+  "name": "“朝の水浴び”鴎",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【永】 記憶 あなたの思い出置場の《海賊》のキャラが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。",
+  "trait": [
+    "サマポケ",
+    "海賊"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

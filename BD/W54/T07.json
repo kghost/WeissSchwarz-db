@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ばーん！ 衣装完成ーーーっ！超カッコイイ！まさに黒の騎士団、闇の破壊者......！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t07.gif",
+  "level": 1,
+  "name": "“ステージ”宇田川あこ",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《音楽》のキャラなら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

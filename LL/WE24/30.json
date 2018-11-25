@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "飛べるよ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we24/ll_we24_30.gif",
+  "level": 1,
+  "name": "答えを見つけて",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。\nあなたは相手の後列のコスト1以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "風花「うわー、桐条先輩、キレイ…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_076.gif",
+  "level": 1,
+  "name": "水着の美鶴",
+  "power": 1000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つあなたのキャラすべてに、パワーを＋1000。\n【自】［(1) このカードを【レスト】する］ 他の《生徒会》のあなたのキャラがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "水着",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "お別れ……言ってからにしようって。思ったから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_066.gif",
+  "level": 0,
+  "name": "別れの言葉 いのり",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "音楽",
+    "葬儀社"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

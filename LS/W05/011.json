@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ゆたか「あれ？ みなみちゃん 髪型変えたのー？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_011.gif",
+  "level": 2,
+  "name": "保健委員のみなみ",
+  "power": 7500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《保健室》のキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\n【自】［(1) あなたのクライマックスを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3000し、ソウルを＋2。",
+  "trait": [
+    "保健室",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

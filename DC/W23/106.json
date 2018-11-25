@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "音姫「弟く?ん！！　がんばれ??！！」\n由夢「兄さ?ん、頑張って???！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_106.gif",
+  "name": "アルティメットバトル！",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

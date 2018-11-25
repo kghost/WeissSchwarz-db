@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "真っ暗なこの街ともお別れ\nほら　じゃあ　また　明日",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_se32/pd_se32_23.gif",
+  "level": 2,
+  "name": "初音ミク“ファイナルフュージョン”",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋2000。\n【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "覚醒"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

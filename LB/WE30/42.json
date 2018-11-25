@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "理樹「え、なに？ 恭介？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we30/lb_we30_42.gif",
+  "level": 2,
+  "name": "この美しき二人",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の山札を見てカード名に「棗」か「恭介」か「直枝」か「理樹」を含むキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

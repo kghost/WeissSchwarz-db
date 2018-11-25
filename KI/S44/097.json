@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "漆原「のりちゃんはキズナの会のアイドルなの」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_097.gif",
+  "level": 3,
+  "name": "のりちゃんストラップ",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×1000に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

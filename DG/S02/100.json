@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "ままま、魔王っ！？　ぼぼぼぼボクがっ！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_100.gif",
+  "name": "魔王アルマース",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

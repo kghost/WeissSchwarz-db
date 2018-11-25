@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "今回のアリーナは765プロにとって過去最大のライブになるわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-026.gif",
+  "level": 0,
+  "name": "輝きの向こう側へ！ 律子",
+  "power": 4000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードをストック置場に置く。",
+  "trait": [
+    "音楽",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

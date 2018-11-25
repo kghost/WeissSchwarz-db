@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 7,
+  "flavor": "『桜が咲いたら、約束のあの場所でお花見をしようね！』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_096.gif",
+  "level": 3,
+  "name": "枯れない桜の奇跡",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 相手のキャラすべてに、そのターン中、ソウルを＋5し、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "……またあの時みたいな楽しさ、味わいたくなっちゃった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_psp/ws_psp_p01.gif",
+  "level": 0,
+  "name": "ほんわか全開幼なじみ 涼花",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "カードゲーム",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

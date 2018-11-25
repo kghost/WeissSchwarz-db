@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ガレット・ビスコッティ両国民。\n己の国のため、自らのため……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_12.gif",
+  "level": 2,
+  "name": "突然の宣戦布告 レオ",
+  "power": 9500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、相手は自分の控え室のキャラを1枚選び、手札に戻してよい。\n【自】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「魔神旋光破」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の自分のレベル以下のレベルの《動物》のキャラを1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "動物",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

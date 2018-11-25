@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "あああああああああッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_066.gif",
+  "level": 2,
+  "name": "【MEGA DETH FUGA：巧】クリス",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「イグナイトモジュール」があるなら、このカードは次の能力を得る。『【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4500。そうでないなら、このカードのパワーを?1500。』\n【自】 チェンジ ［このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「“後輩との絆”クリス」を1枚まで選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

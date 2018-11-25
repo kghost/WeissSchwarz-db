@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "はい、わかってますよマスター",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_013.gif",
+  "level": 2,
+  "name": "“戦うために生まれた兵器”芽亜",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのクロック置場に「金色の闇」があるなら、あなたの手札のこのカードのレベルを?1。\n【永】 他のあなたの、《変身》か《家事》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "変身",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "もう、手取り足取りわかりやすく教えちゃうよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_009.gif",
+  "level": 0,
+  "name": "特別補習中 アイシア",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻してよい。（公開したカードは元に戻す）",
+  "trait": [
+    "魔法",
+    "オモチャ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

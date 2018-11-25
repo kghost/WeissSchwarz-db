@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_036.gif",
+  "level": 1,
+  "name": "“カキ氷とお祭り”クロ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "行きたい。けど、次は先輩と二人きりで",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_092.gif",
+  "level": 0,
+  "name": "一番のドキドキ アリス",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "人形",
+    "かき氷"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

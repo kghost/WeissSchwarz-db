@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s29/pd_s29_099.gif",
+  "level": 2,
+  "name": "鏡音レン“イレイザー”",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。\n【自】 あなたのクライマックス置場に「erase or zero」が置かれた時、前列にこのカードがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かしてよい。",
+  "trait": [
+    "音楽",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

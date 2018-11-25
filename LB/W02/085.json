@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ふ…これから激動のランキングが始まるぜ、\nはりゃほれうまうーっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_085.gif",
+  "level": 2,
+  "name": "マスク・ザ・斉藤",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

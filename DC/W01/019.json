@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "うん、バッサリやっちゃって。女の子が失恋した時くらい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_019.gif",
+  "level": 1,
+  "name": "決意",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは《魔法》の自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋2。ターンの終わりに、そのキャラを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

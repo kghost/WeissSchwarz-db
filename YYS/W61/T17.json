@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "わたくし、このゆらぎ荘の仲居を務めさせていただいております、仲居ちとせ、と申します～",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t17.gif",
+  "level": 2,
+  "name": "ゆらぎ荘の仲居さん ちとせ",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+  "trait": [
+    "座敷童子",
+    "ゆらぎ荘"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

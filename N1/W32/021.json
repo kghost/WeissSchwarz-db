@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "フェイト「防御が固い、だけど……二人でなら……！」\nなのは「うん、うんッ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_w32/n1_w32_021.gif",
+  "level": 3,
+  "name": "分け合う気持ち なのは＆フェイト",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの「分け合う気持ち なのは＆フェイト」すべてに、パワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

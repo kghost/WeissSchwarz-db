@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "人を笑顔にするには自分も笑顔でなきゃね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_035.gif",
+  "level": 2,
+  "name": "朝倉 純一",
+  "power": 9000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "魔法",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

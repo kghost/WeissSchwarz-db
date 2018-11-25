@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私が好きですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_093.gif",
+  "level": 1,
+  "name": "体育館のラブシーン 園崎",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "キズナ",
+    "謎"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

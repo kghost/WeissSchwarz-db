@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "クロウディア「あなたが必要なのよ。玲二……　私だけの、ファントム……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_038.gif",
+  "level": 0,
+  "name": "女狐と飼い犬 クロウ＆ツヴァイ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたのキャラが舞台からクロック置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trait": [
+    "暗黒街",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

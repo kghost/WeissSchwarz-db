@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "今はただ責任を果たすことだけを考えろ。犯人を追うぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pp_se14/pp_se14_10.gif",
+  "level": 0,
+  "name": "執行官 狡噛",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
+  "trait": [
+    "サイコパス",
+    "公安"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "幸村よ、強うなれ――。道を見失うでない…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_23.gif",
+  "level": 1,
+  "name": "“甲斐の虎”武田 信玄",
+  "power": 6000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(4) 手札のクライマックスを1枚控え室に置き、このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“紅い炎”真田 幸村」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "武器",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "あなた達には……わからない……優しくしてくれる人がいて……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_042.gif",
+  "level": 2,
+  "name": "ルーテシア&白天王",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

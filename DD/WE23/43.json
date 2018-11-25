@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "勇者シンク…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we23/dd_we23_43.gif",
+  "level": 0,
+  "name": "竜の巫女 シャル",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を公開し、赤のカードを1枚まで選び、このカードの下にマーカーとして裏向きに置き、青のカードを1枚まで選び、このカードの下にマーカーとして裏向きに置き、残りのカードを控え室に置く。",
+  "trait": [
+    "動物",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

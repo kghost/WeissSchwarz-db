@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "はーい、みんなそろそろ着替えてー。\n早く帰らないと、お母さんが心配するよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_074.gif",
+  "name": "子供たちの良きお姉さん",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

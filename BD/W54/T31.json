@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたしたちは何もしてないですよ。千聖ちゃんががんばっただけ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t31.gif",
+  "level": 0,
+  "name": "“表舞台の裏側”氷川日菜",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

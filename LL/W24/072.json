@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "そうですか…。あのステップ…私が考えたのですが…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_072.gif",
+  "level": 3,
+  "name": "格好悪いステップ",
+  "rarity": "U",
+  "side": "W",
+  "text": "相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "なんか、ビビってきたの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vr_w22/vr_w22_103.gif",
+  "level": 2,
+  "name": "初めてのドッキング あかね",
+  "power": 7500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2) あなたの舞台の「守るための力 あおい」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「一つになった二人 ビビッドブルー」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "鍵",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

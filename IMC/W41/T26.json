@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "かかったな！ここは杏が占拠した！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t26.gif",
+  "level": 0,
+  "name": "策を弄する杏",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "音楽",
+    "飴"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "私がアイドル始めて以来の大一番なんだからあなたも、できる限り、手を貸す事。いいわね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_se04/im_se04_10.gif",
+  "level": 1,
+  "name": "凸凹コンビ 涼＆夢子",
+  "power": 4500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードとバトル中のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
+  "trait": [
+    "音楽",
+    "女装"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

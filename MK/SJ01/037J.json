@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "アンリエット「それじゃいきますわよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_037.gif",
+  "level": 1,
+  "name": "“か”るたしよっ！",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたのレベルが1以下なら、あなたはこのゲームに参加していない友達を1人呼び、読み手になってもらう。そうしたら、このゲームを終了し、カルタを始める。 （傷つけたくないカードや誰のものかわからなくなって困るカードはカルタをする前にしまっておこう！）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

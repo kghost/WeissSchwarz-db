@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "お疲れさまです。お昼になりましたー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p26.gif",
+  "level": 0,
+  "name": "“万年化粧品貧乏”なかおよしえ",
+  "power": 500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「“草食系動物”伊倉ナギサ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“草食系動物”伊倉ナギサ」を1枚選び、手札に戻す）\n【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ビジュアルアーツ",
+    "牛乳"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

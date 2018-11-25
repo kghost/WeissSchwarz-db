@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "私は…お姉ちゃんみたいにはなれない。\nいつか、分かりあえない時がくる…そんな気がしてた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_031.gif",
+  "level": 1,
+  "name": "新島 真",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
+  "trait": [
+    "怪盗",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

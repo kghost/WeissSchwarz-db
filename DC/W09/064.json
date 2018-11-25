@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "さくら「ねえねえ、どうかなどうかな？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_064.gif",
+  "level": 0,
+  "name": "ことり＆音夢＆さくら",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。",
+  "trait": [
+    "音楽",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

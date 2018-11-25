@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "特定の方には人気が出るかもしれませんね…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we21/lb_we21_23.gif",
+  "level": 2,
+  "name": "敏腕プロデューサー 美魚",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［手札のクライマックスを1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室の、《本》か《影》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

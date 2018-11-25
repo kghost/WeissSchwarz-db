@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あら、お言葉ね。逃しに来てあげたってのに",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_19.gif",
+  "level": 1,
+  "name": "砂漠のエルフ ルクシャナ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(2) あなたの山札の上から1枚をクロック置場に置く］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の手札のレベル2以下の《魔法》のキャラを1枚まで選び、舞台の別々の枠に置く。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

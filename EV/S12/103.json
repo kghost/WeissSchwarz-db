@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ゲンドウ「レイ…大丈夫か？レイ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_103.gif",
+  "level": 2,
+  "name": "綾波＆ゲンドウ",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "パイロット",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "わぁぁぁぁあ！　いらっしゃーい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_063.gif",
+  "level": 2,
+  "name": "カフェの店員 アルパカ・スリ",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《フレンズ》のキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《お茶》を与える。\n【起】［このカードを【レスト】する］ あなたは自分の控え室の《フレンズ》のキャラを1枚選び、ストック置場に置く。",
+  "trait": [
+    "フレンズ",
+    "お茶"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

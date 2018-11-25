@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "セイバー「ライダーのサーヴァント！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_096.gif",
+  "level": 1,
+  "name": "幻影魔術",
+  "rarity": "U",
+  "side": "S",
+  "text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

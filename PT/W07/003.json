@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "お待たせ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_003.gif",
+  "level": 0,
+  "name": "デート中のアイン",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) このカードを【レスト】する］ あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。\n【起】［このカードをクロック置場に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

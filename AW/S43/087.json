@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あの黒い竜巻、風化ステージにあんなエフェクトは存在しないはず",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_087.gif",
+  "level": 2,
+  "name": "《ネガ・ネビュラス》副長 フーコ",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の山札を上から1枚見て、山札の上か下に置き、1枚引く。",
+  "trait": [
+    "ネット",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

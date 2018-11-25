@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ぺったんぺったん、お団子作ろ☆　凛はたくさん食べたいから?、たくさん作るの♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_093.gif",
+  "level": 2,
+  "name": "“お月見するにゃ！”星空 凛",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "音楽",
+    "月"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

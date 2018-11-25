@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "申請書。持ってくる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-009_u.gif",
+  "level": 1,
+  "name": "生徒会長 七菜",
+  "power": 3000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のレベル置場のカードと控え室の緑のカードを1枚ずつ選び、入れ替えてよい。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "音楽",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

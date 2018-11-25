@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ペルスラン「ですが、お嬢様は\nこの理不尽な命令を、すべて完遂させました」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_009.gif",
+  "level": 3,
+  "name": "シャルロット・エレーヌ・オルレアン",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 大活躍\n【自】 このカードがアタックした時、クライマックス置場に「タバサの秘密」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "魔法",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

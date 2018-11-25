@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私、今、水色の風になってるの――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_063.gif",
+  "level": 1,
+  "name": "理想の移動方法",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋5500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あなたと一緒だとつい嬉しくて、舞い上がってしまうみたいで……恥ずかしいです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_s06.gif",
+  "level": 0,
+  "name": "“カフェメイド”園田 海未",
+  "power": 3000,
+  "rarity": "-",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

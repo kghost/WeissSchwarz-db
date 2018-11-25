@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_040.gif",
+  "name": "ぱんつ返してー!!",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の黄のキャラを2枚まで選び、そのターン中、パワーを＋2000し、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

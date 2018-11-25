@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "いきなりライブ取ってきたの……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_091.gif",
+  "level": 0,
+  "name": "嬉しい驚き 美智留",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+  "trait": [
+    "ゲーム",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

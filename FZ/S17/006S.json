@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "麗しき騎士王 セイバー",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のキャラが3枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

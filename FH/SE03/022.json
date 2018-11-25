@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 3,
+  "flavor": "セラ「……ふん。私たちは必要以上に肌をさらしませんから」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_022.gif",
+  "level": 2,
+  "name": "水着のセラ＆リズ",
+  "power": 9500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【起】［あなたの《マスター》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "メイド",
+    "水着"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

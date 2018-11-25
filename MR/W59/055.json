@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "今は部員の皆さまに六段の調を極めてもらわないと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_055.gif",
+  "name": "終わらない稽古",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の緑のキャラを2枚まで選び、そのターン中、パワーを＋2000し、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

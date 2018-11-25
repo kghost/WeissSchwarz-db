@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ん、新しいコード覚えたから練習してるんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_103.gif",
+  "level": 2,
+  "name": "練習中 李衣菜",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックス置場に「Wonder goes on!!」が置かれた時、他のあなたの黄と赤のキャラがいるなら、あなたは相手のキャラを2枚選び、それぞれを【スタンド】して入れ替えてよい。\n【自】 相手のアタックフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。",
+  "trait": [
+    "音楽",
+    "ロック"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

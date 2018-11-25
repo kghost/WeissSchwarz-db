@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "レシピは確か、これでちゃんとあってたはず…多分",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_126.gif",
+  "level": 0,
+  "name": "マニュアル派 村上文緒",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分の青のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "ガール",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

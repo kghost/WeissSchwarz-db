@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "シエスタ「サイトさんのおかげで、私これからもガンバれます」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_006.gif",
+  "level": 1,
+  "name": "サイト＆シエスタ",
+  "power": 5500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "使い魔",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

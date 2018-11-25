@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "……日本のヤクザなんて知ったこっちゃないね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_t12.gif",
+  "level": 0,
+  "name": "新たなファントム ドライ",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "武器",
+    "時計"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

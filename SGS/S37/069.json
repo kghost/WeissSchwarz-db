@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "お前と来る海も いいものだな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_069.gif",
+  "level": 0,
+  "name": "バカンス 二穂",
+  "power": 4000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが3枚以上なら、このカードを【レスト】する。",
+  "trait": [
+    "ストライカー",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

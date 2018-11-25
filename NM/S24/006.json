@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "そこで思う存分、戦おうではないか。\n年季の違いというものを思い知らせてやる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_006.gif",
+  "level": 2,
+  "name": "本気モード 忍野忍",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「廃墟の邂逅」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "trait": [
+    "怪異",
+    "血"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "言われると確かにそういうニーズもあるわけじゃん？　私は貴重なワケよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_098.gif",
+  "name": "貧乳はステータスだ希少価値だ",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

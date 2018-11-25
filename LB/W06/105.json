@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "小毬「やったね、鈴ちゃん」\n鈴「これも小毬ちゃんのおかげだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_105.gif",
+  "level": 1,
+  "name": "“一等賞”小毬＆鈴",
+  "power": 7000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】相手のレベルがあなたのレベル以上なら、このカードのパワーを?1500。",
+  "trait": [
+    "動物",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

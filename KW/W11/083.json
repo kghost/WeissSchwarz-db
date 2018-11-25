@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "今夜から作業に入ります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_083.gif",
+  "level": 0,
+  "name": "猛勉強クド",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。\n【自】 絆／「『星屑』 氷室」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「『星屑』 氷室」を1枚選び、手札に戻す）",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

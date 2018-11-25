@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あの…みんなでお願いしてみたら…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_10.gif",
+  "level": 2,
+  "name": "お願いするエリー",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたのバトル中の《探偵》のキャラが【リバース】した時、あなたのクライマックス置場に「棺桶の恐怖」があり、前列にこのカードがいるなら、あなたはそのキャラを【レスト】し、そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "探偵",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "それで、記念撮影はどっちだって？…あの集団の向こうか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_025.gif",
+  "level": 0,
+  "name": "姫の風格 時谷小瑠璃",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1。",
+  "trait": [
+    "ガール",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

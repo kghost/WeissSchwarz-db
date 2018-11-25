@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "くらえっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_051.gif",
+  "level": 0,
+  "name": "水鉄砲 葉留佳",
+  "power": 2000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』",
+  "trait": [
+    "ビー玉",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

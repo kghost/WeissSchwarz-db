@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "駆逐艦、大潮です！\n小さな体に大きな魚雷！お任せください。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_154.gif",
+  "level": 0,
+  "name": "朝潮型駆逐艦2番艦 大潮",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの「朝潮型駆逐艦1番艦 朝潮」を1枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

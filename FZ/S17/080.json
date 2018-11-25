@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "時臣「君が遠坂の魔道を修め、見習いの過程を\n終えたことを証明する品だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_080.gif",
+  "level": 1,
+  "name": "アゾット剣",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の控え室の《サーヴァント》のキャラを1枚選び、手札に戻す。\nあなたは自分の《マスター》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

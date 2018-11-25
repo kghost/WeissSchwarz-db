@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "やれるか、アギト……\n剣閃烈火ッ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_t09.gif",
+  "name": "火龍・一閃！！",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

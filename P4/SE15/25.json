@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "実は、そろそろ禁断症状が出そうなほど\n体が“あれ”を求めていたところだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_25.gif",
+  "level": 2,
+  "name": "武者修行",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "クーベル「すごいぞレベッカ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_06.gif",
+  "level": 0,
+  "name": "空を駆けるレベッカ",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "勇者",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

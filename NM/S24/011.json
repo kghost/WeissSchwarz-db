@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "わー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_011.gif",
+  "level": 2,
+  "name": "お花畑の忍野忍",
+  "power": 9500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードは、あなたの《血》のキャラが1枚以下なら、手札からプレイできない。",
+  "trait": [
+    "怪異",
+    "血"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

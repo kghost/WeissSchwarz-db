@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "いいったらいいの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_111.gif",
+  "level": 1,
+  "name": "メイド服のシャナ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】[(1)]あなたは自分の《炎》のキャラを１枚選び、そのターン中、パワーを+500。",
+  "trait": [
+    "炎",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

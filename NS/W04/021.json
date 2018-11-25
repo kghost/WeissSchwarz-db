@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "こんな感じで",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_021.gif",
+  "level": 1,
+  "name": "ちょっと一工夫してまして",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 このカードは、あなたの後列にキャラがいないなら、手札からプレイできない。あなたは相手の後列のレベル0以下のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

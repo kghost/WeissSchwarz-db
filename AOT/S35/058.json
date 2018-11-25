@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "私の特技を体験したい方がいれば……どうぞ一番先に近づいて来て下さい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_058.gif",
+  "level": 2,
+  "name": "“城壁の彼方”ミカサ",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードはサイドアタックできない。\n【永】 他のあなたの《兵団》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「少女が見た世界」があるなら、相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

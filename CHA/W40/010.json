@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "おはよーございまーす",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_010.gif",
+  "level": 0,
+  "name": "“ポニーテール”友利 奈緒",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "能力者",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

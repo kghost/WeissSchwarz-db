@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "おし、とーちゃんは負けないぞ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_016.gif",
+  "level": 1,
+  "name": "係長 ひろし",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのアンコールステップの始めに、クライマックス置場に「オラの家がなくなったゾ」があるなら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがレベル0以下のキャラなら、あなたは他の自分のキャラを2枚までと、このカードを選び、手札に戻してよい。",
+  "trait": [
+    "家族",
+    "サラリーマン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

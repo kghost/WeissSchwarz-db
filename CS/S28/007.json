@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "そこのおねいさーん、ハンカチ落としましたよ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_007.gif",
+  "level": 2,
+  "name": "運命のいたずら しんのすけ",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《家族》か《幼稚園》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "家族",
+    "幼稚園"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

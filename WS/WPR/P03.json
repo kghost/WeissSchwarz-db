@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_wpr/ws_wpr_p03.gif",
+  "level": 0,
+  "name": "“ぷよと一緒”凛",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "ぷよ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "今年は電動かき氷器をゲットする予定なの。食べに来てもいいわよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_011.gif",
+  "level": 0,
+  "name": "“夏休みの思い出”矢澤 にこ",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラが4枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

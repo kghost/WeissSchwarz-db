@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "はっかせだにゃん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_30.gif",
+  "level": 0,
+  "name": "“だにゃん”はかせ",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。",
+  "trait": [
+    "科学",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

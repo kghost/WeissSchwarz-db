@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あんたが犯人ね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_20.gif",
+  "level": 3,
+  "name": "正義の“警察官”小衣",
+  "power": 9500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《警察》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "警察",
+    "仮面"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

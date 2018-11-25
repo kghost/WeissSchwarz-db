@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "さあ選びなさい。一つだけあなたに何者にも負けない力を授けてあげましょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_t20.gif",
+  "name": "異世界転移の特典",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

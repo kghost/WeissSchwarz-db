@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "はいっ、どーぞ?！はいっ、どーぞ?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_071.gif",
+  "level": 0,
+  "name": "お茶をどうぞ アルパカ・スリ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の「仲間を探して トキ」を1枚選び、そのターン中、パワーを＋2500。",
+  "trait": [
+    "フレンズ",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

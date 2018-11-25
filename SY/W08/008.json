@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "船は無いと思われますが",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_008.gif",
+  "level": 1,
+  "name": "森 園生",
+  "power": 3000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《メイド》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《メイド》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "メイド",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

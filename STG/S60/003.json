@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私のことは私が一番よく知っている。そもそもタイムリープマシンを開発したのは私なのだぜ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_003.gif",
+  "level": 1,
+  "name": "“名助手”牧瀬 紅莉栖",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ラボメン》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「終わりと始まりのプロローグ」があるなら、あなたは自分の控え室の、《ラボメン》のキャラか「Dメール」を1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ラボメン",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

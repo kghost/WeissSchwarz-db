@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "はるちんアタック!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_e07.gif",
+  "level": 0,
+  "name": "“アホの子”葉留佳",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの《委員長》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「佳奈多」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "ビー玉",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

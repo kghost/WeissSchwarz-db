@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ああ、もう花火が始まったのね。\n思ったより、時間が経ってたみたい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_092.gif",
+  "level": 1,
+  "name": "花火下の花 千代浦あやめ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの青のキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ガール",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

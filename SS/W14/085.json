@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "器を開きなさい…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_085.gif",
+  "level": 3,
+  "name": "開かれる器 ヘカテー",
+  "power": 10000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「器の回収」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。",
+  "trait": [
+    "炎",
+    "巫女"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "これからだよっ！絶対いい場面で使ってみせるさ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_033.gif",
+  "level": 0,
+  "name": "“ここにない世界”七野",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《能力者》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 バトル中のこのカードが【リバース】した時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は自分の山札の上から1枚を、クロック置場に置く。",
+  "trait": [
+    "能力者",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

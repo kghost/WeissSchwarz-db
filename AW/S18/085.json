@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "わたしはかつて、\n己の愚かさ故にその絆を失ってしまった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_085.gif",
+  "level": 3,
+  "name": "倉崎 楓子",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【起】［(1) あなたの《アバター》のキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+  "trait": [
+    "ネット",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

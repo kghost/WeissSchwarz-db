@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "お姉さま、どうかなさいまして？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_058.gif",
+  "level": 3,
+  "name": "“学園都市”黒子",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】 このカードがアタックした時、クライマックス置場に「目撃者」があるなら、あなたは自分の控え室の《超能力》のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

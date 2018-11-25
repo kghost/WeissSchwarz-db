@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "待って、これには深い事情が！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_013.gif",
+  "level": 1,
+  "name": "缶コーヒーを買いに 瑚太朗",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ヒーコー」を1枚選び、手札に戻す。",
+  "trait": [
+    "超能力",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

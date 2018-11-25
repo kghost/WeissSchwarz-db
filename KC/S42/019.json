@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "天城が参ります！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_019.gif",
+  "level": 1,
+  "name": "雲龍型正規空母2番艦 天城改",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「雲龍型正規空母2番艦 天城」1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "正規空母"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

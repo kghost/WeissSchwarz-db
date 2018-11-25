@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "楽「もったいねぇな、せっかくかわいいのに」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_049.gif",
+  "name": "“密室空間”",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "クマ「こんなすごい力を隠していたなんて…シャドウが怯えてたのも分かるクマ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se01/p4_se01_019.gif",
+  "level": 1,
+  "name": "“心の海より出でし者”イザナギ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】[(1)] あなたは自分の《魔法》のキャラを1枚選び、そのターン中、ソウルを+1。",
+  "trait": [
+    "武器",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

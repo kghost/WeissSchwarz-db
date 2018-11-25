@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "flavor": "みく「解散にゃ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_108.gif",
+  "level": 2,
+  "name": "合わない２人",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたの、赤のキャラと青のキャラがそれぞれ2枚以上なら、あなたは相手のキャラを1枚選び、【レスト】する。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

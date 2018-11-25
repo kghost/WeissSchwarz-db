@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "勝手にひとりで大人になんないでよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_056.gif",
+  "level": 1,
+  "name": "“ファイヤーシスターズ”阿良々木月火",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、他のあなたの《和服》のキャラが2枚以上で、このカードのバトル相手のレベルが1以下なら、あなたはそのバトル中のキャラを【リバース】してよい。",
+  "trait": [
+    "怪異",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

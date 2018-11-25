@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "いくぞ英雄王――武器の貯蔵は十分か",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s36/fs_s36_026.gif",
+  "level": 1,
+  "name": "反撃の狼煙",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

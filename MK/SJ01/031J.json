@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "IQ2016の明智小衣の推理通りよ?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_031.gif",
+  "level": 1,
+  "name": "“こ”んかいのIQ 小衣",
+  "power": 2016,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［好きな数字を宣言する］ そのターン中、このカードのパワーとIQはＸとなる。Ｘはあなたの宣言した数字に等しい。",
+  "trait": [
+    "警察",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

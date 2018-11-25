@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "「やはりアレか？」 「改造ですか」 「改造でしょう」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_070.gif",
+  "level": 2,
+  "name": "メカジェニファー",
+  "rarity": "U",
+  "side": "S",
+  "text": "相手にＸダメージを与える。Ｘはあなたの控え室のクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

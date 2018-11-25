@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "そのまま……死ね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_101.gif",
+  "level": 1,
+  "name": "復讐の紫炎 庵",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "オロチ",
+    "神器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

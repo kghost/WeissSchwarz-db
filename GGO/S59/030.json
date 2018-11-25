@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "附属女子校新体操部スペシャル、対エム決戦兵器――略称《エム銃》",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_030.gif",
+  "level": 3,
+  "name": "デグチャレフ対戦車ライフル",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの《ＳＨＩＮＣ》のキャラがいないなら、手札からプレイできない。\nあなたは相手の山札を上から1枚見て、山札の上か下に置く。\nこのカードを思い出にする。相手にＸダメージを与える。Ｘはあなたの思い出置場の「デグチャレフ対戦車ライフル」の枚数に等しい。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

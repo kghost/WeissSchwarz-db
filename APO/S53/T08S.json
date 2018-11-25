@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "選定の剣……かつて騎士王が抜いた剣に挑戦させて欲しい。それだけだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_t08s.gif",
+  "level": 3,
+  "name": "“聖杯大戦”赤のセイバー",
+  "power": 9500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの、《マスター》か《サーヴァント》のキャラの枚数に等しい。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《マスター》か《サーヴァント》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

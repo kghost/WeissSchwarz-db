@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "桃の節句の時期だけ発見が\n可能となる美味しい「菱餅」です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_025.gif",
+  "level": 2,
+  "name": "菱餅",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 このカードを思い出にする。あなたの《艦娘》のキャラが4枚以上なら、あなたは自分の山札を見て《艦娘》のキャラをＸ枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。Ｘはあなたの思い出置場の「菱餅」の枚数に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

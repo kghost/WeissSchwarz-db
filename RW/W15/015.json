@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ちはやさんを傷つける人は、この私が許しませんよ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_015.gif",
+  "level": 2,
+  "name": "鳳 咲夜",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたのカード名に「ちはや」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "超能力",
+    "使い魔"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

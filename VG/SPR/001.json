@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "僕はイメージする！ 日本中が笑顔になる未来を！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vg_spr/vg_spr_001.gif",
+  "level": 2,
+  "name": "先導 アイチ",
+  "power": 7000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「スタンドアップ！」があるなら、あなたは1枚引いてよい。\n【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "カードゲーム",
+    "ヴァンガード"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

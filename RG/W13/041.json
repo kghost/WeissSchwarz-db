@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "もうすぐ完全下校時刻ですよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w13/rg_w13_041.gif",
+  "level": 0,
+  "name": "鉄装 綴里",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《超能力》のキャラすべてに、次の能力を与える。『【起】［(1)］ そのターン中、このカードのパワーを＋2000。』",
+  "trait": [
+    "先生",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

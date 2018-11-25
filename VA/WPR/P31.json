@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "自分らしけりゃ良いんじゃない？\n好きスキすきぃ?にやっちゃうぜ?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p31.gif",
+  "level": 2,
+  "name": "“七変化・歌使いのドワーフ”KOTOKO",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《ビジュアルアーツ》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ビジュアルアーツ",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

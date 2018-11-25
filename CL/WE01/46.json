@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "えと…ずっと一緒です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_46.gif",
+  "level": 0,
+  "name": "日差しの中の渚",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "演劇",
+    "だんご"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

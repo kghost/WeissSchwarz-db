@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ふんふんふーん♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_003.gif",
+  "level": 0,
+  "name": "“着ぐるみ”佐々美",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル2以上のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trait": [
+    "スポーツ",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

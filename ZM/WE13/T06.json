@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "イーヴァルディ。勇者の名前。\nルー。助けられた少女の名前",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_t06.gif",
+  "level": 2,
+  "name": "勇者の“騎士” タバサ",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのストックが4枚以下なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "魔法",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

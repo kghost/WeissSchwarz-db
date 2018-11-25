@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なんとか持ち直しました！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_066.gif",
+  "level": 1,
+  "name": "“懐かしい仲間との再会”ウィズ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《冒険者》か《魔法》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "死",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

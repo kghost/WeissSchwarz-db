@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ちっちっちっ……女の子はなにかを買う目的なんかなくても買い物するんですよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_060.gif",
+  "level": 2,
+  "name": "美春＆音夢",
+  "power": 9000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "魔法",
+    "バナナ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

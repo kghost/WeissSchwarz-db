@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_105.gif",
+  "level": 0,
+  "name": "究極の優等生 羽川翼",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "怪異",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

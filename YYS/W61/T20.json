@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "雨野流誅魔忍術奥義！！　叢時雨（むらしぐれ）！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t20.gif",
+  "name": "雨野流誅魔忍術奥義　叢時雨",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

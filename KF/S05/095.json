@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "アテナ「私の力で誰かを幸せにできれば……　……うん！アテナいっきまーす」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_095.gif",
+  "level": 1,
+  "name": "サイコソルジャーチーム",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの控え室にカード名に「アテナ」か「拳崇」か「元斎」を含むキャラがないなら、手札からプレイできない。\nあなたは自分のクロックの上から2枚までを、控え室に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

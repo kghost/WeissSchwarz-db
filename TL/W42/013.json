@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_013.gif",
+  "level": 2,
+  "name": "“絶対の存在”ネメシス",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】 共鳴 ［手札を1枚控え室に置き、手札の「“ネコミミ▽モード”ネメシス」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“一歩前進”芽亜」を1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "変身",
+    "だんご"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

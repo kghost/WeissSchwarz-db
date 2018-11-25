@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "いっしょに応援、しよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/si_wpr/si_wpr_002.gif",
+  "level": 0,
+  "name": "応援しよ子",
+  "power": 500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、《元気》を与える。",
+  "trait": [
+    "カードゲーム",
+    "鉢巻"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "こうして僕らは出会い、\n一つの夏を共に過ごしたんだ。\nロストクリスマスの年――\nみんなが笑顔で過ごせた最後の夏を――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_074.gif",
+  "name": "あの夏の思い出",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

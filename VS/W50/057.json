@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "甘えていいぞ?？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_057.gif",
+  "level": 1,
+  "name": "シャンテ・アピニオン",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "格闘",
+    "シスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

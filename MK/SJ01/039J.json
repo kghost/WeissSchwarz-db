@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "小衣「それは小衣の手よ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_039.gif",
+  "name": "クライ！",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 このカードは1枚ではプレイできず、「マックス！」と一緒にクライマックス置場に置かなければならない。\n【自】 このカードが手札から舞台に置かれた時、あなたは相手と勝負が付くまでじゃんけんし、あなたが勝ったら、あなたは追加の1ターンを得る。そうでないなら、このターンのエンドフェイズになる。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

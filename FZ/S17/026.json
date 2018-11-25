@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_026.gif",
+  "level": 2,
+  "name": "爆破解体",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

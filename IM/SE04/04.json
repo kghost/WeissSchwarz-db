@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "うう、この格好、恥ずかしいよぉ。足元がスースーするし、それに、すごくこすれるし……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_se04/im_se04_04.gif",
+  "level": 0,
+  "name": "夢への一歩 涼",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを控え室に置く。（公開したカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "女装"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

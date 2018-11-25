@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "……あ、あたしはァ、おっ、面白い話を聞くのが趣味でして！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_055.gif",
+  "level": 2,
+  "name": "漫画家のななこ",
+  "power": 7000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 他のバトルしているあなたのキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(3)］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "メガネ",
+    "漫画"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

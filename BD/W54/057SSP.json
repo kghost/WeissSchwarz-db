@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_057ssp.gif",
+  "level": 2,
+  "name": "“1日だけの新婦”山吹沙綾",
+  "power": 4500,
+  "rarity": "SSP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［他のあなたのキャラを1枚とこのカードを【レスト】する］ あなたの控え室にイベントがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500し、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を、手札からプレイできない。』",
+  "trait": [
+    "音楽",
+    "Poppin’Party"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

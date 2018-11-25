@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "たとえ最後の一艦になっても、叩いて見せます！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_138.gif",
+  "level": 2,
+  "name": "飛龍型正規空母 飛龍",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「二航戦出撃します！」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。\n【自】 あなたのドローフェイズの始めに、他のあなたの前列のキャラがいないなら、そのターン中、このカードのパワーを＋4000。",
+  "trait": [
+    "艦娘",
+    "正規空母"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

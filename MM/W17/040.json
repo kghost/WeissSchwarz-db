@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あなたは自分を責めすぎてるわ。鹿目まどか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_040.gif",
+  "level": 0,
+  "name": "絆を抱く少女 ほむら",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「揺れ動く気持ち まどか」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「揺れ動く気持ち まどか」を1枚選び、手札に戻す）",
+  "trait": [
+    "魔法",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

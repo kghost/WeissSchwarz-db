@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "まゆしぃは流れ星にオカリン死なないで！って３回唱えたの…そしたら次の日にはオカリンの熱が下がって目を覚ましたんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_089.gif",
+  "level": 0,
+  "name": "“星に願いを…”椎名 まゆり",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】【CXコンボ】 相手がレベルアップした時、あなたのクライマックス置場に「星屑との握手」があるなら、あなたは自分の山札を上から4枚まで見て、《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "ラボメン",
+    "裁縫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

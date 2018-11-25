@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "桜の花びらが舞い散る中で、\n少女が髪をなびかせながら、歌声を奏でていた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we30/dc_we30_26.gif",
+  "name": "ことりの歌",
+  "rarity": "RE",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Treasure]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "TREASURE"
+  ],
+  "type": "Climax"
+}

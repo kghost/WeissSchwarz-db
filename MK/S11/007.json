@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_007.gif",
+  "level": 2,
+  "name": "ネコミミ ネロ",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「こっそりとトイズ」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "探偵",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

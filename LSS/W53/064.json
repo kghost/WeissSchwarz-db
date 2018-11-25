@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "からのー敬礼！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_064.gif",
+  "level": 2,
+  "name": "奇跡の大躍進",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

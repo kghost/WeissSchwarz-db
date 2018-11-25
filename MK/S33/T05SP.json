@@ -1,0 +1,18 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "level": 1,
+  "name": "“探偵歌劇”シャロ",
+  "power": 5000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの《探偵》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "探偵",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ここまでたどり着いた子は初めてです。これは期待できるです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_052.gif",
+  "level": 1,
+  "name": "博士 アフリカオオコノハズク",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、相手は0以下か1以上を選ぶ。あなたは自分の山札の上から1枚を、控え室に置き、そのカードが相手の選んだレベルのカードでないなら、あなたは相手のキャラを1枚選び、手札に戻してよい。（クライマックスのレベルは0として扱う）",
+  "trait": [
+    "フレンズ",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

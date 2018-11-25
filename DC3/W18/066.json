@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "じゃ、じゃあ……改めて、\nもう一度、キス……しましょ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_066.gif",
+  "level": 2,
+  "name": "年越しキス",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室の《生徒会》のキャラを1枚選び、手札に戻す。あなたは自分の控え室の「年越しキス」を1枚選び、思い出にする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/woo_se19/woo_se19_j04.gif",
+  "level": 2,
+  "name": "お買いもの うーさー",
+  "power": 8000,
+  "rarity": "WR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2) お店で1パック購入する］ あなたはそのパックの中のキャラを1枚選び、舞台の好きな枠に置く。\n※このカードは公式・公認大会では使用できません。",
+  "trait": [
+    "謎",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

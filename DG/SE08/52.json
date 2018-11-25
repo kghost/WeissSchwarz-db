@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "元気ですかーーーッ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_052pr.gif",
+  "level": 0,
+  "name": "夢の中でも奮闘中 フーカ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《プリニー》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "プリニー",
+    "死"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

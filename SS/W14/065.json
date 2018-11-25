@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "むむむ……む、む…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_065.gif",
+  "level": 2,
+  "name": "手料理への挑戦",
+  "rarity": "U",
+  "side": "W",
+  "text": "相手に6ダメージを与える。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

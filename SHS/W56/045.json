@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "けれど……ごめん。帰り、送れなくなった。今すぐ行かなくちゃならない所があるんだ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_045.gif",
+  "level": 0,
+  "name": "ひらめく天啓 倫也",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【起】[(1) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室の「倫也の企画書」を1枚選び、手札に戻す。",
+  "trait": [
+    "ゲーム",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

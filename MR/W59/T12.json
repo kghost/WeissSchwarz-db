@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "なんでモデルなんて続けてるんだろう…？って考えるとね、私の魔法少女としての人生が、ここから始まったからだと思うの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_t12.gif",
+  "level": 0,
+  "name": "“As a fashion model”やちよ",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、あなたのキャラすべてが《魔法》なら、このカードのレベルを＋1し、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "アビリティ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

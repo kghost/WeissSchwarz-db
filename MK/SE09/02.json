@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "どいて、僕がやる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se09/mk_se09_02.gif",
+  "level": 2,
+  "name": "トイズで大活躍 ネロ",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《探偵》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】［(1)］ あなたのクライマックス置場に「空飛ぶネロ」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』",
+  "trait": [
+    "探偵",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

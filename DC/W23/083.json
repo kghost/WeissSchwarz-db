@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "は、早く???、恥ずかしい????",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_083.gif",
+  "level": 0,
+  "name": "照れ隠し まゆき",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《生徒会》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 他のあなたの《スポーツ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "生徒会",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

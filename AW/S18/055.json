@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "言ったでしょう？ 先輩の大切なものを預かるって",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_055.gif",
+  "name": "魔王徴発令",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "まっ、実力だね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_076.gif",
+  "level": 2,
+  "name": "ちょっぴりイヤミな クルーク",
+  "power": 7000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《ぷよ》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "ぷよ",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

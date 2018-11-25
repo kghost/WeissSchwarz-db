@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ガイ・コーエンが搭乗する、\n超重量型のカートルーパー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_107.gif",
+  "level": 0,
+  "name": "ボルトヴァリアン",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「スナイデル」と「スターラプター」と「スティングーマ」がいるなら、このカードのパワーを＋2500。",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

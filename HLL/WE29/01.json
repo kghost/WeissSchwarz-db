@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "夏の実技試験の結果には納得しておりませんの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we29/hll_we29_01.gif",
+  "level": 0,
+  "name": "最後の対決 弥生",
+  "power": 2000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「弥生」か「万博」か「華凛」か「華恋」を含むキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《定理者》か《使者》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "定理者",
+    "使者"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

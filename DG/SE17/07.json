@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "『数千年の間、\n天使魔王シシリーの名は不動のものとなり、\nその後も永遠に語り継がれるのであった』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_07.gif",
+  "name": "新魔王誕生",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

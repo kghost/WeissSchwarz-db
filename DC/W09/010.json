@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ふたりのこと、守ってあげて",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_010.gif",
+  "level": 2,
+  "name": "朝倉 由姫",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラすべてに、レベルを＋1し、パワーを＋500。\n【自】 あなたのクライマックス置場に「最後のお見舞い」が置かれた時、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を与える。",
+  "trait": [
+    "魔法",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 3,
+  "flavor": "テネブライモード！運命の輪、発動！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_046.gif",
+  "level": 1,
+  "name": "運命の輪",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のクロック置場のレベル2以下の《タロット》のキャラを1枚選び、舞台の好きな枠に置く。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

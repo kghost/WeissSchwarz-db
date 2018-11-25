@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "ねえ、君もヴァイスシュヴァルツしよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_p01.gif",
+  "name": "気になるタイトル続々参戦！",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の、山札と控え室のカードすべてを、ゲームから除外し、その山札と異なるスリーブの新しいデッキを山札にし、ゲームを続行する。そのゲーム中、古いデッキのカードが控え室に置かれる時、かわりにゲームから除外する。\n※このカードは公式・公認大会では使用できません。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "C-3PO「サーラックの胃の中で1000年以上かけてゆっくりと消化され、心の痛みと苦しみとは何かを知るでしょう」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_050.gif",
+  "level": 1,
+  "name": "The Sarlacc Pit",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の緑のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

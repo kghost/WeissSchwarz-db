@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "クド「実をいうとリキはいつでもかっこいいんですけどね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_036.gif",
+  "level": 2,
+  "name": "二人きり 理樹＆クド",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 この能力は1ターンにつき3回まで発動する。他のあなたの《動物》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「天体観測」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋3000。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

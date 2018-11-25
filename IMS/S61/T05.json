@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "えへへ……ありがとう、プロデューサーさんっ♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/ims_s61/ims_s61_t05.gif",
+  "level": 2,
+  "name": "おねだりエンジェル　伊吹 翼",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "音楽",
+    "オシャレ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

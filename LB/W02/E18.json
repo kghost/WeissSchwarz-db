@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "そこへ俺参上ーーーーっ！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_e18.gif",
+  "level": 1,
+  "name": "“単純馬鹿”謙吾",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのレベル置場に黄のカードがあるなら、このカードのパワーを＋2000。\n【永】 あなたのレベル置場に緑のカードがあるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "スポーツ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

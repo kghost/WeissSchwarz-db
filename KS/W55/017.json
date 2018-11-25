@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_017.gif",
+  "level": 1,
+  "name": "“新たなクエスト”カズマ",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《冒険者》か《女神》のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「次なる冒険へ！」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《冒険者》か《女神》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "冒険者",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

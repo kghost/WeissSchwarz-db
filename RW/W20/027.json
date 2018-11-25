@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "私の手を取ってくれたのは、瑚太朗…お前だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_027.gif",
+  "level": 2,
+  "name": "“親愛なる探求者”ルチア",
+  "power": 7000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《オカルト》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "trait": [
+    "委員長",
+    "オカルト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

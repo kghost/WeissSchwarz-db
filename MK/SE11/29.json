@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "お姉たまぁ♪ コ・コ・ロ、バナナ食べたいでちゅ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_29.gif",
+  "level": 1,
+  "name": "おねだり 小衣",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "警察",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

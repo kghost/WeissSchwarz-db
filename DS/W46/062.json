@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "はわぁ……これは何だかとっても幸せです……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_062.gif",
+  "level": 0,
+  "name": "ふたりの放課後 天",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 あなたのクライマックス置場に「喪われた楽園の管理者」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがコスト0以下のキャラなら、あなたはそのキャラを舞台の好きな枠に置いてよい。（そうしないなら元に戻す）",
+  "trait": [
+    "風南島",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

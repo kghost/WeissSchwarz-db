@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "とりあえず、これで数ターン様子見ってところか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_t08.gif",
+  "level": 3,
+  "name": "国王 空",
+  "power": 9500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\n【自】このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

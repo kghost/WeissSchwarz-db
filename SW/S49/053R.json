@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "Your powers are weak, old man.",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_053r.gif",
+  "level": 3,
+  "name": "“再会と死闘”ダース・ベイダー",
+  "power": 8500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを?1。\n【永】 他のあなたの赤のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(2) 手札を1枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "新たなる希望",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

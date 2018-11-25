@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "すっかり元気 あおい",
+  "power": 6500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのレベル2以上のキャラがいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "鍵",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

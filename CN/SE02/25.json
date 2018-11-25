@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "リ、リャン・チー様…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cn_se02/cn_se02_25.gif",
+  "level": 2,
+  "name": "ダイダラ社社長カミングズ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの控え室に「社長秘書リャン・チー」があるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "メガネ",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

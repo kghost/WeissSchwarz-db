@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 4,
+  "flavor": "どう？お菓子食べる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_021.gif",
+  "level": 3,
+  "name": "お菓子な探偵",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手の控え室のカードを6枚まで選び、山札に戻す。相手はその山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

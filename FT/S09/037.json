@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ここは妖精の尻尾一の星霊魔導士、ルーシィ様にまかせて！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_037.gif",
+  "level": 3,
+  "name": "星霊魔導士 ルーシィ",
+  "power": 10000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのソウルを?1。\n【永】 記憶 あなたの思い出が4枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 あなたのクライマックス置場に「強制閉門」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、パワーを＋3000。",
+  "trait": [
+    "魔法",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

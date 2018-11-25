@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ヘンリエッタ「ああ……\n疲れが消えていくようですわぁ……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_23.gif",
+  "level": 2,
+  "name": "着せ替えアカツキちゃん",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

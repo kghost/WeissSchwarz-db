@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "そうだ、この際だから佐天さんも一緒に！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_101.gif",
+  "level": 0,
+  "name": "柵川中学の生徒 初春",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのソウルを＋1。",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

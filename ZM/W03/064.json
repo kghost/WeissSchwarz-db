@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "な…なによ？　わざわざ着てあげたんだから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_064.gif",
+  "level": 0,
+  "name": "セーラー服のルイズ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

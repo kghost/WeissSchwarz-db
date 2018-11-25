@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "お菓子を食べると、ちょっと幸せになります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_105.gif",
+  "level": 0,
+  "name": "“天然ほわほわガール”小毬",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、《お菓子》を与える。",
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "……あなたたちは、またわたくしを、主人と呼ぶのですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_097.gif",
+  "level": 2,
+  "name": "アルセーヌの帰還",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《怪盗》のキャラを1枚選び、そのターン中、パワーを＋4500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

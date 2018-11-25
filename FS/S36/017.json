@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "神話の闘い、ここに再現するとしようか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s36/fs_s36_017.gif",
+  "level": 0,
+  "name": "“神話の対決”ギルガメッシュ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのクライマックス置場に黄のクライマックスがあるなら、このカードのソウルを＋1。",
+  "trait": [
+    "サーヴァント",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

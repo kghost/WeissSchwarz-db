@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "幸村「うああッ!!」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_27.gif",
+  "level": 1,
+  "name": "“純朴な人柄”真田 幸村　",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《武器》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "武器",
+    "鉢巻"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

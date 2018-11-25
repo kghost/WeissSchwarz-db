@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "そうだ、来いッ！\nあたしが――全部ぶっ倒してやらぁッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_076.gif",
+  "level": 2,
+  "name": "【FIERCE MAIDEN：知】クリス",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

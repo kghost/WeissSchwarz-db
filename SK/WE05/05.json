@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "秋葉「探しに来てくれたんだ、レオパルド」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we05/sk_we05_05.gif",
+  "level": 0,
+  "name": "願いを受け継ぐ者 秋葉",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのレベル置場の《コロニー》のキャラ1枚につき、このカードのパワーを＋2000。",
+  "trait": [
+    "コロニー",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

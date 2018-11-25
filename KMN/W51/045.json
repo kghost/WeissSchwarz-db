@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "おお……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_045.gif",
+  "level": 0,
+  "name": "見守る ジャガー",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《フレンズ》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "フレンズ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

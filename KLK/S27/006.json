@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "く?…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_006.gif",
+  "level": 1,
+  "name": "2年甲組 流子",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置く。",
+  "trait": [
+    "服",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

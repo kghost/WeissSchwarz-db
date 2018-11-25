@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "今……治すから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_027.gif",
+  "level": 2,
+  "name": "新人隊員 るな",
+  "power": 5500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《タロット》のキャラすべてに、パワーを＋1000。\n【自】［(2) このカードを思い出にする］ あなたのクライマックス置場に「華麗なる休暇」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「月の力 るな」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "タロット",
+    "月"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "無くなっていく。…街が。風祭が。世界が。\n全て、消えてしまう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_096.gif",
+  "level": 2,
+  "name": "終わる世界",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。\nあなたは相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置く。\nすべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

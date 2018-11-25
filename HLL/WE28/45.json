@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "試験中にトランスできるのは2回までです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we28/hll_we28_45.gif",
+  "level": 1,
+  "name": "1年Sクラス副担任 梨乃",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの「1年Sクラス担任 静葉」がアタックした時、そのターン中、このカードのパワーを＋2500。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のカード名に「静葉」を含むキャラを1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "定理者",
+    "先生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

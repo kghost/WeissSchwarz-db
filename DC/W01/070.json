@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "……痛い",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_070.gif",
+  "level": 3,
+  "name": "見事なカウンター",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手に5ダメージを与える。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

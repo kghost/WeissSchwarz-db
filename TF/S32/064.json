@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "アレックスです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_064.gif",
+  "level": 0,
+  "name": "“気さくな青年”アレックス",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“火星への旅立ち”マルコス」すべてに、パワーを＋1000。\n【自】 絆／「“火星への旅立ち”マルコス」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“火星への旅立ち”マルコス」を1枚選び、手札に戻す）",
+  "trait": [
+    "改造",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

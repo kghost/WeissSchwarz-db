@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ベティーには浮き輪なんて必要ないかしら",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s55/rz_s55_026.gif",
+  "level": 0,
+  "name": "異世界常夏生活 ベアトリス",
+  "power": 1000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "trait": [
+    "魔法",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

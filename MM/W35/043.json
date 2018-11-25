@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "だめだよ、ほむらちゃん。独りぼっちにならないでって言ったじゃない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_043.gif",
+  "level": 3,
+  "name": "アルティメットまどか",
+  "power": 9500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

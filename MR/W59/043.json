@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あの人、何者だろう…ウチにすごいそっくり",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_043.gif",
+  "level": 2,
+  "name": "天音 月咲",
+  "power": 7500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは自分のクロック置場の「天音 月夜」を1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "魔法",
+    "マギア"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

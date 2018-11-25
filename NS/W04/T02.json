@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "フェイト「元気そうだね」\nアルフ「元気！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_t02.gif",
+  "level": 0,
+  "name": "フェイト＆アルフ",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

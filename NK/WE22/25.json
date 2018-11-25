@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私は今日から高校一年生……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_we22/nk_we22_25.gif",
+  "level": 1,
+  "name": "新入生 春",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《お菓子》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "お菓子",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

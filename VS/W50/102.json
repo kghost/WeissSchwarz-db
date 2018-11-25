@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "フーカさん格闘技に興味はありませんか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_102.gif",
+  "level": 1,
+  "name": "格闘技への誘い アインハルト",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードはアタックできない。",
+  "trait": [
+    "格闘",
+    "覇王流"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

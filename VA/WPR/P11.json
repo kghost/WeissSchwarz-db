@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "忙しいのはわかるけど、皆さん休んで！\n残業しすぎる社員に注意する役目",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p11.gif",
+  "level": 2,
+  "name": "“高レベル雑用”藤井知貴",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ビジュアルアーツ》のキャラすべてに、そのターン中、《元気》を与える。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "ビジュアルアーツ",
+    "マネージャー"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

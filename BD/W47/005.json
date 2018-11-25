@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ひなちゃんをもっと感じて！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-005_u.gif",
+  "level": 0,
+  "name": "二十騎ひなこ",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［?］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「ゆり」か「七菜」か「リィ」か「ひなこ」を含むキャラを1枚選び、手札に戻す。\n【自】 絆／「Glitter*Green 牛込ゆり」 ［?］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Glitter*Green 牛込ゆり」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "不思議"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

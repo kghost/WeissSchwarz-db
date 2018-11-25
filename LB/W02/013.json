@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "今！！　オレの怒りが…有頂天に達したぁッ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_013.gif",
+  "level": 0,
+  "name": "井ノ原 真人",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがプレイされて舞台に置かれた時、あなたは【スタンド】している自分のキャラを1枚選び、【レスト】する。",
+  "trait": [
+    "筋肉",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

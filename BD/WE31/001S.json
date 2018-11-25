@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "世界は広いんだから、いろいろな可能性があるんだし……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_001s.gif",
+  "level": 0,
+  "name": "“笑顔のマジック”松原花音",
+  "power": 1500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの黄のキャラすべてに、パワーを＋500。\n【自】 他のあなたの黄のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "ハロー、ハッピーワールド！"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

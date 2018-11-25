@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ハルヒ「やっぱり萌えといったらメイドでしょ？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_044.gif",
+  "level": 2,
+  "name": "ミラクルガール みくる",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "時間",
+    "メイド"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

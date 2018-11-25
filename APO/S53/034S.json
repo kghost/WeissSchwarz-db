@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "くっ……ははははは！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_034s.gif",
+  "level": 1,
+  "name": "“玉座の間”赤のアサシン",
+  "power": 3000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「空中庭園」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "サーヴァント",
+    "毒"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

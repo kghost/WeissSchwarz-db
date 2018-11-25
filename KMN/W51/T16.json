@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "平気平気！まっかせて！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_t16.gif",
+  "level": 2,
+  "name": "みんなを乗せて ジャガー",
+  "power": 7500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《フレンズ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "フレンズ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あとは、負けないって気持ちで、向かってくだけ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_w32/n1_w32_020.gif",
+  "level": 2,
+  "name": "全力全開なのは",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「スターライトブレイカー」があるなら、そのターン中、このカードのパワーを＋Ｘし、バトル中のキャラすべてに、次の能力を与える。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』Ｘはあなたの控え室のクライマックスの枚数×1000に等しい。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

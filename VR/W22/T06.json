@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あおいちゃん、すごい…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vr_w22/vr_w22_t06.gif",
+  "level": 2,
+  "name": "パレットスーツ装着！ あかね",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "鍵",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

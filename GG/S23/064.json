@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "エイミー「すごい綺麗だね！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gg_s23/gg_s23_064.gif",
+  "level": 0,
+  "name": "喜ぶエイミー",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "手紙",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

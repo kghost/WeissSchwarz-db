@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "よし。次のスキャンを待って、北の城壁沿いに山を下りるぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_082.gif",
+  "level": 1,
+  "name": "《MMTM》のリーダー デヴィッド",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
+  "trait": [
+    "アバター",
+    "ＭＭＴＭ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

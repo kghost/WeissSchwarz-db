@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ゆり「よくやったわ、竹山くん」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_072.gif",
+  "level": 1,
+  "name": "クライストとお呼びください",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたの《死》のキャラが3枚以下なら、手札からプレイできない。\nあなたは相手の控え室のカードを1枚選び、思い出にする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……今思えば、あれが私の初コイ\n……だったような気がするの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_091.gif",
+  "level": 0,
+  "name": "秘密の場所で 小咲",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、相手のキャラが3枚以下なら、このカードのパワーを＋2000。\n【自】 記憶 ［(1)］ このカードが手札から舞台に置かれた時、あなたの思い出置場の「約束のペンダント」が2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《鍵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "お菓子",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

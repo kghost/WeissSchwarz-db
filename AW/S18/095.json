@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "一度ダイブすれば、ずっといることも可能だよ。\nもっともレベル4以上じゃないと入れないけどね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_095.gif",
+  "level": 2,
+  "name": "無制限中立フィールド シアン・パイル",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 あなたのクライマックス置場に「ライトニング・シアン・スパイク」が置かれた時、前列にこのカードがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かしてよい。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

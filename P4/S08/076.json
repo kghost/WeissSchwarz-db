@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "夏祭りの夜、寄り添って歩くふたり…慣れない浴衣が着崩れて…夏",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_076.gif",
+  "level": 0,
+  "name": "浴衣のクマ",
+  "power": 500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】 この能力は1ターンにつき3回まで発動する。あなたがイベントをプレイした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "影",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_086.gif",
+  "level": 2,
+  "name": "VF-25Gメサイア（ミハエル機）",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "パイロット",
+    "メカ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "わ みなみちゃん ど どうしたの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_004.gif",
+  "level": 0,
+  "name": "ゆたか＆みなみ",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《保健室》のキャラがいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "保健室",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

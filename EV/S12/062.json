@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "これこそ実戦用に作られた世界初の本物のエヴァンゲリオンなのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_062.gif",
+  "level": 3,
+  "name": "“ユーロ空軍のエース”アスカ",
+  "power": 10000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「３人がかり」があるなら、あなたは相手にＸダメージを与えてよい。Ｘは相手の【リバース】しているキャラの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "パイロット",
+    "軍隊"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

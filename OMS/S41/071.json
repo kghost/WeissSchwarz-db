@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "やふーい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_071.gif",
+  "level": 1,
+  "name": "“F６”十四松",
+  "power": 5500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+  "trait": [
+    "６つ子",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "かぁすぅみぃがぁおぉかぁうたはぁ???！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_042.gif",
+  "level": 1,
+  "name": "怒りのボルテージ 英梨々",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のカード名に「詩羽」を含むキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "ゲーム",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "『私がずっと欲しかった時間だ…\n何度も何度も夢に見た時間だ…』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_008.gif",
+  "level": 2,
+  "name": "理想の家族 フェイト",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

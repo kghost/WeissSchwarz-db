@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "まあ頑張ってみたら良いのじゃない？\n応援はしてあげてよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_126.gif",
+  "level": 0,
+  "name": "“風祭学院高校”朱音",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

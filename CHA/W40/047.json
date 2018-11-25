@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "有宇「全部金さんラーメンかよっ…！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_047.gif",
+  "level": 2,
+  "name": "金さんラーメン",
+  "rarity": "U",
+  "side": "W",
+  "text": "相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

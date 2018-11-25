@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "見た目だけじゃなくてですね、島での生活も、全部ぜーんぶひっくるめて、楽園なんです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_068.gif",
+  "level": 1,
+  "name": "常夏の楽園 天",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「楽園システム」を1枚選び、手札に戻す。\n【自】 記憶 このカードがアタックした時、あなたの思い出置場にカードがあるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《風南島》のキャラの枚数×500に等しい。",
+  "trait": [
+    "風南島",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

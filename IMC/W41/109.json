@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "夕闇の先　光る星たち　儚い夜ぜんぶ搦ませ　心?さを感じる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_109.gif",
+  "name": "Memories",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の青のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

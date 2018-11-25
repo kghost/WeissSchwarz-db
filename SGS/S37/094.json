@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "水、冷たくて気持ちいいです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_094.gif",
+  "level": 2,
+  "name": "のんびり海の中 雪枝",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《ストライカー》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "ストライカー",
+    "不思議"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

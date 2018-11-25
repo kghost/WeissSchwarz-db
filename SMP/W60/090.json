@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "今日この日を……ハダカ記念日と名付けるぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_090.gif",
+  "level": 0,
+  "name": "“ハダカ記念日”良一",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他の《武器》のキャラがいないなら、このカードは《服》をすべて失い、このカードは次の能力を得る。『【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。』\n【永】 他の《武器》のキャラがいるなら、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋2000。』",
+  "trait": [
+    "サマポケ",
+    "服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

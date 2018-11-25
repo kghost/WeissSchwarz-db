@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "空中から斬り貫く天下無双の必殺剣技",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_045.gif",
+  "level": 1,
+  "name": "飛天無双斬",
+  "rarity": "U",
+  "side": "S",
+  "text": "次の行動を、あなたがレベルアップするまで繰り返す。『あなたは自分の山札の上から1枚を、クロック置場に置く。』\n相手のキャラすべてに、そのターン中、パワーを?3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

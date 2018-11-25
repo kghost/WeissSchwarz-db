@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "状況はわかりました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_093.gif",
+  "level": 1,
+  "name": "緒川 慎次",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラは他の枠に動かせない。",
+  "trait": [
+    "忍",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

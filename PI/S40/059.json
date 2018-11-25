@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "美遊は私の友達だから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_059.gif",
+  "level": 1,
+  "name": "“大切な友達”イリヤ",
+  "power": 3000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "マスター",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

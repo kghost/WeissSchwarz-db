@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "黒子「お姉さまったらまたこんな子供っぽいものを…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_061.gif",
+  "level": 2,
+  "name": "水着の美琴＆黒子",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《カエル》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "デルフリンガー「俺にディスペルをかけろ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_37.gif",
+  "level": 2,
+  "name": "ディスペル発動！",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 集中 あなたは自分の、《魔法》か《使い魔》のキャラを1枚選び、そのターン中、パワーを＋3500。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

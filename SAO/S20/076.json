@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "パパ……ママ……。\nぜんぶ、思い出したよ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s20/sao_s20_076.gif",
+  "level": 0,
+  "name": "謎の少女 ユイ",
+  "power": 1500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【起】［他のあなたのキャラを1枚とこのカードを【レスト】する］あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "ネット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

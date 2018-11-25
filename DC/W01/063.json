@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "美夏はな、義之……人間とロボットをつなぐ懸け橋になりたいのだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_063.gif",
+  "level": 0,
+  "name": "HM-A06型 ミナツ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他の《バナナ》のあなたのキャラがいるなら、このカードのパワーを＋1500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "メカ",
+    "バナナ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

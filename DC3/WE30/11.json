@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "どうしたの、タカくん。顔がふにゃっとしてる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we30/dc3_we30_11.gif",
+  "level": 0,
+  "name": "雪の日の登校 シャルル",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の、《新聞》か《生徒会》のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の、《新聞》か《生徒会》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』",
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

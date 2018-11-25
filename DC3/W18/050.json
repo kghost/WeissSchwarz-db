@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "えへへ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_050.gif",
+  "level": 0,
+  "name": "“好き”の気持ち 立夏",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードを思い出にする］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「公式新聞部部長 立夏」を1枚選び、このカードがいた枠に防御キャラとして置く。",
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

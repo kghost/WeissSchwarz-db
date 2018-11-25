@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ただお前、迷惑なのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_033.gif",
+  "level": 2,
+  "name": "誇り高き者 シャナ",
+  "power": 8500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのキャラすべてが《炎》なら、このカードのパワーを＋1000。",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

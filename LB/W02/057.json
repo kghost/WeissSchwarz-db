@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "責任、取ってくださいね。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_057.gif",
+  "level": 0,
+  "name": "“赤ずきん”美魚",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが7枚以上なら、このカードのパワーを＋2500。\n【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

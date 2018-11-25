@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "おまえとの融合は……不思議と心が温かい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_010.gif",
+  "level": 2,
+  "name": "烈火の将シグナム",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの、「エリオ＆キャロ」と「金の閃光フェイト」がいるなら、あなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\n【自】［(2)］ このカードがアタックした時、クライマックス置場に「火龍・一閃！！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。",
+  "trait": [
+    "魔法",
+    "ユニゾン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

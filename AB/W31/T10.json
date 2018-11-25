@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "はっ、頭洗って待っとけよな！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_t10.gif",
+  "level": 2,
+  "name": "“マラドーナ”ユイ",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場の《死》のキャラが2枚以上なら、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋1000。』",
+  "trait": [
+    "死",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

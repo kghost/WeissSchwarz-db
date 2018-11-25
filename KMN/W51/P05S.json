@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_p05s.gif",
+  "level": 0,
+  "name": "謎がいっぱい ツチノコ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、黄のクライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "フレンズ",
+    "謎"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

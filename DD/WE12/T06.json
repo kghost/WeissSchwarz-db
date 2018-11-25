@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "姫様…勇者様とお約束ですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_t06.gif",
+  "level": 0,
+  "name": "メイド長 リゼル",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

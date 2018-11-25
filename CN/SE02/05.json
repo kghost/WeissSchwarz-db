@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "シャム「お前は今日から――希望の地……カナンだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cn_se02/cn_se02_05.gif",
+  "level": 3,
+  "name": "“希望の地”カナン",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラが緑か赤なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードとバトル中の、黄か青のキャラが【リバース】した時、あなたはそのキャラを山札の上に置いてよい。",
+  "trait": [
+    "武器",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

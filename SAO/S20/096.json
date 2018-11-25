@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "……け、結婚しよう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s20/sao_s20_096.gif",
+  "level": 2,
+  "name": "プロポーズ",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の「血盟騎士団への入団 キリト」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「《黒の剣士》キリト」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋1500。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

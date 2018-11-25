@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "護身術。生命力を身体能力で示す授業",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s36/fs_s36_039.gif",
+  "level": 0,
+  "name": "“護身術の授業”ルヴィア",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「凛」を含むキャラがいるなら、このカードのパワーを＋2000し、このカードはサイドアタックできない。",
+  "trait": [
+    "宝石",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

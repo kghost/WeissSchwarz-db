@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_p05.gif",
+  "level": 1,
+  "name": "“プリンセスドレス”モモ＆ナナ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「モモ」か「ナナ」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "宇宙人",
+    "植物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

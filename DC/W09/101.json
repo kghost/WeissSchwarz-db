@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ほら。シャツのボタン、掛け違えてるよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_101.gif",
+  "level": 2,
+  "name": "世話焼き音姫",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたの思い出が3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

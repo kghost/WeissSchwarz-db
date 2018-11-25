@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "“リトルフォレスト”小鳥",
+  "power": 8000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが6枚以上なら、このカードのパワーを＋500し、ソウルを＋1。",
+  "trait": [
+    "植物",
+    "オカルト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

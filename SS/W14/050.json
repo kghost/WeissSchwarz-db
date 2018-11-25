@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "そう、それだけ…！それだけで戦える！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_050.gif",
+  "level": 0,
+  "name": "悠二の元へ シャナ&アラストール",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「悠二」を含むキャラすべてに、パワーを＋500。\n【自】 絆／「坂井 悠二」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「坂井 悠二」を1枚選び、手札に戻す）",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

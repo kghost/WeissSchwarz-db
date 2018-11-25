@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "わーーい！ありがとうございますー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_t03.gif",
+  "level": 0,
+  "name": "“青春の行方”西森 柚咲",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。",
+  "trait": [
+    "能力者",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

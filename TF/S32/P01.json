@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "一緒に行きたくなっちまったんだよね、あいつらとさ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_p01.gif",
+  "level": 2,
+  "name": "“奇跡の生還者”小町 小吉",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "trait": [
+    "改造",
+    "虫"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

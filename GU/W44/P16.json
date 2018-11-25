@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "モカ「お姉ちゃんも負けてられないわ！」\n青山「アぁ???♪♪」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_p16.gif",
+  "level": 0,
+  "name": "旋律にのせて モカ&青山",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "パン",
+    "小説"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

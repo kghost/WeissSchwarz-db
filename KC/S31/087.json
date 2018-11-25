@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "あまり艤装には触らないでもらいたいものだな……。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-087.gif",
+  "level": 3,
+  "name": "長門型戦艦1番艦 長門改",
+  "power": 10000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの手札が4枚以上なら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
+  "trait": [
+    "艦娘",
+    "戦艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "あー、気持ちよかったー♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_t04.gif",
+  "level": 2,
+  "name": "アルクェイド・ブリュンスタッド",
+  "power": 7500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "王族",
+    "血"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

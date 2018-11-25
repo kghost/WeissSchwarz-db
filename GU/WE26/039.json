@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "二羽兎の刑事だね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_039.gif",
+  "level": 0,
+  "name": "二羽兎の刑事 メグ",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「チノ」を含むキャラがいるなら、このカードのパワーを＋1500。\n【永】 他のあなたのキャラが1枚以下なら、他のあなたのカード名に「チノ」を含むキャラすべてに、パワーを＋2000。",
+  "trait": [
+    "バレエ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

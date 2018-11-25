@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "タ?カくん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_wpr/dc3_wpr_p12.gif",
+  "level": 2,
+  "name": "白ビキニ シャルル",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの【スタンド】しているキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

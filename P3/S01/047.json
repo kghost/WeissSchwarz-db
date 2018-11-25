@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "目を閉じると…”彼”と最後に話した時の事が浮かぶ。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_047.gif",
+  "level": 2,
+  "name": "アイギスの見る夢",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の山札の上から1枚を、ストック置場に置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

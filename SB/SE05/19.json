@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "これが前田のまつ様の手料理にございまするか…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_19.gif",
+  "level": 2,
+  "name": "まつのめし",
+  "rarity": "C",
+  "side": "S",
+  "text": "このカードは、あなたの《動物》のキャラがいないなら、手札からプレイできない。\nあなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

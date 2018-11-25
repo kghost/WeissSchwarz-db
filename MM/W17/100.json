@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "これで、トドメだぁ――ッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_100.gif",
+  "name": "奇跡も、魔法も、あるんだよ",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

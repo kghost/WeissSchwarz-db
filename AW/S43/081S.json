@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "氷見 あきら",
+  "power": 4500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "ネット",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

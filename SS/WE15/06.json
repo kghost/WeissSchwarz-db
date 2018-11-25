@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "わたしと…わたし…どういうこと？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_06.gif",
+  "level": 0,
+  "name": "成長の鍵 シャナ",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋500。\n【自】 絆／「“ペルソナ”装着 ヴィルヘルミナ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ペルソナ”装着 ヴィルヘルミナ」を1枚選び、手札に戻す）",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

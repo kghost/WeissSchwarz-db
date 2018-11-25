@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "やー・るぶりゅー・てぃびゃー…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_046.gif",
+  "level": 1,
+  "name": "ぶらっくほわいと",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分のクロックすべてを、クロック置場に好きな順番で置く。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

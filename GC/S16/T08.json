@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "真名「ならヴォイドを集めて。強いヴォイドを。\n――あなたの右腕は、そうやって\n未来を紡ぎだすためのものなのだから」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_t08.gif",
+  "name": "覚醒する“王の能力”",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

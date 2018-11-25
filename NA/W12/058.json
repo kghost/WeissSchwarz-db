@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたしたちが一番、闇の書のことを知ってんだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_058.gif",
+  "level": 0,
+  "name": "なのはVSヴィータ",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたのバトル中の《魔法》のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "魔法",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

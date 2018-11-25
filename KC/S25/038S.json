@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“信頼”の駆逐艦 Верный",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「暁型駆逐艦2番艦 響」があるなら、このカードのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_28.gif",
+  "level": 3,
+  "name": "“記死神”架印",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの、赤か《死神》のキャラの枚数に等しい。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「強制執行」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはこのカードの正面のキャラのコストに等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "死神",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "ラハール＆エトナ",
+  "power": 8000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

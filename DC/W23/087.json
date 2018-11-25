@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "……じゃあ、義之は一体、\n誰が怪しいと思ってるの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_087.gif",
+  "level": 2,
+  "name": "仮説から真相へ 杏",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 あなたのキャラが手札から控え室に置かれた時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。",
+  "trait": [
+    "演劇",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

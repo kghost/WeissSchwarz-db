@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "大勢でテーブル囲むのは楽しいぜ。\n「友達同士」なら、なおさらだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_01.gif",
+  "level": 0,
+  "name": "自称特別捜査隊 陽介",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《ジュネス》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "ジュネス",
+    "ヘッドフォン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

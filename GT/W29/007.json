@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "頼むで、節制っ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_007.gif",
+  "level": 2,
+  "name": "黄金色の光 ぎんか",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「夏最大の恐怖」があるなら、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが3以下なら、あなたはそのキャラとこのカードを、思い出にしてよい。』",
+  "trait": [
+    "タロット",
+    "コイン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

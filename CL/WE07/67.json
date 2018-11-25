@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "それっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_67.gif",
+  "level": 3,
+  "name": "委員長 杏",
+  "power": 10000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）\n【自】 このカードがアタックした時、クライマックス置場に「恋のトライアングル」があるなら、あなたは自分の控え室のカード名に「朋也」を含むキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋5000。",
+  "trait": [
+    "双子",
+    "委員長"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

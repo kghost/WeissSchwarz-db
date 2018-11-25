@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "いいの、いいの！　はい、チーズ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_061.gif",
+  "level": 2,
+  "name": "葉留佳＆佳奈多",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ビー玉",
+    "委員長"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

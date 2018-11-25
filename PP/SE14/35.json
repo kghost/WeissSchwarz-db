@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "二人は初めて出会うより以前から、\nああなる運命だったんだろう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pp_se14/pp_se14_35.gif",
+  "name": "対峙するふたり",
+  "rarity": "R",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

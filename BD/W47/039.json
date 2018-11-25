@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ね、さーやも歌おっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-039_u.gif",
+  "level": 0,
+  "name": "夜空の下で 香澄",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠の「初ライブ 香澄」に、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【起】［このカードを【レスト】する］ あなたは自分の、《音楽》かカード名に「明日香」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "音楽",
+    "星"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ナツ「悪魔ってより、天使みてーだな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_097.gif",
+  "level": 2,
+  "name": "悪魔の宴",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは1枚まで引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

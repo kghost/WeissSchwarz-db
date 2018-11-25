@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_102.gif",
+  "level": 1,
+  "name": "おねだりバニー シェリル",
+  "power": 6500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《音楽》か《パイロット》のキャラが3枚以上なら、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

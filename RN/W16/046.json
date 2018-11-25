@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "せやあっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_046.gif",
+  "level": 1,
+  "name": "閃光の一撃",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の《科学》のキャラを2枚まで選び、【スタンド】する。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "さぁ、行きましょう！やるわよー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42-p03.gif",
+  "level": 1,
+  "name": "第八艦隊の旗艦 鳥海改二",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《艦娘》のキャラの枚数×500に等しい。",
+  "trait": [
+    "艦娘",
+    "重巡洋艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

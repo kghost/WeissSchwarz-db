@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "まだまだ驚かせてやる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_065.gif",
+  "level": 0,
+  "name": "“巧みな謀略”ダース・ベイダー",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが赤なら、このカードのパワーを＋2000。\n【自】 フォース ［手札の赤のキャラを1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手のレベル0以下のキャラを1枚選び、それぞれを【スタンド】して入れ替える。",
+  "trait": [
+    "帝国の逆襲",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

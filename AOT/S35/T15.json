@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "……冷めてしまっては元も子もないので……今食べるべきだと判断しました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_t15_td.gif",
+  "level": 0,
+  "name": "サシャ・ブラウス",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

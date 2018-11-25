@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "名乗ってなかったわね。併設校３年。科学部部長、氷室よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_t08.gif",
+  "level": 0,
+  "name": "科学部の部長 氷室",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋１000。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

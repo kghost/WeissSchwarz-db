@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "いいに決まってるじゃん。楽しくて悪いことってなんだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_103.gif",
+  "level": 3,
+  "name": "天王寺 瑚太朗",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】 このカードがアタックした時、クライマックス置場に｢みんなでガーデニング｣があるなら、他のあなたのキャラすべてに、そのターン中、パワーを＋2500し、ソウルを＋1。",
+  "trait": [
+    "超能力",
+    "オカルト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

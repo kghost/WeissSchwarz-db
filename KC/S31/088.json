@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "この陸奥を一人にさせるなんて……。あらあらあら！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-088.gif",
+  "level": 3,
+  "name": "長門型戦艦2番艦 陸奥改",
+  "power": 10000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 他のあなたの《艦娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "戦艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

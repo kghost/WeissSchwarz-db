@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おう、何をジロジロ見ている？\nちゃんと話は聞いてたのか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_010.gif",
+  "level": 2,
+  "name": "胸の高まり 誠士郎",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分の、《武器》か《令嬢》か《動物》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

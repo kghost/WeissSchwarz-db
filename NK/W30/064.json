@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "良いではありませんか！\n私は楽様と主役を演じたいのです……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_064.gif",
+  "level": 0,
+  "name": "駄々っ子 万里花",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "警察",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

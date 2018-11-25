@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "要は、仲間になろうってことだろ？\n断る理由が無い",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pq_se21/pq_se21_01.gif",
+  "level": 0,
+  "name": "“八高組”Ｐ４主人公",
+  "power": 1500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「謎に挑む者たち」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがコスト0以下のキャラなら、あなたはそのキャラを舞台の好きな枠に置いてよい。（そうしないなら元に戻す）\n【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

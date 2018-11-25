@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "クラミー「フィー……もう私に優しくしないで 私みたいな奴隷なんかを友達扱いしてたら……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_047.gif",
+  "name": "遠き約束の日",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の緑のキャラを2枚まで選び、そのターン中、パワーを＋3000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

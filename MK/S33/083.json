@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "アリス、僕が言いすぎた。ごめん。だから落ち着いて……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_083.gif",
+  "level": 0,
+  "name": "うろたえるシオン",
+  "power": 1000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。\n【永】 他のあなたの、《怪盗》かカード名に「アリス」を含むキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは1枚引く。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

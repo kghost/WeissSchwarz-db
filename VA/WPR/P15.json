@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ネットは広大だわ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p15.gif",
+  "level": 0,
+  "name": "“だいたい荒ぶってる”恋泉天音",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "ビジュアルアーツ",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

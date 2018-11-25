@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "（フレーバーなし）",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_039.gif",
+  "level": 2,
+  "name": "“ラウンダー M４”桐生 萌郁",
+  "power": 4000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「IBN5100」を1枚選び、手札に戻す。",
+  "trait": [
+    "ラボメン",
+    "ケータイ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

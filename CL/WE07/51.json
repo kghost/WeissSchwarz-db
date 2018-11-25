@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "そこは・・・どんな場所だった？\nここよりも、もっと素敵な場所だった？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_51.gif",
+  "level": 1,
+  "name": "幻想世界の少女",
+  "power": 1000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの1番上にあり、あなたのキャラが1枚なら、あなたのキャラすべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を見てキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。』",
+  "trait": [
+    "人形",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

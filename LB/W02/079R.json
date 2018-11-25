@@ -1,0 +1,18 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“ほんわかきゅーと”小毬",
+  "power": 5500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "お菓子",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

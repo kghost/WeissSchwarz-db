@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "こういうのはどうでしょうか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_006.gif",
+  "level": 2,
+  "name": "名探偵みゆき",
+  "power": 8500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「名案」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び手札に戻し、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "メガネ",
+    "探偵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

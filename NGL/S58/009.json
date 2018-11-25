@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "…なんか、随分時間かかった気がするな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_009.gif",
+  "level": 1,
+  "name": "国王選定戦の勝者 空",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《ゲーム》のキャラなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。（公開したカードは元に戻す）",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

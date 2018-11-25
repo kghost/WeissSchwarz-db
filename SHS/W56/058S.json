@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "安芸君ってリアルの女の子は誘わないと思ったし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_058s.gif",
+  "level": 3,
+  "name": "多彩な衣装 恵",
+  "power": 9500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、あなたは他の自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ゲーム》のキャラの枚数×500に等しい。",
+  "trait": [
+    "ゲーム",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

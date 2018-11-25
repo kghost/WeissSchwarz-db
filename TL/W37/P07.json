@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_p07.gif",
+  "level": 0,
+  "name": "“プリンセスドレス”唯＆春菜",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたのカード名に「唯」か「春菜」を含むキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "動物",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

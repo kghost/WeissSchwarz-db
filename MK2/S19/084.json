@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "似合ってるわよ、エリー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_084.gif",
+  "level": 0,
+  "name": "和服のコーデリア",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの「和服のエリー」がいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

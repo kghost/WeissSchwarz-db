@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "正解は女の子が公園のベンチに座る時に広げる！…まぁいいわ。こっそり後をつけて、いざって時はメールでアドバイスしてあげるから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_062.gif",
+  "level": 2,
+  "name": "“オペレーション・ヴァルキュリア”牧瀬 紅莉栖",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の《ラボメン》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ラボメン",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

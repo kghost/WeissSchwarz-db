@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "幻惑のトイズ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_053.gif",
+  "level": 2,
+  "name": "“ふ”そくの事態",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードが手札からプレイされるか、舞台から控え室に置かれた時、すべてのプレイヤーは自分のキャラすべてを、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

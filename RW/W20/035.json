@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "瑚太朗「おお、観覧車だ。すげえな」\n静流「おおー」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_035.gif",
+  "level": 0,
+  "name": "手を引く静流",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。\n【自】 チェンジ ［このカードをクロック置場に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“けんてきひっさつ”静流」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "風紀委員",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

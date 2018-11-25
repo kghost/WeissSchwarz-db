@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "パートナーが欲しかったのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_080.gif",
+  "level": 2,
+  "name": "身構える沙耶",
+  "power": 7500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に「屋上の罠」があるなら、あなたは1枚引く。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

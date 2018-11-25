@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "…了解であります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_043.gif",
+  "level": 0,
+  "name": "3分料理 ヴィルヘルミナ",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋500。\n【自】 絆／「不器用なシャナ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「不器用なシャナ」を1枚選び、手札に戻す）",
+  "trait": [
+    "炎",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

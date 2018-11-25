@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "香澄「りみりんとまた話せてよかった！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-051_u.gif",
+  "level": 2,
+  "name": "夕暮れ時の一コマ りみ",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［? 手札の《音楽》のキャラを2枚控え室に置き、このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「満月の下で 香澄＆りみ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "チョココロネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "…あの人たちとずっと一緒に居たい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_we14/ab_we14_14.gif",
+  "level": 1,
+  "name": "何気ない仕草 かなで",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたのターン中、あなたの思い出が2枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "死",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

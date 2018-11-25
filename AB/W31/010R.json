@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "佇むかなで",
+  "power": 8000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、あなたは自分の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "死",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "秀吉「過去は何も生み出さぬ！　お前にもそれを分からせてやろう！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_s06/sb_s06_048.gif",
+  "name": "対決",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

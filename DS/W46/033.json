@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたしね、けっこう料理するの好きなんだから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_033.gif",
+  "level": 0,
+  "name": "料理中の乃絵里",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《風南島》のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはあなたの思い出の枚数に等しい。",
+  "trait": [
+    "風南島",
+    "家族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

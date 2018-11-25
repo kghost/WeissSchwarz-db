@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "それが……力を持つ兵士としての責任だと思う……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_111.gif",
+  "level": 2,
+  "name": "ちみライナー",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 0,
+  "text": "【起】【カウンター】 助太刀3000 レベル2 [(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

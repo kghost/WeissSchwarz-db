@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "加持「最もこっからが、ちょいとめんどうだけどな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_072.gif",
+  "level": 2,
+  "name": "殺菌処理",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

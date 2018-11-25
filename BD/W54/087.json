@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "でも、ファンのみなさんには、最高のパフォーマンスを見てもらいたいですし......",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_087.gif",
+  "level": 2,
+  "name": "“ステージ”大和麻弥",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【永】 このカードはこのカードの下の表向きのマーカーすべての色を得る。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

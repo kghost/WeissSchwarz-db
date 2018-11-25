@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "あと少しで、はやてが元気になって\nあたしたちのとこに帰って来るんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w32/n2_w32_112.gif",
+  "level": 1,
+  "name": "“守護騎士”ヴィータ",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクロックが0枚なら、このカードはアタックできない。",
+  "trait": [
+    "魔法",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

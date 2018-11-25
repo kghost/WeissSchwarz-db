@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "食うかい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_063.gif",
+  "level": 0,
+  "name": "林檎のおすそわけ 杏子",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「見滝原中学二年生 さやか」すべてに、パワーを＋1000。\n【自】 絆／「見滝原中学二年生 さやか」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「見滝原中学二年生 さやか」を1枚選び、手札に戻す）",
+  "trait": [
+    "魔法",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

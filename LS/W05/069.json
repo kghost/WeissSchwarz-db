@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "かがみ「今回のテストは範囲広くてしんどかったねー」\nこなた「私は一夜漬けのヤマが当たってバッチリだったよ?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_069.gif",
+  "level": 2,
+  "name": "こなた＆かがみ",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "オタク",
+    "双子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

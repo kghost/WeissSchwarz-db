@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "難易度の高い作戦を、精鋭の艦娘たちと共に\n攻略した提督のみに贈られる勝利の証",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_054.gif",
+  "level": 2,
+  "name": "甲種勲章",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《艦娘》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

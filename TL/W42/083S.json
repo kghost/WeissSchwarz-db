@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "level": 1,
+  "name": "“お風呂場ハプニング”春菜",
+  "power": 4500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《動物》か《霊》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "スポーツ",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

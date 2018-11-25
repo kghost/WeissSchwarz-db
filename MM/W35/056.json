@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ああ、これが、私の、絶望",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_056.gif",
+  "level": 2,
+  "name": "ほむらの絶望",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の手札のカード名に「ほむら」を含むキャラを1枚まで選び、舞台の好きな枠に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

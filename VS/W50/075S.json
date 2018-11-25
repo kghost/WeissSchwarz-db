@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "flavor": "誰にも馬鹿にされない…見下されない強さが欲しい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_075s.gif",
+  "level": 2,
+  "name": "強さを求めるリンネ",
+  "power": 7500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのキャラすべてが《格闘》か《服》なら、このカードのパワーを＋2500し、このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 相手のターン中、このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。",
+  "trait": [
+    "格闘",
+    "令嬢"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

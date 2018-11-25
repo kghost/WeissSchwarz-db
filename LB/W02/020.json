@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ほら、ちゃんとキレイにしてあげるから、おとなしくしましょうー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_020.gif",
+  "level": 2,
+  "name": "お背中流しますよー",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500し、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

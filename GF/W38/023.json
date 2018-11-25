@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "早く着替えてしまいなさい。\nワタクシより遅かったら、下僕失格よ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_023.gif",
+  "level": 0,
+  "name": "シンデレラタイム 綾小路美麗",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが黄のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
+  "trait": [
+    "ガール",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

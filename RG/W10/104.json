@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "黒子「これからは二人で一緒に一人前になってくださいます？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_104.gif",
+  "name": "二人の約束",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

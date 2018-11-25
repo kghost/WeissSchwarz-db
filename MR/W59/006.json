@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "気合はいつだって十分！この由比鶴乃に任せてっての！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_006.gif",
+  "level": 0,
+  "name": "“光の指す方へ！”鶴乃",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+  "trait": [
+    "魔法",
+    "アビリティ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_097.gif",
+  "level": 3,
+  "name": "シャッフルタイム",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは相手のキャラすべてを、思い出にする。それらのキャラを裏向きにシャッフルし、それぞれを舞台の別々の枠に裏向きに置く。それらのキャラを表向きにする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

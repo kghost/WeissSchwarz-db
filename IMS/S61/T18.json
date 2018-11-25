@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/ims_s61/ims_s61_t18.gif",
+  "level": 1,
+  "name": "パピヨンマーク",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

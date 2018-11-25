@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "大好きな人に、膝枕をして上げたいんです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_031.gif",
+  "level": 1,
+  "name": "学園のアイドル ことり",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの１番上にあり、あなたのレベルが2以上なら、緑のあなたのキャラすべてに、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

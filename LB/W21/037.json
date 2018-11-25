@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "いざ参る！　ぷらちな悪行三昧、成敗いたす！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_037.gif",
+  "level": 2,
+  "name": "“凶器乱舞”鈴",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

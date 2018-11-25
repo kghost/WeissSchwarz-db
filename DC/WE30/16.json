@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "た、楽しいなんて言ってないぞ！ み、美夏は貴様らの\n旅行にいやいやつきあってやってるだけだ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we30/dc_we30_16.gif",
+  "level": 0,
+  "name": "スキーウェアの美夏",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚クロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《メカ》か《バナナ》か《委員長》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "メカ",
+    "バナナ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

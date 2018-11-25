@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あの人が、アミちゃんの理想のタイプなら、ボク、がんばるよ……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_031.gif",
+  "level": 1,
+  "name": "獣人族の少年ファークリン",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［(2)］ あなたは自分のカード名に「アミタリリ」を含むキャラを1枚選び、そのターン中、パワーを＋2500し、このカードのパワーを＋2500。",
+  "trait": [
+    "動物",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

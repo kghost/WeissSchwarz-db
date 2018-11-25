@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_118.gif",
+  "level": 2,
+  "name": "ちび真姫",
+  "power": 9000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

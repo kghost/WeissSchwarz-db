@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あーそっか……私、好きな人が出来たんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_we22/nk_we22_05.gif",
+  "level": 1,
+  "name": "新生活！ 千棘",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［あなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「ただキミのことばかり」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。",
+  "trait": [
+    "令嬢",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

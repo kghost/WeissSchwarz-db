@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "会議室に集合しろ、話がある",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_039.gif",
+  "level": 0,
+  "name": "アリエル・ヴァルティエル・ウェストコット",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの《タロット》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "タロット",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

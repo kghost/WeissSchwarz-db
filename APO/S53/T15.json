@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "なし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_t15.gif",
+  "level": 0,
+  "name": "“歩き出す運命”ジーク",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "ホムンクルス",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

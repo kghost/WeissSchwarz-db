@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_010.gif",
+  "level": 0,
+  "name": "朝焼けの丘 マミ",
+  "power": 3000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラは他の枠に動かせない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
+  "trait": [
+    "魔法",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

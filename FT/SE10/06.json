@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "よォ、遊ぼーぜぇ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_06.gif",
+  "level": 0,
+  "name": "“セイズ魔法【人形憑】”ビックスロー",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2)］ あなたは自分の山札を見てレベル0以下の《魔法》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。",
+  "trait": [
+    "魔法",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

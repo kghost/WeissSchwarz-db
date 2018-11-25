@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "さよなら……倫理君",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_056.gif",
+  "level": 0,
+  "name": "二人の夜 詩羽",
+  "power": 1500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】[(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《ゲーム》か《小説》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

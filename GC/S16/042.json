@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "いいじゃんか颯汰。やれるっていうんだし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_042.gif",
+  "level": 1,
+  "name": "寒川 谷尋",
+  "power": 6000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trait": [
+    "生徒会",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

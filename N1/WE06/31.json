@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "止まれ…止まれ…止まれ……っ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_we06/n1_we06_31.gif",
+  "level": 2,
+  "name": "無謀な封印フェイト",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "エヴァンゲリオン３号機は現時刻をもって破棄。\n監視対象物を第９使徒と識別する",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_080.gif",
+  "level": 1,
+  "name": "命令するゲンドウ",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋500。\n【自】［(3)］ あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードが自分のレベル以下のレベルの《パイロット》のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。（そうしないなら元に戻す）",
+  "trait": [
+    "メガネ",
+    "手袋"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

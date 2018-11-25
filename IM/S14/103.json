@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私もいっしょに歌いますー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_103.gif",
+  "level": 1,
+  "name": "ユニットメンバー やよい",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "音楽",
+    "カエル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "極秘入国者 マリ",
+  "power": 2000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "パイロット",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

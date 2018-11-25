@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ベール「ナナミちゃん？」\nジョーヌ「いいアイデアって？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_26.gif",
+  "level": 1,
+  "name": "ジョーヌ＆ベール",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の、《動物》か《勇者》のキャラを1枚を選び、入れ替えてよい。",
+  "trait": [
+    "動物",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

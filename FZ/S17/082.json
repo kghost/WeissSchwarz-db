@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "セイバー「ア…アロンダイト…まさか貴方は―」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_082.gif",
+  "level": 2,
+  "name": "無毀なる湖光",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのコスト×1500に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

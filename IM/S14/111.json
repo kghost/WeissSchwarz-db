@@ -1,0 +1,12 @@
+{
+  "color": "GREEN",
+  "flavor": "パッと舞って\nガッとやって チュッと吸って h?an！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_111.gif",
+  "name": "きゅんっ！ヴァンパイアガール",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Climax"
+}

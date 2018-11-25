@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "ジャネット「ケン…」　ケン「ジャネット…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_027.gif",
+  "name": "ケンとジャネット！",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、 ♥を＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

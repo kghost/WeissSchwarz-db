@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "岡崎さんっシュートです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_31.gif",
+  "level": 0,
+  "name": "古河 渚",
+  "power": 500,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「岡崎 朋也」すべてに、パワーを＋1000。\n【自】 絆／「岡崎 朋也」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「岡崎 朋也」を1枚選び、手札に戻す）",
+  "trait": [
+    "演劇",
+    "だんご"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

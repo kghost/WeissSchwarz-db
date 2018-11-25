@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "これで、最後だからね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we03/sk_we03_003.gif",
+  "level": 2,
+  "name": "獅子堂 秋葉",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(6)］ あなたは相手の前列のレベル3以下のキャラすべてを、手札に戻す。",
+  "trait": [
+    "コロニー",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

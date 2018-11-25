@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "シグナム「……行きます」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_017.gif",
+  "level": 1,
+  "name": "シグナム＆リイン",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "ユニゾン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

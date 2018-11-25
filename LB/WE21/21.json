@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "何を着ていきましょうか…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we21/lb_we21_21.gif",
+  "level": 0,
+  "name": "デイト・ラヴァーズ 佳奈多",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードの与えたダメージがキャンセルされた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "委員長",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

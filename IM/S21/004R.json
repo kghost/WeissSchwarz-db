@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "一歩の勇気 雪歩",
+  "power": 6500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "音楽",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

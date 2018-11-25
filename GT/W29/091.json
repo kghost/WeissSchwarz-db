@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "もしかして、あれがママが言ってた…ダエモニア……！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_091.gif",
+  "level": 1,
+  "name": "幼い頃の記憶 せいら",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「淋しげな微笑み せいら」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "タロット",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

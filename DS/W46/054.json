@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "む、ようやく目が覚めたか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_054.gif",
+  "level": 1,
+  "name": "主従関係 依愛",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《風南島》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「これからの二人を」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、山札の下に置く。",
+  "trait": [
+    "風南島",
+    "中二病"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

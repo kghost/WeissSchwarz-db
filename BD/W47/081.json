@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私もここに立ちたいって思うけど、\nまだ全然届かない･･･",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-081_rr.gif",
+  "level": 1,
+  "name": "ステージを見つめるたえ",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】［?］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「本音」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚までと「はじめて聴いたギター」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "音楽",
+    "うさぎ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

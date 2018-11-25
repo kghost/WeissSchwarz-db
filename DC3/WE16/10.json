@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "晩ごはんを作りすぎちゃったから、お母さんがお裾分けもって…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we16/dc3_we16_10.gif",
+  "level": 0,
+  "name": "お料理上手 姫乃",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "新聞",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

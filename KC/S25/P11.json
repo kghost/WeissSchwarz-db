@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "軽巡、多摩です。猫じゃないにゃ。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_p11.gif",
+  "level": 1,
+  "name": "“たい焼き大好き”多摩",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのストックが4枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "軽巡洋艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

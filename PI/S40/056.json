@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…美遊様は仰いました\n美遊「イリヤは初めての友達だから」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_056.gif",
+  "level": 0,
+  "name": "“特殊魔術礼装”マジカルサファイア",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。\n【起】［あなたの控え室の「“特殊魔術礼装”マジカルルビー」1枚をマーカーを持たない「“ツヴァイフォーム”イリヤ」の下にマーカーとして裏向きに置く］ あなたは自分の「“ツヴァイフォーム”イリヤ」を1枚選び、このカードをそのカードの下にマーカーとして裏向きに置く。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

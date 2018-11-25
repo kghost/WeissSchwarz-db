@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "わりと、恥ずかしい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_068r.gif",
+  "level": 0,
+  "name": "常夏の解放感 リンネ",
+  "power": 1500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《格闘》か《服》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）\n【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「強引な攻勢 リンネ」を1枚選び、舞台の好きな枠に【レスト】して置く。",
+  "trait": [
+    "格闘",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

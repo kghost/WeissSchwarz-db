@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "やまぶきベーカリーのパンのおいしさの秘密？ふふっ、ないしょ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_p09.gif",
+  "level": 1,
+  "name": "“パン屋の匂い”山吹沙綾",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "Poppin’Party"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

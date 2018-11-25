@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ずっと迷ってたことがあって……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_033.gif",
+  "level": 3,
+  "name": "佇むアイシア",
+  "power": 9500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 大活躍 （相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする）\n【起】［(6)］ あなたは相手の前列のキャラすべてを、手札に戻す。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

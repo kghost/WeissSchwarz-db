@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "私はこの風南学園の生徒会長、邑崎遥月といいます。以後お見知りおきを",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_016.gif",
+  "level": 3,
+  "name": "完全無欠なお嬢様 遥月",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "風南島",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

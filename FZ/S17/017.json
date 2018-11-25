@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あと八人。それであなたの戦いは終わる。\n貴方と私は理想を遂げるの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_017.gif",
+  "level": 0,
+  "name": "アイリスフィール・フォン・アインツベルン",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(2)］ あなたの黄のクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "trait": [
+    "ホムンクルス",
+    "錬金術"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

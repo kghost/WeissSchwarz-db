@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ルイズ「な、なにあれ…」\nシエスタ「たぶん…む、胸……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_026.gif",
+  "level": 1,
+  "name": "ハーフエルフ ティファニア",
+  "power": 500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの１番上にあるなら、あなたの緑のキャラすべてに、パワーを＋1000。\n【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。",
+  "trait": [
+    "魔法",
+    "虚無"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

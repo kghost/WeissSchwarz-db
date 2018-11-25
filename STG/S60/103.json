@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ありがとニャンニャン?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_103.gif",
+  "level": 1,
+  "name": "“ラボメンガールズ”フェイリス・ニャンニャン",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ラボメン》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+  "trait": [
+    "ラボメン",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

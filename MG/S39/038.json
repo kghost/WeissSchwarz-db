@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "別に私は何もしていない。話を聞くだけだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_038.gif",
+  "level": 1,
+  "name": "“悪魔様”沼地蝋花",
+  "power": 6500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の「悪魔のパーツ」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "trait": [
+    "怪異",
+    "悪魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

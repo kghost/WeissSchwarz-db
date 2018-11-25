@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_051.gif",
+  "level": 1,
+  "name": "手袋",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 このカードは、あなたのカード名に「ルチア」を含むキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのストックの枚数×500に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

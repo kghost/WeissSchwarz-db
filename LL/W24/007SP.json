@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“僕らのLIVE 君とのLIFE”南 ことり",
+  "power": 7000,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

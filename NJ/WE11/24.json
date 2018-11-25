@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ねーねー。なにして遊ぶ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_24.gif",
+  "level": 2,
+  "name": "はかせ",
+  "power": 8500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「東雲研究所の日常」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「東雲 なの」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。",
+  "trait": [
+    "科学",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

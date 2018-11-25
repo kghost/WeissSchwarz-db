@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "これからしばらくは家族同士だ。\n自分んちと思って気楽にやってくれ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_40.gif",
+  "level": 1,
+  "name": "堂島 遼太郎",
+  "power": 2500,
+  "rarity": "RE",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《勇者》かカード名に「主人公」を含むキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋1。\n【自】 あなたのターンの終わりに、あなたの思い出置場にキャラがあるなら、このカードを手札に戻す。",
+  "trait": [
+    "警察",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

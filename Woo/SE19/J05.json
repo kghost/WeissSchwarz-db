@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 14,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/woo_se19/woo_se19_j05.gif",
+  "level": 3,
+  "name": "ホワイトデーの贈り物 うーさー",
+  "power": 20000,
+  "rarity": "WR",
+  "side": "S",
+  "soul": 4,
+  "text": "【永】 このカードの正面のキャラのソウルを?1。\n【自】 このカードがプレイ以外の方法で舞台に置かれた時、このカードを思い出にする。\n【自】［手札を5枚控え室に置く］ このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを相手のレベル置場に置く。\n※このカードは公式・公認大会では使用できません。",
+  "trait": [
+    "謎",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

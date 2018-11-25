@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "これから大切な部活だって言うのに、居眠り？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w46/dc3_w46_091.gif",
+  "level": 1,
+  "name": "ふたつの世界の物語 立夏",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 記憶 このカードがアタックした時、クライマックス置場に「With You」があるなら、 あなたは自分の控え室のレベルＸ以下の、《新聞》か《生徒会》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。",
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

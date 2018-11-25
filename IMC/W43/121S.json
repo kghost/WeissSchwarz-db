@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "Over heat? Oh デッドライン\n気にしてたら つまらないぜ",
+  "name": "ΦωΦver!! -Heart Beat Version-",
+  "rarity": "SR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "この力が私の、覚悟の証！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_036.gif",
+  "level": 3,
+  "name": "アイギス＆アテナ",
+  "power": 9500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 大活躍\n【自】 このカードがアタックした時、クライマックス置場に「命ある者」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。\n【起】［(4)］ あなたは自分のクロックか控え室の「命ある者」を1枚選び、クライマックス置場に置く。",
+  "trait": [
+    "メカ",
+    "神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

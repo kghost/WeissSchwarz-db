@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ウサミン星が見えるかも！ キャハ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_067.gif",
+  "level": 0,
+  "name": "お仕事中 菜々",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室の「Wonder goes on!!」の枚数×1000に等しい。",
+  "trait": [
+    "音楽",
+    "ウサミン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

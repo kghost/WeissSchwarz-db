@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "クロノ君、グッジョブ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_027.gif",
+  "level": 2,
+  "name": "名コンビ クロノ＆エイミィ",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

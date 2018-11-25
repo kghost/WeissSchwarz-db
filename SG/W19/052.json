@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "これが奴らと戦える力……\nあたしのシンフォギアだッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_052.gif",
+  "level": 1,
+  "name": "勝ち取った力 奏",
+  "power": 5000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「STARDUST∞FOTON」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下のイベントを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

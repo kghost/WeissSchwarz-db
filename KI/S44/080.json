@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "漆原「よかったね、のりちゃん……あの子達とね、繋がることができるんだよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_080.gif",
+  "level": 1,
+  "name": "寂しさを抱えた少女 園崎",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、クライマックス置場に「幸せな日々」があるなら、あなたは1枚引いてよい。",
+  "trait": [
+    "キズナ",
+    "謎"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

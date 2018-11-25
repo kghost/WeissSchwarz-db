@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ヒカエオロウ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_059.gif",
+  "level": 2,
+  "name": "フィーバーモード",
+  "rarity": "U",
+  "side": "S",
+  "text": "集中 あなたは自分の山札の上から7枚をめくり、控え室に置く。相手にＸダメージを与える。Ｘはそれらのカードの「みどりぷよ」の枚数に等しい。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

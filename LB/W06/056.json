@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "切り刻まれてもまだ意識がある、この一瞬が…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_056.gif",
+  "level": 3,
+  "name": "“エクスタシーモード”沙耶",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。\n【自】 相手のアンコールステップの始めに、あなたのクロックが6枚なら、あなたはこのカードを【レスト】し、自分のクロックすべてを、山札に戻す。その山札をシャッフルする。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

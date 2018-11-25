@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "にぃは、言った……常にゲームを始める前に勝っている……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_107.gif",
+  "level": 0,
+  "name": "異世界からの来訪者 白",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 0,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

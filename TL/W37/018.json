@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私に何か用ですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_018.gif",
+  "level": 1,
+  "name": "“沈着冷静”ヤミ",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の「“自分の心”ヤミ」を1枚選び、このカードがいた枠に置く。』\n【起】［(1) 手札のクライマックスを1枚クロック置場に置き、このカードをクロック置場に置く］ あなたは自分の手札の「金色の闇」を1枚まで選び、このカードがいた枠に置く。",
+  "trait": [
+    "変身",
+    "たいやき"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

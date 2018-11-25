@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "何も言わずにサヨナラするよ\nキミと出会えてすごく嬉しかったな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_025.gif",
+  "name": "フタリの記憶",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

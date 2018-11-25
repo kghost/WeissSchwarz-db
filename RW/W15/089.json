@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…下がれ篝。常に俺の背中にいるように",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_089.gif",
+  "level": 1,
+  "name": "“この夜での役目”瑚太朗",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「“優しい言葉”篝」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“優しい言葉”篝」を1枚選び、手札に戻す）",
+  "trait": [
+    "超能力",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

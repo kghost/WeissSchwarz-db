@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "菜々子、しょうらい、お兄ちゃんとけっこんする",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_014.gif",
+  "level": 0,
+  "name": "結婚宣言 菜々子",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《勇者》かカード名に「主人公」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の「主人公＆伊邪那岐大神」を1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "ジュネス",
+    "テレビ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

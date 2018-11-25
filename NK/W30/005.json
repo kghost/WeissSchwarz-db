@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "彼ったらいつも週末に?映画に誘ってくれて?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_005.gif",
+  "level": 1,
+  "name": "週末のデート 千棘",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「約束のペンダント」があるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "令嬢",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

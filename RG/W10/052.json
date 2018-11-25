@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "お姉さまっ！　それは私の仕事ですのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_052.gif",
+  "level": 2,
+  "name": "“空間移動能力者”黒子",
+  "power": 5500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードとバトル中のキャラが【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。\n【自】 このカードがアタックした時、クライマックス置場に「風紀委員のお仕事」があるなら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 アンコールステップの始めに、あなたはこのカードを手札に戻してよい。』",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…お願い、助けて…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_095.gif",
+  "level": 1,
+  "name": "携帯電話",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《先生》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を2枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

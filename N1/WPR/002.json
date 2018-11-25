@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なのは「だけど……なにもわからないままぶつかりあうのは、嫌だ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_wpr/n1_wpr_002.gif",
+  "level": 1,
+  "name": "譲れない想い なのは＆フェイト",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) このカードを【レスト】する］ あなたは相手の控え室のカードを1枚選び、山札の上に置く",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

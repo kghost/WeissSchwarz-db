@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s29/pd_s29-p05.gif",
+  "level": 1,
+  "name": "“カンタレラ”ミク＆ＫＡＩＴＯ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "ユニゾン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

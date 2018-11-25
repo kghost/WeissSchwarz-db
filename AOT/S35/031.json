@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "今、お前に必要なのは、言葉による『教育』ではなく『教訓』だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_031.gif",
+  "level": 2,
+  "name": "“城壁の彼方”リヴァイ",
+  "power": 7000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの《兵団》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを?1。\n【永】 あなたのキャラすべてが《兵団》なら、このカードのパワーを＋1000。\n【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

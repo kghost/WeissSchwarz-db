@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "最強は……常に一人よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_009s.gif",
+  "level": 3,
+  "name": "九領筆頭 シュザ",
+  "power": 10000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 あなたのメインフェイズの始めに、前列にこのカードがいるなら、あなたは自分の手札を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

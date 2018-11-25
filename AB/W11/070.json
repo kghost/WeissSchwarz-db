@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ゆり「ったく…。しょうがないわね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_070.gif",
+  "level": 2,
+  "name": "推進エンジン",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "カトレア「…お帰りなさい　小さなルイズ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_029.gif",
+  "level": 0,
+  "name": "次女 カトレア",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「ルイズ」を含むキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《虚無》のキャラを１枚選び、【スタンド】する。",
+  "trait": [
+    "魔法",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

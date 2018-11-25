@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "天のためにも。天が安心できて、心から幸せを感じることができるためにも、あなたが重要です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_077.gif",
+  "name": "喪われた楽園の管理者",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

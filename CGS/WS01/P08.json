@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "カードにふれると運気がアップ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_p08.gif",
+  "level": 2,
+  "name": "鳥居 しよ子",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 この門が破壊された時、あなたは自分の山札の上から1枚を、ストック置場に置く。あなたの破壊された門が4枚以上あるなら、あなたの控え室のレベル3以下のメンバーを1枚選び、コストを払わず出撃させる。\n※このカードは公式・公認大会では使用できません。",
+  "trait": [
+    "カードゲーム",
+    "門"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

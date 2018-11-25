@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "わ、わわっ、止まらないよ?っ！　ど、どいてください?っ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_085.gif",
+  "level": 0,
+  "name": "“リンクの妖精”小泉 花陽",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「花陽」を含むキャラすべてに、パワーを＋500。\n【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

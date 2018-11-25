@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "最後だから、どうしても私の本当の姿を見てほしくて",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_008.gif",
+  "level": 1,
+  "name": "簡易スーツの和泉子",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは相手の効果に選ばれない。\n【自】 このカードがフロントアタックされた時、相手は自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "宇宙人",
+    "シャケ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

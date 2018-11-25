@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "対峙の時 シャナ",
+  "power": 3500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《炎》のキャラがいないなら、このカードを控え室に置く。",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

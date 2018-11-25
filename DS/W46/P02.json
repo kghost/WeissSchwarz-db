@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あっ、わたし、今、格好――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_p02.gif",
+  "level": 1,
+  "name": "無防備な姿 ひまり",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《風南島》のキャラなら、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "風南島",
+    "帽子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

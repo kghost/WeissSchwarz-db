@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "う、うう…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_095.gif",
+  "level": 1,
+  "name": "ニッコリ腕立て伏せ",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

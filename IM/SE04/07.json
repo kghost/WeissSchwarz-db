@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "僕が、こうして、男の子アイドルとして、最高の舞台に立てたように……君も！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_se04/im_se04_07.gif",
+  "level": 2,
+  "name": "夢をあきらめない涼",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「Dazzling World」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にする。",
+  "trait": [
+    "音楽",
+    "女装"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

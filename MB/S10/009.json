@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "生き物らしく死ねると思わないでね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_009.gif",
+  "level": 1,
+  "name": "吸血衝動 アルクェイド",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「暴走アルクェイド」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "王族",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

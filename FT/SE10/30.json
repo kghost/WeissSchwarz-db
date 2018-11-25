@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "仲間・・・・じゃなかったのか？\nそれを消して喜んでるとァどうかしてるぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_30.gif",
+  "level": 0,
+  "name": "まさかの共闘 ガジル",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) このカードを控え室に置く］ 他のあなたの《竜》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

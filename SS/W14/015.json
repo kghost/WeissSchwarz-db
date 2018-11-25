@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "この街を守る…守るために戦ってる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_015.gif",
+  "level": 2,
+  "name": "零時迷子の“ミステス”悠二",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「零時迷子の元へ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、ストック置場に置く。",
+  "trait": [
+    "炎",
+    "宝具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

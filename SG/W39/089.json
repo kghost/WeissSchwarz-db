@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "エネルギーをプロテクターとして固着させる機能が損なわれている状態です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_089.gif",
+  "level": 0,
+  "name": "S.O.N.G. 友里",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "オペレーター",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

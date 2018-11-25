@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "そんなの、別にあなたに話すことじゃないし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_t16.gif",
+  "level": 1,
+  "name": "反発する二人 詩羽",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ゲーム》か《小説》のキャラの枚数×500に等しい。",
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "重要なのは魔法名を名乗り上げた事でね\n僕達の間では、むしろ『殺し名』かな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w10/id_w10_093.gif",
+  "level": 1,
+  "name": "ステイル＝マグヌス",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 記憶 このカードとバトル中のキャラが【リバース】した時、あなたの思い出置場に「修道女 インデックス」があるなら、あなたはそのバトル中のキャラを山札の下に置いてよい。",
+  "trait": [
+    "魔法",
+    "タバコ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

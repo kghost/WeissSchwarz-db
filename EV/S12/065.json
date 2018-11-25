@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ミサト「あなたたち三人の力が必要なのよ。奇跡を起こすために」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_065.gif",
+  "level": 0,
+  "name": "発進準備 アスカ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "パイロット",
+    "軍隊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

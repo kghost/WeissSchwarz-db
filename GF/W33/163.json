@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "…とはいえ…現代美術は、よくわからんな?私が理解するには、シュール過ぎるかな…どうだ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_163.gif",
+  "name": "芸術の困惑",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

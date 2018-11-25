@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "君たちも俺を助けたい系のアレ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_088.gif",
+  "level": 3,
+  "name": "“それ系のアレ”日染",
+  "power": 10000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのクロック置場に「“インモラル”日染」があるなら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "キズナ",
+    "インモラル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

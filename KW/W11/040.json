@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あと、私こ、ここコンパとか、そういうの絶対参加しませんからっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_040.gif",
+  "level": 0,
+  "name": "純真な佳奈多",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "双子",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "教えてくれてありがとう、お姉ちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we18/lb_we18_39.gif",
+  "level": 1,
+  "name": "ふたりのシフォンケーキ",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のカード名に「葉留佳」か「佳奈多」を含むキャラを1枚選び、クロック置場に置いてよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルのカード名に「葉留佳」か「佳奈多」を含むキャラを1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

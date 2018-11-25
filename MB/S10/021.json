@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "えっ？　あれは太陽？ それはスペースデブリ？　ここは宇宙？　これは夢オチ？ うわ、最低。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_021.gif",
+  "level": 1,
+  "name": "宇宙のネコ",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたのキャラすべてに、そのターン中、パワーを＋1000し、ソウルを＋1。\nターンの終わりに、あなたは自分のキャラを1枚選び、思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

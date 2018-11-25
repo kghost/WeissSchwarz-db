@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "プロデューサーさん。さあ、立って下さい！\n私がついていますから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_087.gif",
+  "level": 2,
+  "name": "マイペースあずさ",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のターン中、あなたの思い出置場に「ある日の風景」があるなら、このカードのパワーを＋1500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "人間・認識、即刻・斬殺",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kg_se07/kg_se07_11.gif",
+  "level": 1,
+  "name": "からくり人形 日和号",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000。\n【永】 このカードの下のマーカーが2枚以上なら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】 あなたのターンの終わりに、このカードの下のマーカーが1枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
+  "trait": [
+    "人形",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

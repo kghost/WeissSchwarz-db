@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "一発殴ってやるしかないな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_053.gif",
+  "level": 1,
+  "name": "善良なる傭兵 カイン",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

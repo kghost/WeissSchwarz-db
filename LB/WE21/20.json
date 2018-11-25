@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "グローブってこれでいいのかな？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we21/lb_we21_20.gif",
+  "level": 0,
+  "name": "イージスの盾！？ 葉留佳",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "ビー玉",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

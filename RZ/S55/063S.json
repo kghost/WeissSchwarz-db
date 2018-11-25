@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "スバルくんの事ですから、ひょっとしてなにかまたすごいことを思いついたんですね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s55/rz_s55_063s.gif",
+  "level": 0,
+  "name": "真っ直ぐな笑顔 レム",
+  "power": 1500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「ラム」か「レム」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "魔法",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

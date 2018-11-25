@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "あ、先輩。待って下さい。\nせっかくだから一緒に行きませんか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_p06.gif",
+  "level": 2,
+  "name": "真面目で頑張り屋さん さら",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "新聞",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

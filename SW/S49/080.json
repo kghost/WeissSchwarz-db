@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "おまえにダークサイドをみせてやろう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_080.gif",
+  "level": 3,
+  "name": "The Dark Side",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】【CXコンボ】 相手にＸダメージを与える。あなたは自分の赤のキャラを1枚選び、そのターン中、パワーを＋2000。Ｘはあなたの控え室の「Starkiller」の枚数＋1に等しい。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

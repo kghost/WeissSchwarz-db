@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あなたの断末魔 聞きたいナ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_057.gif",
+  "level": 1,
+  "name": "灰島 華賀利",
+  "power": 3000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「緋ノ宮 二穂」と「“ビスケット・シリウス”灰島 依咲里」すべてに、パワーを＋500。\n【永】 他のあなたの「灰島 依咲里」がいるなら、他のあなたの赤のキャラすべてに、パワーを＋500。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のコスト0以下のキャラを1枚まで選び、控え室に置く。",
+  "trait": [
+    "ストライカー",
+    "オッドアイ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

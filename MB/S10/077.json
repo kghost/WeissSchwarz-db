@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ダメ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_077.gif",
+  "level": 2,
+  "name": "正義の吸血鬼 さつき",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「固有結界・枯渇庭園」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のレベル1以下の《血》のキャラを1枚選び、前列のキャラのいない枠に置いてよい。",
+  "trait": [
+    "血",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

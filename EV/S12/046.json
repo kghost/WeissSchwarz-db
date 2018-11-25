@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ヒトを捨てたエヴァの力、見せてもらうわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_046.gif",
+  "level": 2,
+  "name": "裏コード ザ・ビースト",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

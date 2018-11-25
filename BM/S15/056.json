@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "全てが中途半端だったからな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_056.gif",
+  "level": 2,
+  "name": "悪魔の左手 神原駿河",
+  "power": 7000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「ひたぎ」を含むキャラがいるなら、このカードのパワーを＋1500。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「悪魔が去ったのち」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "怪異",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

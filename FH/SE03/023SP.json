@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "桜「憧れてたんです。正装の男の人にこうして迎えに来て貰うのって」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_023sp.gif",
+  "name": "エスコート",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

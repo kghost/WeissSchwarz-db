@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "最後だけ少しでも見つめたい\n少しだけこのまま瞳　そらさないで",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_099.gif",
+  "name": "目が逢う瞬間",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

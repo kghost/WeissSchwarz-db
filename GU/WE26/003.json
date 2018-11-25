@@ -1,0 +1,22 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "先輩の後ろ姿……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_003.gif",
+  "level": 0,
+  "name": "毎日が宝物 シャロ",
+  "power": 1000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「毎日が宝物 千夜」がいるなら、他のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てカード名に「宝物」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "特待生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

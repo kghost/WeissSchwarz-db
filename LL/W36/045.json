@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "私がサンタに、ですか？　……行事をより楽しむためにも、事前に調べておく必要がありそうですね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_045.gif",
+  "level": 1,
+  "name": "“きよしこの夜”園田 海未",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場に「“Happy maker!”園田 海未」があるなら、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「秘めた想い」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

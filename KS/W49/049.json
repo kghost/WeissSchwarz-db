@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "一応冒険者の資格を持っているので、私もお手伝いに……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_049.gif",
+  "level": 1,
+  "name": "“街の有名人”ウィズ",
+  "power": 6500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 舞台にこのカードがいるなら、このカードのレベルを?1し、このカードは《冒険者》を得る。\n【永】 このカードの正面のキャラに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。",
+  "trait": [
+    "死",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

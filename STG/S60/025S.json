@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "倫太郎「間違いない…過去に」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_025s.gif",
+  "level": 1,
+  "name": "Dメール",
+  "rarity": "SR",
+  "side": "S",
+  "text": "【カウンター】 このカードは、あなたのカード名に「岡部」か「紅莉栖」を含むキャラが1枚以下なら、手札からプレイできない。\nあなたは自分のレベル置場のカードと控え室の《ラボメン》のキャラを1枚ずつ選び、入れ替えてよい。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

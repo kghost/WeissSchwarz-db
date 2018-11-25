@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "待って?！！　あたしの短冊?！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t26.gif",
+  "level": 1,
+  "name": "大切な短冊",
+  "rarity": "TD",
+  "side": "W",
+  "text": "このカードを思い出にする。\n【自】 記憶 あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分の山札を見て《Pastel＊Palettes》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、このカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_050.gif",
+  "level": 1,
+  "name": "“バスローブ姿”カラ松",
+  "power": 4500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“バスローブ姿”カラ松」がいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "６つ子",
+    "まゆげ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

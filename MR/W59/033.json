@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "わたしは魔法少女…だからやらなきゃ…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_033.gif",
+  "level": 1,
+  "name": "新たな物語 まどか",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《魔法》のキャラの枚数×500に等しい。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがあなたの舞台にいるキャラと同じカード名のキャラなら、そのカードをストック置場に置く。",
+  "trait": [
+    "魔法",
+    "ヒール"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

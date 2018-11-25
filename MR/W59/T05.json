@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "バランス良いだろっ？アタシらのチーム！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_t05.gif",
+  "level": 1,
+  "name": "十咎 ももこ",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「PPPH！コールは完璧！」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "魔法",
+    "バランス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "防ぎ得ぬ槍ならば、\n防ぐより先に斬るまでのこと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_se13/fz_se13_09.gif",
+  "name": "風王鉄槌",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

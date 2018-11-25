@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "朋也「こいつが、これから歩んでいく道。それがどんな険しいもので…\nそして、どんな長いものであっても…きっと、強く生きていく」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_wp01/cl_wp01_08.gif",
+  "name": "逞しい命",
+  "rarity": "PS",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n([TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "『いつも通り』でしょ。行こう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_039.gif",
+  "level": 0,
+  "name": "“ステージ”美竹蘭",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?3000。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

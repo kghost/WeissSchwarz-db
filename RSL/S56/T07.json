@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "華恋「歌、お芝居、ダンス、日本舞踊など」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_t07.gif",
+  "name": "俳優育成科の授業",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

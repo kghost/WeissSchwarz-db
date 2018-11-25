@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_022.gif",
+  "level": 3,
+  "name": "『くらやみ』",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手のキャラすべてを選び、それらのキャラ以外の相手のキャラすべてを、思い出にする。\nあなたは自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

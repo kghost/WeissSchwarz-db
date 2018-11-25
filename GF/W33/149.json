@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "さあ、格好だけ決まってても駄目よね。お茶会自体も、きちんとやらないと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_149.gif",
+  "level": 1,
+  "name": "チャイナドレス 見吉奈央",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの青のキャラが3枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "ガール",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

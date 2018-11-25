@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "フィーナ「アシュリナ様。どうか力をお貸しください」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_017.gif",
+  "level": 2,
+  "name": "湖都の女王 アシュリナ",
+  "power": 5500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】［(2)］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「九領筆頭 シュザ」を1枚まで選び、舞台の好きな枠に置く。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

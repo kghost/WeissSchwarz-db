@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "クラスで頭のいい奴らに乗りうつりまくって、解答を暗記して、戻って回答欄を埋めるを繰り返す",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_t19.gif",
+  "name": "特殊能力",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

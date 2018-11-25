@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "音姫「今年もどうぞよろしくねー」\n由夢「よろしくお願いします」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_p02.gif",
+  "level": 0,
+  "name": "行く年来る年 音姫＆由夢",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

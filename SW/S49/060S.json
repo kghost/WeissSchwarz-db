@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "I'll take them myself. Cover me.",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_060s.gif",
+  "level": 1,
+  "name": "“悪に染まりし者”ダース・ベイダー",
+  "power": 4500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「You are beaten.」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "新たなる希望",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

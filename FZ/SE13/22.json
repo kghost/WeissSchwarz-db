@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "さぁさぁ坊やたち　鬼ごっこを始めますよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_se13/fz_se13_22.gif",
+  "level": 0,
+  "name": "龍之介の師 キャスター",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《死》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 絆／「雨生 龍之介」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「雨生 龍之介」を1枚選び、手札に戻す）",
+  "trait": [
+    "サーヴァント",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

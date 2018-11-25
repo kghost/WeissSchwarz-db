@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私たちは町を愛して、町に育まれてるんです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_08.gif",
+  "level": 0,
+  "name": "町を愛する渚",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのソウルを＋1。",
+  "trait": [
+    "演劇",
+    "だんご"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

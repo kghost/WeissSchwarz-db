@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "はぁ、はぁ?はぁ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_p02.gif",
+  "level": 1,
+  "name": "クールダウン せいら",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］ あなたは自分の《タロット》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "タロット",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

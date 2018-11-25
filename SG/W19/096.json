@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "弦十郎「天羽々斬。翼の持つ、第一号聖遺物だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_096.gif",
+  "level": 2,
+  "name": "天羽々斬",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のレベル2以上のカード名に「翼」を含むキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の手札の「風鳴 翼」を1枚まで選び、舞台の好きな枠に置く。\nあなたは自分のクロックの上から1枚を、控え室に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

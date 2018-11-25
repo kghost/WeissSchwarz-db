@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "唄うことの喜び 翼",
+  "power": 8000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「FLIGHT FEATHERS」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

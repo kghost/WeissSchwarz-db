@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "どうして……そう考えましたか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_026.gif",
+  "level": 1,
+  "name": "10年目の真実 遥月",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《風南島》のキャラ1枚につき、このカードのパワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ このカードをストック置場に置く。あなたは自分の控え室の「水着の遥月」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "風南島",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

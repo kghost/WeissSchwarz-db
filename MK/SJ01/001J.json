@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_001.gif",
+  "level": 1,
+  "name": "“く”いしんぼう ネロ",
+  "power": 5000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードのパワーを＋Ｘ。Ｘは今日あなたの食べたおやつの数×1000に等しい。\n【自】【CXコンボ】［あなたのストック置場の横のおやつを一つ食べるかしまう］ このカードがアタックした時、クライマックス置場に「おやつタイム」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のポケットのおやつを好きな数選び、ストック置場の横に置く。（飲食禁止の会場では食べたことにしてもいいよ）",
+  "trait": [
+    "探偵",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

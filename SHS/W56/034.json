@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あ、今声かけたらまずかった？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_034.gif",
+  "level": 0,
+  "name": "無用の気遣い 恵",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+  "trait": [
+    "ゲーム",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

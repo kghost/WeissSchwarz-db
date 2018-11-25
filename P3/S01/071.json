@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "影時間に気づかない人は、その間、棺おけのように”象徴化”する。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_071.gif",
+  "level": 2,
+  "name": "象徴化",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは相手に1ダメージを与える。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

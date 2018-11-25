@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "夏の思い出に、みんなで、のんびりしよう?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_25.gif",
+  "level": 1,
+  "name": "ナナミ・タカツキ",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の「波乗り勇者 ナナミ」を1枚とこのカードを選び、入れ替える。\n【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "trait": [
+    "勇者",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

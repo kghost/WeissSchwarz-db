@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "まったく・・・なんであたしがこんなに疲れなきゃなんないのよー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_065.gif",
+  "level": 0,
+  "name": "“電撃使い”美琴",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "それに派手だったねぇ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_009.gif",
+  "level": 1,
+  "name": "フレンズとこんにちは サーバル",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】［このカードを控え室に置く］ 他のあなたのカード名に「サーバル」か「かばん」を含むキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+  "trait": [
+    "フレンズ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "まず聞きたいのですが…ハロウィンとは、\nどういう催しなのです？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_032.gif",
+  "level": 2,
+  "name": "マッドアルケミスト 湯川基世",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《ガール》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
+  "trait": [
+    "ガール",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

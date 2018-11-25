@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ゆり「かなでちゃん、よろしく」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_063.gif",
+  "level": 1,
+  "name": "共同戦線 かなで＆ゆり",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《死》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "死",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

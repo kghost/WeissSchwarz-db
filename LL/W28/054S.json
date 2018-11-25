@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“一緒におでかけ♪”穂乃果",
+  "power": 6000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは、あなたの《音楽》のキャラが2枚以下なら、手札からプレイできない。",
+  "trait": [
+    "音楽",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

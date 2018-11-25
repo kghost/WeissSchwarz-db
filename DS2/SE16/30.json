@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ヤマト、君が進もうとしている道は……真っ暗だよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds2_se16/ds2_se16_30.gif",
+  "level": 0,
+  "name": "“憂う者”アルコル",
+  "power": 1500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のカード名に「ヤマト」を含むキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 このカードがアタックした時、あなたは他の自分のカード名に「ヒビキ」を含むキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "セプテントリオン",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

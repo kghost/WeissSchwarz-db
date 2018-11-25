@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "やっぱり、こうしていると気分が変わりますね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kw_w11/kw_w11_112.gif",
+  "level": 1,
+  "name": "衣装変更！？ クド",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?1000。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "阿良々木くんが腰の形で女子を区別できるのと、同じようなものと考えてくれていいわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_029.gif",
+  "level": 0,
+  "name": "休日の戦場ヶ原ひたぎ",
+  "power": 3500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《怪異》のキャラでないなら、あなたは自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "怪異",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

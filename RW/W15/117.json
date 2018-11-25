@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "止める方法はただひとつ。良い記憶を",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_117.gif",
+  "level": 1,
+  "name": "“星の化身”篝",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "鍵",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

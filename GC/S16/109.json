@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "集「僕は君のためにここに来たんだ。\n君を守りたくて……。だから――」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_109.gif",
+  "level": 0,
+  "name": "“真摯な誓い”集＆いのり",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "音楽",
+    "葬儀社"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

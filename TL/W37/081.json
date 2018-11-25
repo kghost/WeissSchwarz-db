@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "創りましょう…！リトさんの“楽園”を",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_081.gif",
+  "level": 1,
+  "name": "楽園計画",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の控え室の《宇宙人》のキャラを2枚まで選び、手札に戻す。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

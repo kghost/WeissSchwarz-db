@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 3,
+  "flavor": "ええい何を手間取っているのです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_025.gif",
+  "level": 3,
+  "name": "立体アイコン",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手の前列のレベル3以下のキャラを1枚まで選び、手札に戻し、相手にＸダメージを与える。Ｘはそのキャラのソウルに等しい。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "瑚太朗「篝の仕事を手伝いたいんだ」\n篝「…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_080.gif",
+  "level": 0,
+  "name": "“模索する者”篝",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアンコールステップの始めに、あなたは他の自分のキャラを1枚選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "trait": [
+    "鍵",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

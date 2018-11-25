@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……一人失格",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we28/hll_we28_31.gif",
+  "level": 1,
+  "name": "精密射撃 学",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、《定理者》か《使者》のキャラを2枚まで選んで相手に見せ、このカードの下にマーカーとして好きな順番で表向きに置き、残りのカードを控え室に置く。\n【起】［(1) このカードの下のマーカーを2枚控え室に置く］ あなたは相手のレベル0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋4000。",
+  "trait": [
+    "定理者",
+    "使者"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

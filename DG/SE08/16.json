@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "フフフッ。それでは皆さん、ごきげんよう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_16.gif",
+  "level": 2,
+  "name": "神出鬼没 アルティナ",
+  "power": 6000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【自】 あなたのアンコールステップの始めに、クライマックス置場に「悪魔と天使の絆」があるなら、あなたはこのカードを【レスト】し、舞台の好きな枠に動かす。（今いる枠を選んでもよい）",
+  "trait": [
+    "天使",
+    "怪盗"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

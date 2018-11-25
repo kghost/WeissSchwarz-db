@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "153cmの身長が154cmに伸びていた！\n私の成長期に終わりはない。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p32.gif",
+  "level": 1,
+  "name": "“Top of the あげまん”島みやえい子",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+  "trait": [
+    "ビジュアルアーツ",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

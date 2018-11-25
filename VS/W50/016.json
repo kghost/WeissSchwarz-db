@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "身内びいきと分析の末に…\nヴィヴィオさんの判定勝ちで",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_016.gif",
+  "level": 2,
+  "name": "エルス・タスミン",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋1000。\n【永】 他のあなたの《格闘》のキャラが2枚以上なら、このカードはサイドアタックしてもソウルが減少しない。\n【自】 相手のアタックフェイズの始めに、あなたは自分の「ハリー・トライベッカ」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。",
+  "trait": [
+    "格闘",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

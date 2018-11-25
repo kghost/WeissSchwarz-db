@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "夢、か……。ふふ、私の夢は、小さいけれど、\nでも、なににも変えられない、大切なものなの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_121.gif",
+  "level": 1,
+  "name": "夢を想う あずさ",
+  "power": 4000,
+  "rarity": "RE",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

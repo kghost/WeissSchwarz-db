@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "すいません！ドレインタッチ―!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_065.gif",
+  "level": 2,
+  "name": "ドレインタッチ",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたのカード名に「ウィズ」か「カズマ」を含むキャラがいないなら、手札からプレイできない。\nあなたは相手のレベル1以下のキャラを1枚選び、控え室に置いてよい。そうしたら、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。\nこのカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

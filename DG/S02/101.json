@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "「学園一の不良であるアタイを差し置いていい度胸じゃないか！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_101.gif",
+  "level": 0,
+  "name": "魔界一の不良ラズベリル",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "悪魔",
+    "不良"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

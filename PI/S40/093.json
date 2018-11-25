@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "絶対引きずり出してひっぱたいてやる!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_093.gif",
+  "level": 2,
+  "name": "世界の片隅で君の名を",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋3500し、次の能力を与える。『【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

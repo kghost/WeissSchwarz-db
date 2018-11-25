@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_018.gif",
+  "level": 1,
+  "name": "“ソ”ックス一枚 エリー",
+  "power": 1000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに1枚までしか入れることができない。",
+  "trait": [
+    "探偵",
+    "本"
+  ],
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Character"
+}

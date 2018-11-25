@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ね、お兄ちゃんって呼んでいいですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_016.gif",
+  "level": 0,
+  "name": "儚げな美少女 愛理",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "科学",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

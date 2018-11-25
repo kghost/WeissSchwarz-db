@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "先輩、こんにちは",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_wpr/dc3_wpr_p14.gif",
+  "level": 0,
+  "name": "スクール水着 さら",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "新聞",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

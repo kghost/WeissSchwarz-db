@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "まぁ見てろって！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_tbs/ws_tbs_002.gif",
+  "level": 0,
+  "name": "選ばれし戦士 タケシ",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "へたれ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

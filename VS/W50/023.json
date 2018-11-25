@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あんにゃろーそんなんが通るか\nいまから行って張り倒してやらあ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_023.gif",
+  "level": 0,
+  "name": "やんちゃな性格 ハリー",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 共鳴 ［(1) 手札の「ハリーと仲良し？エルス」を1枚公開する］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "格闘",
+    "不良"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

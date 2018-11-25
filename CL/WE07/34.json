@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "それでも、この場所が好きでいられますか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_34.gif",
+  "name": "この学園は、好きですか……？",
+  "rarity": "RE",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

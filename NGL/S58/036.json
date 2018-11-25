@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "――おもしれぇ、ですッ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_036.gif",
+  "level": 0,
+  "name": "物理限界をも超える力 いづな",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「血壊」があり、あなたの手札が5枚以下なら、あなたは自分の山札を上から3枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "ゲーム",
+    "獣人種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

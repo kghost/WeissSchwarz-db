@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "アーチャー「またしてもあの狂犬か……面白い…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_081.gif",
+  "level": 2,
+  "name": "ヴィマーナ",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の控え室のカード名に「アーチャー」を含むキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。\nあなたは自分の山札の上から1枚を公開する。そのカードがクライマックスならクロック置場に置く。（そうでないなら元に戻す）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

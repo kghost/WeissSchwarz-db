@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "はい。柚咲さんが出演されていた間は、ずっとチェックしていましたので",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_060.gif",
+  "level": 1,
+  "name": "“夏制服”高城 丈士朗",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「瞬間（高速）移動」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "能力者",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

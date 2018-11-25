@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "倫太郎「待て！俺を担ぐのはよせ。お前は正真正銘の男だ！なぜならここに……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_091.gif",
+  "level": 0,
+  "name": "“性の転換”漆原 るか",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「IBN 5100」を1枚選び、手札に戻す。",
+  "trait": [
+    "ラボメン",
+    "巫女"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "人と獣の二つの道が、捻って交わる螺旋道！\n昨日の敵で運命を砕く！明日の道をこの手で掴む!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_057.gif",
+  "name": "宿命合体グレンラガン",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Treasure]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "TREASURE"
+  ],
+  "type": "Climax"
+}

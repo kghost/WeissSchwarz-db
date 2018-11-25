@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_072.gif",
+  "level": 3,
+  "name": "鼻眼鏡",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたの山札が5枚以上なら、あなたは自分の控え室のカードを2枚まで選び、山札に戻し、その山札をシャッフルする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "リツコ「……エヴァは実戦兵器よ。全てにバックアップを用意しているわ。操縦者も含めてね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_071.gif",
+  "level": 1,
+  "name": "封印される２号機",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の控え室の『チェンジ』を持つキャラを1枚まで選び、手札に加える。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

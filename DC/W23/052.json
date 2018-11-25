@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "兄さん……愛してる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_052.gif",
+  "level": 3,
+  "name": "溢れる気持ち 音夢",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1) 手札を1枚控え室に置く］ あなたのクライマックス置場に「誓いのキス」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト1以下のキャラを1枚選び、山札の上に置き、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "魔法",
+    "ドレス"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

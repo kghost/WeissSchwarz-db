@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あ、バンドの話がしたかったのに、ついチョコの話を……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t79.gif",
+  "level": 0,
+  "name": "“チョコだいすき”牛込りみ",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "Poppin'Party"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

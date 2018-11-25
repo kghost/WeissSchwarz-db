@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "そう緊張しないで。最初からこの前みたいなやつと戦うわけじゃないから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_063.gif",
+  "level": 2,
+  "name": "パラサイト管理官 ナナ",
+  "power": 9500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】舞台のこのカードのレベルを−2。\n【永】他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "オトナ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

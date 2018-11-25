@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "俺が先陣を切って戦う",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_p01.gif",
+  "level": 2,
+  "name": "“人類の希望”ハルオ",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】他のあなたの、緑か《アラトラム号》のキャラ1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "アラトラム号",
+    "人類"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

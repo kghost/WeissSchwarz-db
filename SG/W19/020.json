@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "うおおおおおおおおおおお",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_020.gif",
+  "level": 2,
+  "name": "デュランダル覚醒",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

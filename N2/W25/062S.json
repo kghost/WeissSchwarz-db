@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "別れの時間 リインフォース",
+  "power": 10000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのドローフェイズの始めに、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。そうしないなら、このカードを思い出にする。",
+  "trait": [
+    "魔法",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ふぉぉぉ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_049.gif",
+  "level": 0,
+  "name": "感激！ ココア",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「チノ」を含むキャラがいるなら、このカードのカード名は「ココアお姉ちゃん」としても扱う。\n【自】 絆／「巫女さん チノ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「巫女さん チノ」を1枚選び、手札に戻す）",
+  "trait": [
+    "ラビットハウス",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

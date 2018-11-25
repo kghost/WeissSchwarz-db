@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "おばちゃん、角煮まんじゅう４つ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_008.gif",
+  "level": 0,
+  "name": "気さくな関西人 ぎんか",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《タロット》のキャラすべてに、パワーを＋500。\n【起】［手札の「白金 弥太郎」を1枚控え室に置き、このカードを【レスト】する］ あなたのキャラすべてに、そのターン中、ソウルを＋1。",
+  "trait": [
+    "タロット",
+    "商人"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "今からいうところを一緒に抜いてもらってもいいですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_078.gif",
+  "level": 1,
+  "name": "目印づくり",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の控え室の、《フレンズ》か《メカ》のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

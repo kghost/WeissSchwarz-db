@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "姉妹艦想いの軽巡 龍田",
+  "power": 5500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台のこのカードのレベルを?1。\n【永】 他のあなたの《艦娘》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "軽巡洋艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

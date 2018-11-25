@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "――我らに楽園を与え給え",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_084.gif",
+  "level": 0,
+  "name": "“魔術師”黒のキャスター",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《マスター》か《サーヴァント》かカード名に「叡智」を含むキャラすべてに、パワーを＋500。\n【自】［このカードをバトル中のキャラの下にマーカーとして表向きに置く］ 他のあなたのバトル中の「王冠：叡智の光」が【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。",
+  "trait": [
+    "サーヴァント",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

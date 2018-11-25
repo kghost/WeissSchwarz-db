@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "こころ「誰かを笑顔にするには、まずは自分から笑顔になって、話しかけないとってこと。『ハロー！』ってね！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t74s.gif",
+  "name": "えがおのオーケストラっ！",
+  "rarity": "SR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trigger": [
+    "SOUL",
+    "SHOT"
+  ],
+  "type": "Climax"
+}

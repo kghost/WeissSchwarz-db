@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "なぜ美夏を起動した？　なにが目的だ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_068.gif",
+  "level": 2,
+  "name": "美夏、覚醒！",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたはレベル2以下の相手の前列のキャラを1枚選び、山札の上に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

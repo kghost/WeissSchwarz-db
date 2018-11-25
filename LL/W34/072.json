@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_072.gif",
+  "level": 2,
+  "name": "“どんなときもずっと”星空 凛",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「みんなで決めた答え」が置かれた時、前列にこのカードがいて、他のあなたの、「ライブの差し入れ 真姫」と「ライブへの想い 花陽」がいるなら、あなたは相手のキャラを1枚まで選び、相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋4000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

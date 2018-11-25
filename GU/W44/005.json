@@ -1,0 +1,22 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ほぇ??",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_005.gif",
+  "level": 0,
+  "name": "幸せそうなシャロ",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「シャロ」か「千夜」を含むキャラすべてに、パワーを＋500。\n【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "特待生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

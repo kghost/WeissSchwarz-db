@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "食べ過ぎには注意よ、ランカちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_111.gif",
+  "level": 2,
+  "name": "エルボックス シェリル",
+  "power": 9000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

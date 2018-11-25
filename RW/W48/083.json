@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ちはや「へ？どうして戸が勝手に…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_083.gif",
+  "level": 0,
+  "name": "ポルターガイスト？ 篝",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "鍵",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

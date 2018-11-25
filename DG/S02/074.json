@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "心配するな。これからはオレさまが地球の王になってやる。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_074.gif",
+  "name": "地球の王",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

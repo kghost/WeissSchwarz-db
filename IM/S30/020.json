@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "私も今までにない役柄に挑戦できたかなと思っています",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-020.gif",
+  "level": 2,
+  "name": "舞台に出演 雪歩",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《お茶》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《お茶》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "お茶"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

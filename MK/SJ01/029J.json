@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "あ、警察だあ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_029.gif",
+  "level": 4,
+  "name": "“ヨ”コハマの大警察 小衣",
+  "power": 15000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋11000。』『【永】 このカードのアタック中、あなたの行うトリガーチェックは3回になる。』",
+  "trait": [
+    "警察",
+    "仮面"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

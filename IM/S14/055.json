@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あははは！　やっぱり砂浜はいいな！\nなんか童心に帰れる気がするぞ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_055.gif",
+  "level": 1,
+  "name": "南国少女 響",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「shiny smile」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1500に等しい。",
+  "trait": [
+    "音楽",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

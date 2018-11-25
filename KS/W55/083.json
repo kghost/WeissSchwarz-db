@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ブレッシング！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_083.gif",
+  "level": 0,
+  "name": "“魔法の実力も運の内”アクア",
+  "power": 1000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードに「“街を歩けば”アクシズ教徒」があるなら、あなたは自分の控え室の、《女神》か《アクシズ教徒》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "冒険者",
+    "女神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

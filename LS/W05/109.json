@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "え もう次の曲なの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_109.gif",
+  "level": 2,
+  "name": "照れ照れなかがみ",
+  "power": 9000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】他のあなたの「ノリノリなこなた」がいないなら、このカードはアタックできない。",
+  "trait": [
+    "双子",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

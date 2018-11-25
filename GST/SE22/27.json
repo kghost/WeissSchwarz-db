@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…メンコは、投げなきゃひっくり返らない…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_27.gif",
+  "level": 2,
+  "name": "吹き抜ける清涼な風 マナブ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3500し、ソウルを＋1。\n【自】 あなたのクライマックス置場に「シャイニンググラスホッパー」が置かれた時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「吹き抜ける清涼な風 マナブ」を1枚選び、舞台の好きな枠に置き、自分の山札の上から1枚を、そのキャラの下にマーカーとして置く。",
+  "trait": [
+    "メガネ",
+    "ギガント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

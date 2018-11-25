@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "こう「およ？このネタ最近どっかで見た気がするなぁ…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_095.gif",
+  "level": 2,
+  "name": "100Mショック",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたはバトルしているキャラを1枚選び、そのターン中、ソウルを＋6。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

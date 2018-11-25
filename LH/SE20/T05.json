@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "わ、私の方こそ、その……あ、ありがとう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_t05.gif",
+  "level": 1,
+  "name": "照れるアカツキ",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《武器》か《魔法》のキャラが3枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "武器",
+    "忍"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

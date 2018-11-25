@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "仰ぎ見よ。余こそ神さぶ、奇しき業なり",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_28.gif",
+  "level": 2,
+  "name": "創造神“祭礼の蛇”",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードは、あなたの、「『巫女』ヘカテー」と「『将軍』シュドナイ」と「『参謀』ベルペオル」がいる場合を除き、手札からプレイできない。\n【永】 他のあなたの《炎》のキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "炎",
+    "蛇"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

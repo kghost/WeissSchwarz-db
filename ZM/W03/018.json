@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "デルフリンガー「そいつだ！解除だよ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_018.gif",
+  "level": 2,
+  "name": "ディスペル・マジック",
+  "rarity": "R",
+  "side": "W",
+  "text": "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、相手は自分の手札を2枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

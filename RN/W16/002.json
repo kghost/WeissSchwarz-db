@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "コンディション、オールグリーン！\n最終判断は、ＧＯ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_002.gif",
+  "level": 3,
+  "name": "瀬乃宮 あき穂",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを?1。\n【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

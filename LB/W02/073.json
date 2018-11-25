@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "本当に、楽しそうで…\nそれが、今の生活の、象徴のようで…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_073.gif",
+  "name": "リトルバスターズ！",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

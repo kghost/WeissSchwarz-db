@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "『いつかまた君と会いたい　天王寺瑚太朗』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_120.gif",
+  "level": 1,
+  "name": "“命の回廊”篝",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ この能力は1ターンに1回まで発動する。あなたがイベントをプレイした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 アンコールステップの始めに、あなたは1枚引いてよい。』",
+  "trait": [
+    "鍵",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "貝木……泥舟",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_071.gif",
+  "level": 2,
+  "name": "不吉な遭遇 神原駿河",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、他のあなたの《怪異》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。\n【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「人の手のありがたみ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "怪異",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

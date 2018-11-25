@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "What was that?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_t19sp.gif",
+  "name": "フォースを持つ者",
+  "rarity": "SP",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

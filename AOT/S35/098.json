@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "教官「巨人の体の構造は他の生物と根本的に異なる」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_098.gif",
+  "level": 1,
+  "name": "巨大樹の森",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《巨人》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

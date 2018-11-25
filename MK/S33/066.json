@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "無理よ、そんな…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_066.gif",
+  "level": 0,
+  "name": "気弱な少女 リリー",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "探偵",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

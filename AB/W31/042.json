@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ひさ子「ひっどいボーカルだったな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_042.gif",
+  "level": 1,
+  "name": "入江＆ひさ子",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "死",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

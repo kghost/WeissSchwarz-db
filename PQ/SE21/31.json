@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "いや、僕が行こう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pq_se21/pq_se21_31.gif",
+  "level": 0,
+  "name": "“特別課外活動部”P3主人公",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "魔法",
+    "ヘッドフォン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

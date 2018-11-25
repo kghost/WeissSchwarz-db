@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "うーん、このあたりにはもうないかな…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_053.gif",
+  "level": 1,
+  "name": "マネーカード探し",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

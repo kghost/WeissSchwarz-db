@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "私は……もう、決めてます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_21.gif",
+  "level": 1,
+  "name": "『極光の射手』キアラ・トスカナ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "炎",
+    "神器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

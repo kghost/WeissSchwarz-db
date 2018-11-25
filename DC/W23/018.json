@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ご、ごめんね。で、でも……\nぷっ、あははははははははは",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_018.gif",
+  "level": 1,
+  "name": "“家族”の団欒 さくら",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "魔法",
+    "先生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

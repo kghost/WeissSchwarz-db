@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "まどか「……希望を持つ限り、救われないっていうの？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_054.gif",
+  "level": 2,
+  "name": "無意味な連鎖",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手の山札を上から3枚まで見てカードを1枚まで選び、山札の下に置く。残りのカードを山札の上に好きな順番で置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "彼を茂みの奥に連れ込んで思いを果たそうとするの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_064.gif",
+  "level": 2,
+  "name": "blessing software 詩羽",
+  "power": 6500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

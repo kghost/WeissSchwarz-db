@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "コーデリア「私の、お花畑…♡」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_096.gif",
+  "level": 3,
+  "name": "コーデリアのお花畑",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のクロックの上から2枚までを、控え室に置く。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

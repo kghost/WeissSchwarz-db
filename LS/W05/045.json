@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "つかさ「私は今年も皆と仲良く過ごせますようにーって」\nこなた「私もそれお願いしたのにかがみは冷たいよねー」\nかがみ「悪かったな」\nかがみ（―――っていうかそんなのお願いするまでもないことじゃない―――？）",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_045.gif",
+  "level": 1,
+  "name": "もっとも自然なこと",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "我ら影の英霊は今度こそ、…本物の影になる―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_093.gif",
+  "level": 0,
+  "name": "群にして個 アサシン",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの《マスター》のキャラを2枚【レスト】する］ そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+  "trait": [
+    "サーヴァント",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

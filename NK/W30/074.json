@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "楽「僕の進む道は\n両家を巻き込む血塗られた道だ。\nそんな物に体の弱いかわいい妹を\n巻き込みたくないんだ！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_074.gif",
+  "name": "アドリブ",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私 隊長さんなら絶対にできるって 信じてます！\nがんばってください！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_018.gif",
+  "level": 0,
+  "name": "エール！ 椿芽",
+  "power": 3500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "ストライカー",
+    "謎"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

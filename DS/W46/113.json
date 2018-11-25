@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "それがデートの定番！お約束なの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_113.gif",
+  "level": 1,
+  "name": "ちび乃絵里",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのソウルを＋2。",
+  "trait": [
+    "風南島",
+    "家族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

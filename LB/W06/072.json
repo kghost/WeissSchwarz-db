@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "多分、もうすぐこの夢は終わるんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_072.gif",
+  "level": 1,
+  "name": "すべては夢の中",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の手札のクライマックスを1枚選び、控え室に置く。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

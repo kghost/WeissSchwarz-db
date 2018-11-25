@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ただ……急でびっくりしちゃって……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_113.gif",
+  "level": 1,
+  "name": "決意を受けて 美波",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「この空の下」があるなら、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

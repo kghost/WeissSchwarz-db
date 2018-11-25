@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ねぇねぇお近づきに一杯どーお？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t12.gif",
+  "level": 0,
+  "name": "ゆらぎ荘のへべれけさん 呑子",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の、《ゆらぎ荘》か《湯煙町》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。",
+  "trait": [
+    "酒",
+    "ゆらぎ荘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

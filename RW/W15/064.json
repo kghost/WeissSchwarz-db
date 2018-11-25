@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "構わないじゃないの、誰もいなかったのだから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_064.gif",
+  "level": 1,
+  "name": "秩序に叛逆する朱音",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル0以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "魔法",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

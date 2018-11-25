@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "真庭忍軍・頭領の一人。 「冥土の蝙蝠」・獣組\n体内にどんなものでも収納できるという忍法を使う",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kg_se07/kg_se07_15.gif",
+  "level": 0,
+  "name": "冥土の蝙蝠",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2) このカードをクロック置場に置く］ あなたは自分のクロック置場のコスト0以下のキャラを1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "忍",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "俺たちは、同時に思い出す。\nこの夏のことを。\nこの夏に、あったことを。\nこの夏に出会った小さな女の子のことを――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_072.gif",
+  "level": 1,
+  "name": "ちょっとだけ、ばいばい……",
+  "rarity": "U",
+  "side": "W",
+  "text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あの、すみません。胸のあたりが苦しいので、少しさすってもらえないでしょうか……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_118.gif",
+  "level": 0,
+  "name": "ほのかにセクシーあずさ",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

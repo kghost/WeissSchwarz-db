@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "――はっ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_t20.gif",
+  "level": 2,
+  "name": "運命は廻りはじめる…",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の山札の上から1枚を公開する。そのカードが《マナ》のキャラなら舞台の好きな枠に置く。（そうでないなら元に戻す）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

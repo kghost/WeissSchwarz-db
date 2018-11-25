@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ワシは、騎士の信念を貫き、正義を世に示すための力がほしい……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_009.gif",
+  "level": 0,
+  "name": "“騎士道”ガドフォール",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trait": [
+    "動物",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

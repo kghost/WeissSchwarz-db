@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "エンドレス・ワルツ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_14.gif",
+  "level": 0,
+  "name": "力の片鱗 キリト",
+  "power": 1500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠の《ギガント》のキャラに、パワーを＋1500。\n【自】 あなたのクライマックスフェイズの始めに、後列にこのカードがいるなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1500に等しい。",
+  "trait": [
+    "謎",
+    "ギガント"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

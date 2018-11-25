@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "どうせなら喫茶店描いてみたいな！ 甘兎庵とか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_092.gif",
+  "level": 0,
+  "name": "意気込むマヤ",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「チノ」か「マヤ」か「メグ」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "八重歯",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

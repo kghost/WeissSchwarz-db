@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あらあら、しょうがないわね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_086.gif",
+  "level": 1,
+  "name": "ドレス姿のアンリエット",
+  "power": 4000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。\n【永】 他のあなたの、《探偵》か《怪盗》のキャラすべてに、パワーを＋500。\n【起】［手札を1枚控え室に置き、あなたのキャラを2枚【レスト】する］ 相手はあなたの山札を上から1枚見て、山札の上か控え室に置く。あなたは1枚引く。",
+  "trait": [
+    "探偵",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

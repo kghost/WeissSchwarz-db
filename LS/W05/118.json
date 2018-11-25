@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "でも、ぴったり出せたときって\n「今日はいい事あるかも」って思うよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_118.gif",
+  "level": 1,
+  "name": "癒し系 つかさ",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「ツッコミ役 かがみ」すべてに、パワーを＋1000。\n【自】 この能力は1ターンにつき2回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "双子",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

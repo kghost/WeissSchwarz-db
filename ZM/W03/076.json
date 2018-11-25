@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私はラ・ヴァリエール家の長女よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_076.gif",
+  "level": 0,
+  "name": "長女 エレオノール",
+  "power": 1000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのカード名に「ルイズ」を含むキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "ハックス将軍「今日が共和国にとっての最期の日となるであろう！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_086.gif",
+  "name": "Starkiller",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

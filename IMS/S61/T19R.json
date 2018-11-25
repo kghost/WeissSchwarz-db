@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "静香「今の私達の全部を、お客さんに届けに！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/ims_s61/ims_s61_t19r.gif",
+  "name": "FairyTaleじゃいられない",
+  "rarity": "RRR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

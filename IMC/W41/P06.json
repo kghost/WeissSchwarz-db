@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "寒いの…あの子がいるから…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_p06.gif",
+  "level": 3,
+  "name": "サマーアイドルフェス 小梅",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 このカードがアタックした時、クライマックス置場に「お願い！シンデレラ」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋4500。",
+  "trait": [
+    "音楽",
+    "オカルト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

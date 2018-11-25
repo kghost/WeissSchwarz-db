@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お好きなにくきゅーで、大丈夫です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_094.gif",
+  "level": 0,
+  "name": "“約束の指切り”紬",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《サマポケ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "サマポケ",
+    "ヌイグルミ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

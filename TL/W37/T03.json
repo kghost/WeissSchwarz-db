@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あの子…今まで以上に要注意だわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_t03.gif",
+  "level": 0,
+  "name": "“お着替え中”唯",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "風紀委員",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

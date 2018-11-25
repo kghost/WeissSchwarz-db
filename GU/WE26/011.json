@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "もっとハードなの想像してたから大丈夫",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_011.gif",
+  "level": 3,
+  "name": "ハプニング 千夜",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「ハプニング 千夜」を1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "甘兎庵",
+    "和菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

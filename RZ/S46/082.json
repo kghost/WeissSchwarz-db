@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_082.gif",
+  "level": 0,
+  "name": "運命の出会い スバル",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ 他のあなたのカード名に「エミリア」を含むキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「エミリア」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "死",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

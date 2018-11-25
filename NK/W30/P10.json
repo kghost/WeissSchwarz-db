@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "どうぞ、なんなりと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_p10.gif",
+  "level": 0,
+  "name": "聖夜の輝き 万里花",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［（2）］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《鍵》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "鍵",
+    "警察"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

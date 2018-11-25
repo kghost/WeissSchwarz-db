@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ハルオ「なぜいま俺たちが苦しんでいるのか……それは奴に負けたからだ。最後まで戦わず、諦めて逃げ出したからだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_s54/gzl_s54_t18.gif",
+  "level": 1,
+  "name": "ゴジラ完全殲滅の可能性と新戦術について",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《アラトラム号》のキャラを1枚までと《怪獣》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

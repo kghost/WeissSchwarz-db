@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "役目を終えたものは、ただ消えゆく",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_082.gif",
+  "level": 0,
+  "name": "からっぽの存在 ヘカテー",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、相手のキャラが3枚以下なら、このカードのパワーを＋2000。",
+  "trait": [
+    "炎",
+    "巫女"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

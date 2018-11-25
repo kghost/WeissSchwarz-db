@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ルチア「これで終わりだッ、静流ぅ\nううううううううううううううう！！」\n静流「この分からず屋ぁあああああ\nあああああああああああああ！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_047.gif",
+  "level": 2,
+  "name": "ルチアVS静流",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の緑のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

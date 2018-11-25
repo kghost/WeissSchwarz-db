@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "悠二の理屈はわかった。\nでもそうじゃない、悠二の気持ちが聞きたい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_12.gif",
+  "level": 3,
+  "name": "悠二と歩む道 シャナ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのソウルを?1。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋1000。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「ぶつかる想い」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋3000。（ダメージキャンセルは発生する）",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "桜の枝を携える少女",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

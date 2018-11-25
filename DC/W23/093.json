@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "だから、あたしも幽霊を探しに来たって言ってんの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_093.gif",
+  "level": 1,
+  "name": "姉妹の“イノチ” 香澄",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードを思い出にする］ 他のあなたのキャラが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。",
+  "trait": [
+    "霊",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

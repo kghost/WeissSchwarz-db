@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "つかさ、今日も負けてもらうぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_21.gif",
+  "level": 0,
+  "name": "静かな闘志 あたる",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手の前列のキャラが2枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "錦",
+    "ギガント"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

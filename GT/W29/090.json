@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "愚者の……一撃！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_090.gif",
+  "level": 1,
+  "name": "『愚者』の使い手 プリシラ",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのメインフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが1以上なら、このカードを【レスト】する。（クライマックスのレベルは0として扱う）",
+  "trait": [
+    "タロット",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

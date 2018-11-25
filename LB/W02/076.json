@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ずっと笑顔でいられるって言うのが、一番の幸せだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_076.gif",
+  "level": 0,
+  "name": "“メルヘン少女”小毬",
+  "power": 500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“着ぐるみ”クド」すべてに、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

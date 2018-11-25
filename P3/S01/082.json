@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…愛してるよ、ゆかり。どうか、元気でいてほしい…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_082.gif",
+  "level": 0,
+  "name": "岳羽 詠一朗",
+  "power": 1000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 絆／「ゆかり＆イシス」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ゆかり＆イシス」を1枚選び、手札に戻す）",
+  "trait": [
+    "遺言",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

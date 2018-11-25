@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ふふ、なんか懐かしかったね?？昔もこんな風に、よく一緒に隠れてたもんだよ、うんうん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t42.gif",
+  "level": 0,
+  "name": "“幼馴染の意義”青葉モカ",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“クールな友達想い”美竹蘭」すべてに、パワーを＋1000。\n【起】［手札の「“クールな友達想い”美竹蘭」を1枚控え室に置く］ あなたは自分のクロック置場の《Afterglow》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場の下に置く。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

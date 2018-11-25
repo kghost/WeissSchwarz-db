@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ち…よ…た…に・け・と・ら・は、と、ほ・ら・す・て、\nの・は・て・き、ら・と・な・り・は・し・て…と…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_08.gif",
+  "level": 0,
+  "name": "“ふっかつのじゅもん”麻衣",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "メガネ",
+    "仏像"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

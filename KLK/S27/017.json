@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "好代「やだねぇ。一応、毒じゃないものしか入れてませんよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_017.gif",
+  "level": 1,
+  "name": "怪しいコロッケ",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。ターンの終わりに、そのキャラをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "赤点とると外出禁止",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_t08.gif",
+  "level": 0,
+  "name": "クールガール せいら",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000し、このカードのパワーを＋1000。",
+  "trait": [
+    "タロット",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

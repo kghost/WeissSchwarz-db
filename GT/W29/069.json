@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "こうやって４人みんなでお休みとれたの初めてだし、\n今日はいっぱい遊ぼうよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_069.gif",
+  "level": 2,
+  "name": "はずむ気持ち あかり",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) あなたの山札の上から1枚をクロック置場に置き、手札の「少年ケルブレム」を1枚とこのカードを思い出にする］ あなたは自分の控え室の《タロット》のキャラを2枚まで選び、手札に戻し、自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+  "trait": [
+    "タロット",
+    "占い"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

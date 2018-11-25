@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_021.gif",
+  "level": 1,
+  "name": "燃え尽くした命",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。ターンの終わりに、そのキャラをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

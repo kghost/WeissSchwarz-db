@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 4,
+  "flavor": "ゼナス「聖剣シャイニングフォースは、2本で1対となる存在……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_021.gif",
+  "level": 2,
+  "name": "もう一つの聖剣",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたのキャラすべてに、そのターン中、パワーを＋3000し、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

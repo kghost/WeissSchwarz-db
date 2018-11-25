@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "ルイズ「五つの力を司るペンタゴン。\nこの者に祝福を与え 我の使い魔となせ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_023.gif",
+  "name": "契約",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "いないの・・・・いなくなっちゃたの・・・・",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_39.gif",
+  "level": 0,
+  "name": "幼き日のウェンディ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは自分の《竜》のキャラを１枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "CANDY ISLANDの応援、よろしくお願いしまーす！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_060.gif",
+  "level": 2,
+  "name": "CANDY ISLAND 杏",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの、「CANDY ISLAND かな子」と「CANDY ISLAND 智絵里」がいるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたの控え室の「Happy×2 Days」が3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "音楽",
+    "飴"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

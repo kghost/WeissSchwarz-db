@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ライトがこの角度から当たっているから……こうすれば、きっと、魅力がひきたつ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_114.gif",
+  "level": 1,
+  "name": "マルチアーティスト絵理",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】[(2)このカードを【レスト】する] あなたは1枚引く。\n【起】[このカードを【レスト】する] あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを+1000。\n【起】[(2)このカードを【レスト】する] あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "trait": [
+    "音楽",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私も竜奏騎士のはしくれ。やりますよ?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sr_se25/sr_se25_36.gif",
+  "level": 1,
+  "name": "疾風の精霊使い リンナ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

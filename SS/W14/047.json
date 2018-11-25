@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ペニィ！ペニィ！ペニィ積もればお金持ちっと！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_047.gif",
+  "level": 1,
+  "name": "“フレイムヘイズ”マージョリー",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+  "trait": [
+    "炎",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

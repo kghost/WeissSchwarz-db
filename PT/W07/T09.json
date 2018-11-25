@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "眩しいくらい明るくて……\nそれで、風が吹いてる。すごく強い風が",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_t09.gif",
+  "name": "風の記憶",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

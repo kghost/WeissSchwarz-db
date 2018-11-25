@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "今まで集めた悪魔のパーツは、\n私が責任を持って処分する",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_047.gif",
+  "level": 1,
+  "name": "悪魔のパーツ",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

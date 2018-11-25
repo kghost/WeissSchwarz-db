@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s36/fs_s36_066.gif",
+  "level": 2,
+  "name": "“葛藤の中”アーチャー",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋3000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているカード名に「凛」か「アーチャー」を含むキャラを1枚選び、【レスト】する。",
+  "trait": [
+    "サーヴァント",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "……ん？ 何そわそわしてんのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_092.gif",
+  "level": 2,
+  "name": "ポーズを決めて 天音",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "ストライカー",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

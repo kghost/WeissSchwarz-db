@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_040.gif",
+  "level": 0,
+  "name": "バジュラ（小）",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の《バジュラ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "バジュラ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 3,
+  "flavor": "ここで勝利すべきは、我らが奉じた『騎士の道』――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_051.gif",
+  "level": 2,
+  "name": "宝剣と魔槍",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたのカード名に「セイバー」か「ランサー」を含むキャラすべてに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

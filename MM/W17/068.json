@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたしたちは一家そろって食う物にも事欠くありさまだった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_068.gif",
+  "level": 0,
+  "name": "過去の告白 杏子",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたの控え室のクライマックスが3枚以上なら、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "trait": [
+    "魔法",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

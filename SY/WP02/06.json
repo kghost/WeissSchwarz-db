@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "SOS団の活動内容、それは……宇宙人や未来人や超能力者を探し出して一緒に遊ぶことよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_wp02/sy_wp02_06.gif",
+  "name": "ある日の部室",
+  "rarity": "PS",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

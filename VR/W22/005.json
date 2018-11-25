@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "……これ。シンセポリメラーゼ。\nメカノテック社の新しいパイロットプラント",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vr_w22/vr_w22_005.gif",
+  "level": 2,
+  "name": "工場大好き ひまわり",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。",
+  "trait": [
+    "鍵",
+    "工場"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "高槻やよいの、うっうー！\nお料理、さしすせそー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_006.gif",
+  "level": 2,
+  "name": "お料理さしすせそ！ やよい",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのソウルを＋1。",
+  "trait": [
+    "音楽",
+    "カエル"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

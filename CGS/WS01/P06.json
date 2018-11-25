@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "「吽」は口を閉じて出す最後の音だよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_p06.gif",
+  "level": 0,
+  "name": "“吽形”狛犬 しよ子",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、後列の左の枠にこのカードがいて、他のあなたの「“阿形”狛犬 しよ子」がいるなら、他のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "カードゲーム",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "シズル「うちが、ナツキを守ります」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we03/mh_we03_015.gif",
+  "level": 0,
+  "name": "ナツキ＆シズル",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのレベル置場に「マシロ・ブラン・ド・ヴィントブルーム」があるなら、他のあなたの《エレメント》のキャラすべてに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "エレメント",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

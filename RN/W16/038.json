@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "カプとしてはメガネ×八汐先輩の一択だろ常考。\n異論は認めない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_038.gif",
+  "level": 0,
+  "name": "禁断の妄想 フラウ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "科学",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

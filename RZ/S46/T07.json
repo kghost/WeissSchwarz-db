@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "お客様は鬼二人のどちらと仲良くしたいと思うの？\n願うばかりで尻拭いは人任せの赤鬼と、自己犠牲に浸る馬鹿な青鬼と",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_t07.gif",
+  "level": 2,
+  "name": "どちらを選ぶ？ ラム",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "メイド"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

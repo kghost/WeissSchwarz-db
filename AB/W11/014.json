@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "いや、そうさせるのは誰でもない。\n――私たちの力なんだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_014.gif",
+  "level": 0,
+  "name": "カリスマボーカル 岩沢",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、手札に戻し、ターンの終わりに、このカードを思い出にする。",
+  "trait": [
+    "死",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "リオンの父、母「!?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we29/hll_we29_48.gif",
+  "level": 1,
+  "name": "成長の過程",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を見てカード名に「リオン」を含むキャラを1枚までとカード名に「ベル」を含むキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

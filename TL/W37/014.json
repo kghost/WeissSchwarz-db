@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "い…いつのまに脱がせたの…!?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_014.gif",
+  "level": 0,
+  "name": "ティアーユ・ルナティーク",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「金色の闇」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「金色の闇」を1枚選び、手札に戻す）",
+  "trait": [
+    "宇宙人",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

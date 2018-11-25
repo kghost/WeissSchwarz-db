@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "イカサマなしの対等な勝負に持ちこめるということですのね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_060.gif",
+  "level": 0,
+  "name": "ぴこーん！ ステフ",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\n【自】［手札の《ゲーム》のキャラを1枚控え室に置く］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[TRIGGER:Soul][TRIGGER:Soul]なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "ゲーム",
+    "人類種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

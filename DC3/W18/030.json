@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "わたしもね、兄さんが大好き。兄さんとして\nだけじゃなくて、世界中の誰より、一番好き……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_030.gif",
+  "level": 2,
+  "name": "伝えたい気持ち 姫乃",
+  "power": 9000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたのコスト0以下のキャラが、手札から舞台に置かれた時、このカードが【スタンド】しているなら、このカードを【レスト】する。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

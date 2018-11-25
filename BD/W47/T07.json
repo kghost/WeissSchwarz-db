@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "はい。ええっと、う、牛込りみです。\nえと、あのっあ･･･",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_t07.gif",
+  "level": 1,
+  "name": "緊張の自己紹介 りみ",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "チョココロネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

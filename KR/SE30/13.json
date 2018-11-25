@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "桜「リカちゃん！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_13.gif",
+  "level": 0,
+  "name": "“桜の友だち”リカ",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 絆／「幼い頃の桜」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「幼い頃の桜」を1枚選び、手札に戻す）\n【起】［このカードを【レスト】する］ あなたは自分の緑のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "それが私のトイズなんです、でも…捜査の役にも立たなくて…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_p07.gif",
+  "level": 1,
+  "name": "探偵を目指す少女 リリー・アドラー",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「ロンドンでの捜査 シャロ」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "trait": [
+    "探偵",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

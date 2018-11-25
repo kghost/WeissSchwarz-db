@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "小鳥「手伝う！」　瑚太朗「…わかった。よろしくな」\n小鳥「うん！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_086.gif",
+  "level": 0,
+  "name": "“似たもの同士”小鳥",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。",
+  "trait": [
+    "植物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

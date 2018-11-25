@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "自分だってまともに人と会話できないくせに",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_t15.gif",
+  "level": 0,
+  "name": "“松野家の四男”一松",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「松」を含むキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "６つ子",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "マコ「私も、私の家族も、みんな流子ちゃんのこと大好きだよ！」\n流子「ああ、よくわかってるよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_t19.gif",
+  "level": 3,
+  "name": "“親友”流子&マコ",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "服",
+    "家族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

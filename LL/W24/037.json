@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "学校を存続させようっていうのも、\n生徒会長としての義務感やろ！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_037.gif",
+  "level": 0,
+  "name": "友達思い 希",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「音ノ木坂学院３年生 絵里」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「音ノ木坂学院３年生 絵里」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "占い"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

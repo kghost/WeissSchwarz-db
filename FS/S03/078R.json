@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "イリヤスフィール・フォン・アインツベルン",
+  "power": 2500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "マスター",
+    "ホムンクルス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

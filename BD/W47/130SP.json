@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_130sp.gif",
+  "level": 0,
+  "name": "★輝ける場所を探して★市ヶ谷有咲",
+  "power": 2000,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "音楽",
+    "盆栽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

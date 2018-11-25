@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "サプラ?イズ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_030.gif",
+  "level": 3,
+  "name": "“お姉ちゃん”モカ",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。\n【自】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘは他のあなたのカード名に「ココア」か「モカ」を含むキャラの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "パン",
+    "Dear My Sister"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

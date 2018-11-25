@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ジュネスの御曹司にして爽やかイケメン、口を開けばガッカリ王子！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_008.gif",
+  "level": 0,
+  "name": "ガッカリ王子 陽介ちゃん",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは他の自分の《ジュネス》のキャラを1枚選び、控え室に置かれたカードのトリガーアイコンの【ソウルアイコン】1つにつき、そのターン中、ソウルを＋1。",
+  "trait": [
+    "ジュネス",
+    "女装"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

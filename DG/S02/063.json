@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "一つ貸しだからね！　 いつかキッチリ返してもらうから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_063.gif",
+  "level": 0,
+  "name": "“世界で一番強いやつ”エトナ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】このカードが手札から舞台に置かれた時、相手の控え室にクライマックスがないなら、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。",
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

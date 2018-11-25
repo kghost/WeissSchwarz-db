@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "落伍者が、よくおめおめと顔を出せたものよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_066.gif",
+  "level": 0,
+  "name": "間桐の執念 臓硯",
+  "power": 2500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の《マスター》のキャラを1枚選び、そのターン中、パワーを＋2500。",
+  "trait": [
+    "虫",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

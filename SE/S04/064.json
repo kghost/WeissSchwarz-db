@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "思ったより、やるようだな。楽しませてくれる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_064.gif",
+  "level": 0,
+  "name": "ラ・ヴァースの名を継ぐ者リームシアン",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "悪魔",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

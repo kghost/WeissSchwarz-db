@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 4,
+  "flavor": "エルザ「術者が敵と認識したものだけを討つ\nもはや伝説の一つに数えられる超魔法だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_022.gif",
+  "level": 2,
+  "name": "妖精の法律",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの思い出が2枚以下なら、手札からプレイできない。\nあなたは相手の前列のレベル2以下のキャラを3枚まで選び、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

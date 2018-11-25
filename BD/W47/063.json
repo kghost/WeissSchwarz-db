@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "行ってきまーす！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-063_c.gif",
+  "level": 1,
+  "name": "朝の一コマ 沙綾",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【永】 応援 このカードの下にマーカーがあるなら、このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「夜空の下で」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "trait": [
+    "音楽",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

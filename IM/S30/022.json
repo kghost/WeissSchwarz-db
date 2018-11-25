@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-022.gif",
+  "level": 1,
+  "name": "小鳥さん妄想中",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 このカードを思い出にする。\nあなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの思い出置場の「小鳥さん妄想中」の枚数×2000に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

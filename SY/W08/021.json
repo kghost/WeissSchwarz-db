@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ハルヒ「もっとこっちに寄せなさいよ、あたしが濡れるでしょ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_021.gif",
+  "level": 2,
+  "name": "雨の日の帰り道",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 このカードは、あなたの前列のキャラが3枚以上なら、手札からプレイできない。\nあなたのキャラすべてに、そのターン中、パワーを＋2500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

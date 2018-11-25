@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ケガしちゃったんですか？ことりが絆創膏貼ってあげますね♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_057.gif",
+  "level": 1,
+  "name": "“保健室の天使”南 ことり",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のカード名に「ことり」を含むキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "保健室"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ラズベリル「うおー！ すっげー！ 本物の勇者だ！\n超レアキャラ発見！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_106.gif",
+  "level": 1,
+  "name": "風紀委員長ラズベリル＆王女サファイア",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《勇者》かカード名に「主人公」を含むキャラすべてに、パワーを＋500。",
+  "trait": [
+    "委員長",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

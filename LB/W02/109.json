@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "…クラス、一緒だったら良かったのにね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_109.gif",
+  "level": 3,
+  "name": "“イタズラっ子”葉留佳",
+  "power": 9000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《ビー玉》のキャラすべてに、パワーを＋500。\n【永】 大活躍(相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)\n【起】 ［(1)］ そのターン中、このカードは《スポーツ》と《音楽》と《お菓子》を得る。",
+  "trait": [
+    "ビー玉",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

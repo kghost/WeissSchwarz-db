@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "何かご不満がありますか、ご主人様？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_094.gif",
+  "level": 1,
+  "name": "毒舌メイドさん 杏",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "演劇",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

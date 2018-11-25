@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "まさかジブンがアイドルにスカウトされるなんて思わなかったですからね。いまだに実感がないんですよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_028.gif",
+  "level": 0,
+  "name": "“素顔の姿”大和麻弥",
+  "power": 1000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 あなたの舞台のキャラの持つ色の合計が4色以上なら、このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 あなたのメインフェイズの始めに、あなたは自分のクロックの下から1枚と控え室の《Pastel＊Palettes》のキャラを1枚選び、入れ替えてよい。",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

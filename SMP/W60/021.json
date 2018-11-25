@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "俺は、知っていると思った。\nこのまぶしさを、確かに知っている",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_021.gif",
+  "level": 1,
+  "name": "Summer Pockets",
+  "rarity": "U",
+  "side": "W",
+  "text": "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《サマポケ》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《サマポケ》のキャラの枚数に等しい。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

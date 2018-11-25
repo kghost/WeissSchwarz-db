@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "心には恨みや妬みが溜まって、\nいちばん大切な友達さえ傷つけて……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_099.gif",
+  "name": "あたしって、ほんとバカ",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

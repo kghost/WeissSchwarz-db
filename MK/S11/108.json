@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "捜査しましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_108.gif",
+  "level": 0,
+  "name": "まっすぐな少女 シャロ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］ あなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "探偵",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "アリサ「あ、これ、お見舞いの花と」\nすずか「クリスマスプレゼント♪」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_030.gif",
+  "level": 1,
+  "name": "クリスマスパーティー アリサ＆すずか",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

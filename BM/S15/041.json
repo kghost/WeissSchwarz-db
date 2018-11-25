@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_041.gif",
+  "level": 0,
+  "name": "誰でも助ける主人公 阿良々木暦",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、他のあなたの《怪異》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "怪異",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

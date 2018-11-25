@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "葉留佳「じゃじゃーーん！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_031.gif",
+  "level": 1,
+  "name": "“手を繋いで”葉留佳＆佳奈多",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ビー玉",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

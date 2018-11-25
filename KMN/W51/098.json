@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "だめだめ、全然だめ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_098.gif",
+  "level": 0,
+  "name": "みんなを鼓舞する プリンセス",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《フレンズ》のキャラの枚数×500に等しい。",
+  "trait": [
+    "フレンズ",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

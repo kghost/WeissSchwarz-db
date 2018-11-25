@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_015.gif",
+  "level": 1,
+  "name": "救出作戦 サーバル",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(3) 手札の、「紙ヒコーキ」と「かまどの火」を1枚ずつ控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚まで選び、【レスト】し、自分の控え室のカード名に「かばん」を含むキャラを1枚まで選び、手札に戻す。\n【起】［このカードを【レスト】する］ あなたは自分の《フレンズ》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "フレンズ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

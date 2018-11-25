@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "珍しいかは知りませんが、私は好きです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_124.gif",
+  "level": 1,
+  "name": "“風祭学院高校”ちはや",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】このカードが手札から舞台に置かれた時、他のあなたのカード名に「咲夜」を含むキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "お菓子",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

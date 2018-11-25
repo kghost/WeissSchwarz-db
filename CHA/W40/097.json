@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "有宇「甘…このピザソースを隠し味に使うのが、子供の舌には合っていたんだろうな…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_097.gif",
+  "level": 2,
+  "name": "歩未のピザソースオムライス",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "どう？美味しい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_089.gif",
+  "level": 0,
+  "name": "“一緒にご飯”乙坂 歩未",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「“手作り弁当”乙坂 有宇」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“手作り弁当”乙坂 有宇」を1枚選び、手札に戻す）\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「有宇」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "能力者",
+    "ピザソース"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

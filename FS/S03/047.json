@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "―――行くぞ。\nこの一撃、手向けとして受け取るがいい……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_047.gif",
+  "level": 1,
+  "name": "突き穿つ死翔の槍",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

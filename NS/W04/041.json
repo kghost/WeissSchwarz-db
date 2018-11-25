@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ギンガ「スバル、一撃で決められる？」\nスバル「決める！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_041.gif",
+  "level": 1,
+  "name": "キャリバーズ スバル＆ギンガ",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「ディバインバスター」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1000。\n【起】［(1)］ あなたは自分の《メカ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

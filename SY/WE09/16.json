@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたし達SOS団はもっと面白い事をするわよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_we09/sy_we09_16.gif",
+  "level": 0,
+  "name": "世界を変える少女 ハルヒ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの《SOS団》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "団長",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

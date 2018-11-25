@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "小鳥「あたしも手伝うよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_p08.gif",
+  "level": 0,
+  "name": "交わった心 篝＆小鳥",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "鍵",
+    "植物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

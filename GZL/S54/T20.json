@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "ハルオ「俺たちは何のために、何処へ向かうのか？闇の中、仲間を見捨ててまで命を繋ぐ惨めさを、ただ堪え忍ぶだけなのか。なぜ俺たちは生きている？ 何故……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_s54/gzl_s54_t20.gif",
+  "name": "恒星間移民船アラトラム号",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

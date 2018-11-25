@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あなたの心を\n私の青でいっぱいに満たしてしまいましょう――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_p06.gif",
+  "level": 0,
+  "name": "メイド服の海未",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

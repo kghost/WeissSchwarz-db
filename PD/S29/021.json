@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "恋愛依存したこの部屋で二人\n朝を迎えよう。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s29/pd_s29_021.gif",
+  "level": 1,
+  "name": "エンヴィキャットウォーク",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたの前列の《音楽》のキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

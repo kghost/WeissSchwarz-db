@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "インパクトォォォ！これ！ これよお！\nこれこそワシが求めとったインパクトじゃ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_042.gif",
+  "level": 1,
+  "name": "長深田 澄夫",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(3) あなたのキャラを2枚【レスト】する］ あなたのキャラすべてに、そのターン中、パワーを＋3000。",
+  "trait": [
+    "お菓子",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

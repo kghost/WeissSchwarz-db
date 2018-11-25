@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "チャン「フンフンフンフンフンフン」\nチョイ「キラーんでやんす」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_003.gif",
+  "level": 0,
+  "name": "チャン＆チョイ",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの、《先生》か《暗黒街》か《不良》のキャラすべてに、パワーを＋1000。\n【自】 チェンジ ［このカードをクロック置場に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「正義の教育者キム」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "武器",
+    "暗黒街"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

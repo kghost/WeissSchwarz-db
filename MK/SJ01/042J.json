@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "それは愛の花?♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_042.gif",
+  "level": 3,
+  "name": "“お”花畑のコーデリア",
+  "power": 1225,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から2枚までを、控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋3000。\n【自】 あなたのアンコールステップの始めに、このカードを思い出にする。",
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あ、そっか。ふたつあるんだから、\nお願い、ふたつあっていいんだよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_069.gif",
+  "level": 2,
+  "name": "“ふたつのお願いごと”小毬",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋1000。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

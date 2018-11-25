@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "姫様の命を受けて誠心誠意、\n勇者様がご帰還される方法を探していたでありますが！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_29.gif",
+  "level": 1,
+  "name": "主席研究士 リコ",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたは自分のカード名に「ミルヒ」を含むキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。",
+  "trait": [
+    "動物",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

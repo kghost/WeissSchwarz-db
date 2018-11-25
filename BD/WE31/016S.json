@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "うん！ もちろん前の衣装も大好きな宝物だよ！ これでまた１つ宝物が増えちゃった感じっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_016s.gif",
+  "level": 0,
+  "name": "“カラフルポッピン！”戸山香澄",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードの下にマーカーがあるなら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
+  "trait": [
+    "音楽",
+    "Poppin’Party"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

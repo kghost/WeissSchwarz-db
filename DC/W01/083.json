@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "はい、そうでございますが、なにか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_083.gif",
+  "level": 0,
+  "name": "瀬場",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他の《人形》のあなたのキャラすべてに、パワーを＋500。\n【自】 絆／「ピロスを抱くアリス」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ピロスを抱くアリス」を1枚選び、手札に戻す）",
+  "trait": [
+    "執事",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

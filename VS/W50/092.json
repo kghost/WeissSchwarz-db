@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "なら私と一緒にやってみますか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_092.gif",
+  "level": 1,
+  "name": "リンネとの出会い ジル",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「リンネ」を含むキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 アンコール ［手札の青のカードを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "格闘",
+    "トレーナー"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

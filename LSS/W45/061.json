@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "だって……私が泣いたら、みんな落ち込むでしょ？\n今まで頑張ってきたのに、せっかくスクールアイドルやってくれたのに……\n悲しくなっちゃうでしょ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_061.gif",
+  "level": 1,
+  "name": "素直なことば",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。\nあなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "我がもとに来よ、黒き炎の大地の守護者",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_011.gif",
+  "level": 3,
+  "name": "キャロ＆ヴォルテール",
+  "power": 10000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(4)］ あなたのクライマックス置場に「龍騎招来」が置かれた時、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラすべてを、ストック置場に置く。",
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

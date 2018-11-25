@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "はやて「わたし……やっぱ、自分の部隊をもちたいんよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_094.gif",
+  "level": 1,
+  "name": "協力してくれへんかな？",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

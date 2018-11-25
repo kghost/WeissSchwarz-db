@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_045spma.gif",
+  "level": 2,
+  "name": "“ハードストローク”宇田川巴",
+  "power": 500,
+  "rarity": "SPM",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

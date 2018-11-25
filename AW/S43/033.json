@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "はーい以上でーす。お疲れさまー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_033.gif",
+  "level": 1,
+  "name": "《時計の魔女》ライム・ベル",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋2000。\n【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のレベル1以下の、《アバター》か《ネット》のキャラを1枚選び、舞台の好きな枠に置き、自分の山札の上から1枚を、クロック置場に置く。",
+  "trait": [
+    "アバター",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

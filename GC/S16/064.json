@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "この歌は、もう違うの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_064.gif",
+  "level": 0,
+  "name": "魂の歌声 いのり",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《葬儀社》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "音楽",
+    "葬儀社"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

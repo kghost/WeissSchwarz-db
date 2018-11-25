@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "先輩として なのは",
+  "power": 5000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの、《魔法》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

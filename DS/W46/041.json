@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "兄さんの驚いた顔が見れたので、とりあえず、溜飲が下がりました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_041.gif",
+  "level": 1,
+  "name": "お兄さん想いの鳴",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたのクロック置場に「最愛の妹 鳴」があるなら、そのターン中、このカードのパワーを＋4000。\n【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "trait": [
+    "家族",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "セイクリッドハート！セーットアーップ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_063.gif",
+  "level": 1,
+  "name": "セイクリッド・ハート",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたのカード名に「ヴィヴィオ」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室の『助太刀』を持つキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

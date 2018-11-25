@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ナスターシャ「あれは封印解除に不可欠なれど、人の心を惑わす力」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_026.gif",
+  "level": 2,
+  "name": "神獣鏡",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手の前列のレベル2以下のキャラを1枚選び、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

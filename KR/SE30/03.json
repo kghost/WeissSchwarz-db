@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "すみやかに輪廻の輪に乗るように",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_03.gif",
+  "level": 3,
+  "name": "“輪廻への導き”りんね",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ここから先は死神の仕事だ!!」があるなら、相手は自分の山札の上から5枚を公開し、このカードのバトル相手と同じカード名のキャラを1枚選び、クロック置場に置き、その山札をシャッフルし、あなたはそのバトル相手をクロック置場に置いてよい。",
+  "trait": [
+    "死神",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

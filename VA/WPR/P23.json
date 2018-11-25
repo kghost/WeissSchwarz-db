@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "「おはよう」と「笑顔」は元気の素！\n「カラオケ」と「カフェイン」は命の素！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p23.gif",
+  "level": 0,
+  "name": "“オヤヂ魂”たまち露",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル2以上のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "ビジュアルアーツ",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

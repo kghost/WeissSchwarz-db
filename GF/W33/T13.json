@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "お互いに刺激しあいましょうね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_t13.gif",
+  "level": 1,
+  "name": "運動合宿 椎名心実",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ガール",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

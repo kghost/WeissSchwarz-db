@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "シャッターチャンス到来ね?。用意はいい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_t01.gif",
+  "level": 0,
+  "name": "アミューズメント 望月エレナ",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "ガール",
+    "カメラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

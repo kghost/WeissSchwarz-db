@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_009s.gif",
+  "level": 3,
+  "name": "堂々たるリングイン アインハルト",
+  "power": 9000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《覇王流》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。\n【自】［手札のキャラを2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手をクロック置場に置く。",
+  "trait": [
+    "格闘",
+    "覇王流"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

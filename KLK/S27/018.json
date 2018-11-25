@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "流子「マコ！あぶない！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_018.gif",
+  "level": 2,
+  "name": "古典的な罠",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

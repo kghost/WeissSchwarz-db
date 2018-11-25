@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "その為に私達は、三年間『スタァライト』を……同じ演目を上演するんだから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_t18.gif",
+  "level": 1,
+  "name": "『スタァライト』への思い 星見 純那",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋4000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "レヴュー",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

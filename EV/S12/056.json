@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私以外、誰も乗れないのに……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_056.gif",
+  "level": 1,
+  "name": "納得いかないアスカ",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "パイロット",
+    "軍隊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

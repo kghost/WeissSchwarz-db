@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "よ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_057.gif",
+  "level": 2,
+  "name": "みんなに挨拶 しんのすけ",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分の、《家族》か《幼稚園》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "家族",
+    "幼稚園"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

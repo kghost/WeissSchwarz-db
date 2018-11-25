@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "アデル「もう一度言う。お前は一人なんかじゃない」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_023.gif",
+  "name": "オレを信用しろ！",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

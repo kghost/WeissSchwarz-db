@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "えっと、気をつけてね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-065_c.gif",
+  "level": 1,
+  "name": "チョココロネを手渡す沙綾",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクロックが0枚なら、このカードはアタックできない。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "こころ「次はどこでライブしようかしら」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t75.gif",
+  "name": "商店街でゲリラライブ！",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "旗艦 大淀、全力出撃。参りましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-017.gif",
+  "level": 1,
+  "name": "大淀型軽巡1番艦 大淀改",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "?",
+  "trait": [
+    "艦娘",
+    "軽巡洋艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

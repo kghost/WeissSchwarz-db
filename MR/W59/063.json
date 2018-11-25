@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "いつだって上手く言葉が出てこない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_063.gif",
+  "level": 3,
+  "name": "五十鈴 れん",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 前列にこのカードがいるなら、あなたの《魔法》のキャラすべてに、パワーを＋1500。\n【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「君と、ここで」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたのクロックの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "魔法",
+    "マギア"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

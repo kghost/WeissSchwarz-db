@@ -1,0 +1,18 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "level": 0,
+  "name": "“恋になりたいAQUARIUM”国木田 花丸",
+  "power": 2500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

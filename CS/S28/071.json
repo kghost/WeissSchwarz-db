@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "とーちゃんはとーちゃんなんだよ！この匂いわかるでしょ！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_071.gif",
+  "level": 2,
+  "name": "ひろしの靴",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の、《家族》か《幼稚園》のキャラを1枚選び、そのターン中、パワーを＋4500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

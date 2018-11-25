@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "白鳥は　哀しからずや　空の青\nうみのあをにも　染まずただよふ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_048.gif",
+  "level": 1,
+  "name": "“ふたりの秘密”美魚",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「もう一人の“西園 美魚” 美鳥」を1枚選び、舞台のキャラのいない枠に置く。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

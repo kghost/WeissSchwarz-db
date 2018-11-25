@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "あたしは、すごく嬉しかったんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_62.gif",
+  "level": 2,
+  "name": "ごめんね。そして、ありがとう",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたの《生徒会》のキャラがいないなら、手札からプレイできない。\nあなたは自分のクロックを1枚選び、手札に戻す。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "千夜「ココアちゃんが牛みたいに」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_063.gif",
+  "level": 1,
+  "name": "もーう！もーう!!",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたのカード名に「ココア」を含むキャラがいないなら、手札からプレイできない。\nあなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

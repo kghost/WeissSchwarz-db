@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "愛ちゃん、やさしく大きな声、出してみて？\nボリュームは大きく、ニュアンスはやわらかく",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_118.gif",
+  "level": 0,
+  "name": "合同レッスン絵理",
+  "power": 2500,
+  "rarity": "RE",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】 [他のあなたのキャラを2枚【レスト】する] あなたは自分のカード名に「愛」を含むキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

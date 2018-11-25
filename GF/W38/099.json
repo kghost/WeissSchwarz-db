@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "こら、何をしている。自分の不始末だろう、\nちゃんと後片付けを手伝いたまえ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_099.gif",
+  "name": "不測の事態",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "メールの方が…気楽……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_037.gif",
+  "level": 0,
+  "name": "“重度のケータイ依存症”桐生 萌郁",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《ラボメン》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ラボメン",
+    "ケータイ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "遅いですよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_007.gif",
+  "level": 2,
+  "name": "大切な待ち合わせ まひる",
+  "power": 7000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場のカード名に「まひる」を含むキャラが2枚以上なら、このカードのパワーを＋1000し、ソウルを＋1。\n【自】 このカードとバトル中のキャラが【リバース】した時、あなたのクライマックス置場に「幸せになってね」があるなら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "たとえ話",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

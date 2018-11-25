@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "クリスマスといえば?、クリスマスケーキだよね♪　今年はどんなケーキにしようかな？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_044.gif",
+  "level": 1,
+  "name": "“クリスマスデート”南 ことり",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「口溶けスイーツ♪」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「素敵な初夢」か「その場しのぎ」を1枚選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

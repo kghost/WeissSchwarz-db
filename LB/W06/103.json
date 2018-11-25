@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "うん、運動とか苦手だけど、がんばってなんかでカバーするよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_103.gif",
+  "level": 0,
+  "name": "“フレンドリー”小毬",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたのカード名に「理樹」を含むキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000し、《スポーツ》を得る。",
+  "trait": [
+    "お菓子",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

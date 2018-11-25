@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ありがとう、ユイちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_se26/sao_se26_03.gif",
+  "level": 0,
+  "name": "憩いの散策 アスナ",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【自】 絆／「無邪気で奔放 ユウキ」 [(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「無邪気で奔放 ユウキ」を1枚選び、手札に戻す）",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

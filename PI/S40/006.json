@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "とにかく何でもいいから都合よく報告なさい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_006.gif",
+  "level": 0,
+  "name": "“悩ましい状況”ルヴィア",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《宝石》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "宝石",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

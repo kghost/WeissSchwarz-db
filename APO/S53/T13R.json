@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "遠からん者は音にも聞け！近くば寄って目にも見よ！我が名はシャルルマーニュが十二勇――へぅ！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_t13r.gif",
+  "level": 0,
+  "name": "“真名”黒のライダー",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "サーヴァント",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

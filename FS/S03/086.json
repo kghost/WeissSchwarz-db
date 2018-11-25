@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "――――ねえ、お話は終わり？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_086.gif",
+  "level": 3,
+  "name": "イリヤ＆バーサーカー",
+  "power": 9000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのソウルを?1。\n【自】 このカードがアタックした時、クライマックス置場に「冬の森」があるなら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］",
+  "trait": [
+    "マスター",
+    "サーヴァント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "三角がおにぎりで、丸いとおむすびです\n…逆だったかも知れません",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_091.gif",
+  "level": 1,
+  "name": "“浮世離れ”美魚",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトルしているこのカードが【リバース】した時、このカードが《メガネ》を持つなら、このカードを思い出にする。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "後はこれを…　あ、持ってくれるの？　うん、ありがとう。じゃ、行こっか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_064.gif",
+  "level": 1,
+  "name": "品行方正 加賀美茉莉",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に赤のクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の赤のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ガール",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

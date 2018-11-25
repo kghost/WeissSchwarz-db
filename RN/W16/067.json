@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ふーふーふー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_067.gif",
+  "level": 0,
+  "name": "よいら?いき祭り 昴",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "科学",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

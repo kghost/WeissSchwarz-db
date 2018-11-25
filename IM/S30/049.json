@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "新しい幕を開けよう NEVER END IDOL!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-049.gif",
+  "name": "M@STERPIECE",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

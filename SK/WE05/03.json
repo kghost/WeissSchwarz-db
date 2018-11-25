@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "おお、この芳醇なアールグレイの香り……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we05/sk_we05_03.gif",
+  "level": 2,
+  "name": "ブレインコロニー レオパルド",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのレベル置場に「最後の希望 秋葉」があるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "コロニー",
+    "メカ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

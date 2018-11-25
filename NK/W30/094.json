@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あんたは水着が見たいだけでしょ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_094.gif",
+  "level": 1,
+  "name": "水着のるり",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "メガネ",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

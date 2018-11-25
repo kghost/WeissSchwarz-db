@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ハロー★",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_107.gif",
+  "level": 0,
+  "name": "まぐろ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "―",
+  "trait": [
+    "ぷよ",
+    "けん玉"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

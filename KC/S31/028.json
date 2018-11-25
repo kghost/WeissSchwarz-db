@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "暁の水平線に勝利を刻んだ提督に贈られる「証」。\n資材、または複数集めて改装設計図と交換することも可能です。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-028.gif",
+  "level": 1,
+  "name": "勲章",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て「勲章」を3枚まで選び、控え室に置き、自分の山札を見て「改装設計図」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

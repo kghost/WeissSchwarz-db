@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "心なんてそう簡単に変わるものじゃないってコトだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_023.gif",
+  "level": 2,
+  "name": "“マスターに教わった考え”芽亜",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「あたたかい街“彩南”」が置かれた時、前列にこのカードがいるなら、あなたは相手の手札を見て、自分の、《変身》か《家事》のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋1。",
+  "trait": [
+    "変身",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

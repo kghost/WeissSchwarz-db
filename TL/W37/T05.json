@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "だって私は知ってるもの、本当のあの人を",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_t05.gif",
+  "level": 1,
+  "name": "“真夏のプールサイド”唯",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "風紀委員",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

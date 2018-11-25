@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "最初は苦かったお前のお茶も、今ではこんなにおいしいと感じる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_096.gif",
+  "level": 2,
+  "name": "揃の紅茶",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\nあなたは自分の《服》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

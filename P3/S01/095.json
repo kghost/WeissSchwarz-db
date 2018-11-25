@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 8,
+  "flavor": "しょ、処刑するっ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_095.gif",
+  "level": 3,
+  "name": "処刑",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のクロックすべてを、手札に戻す。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

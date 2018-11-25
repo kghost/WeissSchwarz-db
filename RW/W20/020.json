@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "…ほ、本気？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_020.gif",
+  "level": 1,
+  "name": "“一番の理由”小鳥",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "植物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

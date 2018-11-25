@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ええ…厄介ですよ、この彩南は…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_008.gif",
+  "level": 0,
+  "name": "“また、今までのように”ヤミ",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが控え室から舞台に置かれた時、そのターン中、このカードのソウルを＋1。\n【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“リト抹殺指令”ヤミ」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）",
+  "trait": [
+    "変身",
+    "たいやき"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

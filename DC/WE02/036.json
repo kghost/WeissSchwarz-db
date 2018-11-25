@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "卒業しても忘れないよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_036.gif",
+  "name": "駆け巡る思い出…",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

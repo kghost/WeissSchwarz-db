@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "今年最後の学校イベント、クリスマス?。終業式の後でもこんなに女の子が…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_104.gif",
+  "level": 2,
+  "name": "ミニスカサンタ 望月エレナ",
+  "power": 10000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+  "trait": [
+    "ガール",
+    "コスプレ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

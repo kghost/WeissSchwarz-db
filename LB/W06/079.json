@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "俺だって、おまえたちと居てぇよ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_079.gif",
+  "level": 1,
+  "name": "別れを惜しむ 理樹＆恭介",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「僕らはリトルバスターズ」が置かれた時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。\n【自】［(1) このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

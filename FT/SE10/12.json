@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "たとえ姿が見えなくとも、たとえ遠く離れていようと、\nワシはいつでもおまえを見てる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_12.gif",
+  "level": 2,
+  "name": "ラクサスの“じーじ”マカロフ",
+  "power": 3500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【永】 記憶 あなたの思い出置場の《魔法》のキャラが2枚以上なら、他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "魔法",
+    "マスター"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ひより「えーっと普通の四コマ漫画とか……\nすっ好きなゲームキャラ同士の……恋愛漫画とか……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_018.gif",
+  "level": 1,
+  "name": "アウトローひより",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "オタク",
+    "漫画"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

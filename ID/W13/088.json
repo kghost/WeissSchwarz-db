@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "このバスに乗ればよいのでございましょうか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w13/id_w13_088.gif",
+  "level": 0,
+  "name": "異教地への伝道者 オルソラ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "魔法",
+    "シスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "だららららら\nばーん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_t16.gif",
+  "level": 2,
+  "name": "“お友達紹介”紬",
+  "power": 6500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "サマポケ",
+    "ヌイグルミ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

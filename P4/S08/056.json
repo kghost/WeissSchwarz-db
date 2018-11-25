@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "あのさ…僕は人を“入れただけ”。殺してないって",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_056.gif",
+  "level": 2,
+  "name": "ゲーム感覚 足立",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(3)］ このカードがアタックした時、クライマックス置場に「世界の意思」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、山札の上に置く。",
+  "trait": [
+    "警察",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

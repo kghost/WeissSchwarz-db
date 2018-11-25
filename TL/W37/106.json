@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "そか？ならいいけど",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_106.gif",
+  "level": 1,
+  "name": "ぷちナナ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《宇宙人》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "宇宙人",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

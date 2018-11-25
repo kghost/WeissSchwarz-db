@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あれ！？美味しい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_we22/nk_we22_32.gif",
+  "level": 0,
+  "name": "１万回に１回のキセキ 小咲",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《お菓子》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
+  "trait": [
+    "お菓子",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

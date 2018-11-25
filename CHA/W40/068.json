@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "めんどくせー、全員片づけるか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_068.gif",
+  "level": 1,
+  "name": "“憑依”美砂",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "能力者",
+    "死"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

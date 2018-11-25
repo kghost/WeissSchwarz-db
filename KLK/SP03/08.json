@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "我が行動に一点の曇り無し！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_sp03/klk_sp03_08.gif",
+  "level": 2,
+  "name": "迷いなき志 皐月",
+  "power": 6500,
+  "rarity": "PS",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\n【自】 相手のアタックフェイズの始めに、あなたの控え室に「因縁の戦い」があるなら、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "服",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

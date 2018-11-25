@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 3,
+  "flavor": "遊びは終わりだ！\n泣け！　叫べ　そして　死ね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_022.gif",
+  "level": 2,
+  "name": "禁千弐百拾壱式・八稚女",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。あなたはそのキャラの正面のレベル2以下のキャラを1枚選び、手札に戻す。相手は自分のストックの上から1枚を、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

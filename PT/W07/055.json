@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "なんで撃てなくなっちまったのさ…………アンタ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_055.gif",
+  "level": 2,
+  "name": "“第三のファントム”ドライ",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“無敵のファントム”ドライ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "武器",
+    "時計"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

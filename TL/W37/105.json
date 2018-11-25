@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "どしたのリト―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_105.gif",
+  "level": 0,
+  "name": "ぷちララ",
+  "power": 500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《宇宙人》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "宇宙人",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

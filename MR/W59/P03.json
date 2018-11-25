@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "―みんながワクワクして待っている年に一度の特別な日―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_p03.gif",
+  "level": 2,
+  "name": "“あたたかいクリスマス”まどか",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+  "trait": [
+    "魔法",
+    "アビリティ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

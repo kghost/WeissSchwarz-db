@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "恭介「鈴は完全に魔球を会得したようだな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_p14.gif",
+  "level": 1,
+  "name": "“ライジングニャットボール”鈴",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの、《動物》か《スポーツ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "動物",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

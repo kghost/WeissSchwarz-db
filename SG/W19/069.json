@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あんまりガチガチだと、\nそのうちポッキリいっちゃいそうだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_069.gif",
+  "level": 2,
+  "name": "自由奔放な奏",
+  "power": 9500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたの手札が3枚以下なら、このカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

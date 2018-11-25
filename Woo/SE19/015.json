@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/woo_se19/woo_se19_015.gif",
+  "level": 1,
+  "name": "三娘の礼",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の山札を上から4枚まで見て、《謎》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

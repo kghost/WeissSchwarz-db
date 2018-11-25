@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "そうじっ、おそうじっ、おおそうじ?っ♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_045.gif",
+  "level": 1,
+  "name": "お掃除大すき♪",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを2枚まで選び、【スタンド】する。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

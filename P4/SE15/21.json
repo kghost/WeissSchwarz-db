@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "王子様 私をリングに連れてって！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_21.gif",
+  "level": 1,
+  "name": "「難攻不落の“黒”雪姫」天城 雪子",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《扇子》か《和服》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "扇子",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "誰かがやらなくちゃいけないんだよ……誰かが自分の手を血で染めないと……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_065.gif",
+  "level": 1,
+  "name": "“命果てるまで”ベルトルト",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《兵団》か《巨人》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "巨人",
+    "兵団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "心意の力です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_104.gif",
+  "level": 0,
+  "name": "ちびフーコ",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+  "trait": [
+    "ネット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

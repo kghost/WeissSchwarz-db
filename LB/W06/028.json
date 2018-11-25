@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "自分のこと、見てくれるってやっぱりいいね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_028.gif",
+  "level": 0,
+  "name": "私服の葉留佳",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《委員長》のキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の《ビー玉》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ビー玉",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_051.gif",
+  "level": 1,
+  "name": "ツインテイルの少女 八九寺真宵",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「噛み噛みの少女」があるなら、そのターン中、このカードのパワーを＋6000。その後、アンコールステップの始めに、このカードを山札に戻す。その山札をシャッフルする。\n【自】 経験 このカードのバトル相手でレベル1以上のキャラが【リバース】した時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはそのキャラを山札の上に置いてよい。",
+  "trait": [
+    "怪異",
+    "霊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

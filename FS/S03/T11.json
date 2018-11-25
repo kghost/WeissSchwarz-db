@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "そんな余分なプライドはな、\nそこいらの狗にでも食わせてしまえ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_t11.gif",
+  "level": 0,
+  "name": "赤い騎士アーチャー",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "サーヴァント",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

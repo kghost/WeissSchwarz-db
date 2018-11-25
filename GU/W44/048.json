@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "悔しいが悪くない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_048.gif",
+  "level": 0,
+  "name": "“ココア風呂”リゼ",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“姉オーラ？”ココア」すべてに、パワーを＋1000。\n【自】 絆／「“姉オーラ？”ココア」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“姉オーラ？”ココア」を1枚選び、手札に戻す）",
+  "trait": [
+    "ラビットハウス",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

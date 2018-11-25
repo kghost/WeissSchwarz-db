@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "いいか八汐、いいこと教えてやる。\n頭が真っ白になったときは、とりあえず笑ってごまかせ。\nこれ豆知識な",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_039.gif",
+  "level": 0,
+  "name": "長深田 充彦",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。",
+  "trait": [
+    "科学",
+    "先生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

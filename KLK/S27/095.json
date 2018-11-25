@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "皐月「その服の名は、純潔」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_095.gif",
+  "level": 1,
+  "name": "純潔",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を上から4枚まで見て、《服》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "またお会いしましょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_052.gif",
+  "level": 2,
+  "name": "いつもの別れ 八九寺真宵",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［(1) 手札を1枚クロック置場に置く］ このカードがアタックした時、クライマックス置場に「かみましたっ！」があるなら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "怪異",
+    "霊"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "『僕たち結婚します！』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_023.gif",
+  "level": 2,
+  "name": "この良き日に、真心こめて。",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 このカードは、あなたの黄のキャラが1枚以下なら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "彼方より来たれ、ヤドリギの枝\n銀月の槍となりて打ち貫け\n石化の槍！　ミストルティンッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_080.gif",
+  "name": "石化の槍 ミストルティン",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Draw]：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

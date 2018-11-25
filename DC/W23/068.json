@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "夏休みに入ってから、\n思いも寄らないことばかり起こりますね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_068.gif",
+  "level": 1,
+  "name": "楽しい時間 音夢",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "ナース"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

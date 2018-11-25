@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ガチョウを探して下さい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_019.gif",
+  "level": 1,
+  "name": "“い”としい人のため ケン",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 あなたのクライマックス置場に「ケンとジャネット！」が置かれた時、あなたは自分の、手札か控え室の「“す”きな人のため ジャネット」を1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードは次の能力を得る。『【自】［あなたの舞台の「“す”きな人のため ジャネット」を1枚とこのカードを思い出にする］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。』",
+  "trait": [
+    "愛",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

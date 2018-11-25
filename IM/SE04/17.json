@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "そうだ。あたしにしかできない歌い方じゃないとママの伝説なんて、越えられない！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_se04/im_se04_17.gif",
+  "level": 2,
+  "name": "“限界にチャレンジ”愛",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(2)］ あなたのクライマックス置場に「ALIVE」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードを控え室に置き、自分の控え室の「アイドルとしての才能 愛」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

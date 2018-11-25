@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ハルヒ「萌えよ萌え、いわゆる一つの萌え要素」　",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_041.gif",
+  "level": 0,
+  "name": "バニーガール ハルヒ＆長門＆みくる",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

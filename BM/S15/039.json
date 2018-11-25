@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_039.gif",
+  "level": 0,
+  "name": "元バスケ部のエース 神原駿河",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分のクライマックス置場のクライマックスを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "怪異",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

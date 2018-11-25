@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "flavor": "みくる(大)「これからあなたを導くのはわたしの役目です」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_we09/sy_we09_12.gif",
+  "name": "導く役目",
+  "rarity": "C",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Treasure]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "trigger": [
+    "TREASURE"
+  ],
+  "type": "Climax"
+}

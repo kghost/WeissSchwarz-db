@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_076.gif",
+  "level": 2,
+  "name": "鏡音リン“雨”",
+  "power": 8500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「鏡音八八花合戦」があるなら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが1以上なら、あなたは2枚引く。（クライマックスのレベルは0として扱う）",
+  "trait": [
+    "音楽",
+    "和服"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_023.gif",
+  "level": 1,
+  "name": "“複雑な想い”ティアーユ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "宇宙人",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

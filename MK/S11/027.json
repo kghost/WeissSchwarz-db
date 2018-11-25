@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "見ないでぇぇぇぇぇ?っ！！！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_027.gif",
+  "level": 1,
+  "name": "恥ずかしがり屋 エリー",
+  "power": 4000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 このカードがアタックした時、クライマックス置場に「トライアセンド」があるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?2000。",
+  "trait": [
+    "探偵",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

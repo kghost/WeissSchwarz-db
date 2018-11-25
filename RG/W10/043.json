@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "参加できる部員は私達しか…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_043.gif",
+  "level": 1,
+  "name": "水泳部 湾内",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《超能力》のキャラすべてに、次の能力を与える。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたは相手の山札を上から1枚見て、山札の上か下に置く。』",
+  "trait": [
+    "超能力",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

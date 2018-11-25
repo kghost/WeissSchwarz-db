@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "急にスケッチブックが欲しいなんて、ういったらどうしたのかな？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_p01.gif",
+  "level": 1,
+  "name": "“きっと喜んでくれるよね”いろは",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。 【自】 このカードがリバース＠した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
+  "trait": [
+    "魔法",
+    "スキル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

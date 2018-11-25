@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お前が命懸けで頑張って、この虎の放火を\n十秒遅らせてくれてなかったら、僕は間に合わなかった\nそしたら僕は、きっと泣いてたぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_091.gif",
+  "level": 0,
+  "name": "物語られた形姿 阿良々木暦",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ 他のあなたの《怪異》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "怪異",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

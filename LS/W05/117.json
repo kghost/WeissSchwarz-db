@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "毎回ささいなコトで、ようこんなに盛り上がれるわよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_117.gif",
+  "level": 1,
+  "name": "ツッコミ役 かがみ",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「癒し系 つかさ」すべてに、パワーを＋1000。\n【起】［あなたの《双子》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "双子",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

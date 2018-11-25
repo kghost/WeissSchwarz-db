@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_092.gif",
+  "level": 1,
+  "name": "ハッキング中 双葉",
+  "power": 6000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードは、あなたの、《怪盗》か《コーヒー》のキャラが2枚以下なら、手札からプレイできない。",
+  "trait": [
+    "怪盗",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

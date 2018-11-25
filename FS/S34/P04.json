@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私の方針には絶対服従でOK？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_p04.gif",
+  "level": 0,
+  "name": "たまの息抜き 凛",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 0,
+  "text": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「凛」を含むキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "マスター",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

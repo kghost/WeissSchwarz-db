@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "かがみ「つまみ食いしちゃダメだからね！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_026.gif",
+  "level": 2,
+  "name": "こなた＆かがみ＆つかさ",
+  "power": 8000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《メガネ》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【起】［あなたの《メガネ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "オタク",
+    "双子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

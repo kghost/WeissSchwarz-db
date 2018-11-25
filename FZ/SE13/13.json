@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "フハハハ…この胸板に世界地図を乗せるとは\nウム、実に、小気味良い",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_se13/fz_se13_13.gif",
+  "level": 0,
+  "name": "世界征服の野望 ライダー",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

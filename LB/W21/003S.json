@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "“リトルバスターズ”小毬",
+  "power": 2000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分のレベル1以下のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。",
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

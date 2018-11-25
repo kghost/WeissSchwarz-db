@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "しっかりしろ！ここから出ないと、僕らみんな死ぬぞ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_014.gif",
+  "level": 2,
+  "name": "“心の呼びかけ”アルミン",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《兵団》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードのトリガーチェックでクライマックスがでた時、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

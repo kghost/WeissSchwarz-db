@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "文句は後で聞いてやるから、許せ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_085.gif",
+  "level": 2,
+  "name": "綺礼＆ギルガメッシュ",
+  "power": 9000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "マスター",
+    "サーヴァント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

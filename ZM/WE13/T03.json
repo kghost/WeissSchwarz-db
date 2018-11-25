@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_t03.gif",
+  "level": 1,
+  "name": "友に赦された少女 タバサ",
+  "power": 4000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「わたしのイーヴァルディ」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、このカードのパワーを＋1500。\n【自】 チェンジ ［(3) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「勇者の“騎士” タバサ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "魔法",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

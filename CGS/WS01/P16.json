@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ヴァイスシュヴァルツ・イズ・わんダフル！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_p16.gif",
+  "level": 1,
+  "name": "パグ犬 しよ子",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「柴犬 しよ子」と「プードル犬 しよ子」がいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "カードゲーム",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

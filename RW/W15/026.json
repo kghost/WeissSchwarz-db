@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "受けろ、マッハナックル・コンマゼロ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_026.gif",
+  "level": 2,
+  "name": "マッハナックル・コンマゼロ",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋2。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

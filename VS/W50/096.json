@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "私はみなさんと戦いたい。そこで、証明したいんです。自分の力を",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_096.gif",
+  "level": 2,
+  "name": "挑戦の申し出",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードは、あなたの青のキャラがいないなら、手札からプレイできない。\nあなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かし、そのターン中、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

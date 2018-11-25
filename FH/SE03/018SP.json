@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "サーヴァントなら、私が倒します",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_017sp.gif",
+  "level": 0,
+  "name": "バゼット・フラガ・マクレミッツ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの控え室のカードが6枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "マスター",
+    "男装"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

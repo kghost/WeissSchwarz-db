@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "まったく。わかってるのかしら、あの超鈍感男はっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_054.gif",
+  "level": 0,
+  "name": "エリカ・ムラサキ",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《生徒会》なら、このカードのパワーを＋1000。",
+  "trait": [
+    "生徒会",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

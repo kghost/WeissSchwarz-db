@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ちょっといいー??",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_004.gif",
+  "level": 0,
+  "name": "はじめての海 ミク",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】このカードがアタックした時、クライマックス置場に「青い海、輝く太陽」があり、あなたのストックが5枚以下なら、あなたは自分の山札を上から3枚まで見て、《パラサイト》か《フランクス》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "パラサイト",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

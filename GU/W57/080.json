@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "よろしくねっ リゼ姉！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_080.gif",
+  "level": 0,
+  "name": "“妹モード”マヤ",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠の青のキャラに、パワーを＋1000。\n【自】【CXコンボ】 あなたのクライマックス置場に「シャボン玉攻撃?！」が置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、次の相手のターンの終わりまで、このカードのパワーを＋2000。』",
+  "trait": [
+    "八重歯",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

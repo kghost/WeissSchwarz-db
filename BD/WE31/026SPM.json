@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_026spm.gif",
+  "level": 1,
+  "name": "“カラフルポッピン！”花園たえ",
+  "power": 5000,
+  "rarity": "SPM",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「カラフルポッピン！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《Poppin’Party》のキャラを1枚選び、【スタンド】する。",
+  "trait": [
+    "音楽",
+    "Poppin’Party"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

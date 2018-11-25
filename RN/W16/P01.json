@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "疾風怒濤の！ 元気一発、ガンヴァレル！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_p01.gif",
+  "level": 0,
+  "name": "機動バトラー ガンヴァレル",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "メカ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

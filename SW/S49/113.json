@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ヨーダ「フォースはお前とわしの間にもある。木にも。石にも。いたる所にある！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_113.gif",
+  "level": 1,
+  "name": "Lightsaber",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。\nあなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

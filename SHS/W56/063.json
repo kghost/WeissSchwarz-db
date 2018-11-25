@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "了解",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_063.gif",
+  "level": 1,
+  "name": "六天馬モールの戦い 恵",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。\n【自】【ＣＸコンボ】 記憶 このカードがアタックした時、クライマックス置場に「すれ違いのデートイベント」があるなら、あなたは自分の控え室のレベルＸ以下の《ゲーム》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。",
+  "trait": [
+    "ゲーム",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "アスカ「ダメ！　私じゃ間に合わない！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_069.gif",
+  "level": 2,
+  "name": "エヴァンゲリオン正規実用型２号機",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "メカ",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

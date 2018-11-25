@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "カミナ「あばよ、ジーハ村。俺たちは地上へ行く。\nガキの時見た地上へなぁ！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_t19.gif",
+  "name": "お前のドリルで天を突け！！",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

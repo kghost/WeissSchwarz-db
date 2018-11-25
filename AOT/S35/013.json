@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ただ……一つだけ思い出した",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_013.gif",
+  "level": 2,
+  "name": "“人類反撃の鍵”エレン",
+  "power": 7500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) このカードを思い出にする］ あなたのクライマックス置場に「今、何をすべきか」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「“確固たる意志”エレン巨人」を1枚まで選び、このカードがいた枠に置く。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

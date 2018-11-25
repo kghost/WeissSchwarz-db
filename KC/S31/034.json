@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "何か相談？　いいけれど。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-034.gif",
+  "level": 3,
+  "name": "栄光の第一航空戦隊 加賀",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《艦娘》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《艦娘》のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "trait": [
+    "艦娘",
+    "正規空母"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

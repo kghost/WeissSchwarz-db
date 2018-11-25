@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_p01s.gif",
+  "level": 0,
+  "name": "“マジシャンズスマイル”弦巻こころ",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。\n【自】 アンコール ［あなたの舞台の《音楽》のキャラを1枚クロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "ハロー、 ハッピーワールド！"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

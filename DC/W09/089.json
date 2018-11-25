@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ふふ……。朝倉や高坂たちの驚く顔が、目に浮かぶわ?♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_089.gif",
+  "level": 0,
+  "name": "磯鷲 涼芽",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "trait": [
+    "生徒会",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

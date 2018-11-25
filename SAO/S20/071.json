@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "あの……ありがと。助けてくれて",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s20/sao_s20_071.gif",
+  "level": 1,
+  "name": "白竜の洞窟",
+  "rarity": "C",
+  "side": "S",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠のカード名に「キリト」を含むキャラに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

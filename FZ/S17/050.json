@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "令呪をもって命じる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_050.gif",
+  "level": 2,
+  "name": "令呪",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋4500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

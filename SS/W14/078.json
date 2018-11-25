@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "…解かれよ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_078.gif",
+  "level": 2,
+  "name": "大御巫 ヘカテー",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「この世での徒の誕生」があるなら、他のあなたのキャラすべてに、次の相手のターンの終わりまで、『【自】 アンコール ［(1)］』を与える。",
+  "trait": [
+    "炎",
+    "巫女"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

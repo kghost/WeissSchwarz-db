@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "え、バ、バナナとどっちが好きですかって、\nえーと、んーと、そ、その……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_t12.gif",
+  "level": 0,
+  "name": "先輩とバナナ 美春",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのレベルが1以上なら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "メカ",
+    "バナナ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

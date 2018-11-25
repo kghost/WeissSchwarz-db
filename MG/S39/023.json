@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "混沌を支配する赤き闇よ！　時の流れを弄ぶ球体をいざ招かん！\n巡りに巡る終末の灯火をただ繰り返し、溢れ出す雷で空を満たせ！\n黒を歩む者、灰を泳ぐ者！　罪深きその忌み名をもって自らを運び屋とせよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_023.gif",
+  "name": "呪文詠唱",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trigger": [
+    "SOUL",
+    "SHOT"
+  ],
+  "type": "Climax"
+}

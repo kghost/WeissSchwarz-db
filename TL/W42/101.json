@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "結城リト…余計な事を",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_101.gif",
+  "level": 0,
+  "name": "ちびヤミ",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《たいやき》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "変身",
+    "たいやき"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

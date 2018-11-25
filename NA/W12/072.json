@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "いくよ、久しぶりの長距離砲撃！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_072.gif",
+  "level": 2,
+  "name": "超長距離砲撃",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手のコスト1以下のキャラを1枚選び、山札の上に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

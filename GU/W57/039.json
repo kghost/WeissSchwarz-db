@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "今日もいざ焼かん!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_039.gif",
+  "level": 2,
+  "name": "“パン銃士”ココア母",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】【CXコンボ】 あなたのクライマックス置場に「三姉妹？」があるなら、あなたのキャラすべてに、パワーを＋1000。\n【永】 記憶 あなたの思い出置場に「Hot Bakery」があるなら、他のあなたのカード名に「ココア」か「モカ」を含むキャラすべてに、パワーを＋1500。",
+  "trait": [
+    "パン",
+    "Dear My Sister"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "つかさ「あたる！あたるが、やせてる！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_15.gif",
+  "level": 1,
+  "name": "燃え尽きたあたる",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「グレートバイソンインパクト」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《ギガント》のキャラなら手札に加える。（そうでないなら元に戻す）\n【自】 このカードがアタックした時、クライマックス置場に「グレートバイソンインパクト」があるなら、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "錦",
+    "ギガント"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

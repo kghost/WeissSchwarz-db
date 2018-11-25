@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "カズマ「彼女の名前はウィズ。こう見えて普通の人間ではなく、リッチー。」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_041.gif",
+  "level": 0,
+  "name": "“お茶汲み”ウィズ",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "死",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

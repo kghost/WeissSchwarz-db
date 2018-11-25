@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "えへへ、やったね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we03/sk_we03_021.gif",
+  "level": 1,
+  "name": "Qテクター秋葉",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】[あなたの、《警察》のキャラと《超能力》のキャラを1枚ずつ【レスト】する] そのターン中、このカードのパワーを+2500。",
+  "trait": [
+    "コロニー",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

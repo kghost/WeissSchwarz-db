@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ここからすべてが始まる…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_24.gif",
+  "level": 1,
+  "name": "深淵なる闇の奇術師 キリト",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《ギガント》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "謎",
+    "ギガント"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

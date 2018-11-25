@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "いいカンジにいこうよ?いいカンジに?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_08.gif",
+  "level": 0,
+  "name": "いいカンジな咲",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "警察",
+    "ヘッドフォン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ふははは、その衣装か？\n765,000マニーで売ってやろう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_071.gif",
+  "level": 1,
+  "name": "BK MANIAC",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。\nあなたは自分の山札の上から1枚を、クロック置場に置いてよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。\nこのカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "はぁ！？　またあのシゴトすんの？\n聞いてないんだけど",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pq_se21/pq_se21_28.gif",
+  "level": 1,
+  "name": "“ベルベットルームの住人”マリー",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードは、あなたの控え室のクライマックスが1枚以下なら、手札からプレイできない。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+  "trait": [
+    "ポエム",
+    "神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

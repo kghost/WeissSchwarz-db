@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "カズマ「おいやめろ！その辺境担当の女神様が、すごく引きつった顔をしてるから！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_088.gif",
+  "level": 0,
+  "name": "“辺境担当の女神？”エリス",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《冒険者》か《女神》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "女神",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

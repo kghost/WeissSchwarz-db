@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-108_c.gif",
+  "level": 0,
+  "name": "昨日の出来事 有咲",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「香澄」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "音楽",
+    "盆栽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

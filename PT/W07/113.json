@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_113.gif",
+  "level": 2,
+  "name": "“最強の暗殺者ファントム”アイン",
+  "power": 9000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「名前」があるなら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

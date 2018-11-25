@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "じーっ、ぼーっ、がーっ、と見てるかもしれないわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_e09.gif",
+  "level": 2,
+  "name": "“掛け持ち委員長”佳奈多",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(3)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、このカードの正面のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはフロントアタックできない。』（サイドアタックはできる）",
+  "trait": [
+    "委員長",
+    "双子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

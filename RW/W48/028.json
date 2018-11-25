@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "瑚太朗、ここに聖剣ありましたよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_028.gif",
+  "level": 2,
+  "name": "“聖剣発見”ちはや",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場に「“聖剣発見”ちはや」があるなら、あなたの手札のこのカードのレベルを?1。",
+  "trait": [
+    "お菓子",
+    "オカルト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

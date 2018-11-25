@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "何？　澤村さんの一押しってアレなの？　1話からパンチラや全裸満載だったくだらないハーレムアニメよね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_074.gif",
+  "level": 2,
+  "name": "みんなで合宿 詩羽",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場の、《ゲーム》か《小説》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "やっぱり日本人は和でしょ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_045.gif",
+  "level": 1,
+  "name": "理想の部屋",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《警察》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

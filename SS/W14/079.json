@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "獣になって快楽を交わすのもおつなものだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_079.gif",
+  "level": 2,
+  "name": "“千変”シュドナイ",
+  "power": 8500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を持つ。『【起】［(1)］ あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋500。』",
+  "trait": [
+    "炎",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

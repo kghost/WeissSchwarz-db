@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ったく、水臭ぇなあキリト。\nそんなすげえウラワザ黙ってるなんてよう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s26/sao_s26_077.gif",
+  "level": 2,
+  "name": "気さくな青年 クライン",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

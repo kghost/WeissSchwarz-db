@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "―いつしか彼女にとって【魔法少女】という存在は、憧れになっていた―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_052.gif",
+  "level": 1,
+  "name": "まどかのノート",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたのレベルが1なら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。\nあなたのレベルが2なら、あなたは相手のキャラを1枚選び、手札に戻す。\nあなたのレベルが3なら、あなたは自分のクロック置場の《魔法》のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

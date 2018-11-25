@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "怪盗ハロハッピー「ああ、囚われのお姫様、そんな不安そうな顔をしないで。大丈夫、何も怖いことはないよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_024r.gif",
+  "name": "怪盗ハロハッピー",
+  "rarity": "RRR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trigger": [
+    "SOUL",
+    "SHOT"
+  ],
+  "type": "Climax"
+}

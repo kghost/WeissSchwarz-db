@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "敗者復活の宝石を手に入れて華麗に復活するんだも?ん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se29/mk_se29_31.gif",
+  "level": 0,
+  "name": "駄々っ子 小衣",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「キレる5秒前 小衣」1枚につき、このカードのパワーを＋2000。",
+  "trait": [
+    "警察",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

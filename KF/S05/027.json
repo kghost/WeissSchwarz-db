@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "烈風拳！！\nダブル烈風拳！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_027.gif",
+  "level": 2,
+  "name": "悪のカリスマ ギース",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「羅生門」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《暗黒街》か《不良》か《悪魔》のキャラの枚数×1000に等しい。\n【起】［手札の、《暗黒街》か《不良》か《悪魔》のキャラを1枚控え室に置く］ あなたは相手のキャラを1枚選び、そのターン中、パワーを?1000。",
+  "trait": [
+    "暗黒街",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

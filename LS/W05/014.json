@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "こういう誰もが特別って思える日に告白されたりしたりして\n想いが通じ合ったらすごく素敵だなって思うもん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_014.gif",
+  "level": 0,
+  "name": "夢見る乙女つかさ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《お菓子》のキャラすべてに、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。』",
+  "trait": [
+    "双子",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

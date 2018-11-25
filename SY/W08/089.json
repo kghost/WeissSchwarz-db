@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "妹「ユキちゃんありがと??」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_089.gif",
+  "level": 0,
+  "name": "浴衣の長門＆キョンの妹",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「浴衣のキョン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「浴衣のキョン」を1枚選び、手札に戻す）",
+  "trait": [
+    "宇宙人",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

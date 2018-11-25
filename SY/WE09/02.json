@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "初めて木星の衛星を捉えた時は、けっこう感動しましたよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_we09/sy_we09_02.gif",
+  "level": 0,
+  "name": "星を語る古泉",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの前列の中央の枠に他の《SOS団》のキャラがいるなら、このカードのパワーを＋1000。",
+  "trait": [
+    "超能力",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

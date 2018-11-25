@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_05t.gif",
+  "level": 2,
+  "name": "神郷 慎",
+  "power": 9000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

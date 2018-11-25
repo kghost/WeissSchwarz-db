@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "貴様は今から幸せな夢を見る",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_022.gif",
+  "level": 2,
+  "name": "催眠術",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

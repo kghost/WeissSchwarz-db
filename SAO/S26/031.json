@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "なら、あたしが家庭教師してあげる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s26/sao_s26_031.gif",
+  "level": 2,
+  "name": "家庭教師 直葉",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋3000。",
+  "trait": [
+    "ネット",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

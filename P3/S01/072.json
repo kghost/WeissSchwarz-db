@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "”死神”タイプが出現！気をつけてください！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_072.gif",
+  "level": 2,
+  "name": "刈り取る者",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたはレベル1以下の相手のキャラを1枚選び、山札の上に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

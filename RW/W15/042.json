@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "…そ、…そうだな。……二人で４５分以内に\n決着をつけて、わだかまりを水に流そうではないか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_042.gif",
+  "level": 0,
+  "name": "“激辛界の現人神”ルチア",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "委員長",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あなたが近くにいると、ことりはとても安心するの。ずっと一緒だったらいいのにな……☆",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_s05.gif",
+  "level": 0,
+  "name": "“カフェメイド”南 ことり",
+  "power": 3000,
+  "rarity": "-",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

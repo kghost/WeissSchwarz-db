@@ -1,0 +1,22 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "先輩?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_002.gif",
+  "level": 1,
+  "name": "“バレーボール”シャロ",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「バリボ?ダイスキ?」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「シャロ」か「千夜」を含むキャラなら手札に加える。（そうでないなら元に戻す）\n【自】 このカードがアタックした時、他のあなたのカード名に「シャロ」か「千夜」を含むキャラが3枚以上なら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "特待生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

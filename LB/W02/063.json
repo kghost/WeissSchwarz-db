@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "葉留佳「エロいなぁー…理樹くんエロいなぁーっ」\n西園「あまつさえ混ざりたいとか考えてませんか」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_063.gif",
+  "level": 0,
+  "name": "葉留佳＆美魚",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ビー玉",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "私の能力……プロフェーティン・シュリフテン",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_097.gif",
+  "level": 2,
+  "name": "預言者の著書",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは1枚引き、自分のクロックを1枚選び、控え室に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ありがとうございます。私、捜査に戻ります…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_031.gif",
+  "level": 2,
+  "name": "エルキュール・バートン",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのストックが6枚以上なら、このカードのパワーを＋1500。\n【自】 このカードがアタックした時、クライマックス置場に「ヌイグルミとエルキュール」があるなら、あなたは自分の控え室の《探偵》のキャラを1枚まで選び、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "探偵",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あっ あっ だめっ…",
+  "level": 0,
+  "name": "“ワームホール・ハプニング”唯",
+  "power": 4000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+  "trait": [
+    "風紀委員",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

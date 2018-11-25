@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "遅刻しちゃいますよ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_25.gif",
+  "level": 3,
+  "name": "東雲 なの",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが、手札か山札から舞台に置かれた時、他のあなたの、「はかせ」と「阪本さん」がいるなら、あなたは自分のクロックの上から1枚を、手札に戻してよい。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、次の相手のターンの終わりまで、このカードのパワーを＋1000。",
+  "trait": [
+    "メカ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

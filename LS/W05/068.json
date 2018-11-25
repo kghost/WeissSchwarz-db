@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ゆたか「違いますよ　あれは照れてるんですよ――――」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_068.gif",
+  "level": 1,
+  "name": "誤解されるタイプみなみ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "保健室",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

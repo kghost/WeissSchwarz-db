@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "どうか、この手に\n…フランスに光をもたらす力を！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_014.gif",
+  "level": 2,
+  "name": "“乙女の決意”タルト",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［(1) このカードを思い出にする］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "trait": [
+    "魔法",
+    "アビリティ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "黒騎さんがどうかしたの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vr_w22/vr_w22_032.gif",
+  "level": 0,
+  "name": "私服のわかば",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《鍵》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "trait": [
+    "鍵",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

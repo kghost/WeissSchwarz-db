@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "不愉快ですね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_t08.gif",
+  "level": 2,
+  "name": "“読書中”ヤミ",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）\n【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ダークネス”ヤミ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "変身",
+    "たいやき"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

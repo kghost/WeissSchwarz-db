@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "シャロ「助けてくださ?い、お金欲しいで?す」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_023.gif",
+  "level": 0,
+  "name": "“わ”たしの志集 エリー",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "探偵",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

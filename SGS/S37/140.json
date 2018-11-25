@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "何でもかんでもこしあんにする傾向は\n絶対に良くないと思うの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_140.gif",
+  "level": 0,
+  "name": "つぶあん信者 夕依",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラに、《つぶあん》を与える。",
+  "trait": [
+    "ストライカー",
+    "巫女"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

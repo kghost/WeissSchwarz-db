@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "な、なに言ってるのよ。恥ずかしいでしょっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_15.gif",
+  "level": 1,
+  "name": "恥ずかしがり屋 まゆき",
+  "power": 6500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「ロマンチックなキス」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《生徒会》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "生徒会",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

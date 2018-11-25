@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "次の休みは海ってのもいいな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_17.gif",
+  "level": 1,
+  "name": "昼下がりの次子",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場に「グラマー娘 次子」があるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "警察",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

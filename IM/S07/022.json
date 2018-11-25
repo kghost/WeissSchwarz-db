@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "伊織ちゃんのかわいいポーズが見れて、あんたは幸せ者ね。にひひっ♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_022.gif",
+  "level": 2,
+  "name": "ポーズレッスン",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

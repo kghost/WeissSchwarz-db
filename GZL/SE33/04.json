@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_04.gif",
+  "level": 0,
+  "name": "“覗く好奇心”ミアナ",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 アタックフェイズ中、あなたは自分のカードの効果で自分の控え室のキャラを手札に戻せない。\n【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが5枚以上なら、このカードを【レスト】する。",
+  "trait": [
+    "双子",
+    "フツア"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

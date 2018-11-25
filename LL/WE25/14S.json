@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ことりの歌声で、みんなのことを癒したいな♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we25/ll_we25_14s.gif",
+  "level": 1,
+  "name": "“癒しの女神”ことり",
+  "power": 6500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "音楽",
+    "ナース"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

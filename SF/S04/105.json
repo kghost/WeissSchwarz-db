@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "オレは他人に指図されるのが大嫌いなんだよっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sf_s04/sf_s04_105.gif",
+  "level": 2,
+  "name": "ジン",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

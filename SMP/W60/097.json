@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "蒼「藍は、黙ったまま笑って、\n手を差し伸ばしてくれた」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_097.gif",
+  "level": 1,
+  "name": "自分の罪",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 このカードは、あなたの《サマポケ》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは【リバース】しない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

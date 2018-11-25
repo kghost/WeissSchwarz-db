@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "至「幻のレトロPC。一ヶ月くらい前だったかな秋葉原のどこかに眠っているという噂が流れたから、それ聞きつけて来たんじゃね？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_096b.gif",
+  "level": 1,
+  "name": "IBN5100",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を上から4枚まで見て、《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

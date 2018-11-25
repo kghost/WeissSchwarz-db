@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "マーライオンをモチーフにする時はシンガポール観光庁に申請しよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_t04.gif",
+  "level": 1,
+  "name": "マーライオン しよ子 SG",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《カードゲーム》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "カードゲーム",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

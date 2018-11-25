@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "2人とも、すごく似合ってる！ファイトだよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_064.gif",
+  "level": 1,
+  "name": "ファイトだよ！",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠のカード名に「穂乃果」を含むキャラに、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

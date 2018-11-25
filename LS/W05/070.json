@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "かがみ「焼き芋のおいしい季節になったわね――」\nこなた「いや かがみ あのさ…」\nかがみ「いや わかってる わかってるから言うな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_070.gif",
+  "level": 2,
+  "name": "ダイエット",
+  "rarity": "U",
+  "side": "W",
+  "text": "すべてのプレイヤーにＸダメージを与える。Ｘはあなたの《お菓子》のキャラの枚数に等しい。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

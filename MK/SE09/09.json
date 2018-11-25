@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "美しいこのボクが一肌脱がなくちゃならないね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se09/mk_se09_09.gif",
+  "level": 2,
+  "name": "“自分大好き”トゥエンティ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。\n【自】 アンコール ［(1) あなたの舞台の「トゥエンティ＆トゥエンティ」を1枚山札の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "怪盗",
+    "ナルシスト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "次は、向こう側でな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s26/sao_s26_069.gif",
+  "level": 2,
+  "name": "二つの世界 キリト",
+  "power": 7000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「鳥かごの中 アスナ」がいるなら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に「最強プレイヤーとの対峙」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

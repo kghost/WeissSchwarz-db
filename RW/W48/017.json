@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "はい、ガイアの末席にてちはやさんにお仕えしております",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_017.gif",
+  "level": 1,
+  "name": "“従者”咲夜",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「朱音」か「ちはや」か「咲夜」を含むキャラが2枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "超能力",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

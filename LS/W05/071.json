@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "かがみ「まったく 毎回よくそんなに同じ本を何冊も買うわね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_071.gif",
+  "level": 2,
+  "name": "保存用と宣伝用",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "モフモフ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we28/hll_we28_35.gif",
+  "level": 0,
+  "name": "意外な一面 ニーナ",
+  "power": 4000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+  "trait": [
+    "定理者",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

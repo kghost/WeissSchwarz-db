@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ロストロギア、闇の書。\n古代ベルカ発祥の、第一種危険指定遺産",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w32/n2_w32_052.gif",
+  "level": 1,
+  "name": "“闇の書”事件の記憶 クロノ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

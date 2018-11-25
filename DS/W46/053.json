@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "わ、分かっておるっ。だが、外界で確かめるにはこうするしかないのだっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_053.gif",
+  "level": 1,
+  "name": "違和感の正体 依愛",
+  "power": 5500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《風南島》なら、このカードのパワーを＋1000。\n【自】 バトル中のこのカードが【リバース】した時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。",
+  "trait": [
+    "風南島",
+    "中二病"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

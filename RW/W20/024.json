@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "ちはや「あははは朱音さんそれーっ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_024.gif",
+  "name": "みんなで水遊び",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "シャロ「今日のご飯は何ですかねー」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_116.gif",
+  "level": 1,
+  "name": "探偵学院のミルキィホームズ",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】他のあなたの《探偵》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "探偵",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

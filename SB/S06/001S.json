@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "“天真爛漫”いつき",
+  "power": 2000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたのカード名に「いつき」を含むキャラがアタックした時、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "武器",
+    "雪"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

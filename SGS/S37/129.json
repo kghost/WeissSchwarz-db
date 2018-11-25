@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "……見た？ 見たのね？？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_129.gif",
+  "level": 2,
+  "name": "ナイショの趣味 栞",
+  "power": 7000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが青なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のクライマックスを1枚選び、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+  "trait": [
+    "ストライカー",
+    "厨二病"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

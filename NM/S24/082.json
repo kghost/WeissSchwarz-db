@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "『僕の誇り。僕の自慢の妹たち。偽物ゆえに、きっと\n何よりも本物に近い彼女達。ファイヤーシスターズは\n火のついた花火のような勢いで、出撃していったのだった』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_082.gif",
+  "level": 0,
+  "name": "正義の味方ごっこ 阿良々木火憐＆阿良々木月火",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《スポーツ》か《和服》のキャラが2枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "スポーツ",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

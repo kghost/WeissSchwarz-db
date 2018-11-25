@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "やっちゃおやっちゃお！面白いじゃん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_047.gif",
+  "level": 0,
+  "name": "木崎 衣美里",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "魔法",
+    "サポート"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

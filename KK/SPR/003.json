@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "…昔からの決まりでね\n私を傷んだ赤色と呼んだものは例外なくブチ殺している",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kk_spr/kk_spr_003.gif",
+  "level": 2,
+  "name": "“人形使い”蒼崎 橙子",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“人形使い”蒼崎 橙子」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "人形",
+    "影"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

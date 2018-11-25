@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 3,
+  "flavor": "宮沢様のほうがよっぽど素敵なんですからねっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_t06.gif",
+  "level": 3,
+  "name": "“唯我独尊”佐々美",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 3,
+  "text": "【永】 このカードの正面のキャラのソウルを?1。\n【自】 このカードとバトルしているキャラが【リバース】した時、あなたはそのキャラをストック置場に置いてよい。",
+  "trait": [
+    "スポーツ",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "だったら……カッコ良くなるしかないデスッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_046.gif",
+  "level": 1,
+  "name": "【封伐・PィNo奇ぉ：心】切歌",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「【非常Σ式・禁月輪 IGNITE：技】調」がいないなら、このカードのパワーを?3000。\n【永】 他のあなたの「【非常Σ式・禁月輪 IGNITE：技】調」すべてに、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

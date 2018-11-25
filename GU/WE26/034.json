@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ばっちりです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_034.gif",
+  "level": 1,
+  "name": "“プレゼント交換” チノ",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《ラビットハウス》なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「寝言むにゃむにゃ」があるなら、あなたは自分の山札を見て《ラビットハウス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ラビットハウス",
+    "コーヒー"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

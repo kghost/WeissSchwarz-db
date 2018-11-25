@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "もしかして、本物のサンタさんと間違えちゃったかな？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_81.gif",
+  "level": 2,
+  "name": "サンタのことり",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【起】［(1)］ 次の相手のターンの終わりまで、このカードのパワーを＋1000。",
+  "trait": [
+    "音楽",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

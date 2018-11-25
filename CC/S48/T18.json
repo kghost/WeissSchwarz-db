@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ユリアナ様のことを、頼んだぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_t18.gif",
+  "level": 2,
+  "name": "聖騎士団総帥 アインスロット",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のターン中、あなたのキャラすべてが《マナ》なら、このカードのパワーを＋2000。\n【自】 アンコール ［手札の《マナ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

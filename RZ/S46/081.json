@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "何も買わずに質問とか、いい度胸してんな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_081.gif",
+  "level": 0,
+  "name": "王都の果物屋 カドモン",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。\n【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「死に戻り」を1枚選び、手札に戻す。",
+  "trait": [
+    "商人",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

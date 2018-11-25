@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ヒロと一緒にフランクスに乗って、戦いたいんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_043.gif",
+  "level": 0,
+  "name": "遠い約束 ミツル",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、このカードを控え室に置く。",
+  "trait": [
+    "パラサイト",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

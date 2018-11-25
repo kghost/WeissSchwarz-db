@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "テレッテッテー、順平はレベルアップー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_046.gif",
+  "level": 0,
+  "name": "レベルアップ",
+  "rarity": "C",
+  "side": "S",
+  "text": "このカードは、緑のあなたのキャラがいないなら、手札からプレイできない。\n次の行動を、あなたがレベルアップするまで繰り返す。『あなたは自分の山札の上から1枚を、クロック置場に置く。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

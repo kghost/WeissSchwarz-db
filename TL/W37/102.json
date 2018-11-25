@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私も非常に不快です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_102.gif",
+  "level": 1,
+  "name": "ぷちヤミ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、あなたのキャラすべてが、《変身》か《家事》なら、このカードのパワーを＋2000。",
+  "trait": [
+    "変身",
+    "たいやき"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

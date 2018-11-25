@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "色即是空、空即是色",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_058.gif",
+  "level": 1,
+  "name": "無達",
+  "power": 3500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "酒",
+    "禅"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

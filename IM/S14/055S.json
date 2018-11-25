@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "南国少女 響",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「shiny smile」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1500に等しい。",
+  "trait": [
+    "音楽",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

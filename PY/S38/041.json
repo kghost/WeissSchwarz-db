@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "はい、ちゅーもーく！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_041.gif",
+  "level": 1,
+  "name": "明るいユウれい ユウちゃん",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の「無口なゆうレイ レイくん」1枚につき、このカードのパワーを＋1000し、ソウルを＋1。",
+  "trait": [
+    "ぷよ",
+    "だじゃれ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

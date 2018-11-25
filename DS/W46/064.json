@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……このままで、よいのか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_064.gif",
+  "level": 0,
+  "name": "ありのままで… 依愛",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、このカードは次のあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "風南島",
+    "中二病"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

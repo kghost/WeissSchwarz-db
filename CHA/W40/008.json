@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "うちは貧乏だから、とっととメジャーデビューして独り立ちしてーな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_008.gif",
+  "level": 0,
+  "name": "友利 一希",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「“ひとり、何を思う”友利 奈緒」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ひとり、何を思う”友利 奈緒」を1枚選び、手札に戻す）",
+  "trait": [
+    "能力者",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

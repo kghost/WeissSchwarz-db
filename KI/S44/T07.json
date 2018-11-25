@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "牧穂乃香。洲籠高校、2年A組",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_t07.gif",
+  "level": 2,
+  "name": "SD穂乃香",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "キズナ",
+    "漫画"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

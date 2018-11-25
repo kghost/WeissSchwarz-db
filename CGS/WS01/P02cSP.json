@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_p02csp.gif",
+  "level": 0,
+  "name": "しろくろフェス2016 しよ子",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "カードゲーム",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

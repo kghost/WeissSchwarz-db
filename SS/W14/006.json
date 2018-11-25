@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "じゃあ、君はシャナだ…。ボクは今からそう呼ぶ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_006.gif",
+  "level": 1,
+  "name": "変わった“トーチ”悠二",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《炎》のキャラが2枚以上なら、あなたは相手のキャラの【自】の効果によるダメージを受けない。\n【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "炎",
+    "宝具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

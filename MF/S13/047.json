@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あなたの歌で世界を変えるんです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_047.gif",
+  "level": 2,
+  "name": "謎のスカウトマン",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

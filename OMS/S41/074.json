@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "十四松、今日はやらないの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_074.gif",
+  "level": 0,
+  "name": "“隠れた優しさ”一松",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“F６”十四松」すべてに、パワーを＋1000。\n【自】 絆／「“F６”十四松」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“F６”十四松」を1枚選び、手札に戻す）",
+  "trait": [
+    "６つ子",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

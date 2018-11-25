@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "陽光を浴びてとろけるみたい\n予知夢へと　その向こう側へと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_126.gif",
+  "name": "プリコグ",
+  "rarity": "RE",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

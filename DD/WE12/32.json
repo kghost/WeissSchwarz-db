@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "あのあの！わたし、もう上がりますので、\n……勇者様はどうぞごゆっくり！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_32.gif",
+  "level": 1,
+  "name": "お風呂で遭遇！ ミルヒ",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "動物",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

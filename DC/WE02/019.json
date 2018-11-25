@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "…女の子は桜の木に幸せを願いました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_019.gif",
+  "level": 2,
+  "name": "物憂げなさくら",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】[このカードを思い出にする] あなたは自分の山札を見てカード名に「桜」を含むキャラを1枚まで選んで相手に見せ、手札に加える。 その山札をシャッフルする。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

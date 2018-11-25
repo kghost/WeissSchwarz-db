@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "歌いませんか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_016.gif",
+  "level": 2,
+  "name": "お姉ちゃんへ送る曲 黒澤 ルビィ",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 あなたのクライマックス置場に「ルビィの必殺技」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、他のあなたのキャラすべてに、そのターン中、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

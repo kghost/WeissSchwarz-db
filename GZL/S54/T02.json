@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "マーティン「記録にある地球原産生物のいずれにも該当しないな……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_s54/gzl_s54_t02.gif",
+  "level": 1,
+  "name": "“突然変異”セルヴァム",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "怪獣",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

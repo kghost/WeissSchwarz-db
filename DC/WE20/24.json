@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "お待ちなさい！　あなた方の逃げ道はありませんわ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we20/dc_we20_24.gif",
+  "level": 2,
+  "name": "いつもの騒動 エリカ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ あなたは自分の控え室の自分のレベル以下のレベルの《王族》のキャラを1枚選び、このカードがいた枠に置く。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "生徒会",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "モカ「……あれ？７つめのウワサってなんだっけ？音楽室のピアノ、動く人体模型、誰かが映る鏡、増える階段……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t56.gif",
+  "name": "学園七不思議",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

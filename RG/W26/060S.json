@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "平和を守る者 黒子",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたのバトル中の《風紀委員》のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

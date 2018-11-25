@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ヤンデレヒロインを差し置いて、他の女とデートに行ってしまった主人公……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_036.gif",
+  "level": 1,
+  "name": "クリエイターの闇 詩羽",
+  "power": 5500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【ＣＸコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「徹夜の代償」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。\n【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール [(3)］』も使えない）",
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

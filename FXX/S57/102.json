@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_102.gif",
+  "level": 3,
+  "name": "Escape ココロ",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】他のあなたのカード名に「ミツル」か「フトシ」を含むキャラがいるなら、このカードのパワーを＋1500。\n【自】[(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "trait": [
+    "パラサイト",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

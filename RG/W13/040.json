@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "礼を言わせてくれ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w13/rg_w13_040.gif",
+  "level": 0,
+  "name": "大脳生理学者 木山",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "先生",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

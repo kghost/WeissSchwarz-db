@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "Mein Vater, mein Vater, jetzt fa?t er mich an! Erlk?nig hat mir ein Leids getan♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_071ggr.gif",
+  "level": 3,
+  "name": "魔王 ピトフーイ",
+  "power": 9500,
+  "rarity": "GGR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「魔王復活」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下なら、相手に1ダメージを与える。そうでないなら、相手に2ダメージを与える。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する。公開したカードは元に戻す）",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "夢へ向かいましょう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_027.gif",
+  "level": 2,
+  "name": "会長の演説 遥月",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「会長の演説 遥月」1枚につき、このカードのパワーを＋1000。\n【自】 あなたのクライマックス置場に「一緒にフォトクラ」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「会長の演説 遥月」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+  "trait": [
+    "風南島",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

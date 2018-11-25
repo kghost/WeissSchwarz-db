@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "私、ずっと待ってます。――だから、さよなら、じゃないです。いってらっしゃい、です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_100.gif",
+  "name": "届かない場所",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

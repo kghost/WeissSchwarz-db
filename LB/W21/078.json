@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "flavor": "恭介「さらば諭吉ぃぃぃぃ?っ！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_078.gif",
+  "level": 2,
+  "name": "さらば諭吉ぃっ！！",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

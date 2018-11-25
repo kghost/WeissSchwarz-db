@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "えっとー、ひとつでも新山仁子でぇす。\n……洲籠高校、2年A組",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_t03.gif",
+  "level": 0,
+  "name": "SD仁子",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋500。\n【起】［あなたの舞台の『絆』を持つキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。",
+  "trait": [
+    "キズナ",
+    "不思議"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ああ、違うわ――『動いてもいいけれど、とても危険よ』\nというのが、正しかったのね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_t03.gif",
+  "level": 1,
+  "name": "戦闘態勢 戦場ヶ原ひたぎ",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "trait": [
+    "怪異",
+    "文房具"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

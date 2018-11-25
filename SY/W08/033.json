@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "わたしがお嫁にいけなくなったら、もらってくれますか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_033.gif",
+  "level": 1,
+  "name": "おめかしみくる",
+  "power": 3000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《SOS団》のキャラすべてに、レベルを＋1し、パワーを＋500。\n【自】［手札を1枚控え室に置く］ 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを?2000。",
+  "trait": [
+    "時間",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

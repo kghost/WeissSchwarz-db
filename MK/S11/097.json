@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "怪盗はどこからくるんでしょう…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_097.gif",
+  "level": 2,
+  "name": "ネコミミ虫メガネ",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《探偵》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

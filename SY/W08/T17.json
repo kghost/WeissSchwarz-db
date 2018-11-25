@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "対有機生命体コンタクト用\nヒューマノイド・インターフェース…。それがわたし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_t17.gif",
+  "name": "私のこと、あなたに教えておく",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "うあっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_016.gif",
+  "level": 1,
+  "name": "《SHINC》 ローザ",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《アバター》か《ネット》のキャラの枚数×500に等しい。",
+  "trait": [
+    "アバター",
+    "ＳＨＩＮＣ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

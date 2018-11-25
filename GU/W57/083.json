@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "マヤ・メグ「全部アイスココア〜〜!?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_083.gif",
+  "level": 1,
+  "name": "お姉ちゃんシック チノ",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「ココア」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】 他のあなたの《ラビットハウス》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "ラビットハウス",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

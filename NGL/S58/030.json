@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "クラミーは目を離すと、すぐこっそり泣いてるからぁ、 側にいたいのですよぉ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_030.gif",
+  "level": 2,
+  "name": "大切な存在 フィール",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【CXコンボ】[(1)］ あなたのクライマックス置場に「遠き約束の日」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。",
+  "trait": [
+    "ゲーム",
+    "森精種"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

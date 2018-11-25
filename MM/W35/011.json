@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ティロ・フィナーレ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w35/mm_w35_011.gif",
+  "level": 1,
+  "name": "優雅なる一撃 マミ",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）",
+  "trait": [
+    "魔法",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

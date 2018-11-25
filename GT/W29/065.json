@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたし、頑張って身体鍛えるよー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_065.gif",
+  "level": 0,
+  "name": "活発な少女 あかり",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "タロット",
+    "占い"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

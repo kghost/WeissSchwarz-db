@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あっぷっぷー♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_091.gif",
+  "level": 0,
+  "name": "人気者計画 日染",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "キズナ",
+    "インモラル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

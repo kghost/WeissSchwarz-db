@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "農業体験ねえ。農業体験だねぇ。作る経験をして、食物を大事にって話かい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_029.gif",
+  "level": 0,
+  "name": "どろんこ 螺子川来夢",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の黄のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ガール",
+    "植物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "心ごと　体ごと　全部記憶の中の幻\n本当の　愛情が　指先から流れ出した",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_097.gif",
+  "name": "FREELY TOMORROW",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "……私は、歌っていたいだけ。それが、私の望み",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s51/sao_s51_026.gif",
+  "level": 2,
+  "name": "意味深な言動 ユナ",
+  "power": 6000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場の、《アバター》か《ネット》のキャラが2枚以上なら、このカードのパワーを＋4000。\n【自】 アンコール ［手札の、《アバター》か《ネット》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ネット",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

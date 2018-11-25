@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "サイト「まちがいねえ…ゼロ戦だ…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_020.gif",
+  "level": 2,
+  "name": "竜の羽衣",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

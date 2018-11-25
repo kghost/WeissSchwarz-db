@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "アデル「オレの目的はゼノンを倒すことだ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_019.gif",
+  "level": 2,
+  "name": "打倒！魔王神！",
+  "rarity": "R",
+  "side": "S",
+  "text": "あなたは自分の控え室の、クライマックス以外のカードを5枚まで選び、山札に戻す。その山札をシャッフルする。5枚戻したなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000し、ソウルを＋2。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

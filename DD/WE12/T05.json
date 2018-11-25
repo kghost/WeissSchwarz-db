@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "お邪魔が入らぬようにいたします……\n大丈夫ですよね、騎士団長？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_t05.gif",
+  "level": 0,
+  "name": "姫様の秘書 アメリタ",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "動物",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "あたしも負けてられない。明日からも『いつも通り』、頑張っていこう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_038.gif",
+  "level": 2,
+  "name": "“断ち切った迷い”美竹蘭",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのストックが6枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札の緑のカードを1枚控え室に置く］』を得る。\n【自】【CXコンボ】 あなたのクライマックス置場に「熱狂の一声」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の緑のキャラを2枚まで選び、ストック置場に好きな順番で置く。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

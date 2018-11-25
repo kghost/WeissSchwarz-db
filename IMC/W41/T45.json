@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t45.gif",
+  "level": 0,
+  "name": "ステージ前 李衣菜",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。",
+  "trait": [
+    "音楽",
+    "ロック"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

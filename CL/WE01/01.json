@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "あなたをお連れしましょうか。\nこの町の願いが叶う場所に",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_01.gif",
+  "level": 2,
+  "name": "演劇部部長 渚",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの「岡崎 朋也」がいるなら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「この学園は、好きですか……？」があるなら、あなたは自分の山札を見て《双子》か《本》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "演劇",
+    "だんご"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

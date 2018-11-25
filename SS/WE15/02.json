@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "悠二の、手……。恐くて、たまらなかった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_02.gif",
+  "level": 0,
+  "name": "囚われのシャナ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「闘争の渦 シャナ」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "炎",
+    "メロンパン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ホントは、アタシも少し言い過ぎたかなぁ……って思ってたの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_053.gif",
+  "level": 0,
+  "name": "気分屋アミタリリ",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 絆／「アミタリリの付き人ファークリン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アミタリリの付き人ファークリン」を1枚選び、手札に戻す）\n【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "悪魔",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

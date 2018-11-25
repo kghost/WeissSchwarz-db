@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ゆっこ「え？焼きサバでしょ？」\nみお「焼きそばだよっ!!」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_12.gif",
+  "level": 0,
+  "name": "憤慨 みお",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのソウルを＋1。",
+  "trait": [
+    "漫画",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

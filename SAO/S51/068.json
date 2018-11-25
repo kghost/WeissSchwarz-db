@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "キリト「第十層ボスモンスター、《カガチ・ザ・サムライロード》！」\nアスナ「強敵だよ……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s51/sao_s51_068.gif",
+  "level": 3,
+  "name": "かつての強敵",
+  "rarity": "U",
+  "side": "S",
+  "text": "相手に4ダメージを与える。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

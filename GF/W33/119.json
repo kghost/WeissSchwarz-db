@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "わぁ、この波のプールすごいですね?波の感じが凄くリアルで…　ほら。思ったのと違うタイミングで…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_119.gif",
+  "level": 1,
+  "name": "楽しむ姿 鴫野睦",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの青のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "ガール",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "『覇王！断空拳ッ！』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_010s.gif",
+  "level": 3,
+  "name": "“覇王流の師弟”アインハルト&フーカ",
+  "power": 10000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードに《覇王流》のキャラか緑のイベントが1枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1500。2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置く。3枚以上なら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "格闘",
+    "覇王流"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

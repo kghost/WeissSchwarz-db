@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "いーぃんじゃないかい？\n王選云々ってーぇのとは別のお話で。\nスバルくんが王都へ行くのは、お礼参りと、それにもうひとつ、治療目的ってえーぇことで",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_052.gif",
+  "level": 2,
+  "name": "辺境伯 ロズワール",
+  "power": 9000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "魔法",
+    "オッドアイ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

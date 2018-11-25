@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ん？　ひよりんどーしたん？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_005.gif",
+  "level": 1,
+  "name": "アニ研部長こう",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2)］ あなたは自分の《オタク》のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋1。",
+  "trait": [
+    "生徒会",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

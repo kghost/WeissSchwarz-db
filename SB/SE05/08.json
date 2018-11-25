@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "君もきっと心酔するよ。 彼の、圧倒的な“強さ”にね――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_08.gif",
+  "level": 2,
+  "name": "“豊臣の軍師”竹中 半兵衛",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分のレベル3以上のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "武器",
+    "仮面"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

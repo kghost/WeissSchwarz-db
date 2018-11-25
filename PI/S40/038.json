@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "今まで騒音等でご迷惑おかけしたでしょうから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_038.gif",
+  "level": 2,
+  "name": "“ホームパーティの招待”ルヴィア",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 他のあなたの《宝石》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "宝石",
+    "令嬢"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "今のは腹話術",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_092.gif",
+  "level": 0,
+  "name": "ネコミミ 長門",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "宇宙人",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

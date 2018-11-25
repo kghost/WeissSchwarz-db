@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "悪いけど、天壌無窮の一文無し！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_t37.gif",
+  "level": 2,
+  "name": "清々しい笑み スバル",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたのカード名に「エミリア」を含むキャラがいるなら、このカードのパワーを＋1500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "死",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

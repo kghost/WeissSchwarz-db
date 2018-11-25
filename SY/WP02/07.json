@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "‐",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_wp02/sy_wp02_07.gif",
+  "level": 0,
+  "name": "ツリー色のドレス 長門",
+  "power": 1500,
+  "rarity": "PS",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 このカードがアタックした時、あなたは他の自分の、《宇宙人》か《SOS団》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "宇宙人",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

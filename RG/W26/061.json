@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "美琴「…ひとつ質問いいかしら」\n食蜂「するだけならご自由に」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_061.gif",
+  "level": 1,
+  "name": "“心理掌握”食蜂",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《超能力》のキャラすべてに、パワーを＋500。\n【自】［(1) このカードを【レスト】する］ 相手のアタックフェイズの始めに、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、相手のキャラすべてに、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trait": [
+    "超能力",
+    "手袋"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

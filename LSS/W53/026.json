@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "鞠莉「花丸はもうちょい上げて」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_026.gif",
+  "level": 2,
+  "name": "ポーズ確認 国木田　花丸",
+  "power": 10000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードの下にマーカーがないなら、このカードのパワーを?7500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ポーズ確認 国木田　花丸」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

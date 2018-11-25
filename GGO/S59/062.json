@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "『素早さと器用さを生かした、レンちゃんらしい戦いをするんだよ！』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_062.gif",
+  "level": 1,
+  "name": "おしゃべりピーちゃん",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのストックの枚数×500に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

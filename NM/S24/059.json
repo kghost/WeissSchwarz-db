@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私の口癖の『プラチナむかつく』のことなんだけど、あれ、\n元々は『プチむかつく』からの変化だから、プラチナって言葉\nから連想されるほど強くむかついてるわけじゃないの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_059.gif",
+  "level": 0,
+  "name": "着物好き 阿良々木月火",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "怪異",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

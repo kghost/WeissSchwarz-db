@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "―ポツンと座る小さな命は、少女を支えた大きな命―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_025.gif",
+  "level": 2,
+  "name": "路地裏の友だち",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のバトル中のキャラを1枚選び、手札に戻し、自分の前列のキャラを1枚選び、バトル中のキャラがいた枠に防御キャラとして動かす。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

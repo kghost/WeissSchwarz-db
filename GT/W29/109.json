@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_109.gif",
+  "level": 2,
+  "name": "エレメンタル・タロット 『星』",
+  "rarity": "PR",
+  "side": "W",
+  "text": "集中 あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋Ｘ。Ｘは控え室に置かれたカードのレベル×1000に等しい。（クライマックスのレベルは0として扱う）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

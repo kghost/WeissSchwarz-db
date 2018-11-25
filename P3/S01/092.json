@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "今はもう護るだけの戦いじゃない！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_092.gif",
+  "level": 2,
+  "name": "美鶴＆アルテミシア",
+  "power": 6000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、キャラのいない他の枠に動かす。\n【自】 このカードがアタックした時、クライマックス置場に「誓い合った約束」があるなら、あなたは1枚引く。",
+  "trait": [
+    "生徒会",
+    "神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

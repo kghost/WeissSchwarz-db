@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "この子は本当にいくつになっても心配をかけて…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_008.gif",
+  "level": 2,
+  "name": "ヴァリエール公爵夫人",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "この週末はちとがっつりネトゲでもするカナー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_085.gif",
+  "level": 0,
+  "name": "オンラインゲーマーななこ",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたのレベルが0なら、あなたは自分の手札すべてを、山札に戻してシャッフルしてよい。そうしたら、あなたは同じ枚数引く。",
+  "trait": [
+    "先生",
+    "ネトゲ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

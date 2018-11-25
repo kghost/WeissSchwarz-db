@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いいだろ？　美夏たちはゼロ距離が相応しい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_066.gif",
+  "level": 1,
+  "name": "ふたりだけの時間 美夏",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋Ｘ。Ｘはそのキャラのコスト×1000に等しい。",
+  "trait": [
+    "メカ",
+    "バナナ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

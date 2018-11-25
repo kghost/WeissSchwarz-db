@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "木組みの街、何年ぶりかなぁ? 昔と全然変わってない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_051.gif",
+  "level": 0,
+  "name": "“懐かしい風景”モカ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《パン》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、あなたは自分の《パン》のキャラを2枚まで選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "パン",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

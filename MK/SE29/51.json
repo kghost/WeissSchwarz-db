@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se29/mk_se29_51.gif",
+  "level": 1,
+  "name": "“ギルティホームズ”徳井青空",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「総天然色祭」があるなら、そのターン中、このカードのパワーを＋Ｘし、このカードは緑と赤と青を得る。Ｘはあなたの《探偵》のキャラの枚数×500に等しい。",
+  "trait": [
+    "探偵",
+    "声優"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_103.gif",
+  "level": 3,
+  "name": "深窓の令嬢 戦場ヶ原ひたぎ",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《怪異》のキャラを1枚選び、手札に戻してよい。\n【起】[あなたの《怪異》のキャラを2枚【レスト】する] そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "怪異",
+    "文房具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

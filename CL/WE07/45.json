@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "こらっ、朋也！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_45.gif",
+  "level": 1,
+  "name": "暴走娘 杏",
+  "power": 5000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) あなたの《本》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "双子",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

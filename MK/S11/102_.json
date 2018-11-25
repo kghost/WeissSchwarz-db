@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ここは私たちの事務所なのよ？ 掃除くらいあたりまえのことでしょう？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_102.gif",
+  "level": 1,
+  "name": "“ミルキィホームズ”コーデリア",
+  "power": 5000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "探偵",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

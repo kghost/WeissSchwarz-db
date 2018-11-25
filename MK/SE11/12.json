@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "トリック・オア・トリートなう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_12.gif",
+  "level": 2,
+  "name": "いたずら好きな魔女 咲",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "警察",
+    "ヘッドフォン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

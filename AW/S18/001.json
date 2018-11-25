@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "負けるにしても…足掻いて足掻いて、見苦しく負けろ。\nせめてそれくらいできなきゃ…\nあの人の駒にすらなれない！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_001.gif",
+  "level": 0,
+  "name": "窮地のシルバー・クロウ",
+  "power": 1500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "アバター",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

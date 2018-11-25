@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ようこそジプシー、我が神秘の部屋に",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_t10.gif",
+  "level": 2,
+  "name": "学園の魔女",
+  "rarity": "TD",
+  "side": "W",
+  "text": "集中 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。相手は1か2か3を宣言する。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードの《オカルト》のキャラの枚数が相手の宣言した数と同じなら、あなたは1枚引く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "エルスティン「久しぶりに二人きりだから、甘えちゃおうかな」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we03/mh_we03_016.gif",
+  "level": 0,
+  "name": "ニナ＆エルスティン",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "エレメント",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

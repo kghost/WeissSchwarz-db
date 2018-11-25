@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "みんなで一緒に楽しいこと探しすれば、みんなで楽しくなって、笑顔になって、あたしも笑顔！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t70.gif",
+  "level": 2,
+  "name": "“花咲川の異空間”弦巻こころ",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "音楽",
+    "ハロー、ハッピーワールド！"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "またサカキ大尉か！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_40.gif",
+  "level": 0,
+  "name": "“艦長の決断”モーリ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の《アラトラム号》のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "アラトラム号",
+    "人類"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

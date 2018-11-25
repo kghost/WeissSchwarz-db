@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "でもですね、これまで、ドアがおうちの近くになかったので、\nちっとも帰れなかったんです\nだから、帰りましょう♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_093.gif",
+  "level": 1,
+  "name": "元気いっぱい 愛理",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "科学",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

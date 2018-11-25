@@ -1,0 +1,18 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "浴衣の淳和",
+  "power": 3000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "科学",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

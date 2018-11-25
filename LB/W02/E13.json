@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "やっぱり理樹は最高だぜ！！　いやっほーう！！\n理樹最高！！　筋肉さいこーう！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_e13.gif",
+  "level": 1,
+  "name": "“筋肉の革命児”真人",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、他のあなたの黄と緑のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "筋肉",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

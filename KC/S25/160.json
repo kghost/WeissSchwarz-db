@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "間宮のアイス、冷えてますよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_160.gif",
+  "level": 1,
+  "name": "給糧艦 間宮",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。\nあなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

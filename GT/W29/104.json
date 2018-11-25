@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "いつき「隅々まで調べるでしゅ」\nむつみ＆ななせ「おーー！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_104.gif",
+  "level": 1,
+  "name": "マッド・サイエンティスト 天道三姉妹",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ホムンクルス",
+    "タロット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

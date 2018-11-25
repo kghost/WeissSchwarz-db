@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "モモ「仲良くしましょ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_p03.gif",
+  "level": 0,
+  "name": "“二人は仲良し？”ヤミ＆モモ",
+  "power": 500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の、《宇宙人》か《変身》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "変身",
+    "宇宙人"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

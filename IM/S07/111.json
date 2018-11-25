@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "みなさんに、あたしたちのパワーを、ばばーんと、おすそわけしちゃいますっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_111.gif",
+  "level": 2,
+  "name": "新人アイドル 愛＆絵理＆涼",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを+500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

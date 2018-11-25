@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "そうよっ！　これは袖をあてて寝てたあとよ！\n無防備に眠りこけてたのよっ！ひとに時間厳守だって言っておいて、滑稽でしょ！\n間抜けでしょ！　笑いたいでしょ！　笑えばいいわっ！\nあーはっはっはっはっは！\nあーはっはっはっはっは！\nあーはっはっはっ――　",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we18/lb_we18_44.gif",
+  "level": 0,
+  "name": "“戦場のパートナー”理樹＆沙耶",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

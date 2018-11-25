@@ -1,0 +1,18 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_p21.gif",
+  "level": 0,
+  "name": "伊藤彩沙＆寺川愛美",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "探偵",
+    "声優"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

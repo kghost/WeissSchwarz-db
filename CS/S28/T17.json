@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "オラ、のはらしんのすけだゾ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_t17.gif",
+  "level": 2,
+  "name": "野原 しんのすけ",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「ケツだけ星人」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "家族",
+    "幼稚園"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

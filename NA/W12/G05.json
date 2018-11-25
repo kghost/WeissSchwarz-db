@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ジェットステップ、ＧＯーーッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g05.gif",
+  "level": 0,
+  "name": "ストライクアーツ ヴィヴィオ",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを正面に相手のキャラがいる、自分のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "魔法",
+    "オッドアイ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

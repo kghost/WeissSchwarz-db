@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "――ちゅ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_055.gif",
+  "level": 0,
+  "name": "恋人の証 美春",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ あなたのクライマックス置場に「美春の気持ち」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル0以下の《バナナ》のキャラを1枚まで選び、このカードがいた枠に置く。その山札をシャッフルする。",
+  "trait": [
+    "メカ",
+    "バナナ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

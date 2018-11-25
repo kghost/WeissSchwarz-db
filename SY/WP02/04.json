@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "へい、おまち！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_wp02/sy_wp02_04.gif",
+  "level": 1,
+  "name": "傍若無人 ハルヒ",
+  "power": 4500,
+  "rarity": "PS",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ある日の部室」があるなら、あなたは相手の前列のレベル0以下のキャラを1枚まで選び、控え室に置き、自分の控え室の、《団長》か《SOS団》のキャラを1枚まで選び、手札に戻す。",
+  "trait": [
+    "団長",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

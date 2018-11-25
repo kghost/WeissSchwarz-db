@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "奏と一緒なら、何とかなりそうな気がする",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_t13.gif",
+  "name": "あの頃は二人だった",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

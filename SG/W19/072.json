@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "これこそが地より屹立し、\n天にも届く一撃を放つ荷電粒子砲『カ・ディンギル』！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_072.gif",
+  "level": 2,
+  "name": "カ・ディンギル",
+  "rarity": "C",
+  "side": "W",
+  "text": "相手に6ダメージを与える。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

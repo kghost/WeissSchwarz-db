@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "そんな凶真には全部入れちゃうニャ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_071a.gif",
+  "level": 1,
+  "name": "目を見て混ぜ混ぜ",
+  "rarity": "U",
+  "side": "S",
+  "text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

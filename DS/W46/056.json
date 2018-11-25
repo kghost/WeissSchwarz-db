@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ほう、我が瞳の霊圧に立ち向かえるとは、さすが輝く者よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_056.gif",
+  "level": 1,
+  "name": "魔王の娘 依愛",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時か「お姫様の願い 依愛」の【起】の効果で舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《風南島》のキャラの枚数×500に等しい。\n【起】［あなたのキャラを2枚【レスト】する］ このカードを控え室に置く。あなたは自分の控え室の「お姫様の願い 依愛」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "風南島",
+    "中二病"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

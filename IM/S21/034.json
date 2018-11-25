@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "（僕のこと、バレたりしないかなぁ……）",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_034.gif",
+  "level": 0,
+  "name": "次世代の輝き 涼",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "女装"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

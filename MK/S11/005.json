@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ボクのトイズで、こんな事件\nあっという間に解決してみせる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_005.gif",
+  "level": 1,
+  "name": "譲崎 ネロ",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「ふたりっきりのデート」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを2枚まで選び、手札に戻す。",
+  "trait": [
+    "探偵",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

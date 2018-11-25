@@ -1,0 +1,18 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "由夢＆音姫",
+  "power": 5500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

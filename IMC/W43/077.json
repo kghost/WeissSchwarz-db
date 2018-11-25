@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "思い切って踏み出せば 何かが変わるのかも……\n自信がなくてちょっぴり 引っ込み思案なこんな私でも",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_077.gif",
+  "name": "Heart Voice",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

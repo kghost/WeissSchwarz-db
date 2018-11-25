@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "ゆかり、来てくれるか…一緒に",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_099.gif",
+  "name": "誓い合った約束",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

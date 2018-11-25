@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "はぁああっっ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_25.gif",
+  "level": 0,
+  "name": "タレミミ隊長 エクレ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《勇者》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［このカードを控え室に置く］ あなたは自分の《勇者》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "動物",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

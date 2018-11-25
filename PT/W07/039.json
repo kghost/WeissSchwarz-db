@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "このスピードで駆け抜けたときだけ、見える景色があったのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_039.gif",
+  "level": 0,
+  "name": "女狐クロウディア",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "暗黒街",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

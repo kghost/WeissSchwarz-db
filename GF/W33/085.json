@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "…あ、あけましておめでとうございます。今年もよろしくお願いしますね、先輩",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_085.gif",
+  "level": 0,
+  "name": "振袖 朝比奈桃子",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「笑顔快晴 葉月柚子」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「笑顔快晴 葉月柚子」を1枚選び、手札に戻す）\n【起】［(1) このカードを【レスト】する］ あなたは自分のカード名に「柚子」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "ガール",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

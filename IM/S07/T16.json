@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "目と目が逢う　瞬間好きだと気付いた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_t16.gif",
+  "name": "目が逢う瞬間",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

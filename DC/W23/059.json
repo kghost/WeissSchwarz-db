@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "これはすんごい財産だよ。普通の人じゃ一生かかっても\n手に入れられないかもしれない、そんな素敵な財産",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_059.gif",
+  "level": 0,
+  "name": "“友達”という宝物 舞佳",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。\n【永】 舞台にこのカードがいるなら、このカードは《鍋》を得る。",
+  "trait": [
+    "音楽",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

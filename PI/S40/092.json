@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "フォイアアァ―!!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_092.gif",
+  "level": 2,
+  "name": "“協力攻撃”美遊",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、「“協力攻撃”イリヤ」とカード名に「凛」を含むキャラがいるなら、このカードのパワーを＋4500。",
+  "trait": [
+    "マスター",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

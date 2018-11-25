@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "まひる「おはよう。華恋ちゃん」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_t14.gif",
+  "level": 2,
+  "name": "約束の髪留め",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の控え室の、カード名に「華恋」を含むキャラを1枚までとカード名に「ひかり」を含むキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

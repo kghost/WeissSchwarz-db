@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ごめんな、起こした？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_t12.gif",
+  "level": 1,
+  "name": "“八神家”はやて",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "本",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

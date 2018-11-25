@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あっぶなー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_060.gif",
+  "level": 0,
+  "name": "“緊急回避”ララ",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "宇宙人",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

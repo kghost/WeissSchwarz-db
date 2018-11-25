@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "level": 1,
+  "name": "“マジカル★アイドル”イリヤ",
+  "power": 4500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "マスター",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

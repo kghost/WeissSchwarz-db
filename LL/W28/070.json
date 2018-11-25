@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "は、恥ずかしいのであまり見ないでくださいね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_070.gif",
+  "level": 0,
+  "name": "パジャマの花陽",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、このカードのパワーを＋1000。\n【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“No brand girls”花陽」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "音楽",
+    "パジャマ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

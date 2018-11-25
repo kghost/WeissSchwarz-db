@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "眠い時はコーヒーが効くねぇ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p07.gif",
+  "level": 1,
+  "name": "“お腹がすいたら干し梅”しのり?",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 応援 このカードの前のあなたのレベル1以上のキャラすべてに、ソウルを＋1。",
+  "trait": [
+    "ビジュアルアーツ",
+    "宇宙人"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 4,
+  "flavor": "アラム「ケマミレ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_073.gif",
+  "level": 3,
+  "name": "守護竜の咆哮",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の手札を2枚選び、控え室に置いてよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

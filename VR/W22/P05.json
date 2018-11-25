@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "喉乾いたな?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vr_w22/vr_w22_p05.gif",
+  "level": 2,
+  "name": "真夏の海辺 ひまわり",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】他のあなたの、《工場》か《盾》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "鍵",
+    "工場"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

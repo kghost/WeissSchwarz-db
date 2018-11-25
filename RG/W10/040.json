@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "お昼作りすぎちゃったので、ご一緒にどうですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_040.gif",
+  "level": 0,
+  "name": "“視覚阻害”重福",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?1000し、《まゆげ》を与える。",
+  "trait": [
+    "超能力",
+    "まゆげ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

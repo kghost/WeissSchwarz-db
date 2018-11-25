@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "常盤台のお嬢様 黒子",
+  "power": 6000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「美琴」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "超能力",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

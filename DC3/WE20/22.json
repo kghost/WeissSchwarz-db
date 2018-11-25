@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ふふふ、清隆くんもなかなかですね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we20/dc3_we20_22.gif",
+  "level": 0,
+  "name": "水着の四季",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《生徒会》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "生徒会",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

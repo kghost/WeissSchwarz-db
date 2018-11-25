@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "今日の夕食は、じゃん！有宇お兄ちゃんの大好きなオムライスですーー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_t10.gif",
+  "level": 0,
+  "name": "“手作り料理の毎日”乙坂 歩未",
+  "power": 500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "ピザソース",
+    "家事"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

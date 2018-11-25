@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ハンジ「本名は、ヒストリア・レイスって言うんだって？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_079.gif",
+  "level": 2,
+  "name": "“貴族の出身”クリスタ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《兵団》のキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分の《兵団》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

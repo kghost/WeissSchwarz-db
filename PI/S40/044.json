@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_044.gif",
+  "level": 2,
+  "name": "壊れた幻想",
+  "rarity": "C",
+  "side": "S",
+  "text": "このカードは、あなたのカード名に「クロ」を含むキャラがいないなら、手札からプレイできない。あなたの控え室のクライマックスが2枚以上なら、あなたは相手のキャラを1枚選び、そのターン中、パワーを?3500し、自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

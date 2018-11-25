@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "かばん「フレンズさん、ですか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_107.gif",
+  "level": 1,
+  "name": "セルリアン（弱）",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手のコスト1以下の《フレンズ》のキャラを1枚選び、山札の下に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

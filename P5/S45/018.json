@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "テメェの化けの皮、ゼッテーひっぺがしてやる！\n…首洗って待ってろ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_018.gif",
+  "level": 1,
+  "name": "宣戦布告 竜司 / SKULL",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、前列の中央の枠にこのカードがいるなら、このカードのパワーを＋4000。\n【自】［あなたの前列の【スタンド】しているキャラを1枚とこのカードを入れ替える］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "怪盗",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "今日はお泊りだからね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_099.gif",
+  "name": "シャボン玉攻撃?！",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の青のキャラを2枚まで選び、そのターン中、パワーを＋2000し、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

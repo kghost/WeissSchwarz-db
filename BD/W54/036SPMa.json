@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_036spma.gif",
+  "level": 2,
+  "name": "“考えるより行動！”羽沢つぐみ",
+  "power": 3000,
+  "rarity": "SPM",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが3枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

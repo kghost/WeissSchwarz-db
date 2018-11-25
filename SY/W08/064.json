@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "こないと、死刑だから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_064.gif",
+  "level": 0,
+  "name": "涼宮 ハルヒ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "団長",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

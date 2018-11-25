@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "どうだいっ。この衣装めがっさ似合ってると思わないかなっ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_036.gif",
+  "level": 2,
+  "name": "ウェイトレス鶴屋さん",
+  "power": 7500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《時間》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「もうボロ儲けだよっ！」があるなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを?Ｘ。Ｘはあなたの《時間》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "オデコ",
+    "ウェイトレス"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

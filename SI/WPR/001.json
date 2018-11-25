@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "カードゲーム、しよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/si_wpr/si_wpr_001.gif",
+  "level": 0,
+  "name": "カードゲーム大好き！ しよ子",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "カードゲーム",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

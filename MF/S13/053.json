@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "アルト「あとでメールする」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_053.gif",
+  "level": 1,
+  "name": "至近距離 アルト＆ランカ",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「バジュラから逃げるアルト＆シェリル」1枚につき、このカードのパワーを＋1000。\n【自】 経験 他のあなたのバトル中のキャラが【リバース】した時、あなたのレベル置場のカードのレベルの合計が2以上なら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "パイロット",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

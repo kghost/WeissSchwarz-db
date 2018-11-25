@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "清隆「サラさんの代わりに、俺がクリサリスの名を\nもう一度世に知らしめる、そんな魔法使いになりますから」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_037.gif",
+  "level": 1,
+  "name": "愛する恋人のために",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、【スタンド】する。あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

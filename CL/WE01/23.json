@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "・・・うっとり",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_23.gif",
+  "level": 2,
+  "name": "旋律の破壊神ことみ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(7)］ このカードがアタックした時、クライマックス置場に「娘への贈り物」があるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカード以外のすべてのプレイヤーの前列のキャラすべてを、山札に戻す。それらの山札をシャッフルする。",
+  "trait": [
+    "本",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

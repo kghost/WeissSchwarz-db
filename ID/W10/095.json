@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "倒れ伏せ、侵入者ども！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w10/id_w10_095.gif",
+  "level": 2,
+  "name": "禁断の魔術師 アウレオルス＝イザード",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "魔法",
+    "錬金術"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

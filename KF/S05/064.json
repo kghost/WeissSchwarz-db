@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "闇に棲まうとも闇に支配されず。\n影に寄り添うとも影の理では生きぬ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_064.gif",
+  "level": 0,
+  "name": "デュオロン",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(3) このカードを【レスト】する］ あなたは自分の控え室のレベル1以下のキャラを1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "霊",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

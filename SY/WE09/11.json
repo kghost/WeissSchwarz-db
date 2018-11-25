@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ハルヒ「そう、これはSOS団内のセミ採り合戦なのよ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_we09/sy_we09_11.gif",
+  "level": 2,
+  "name": "セミ採り合戦 みくる",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《時間》か《SOS団》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "時間",
+    "SOS団"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

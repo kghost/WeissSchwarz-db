@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ヤ、ヤベー･･･",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-p19_pr.gif",
+  "level": 1,
+  "name": "キラキラ有咲",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『自動能力＠ アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。",
+  "trait": [
+    "音楽",
+    "盆栽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

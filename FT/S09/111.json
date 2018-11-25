@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "おまえにオレ様が止められるかな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_111.gif",
+  "level": 1,
+  "name": "“ギャングスター”ナツ",
+  "power": 5500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】この能力は1ターンにつき2回まで発動する。 あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

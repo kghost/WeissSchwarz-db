@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "えっと、今度は怒って、今度は笑って……\nああもう、ワケわかんないの?っ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_045.gif",
+  "level": 1,
+  "name": "表現力レッスン",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたの手札があるなら、あなたは自分の手札をランダムに1枚選んで公開し、あなたのキャラすべてに、そのターン中、パワーを＋Ｘ。Ｘは公開されたカードのレベル×1500に等しい。（クライマックスのレベルは0として扱う）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

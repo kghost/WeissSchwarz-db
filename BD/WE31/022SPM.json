@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_022spm.gif",
+  "level": 0,
+  "name": "“重なり合う青薔薇”湊友希那",
+  "power": 1000,
+  "rarity": "SPM",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「“重なり合う青薔薇”宇田川あこ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“重なり合う青薔薇”宇田川あこ」を1枚選び、手札に戻す）\n【自】 絆／「“重なり合う青薔薇”白金燐子」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“重なり合う青薔薇”白金燐子」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

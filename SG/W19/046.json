@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 3,
+  "flavor": "見せてやる。イチイバルの力だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_046.gif",
+  "level": 2,
+  "name": "イチイバル",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の、バトル中以外のレベル2以上のカード名に「クリス」を含むキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「雪音 クリス」を1枚選び、舞台のキャラのいない枠に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

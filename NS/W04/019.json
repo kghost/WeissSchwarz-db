@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ミッションスタートッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_019.gif",
+  "level": 2,
+  "name": "早朝訓練",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたのキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

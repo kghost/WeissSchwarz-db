@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "先に逝きなさい。\nいずれ、みんなソコに連れて行ってあげるから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_019.gif",
+  "level": 1,
+  "name": "暴走アルクェイド",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのアンコールステップの始めに、このカードを控え室に置く。",
+  "trait": [
+    "王族",
+    "血"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

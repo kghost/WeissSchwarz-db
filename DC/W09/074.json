@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "明日一日、美夏に、普通の……普通の楽しい学園生活を送らせてください！　よろしくお願いします！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_074.gif",
+  "name": "美夏の願い",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

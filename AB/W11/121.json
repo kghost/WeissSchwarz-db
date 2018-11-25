@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "最初の印象ほど、悪い奴らじゃねーよな、あいつら",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_121.gif",
+  "level": 0,
+  "name": "多生の絆 音無",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】[(1) 手札を1枚控え室に置く] このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分の控え室の《死》のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "死",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

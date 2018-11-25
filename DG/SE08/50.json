@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "もっと美味しいものが良かったなぁ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_50.gif",
+  "level": 0,
+  "name": "“スッポンパワー”フーカ",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "プリニー",
+    "死"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

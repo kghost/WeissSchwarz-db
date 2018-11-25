@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "は、恥ずかしいから、あんまり見ないで……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_60.gif",
+  "level": 1,
+  "name": "ボランティア巫女 麻耶",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「委員長の巫女姿」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《メカ》のキャラならストック置場に置く。（そうでないなら元に戻す）\n【起】［(1) このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードが《メカ》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "委員長",
+    "巫女"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "こ、この声アクア先輩!?まさか本物!?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_097.gif",
+  "level": 2,
+  "name": "先輩登場",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 このカードは、あなたの《女神》のキャラがいないなら、手札からプレイできない。\nあなたは自分の、《冒険者》か《女神》のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

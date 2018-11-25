@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "三つ星極制服、誂の装！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_079.gif",
+  "level": 0,
+  "name": "裁縫部部長 伊織",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《服》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "服",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

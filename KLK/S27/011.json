@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "たいしたものはないけど、どんどん食べてちょーだい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_011.gif",
+  "level": 0,
+  "name": "“超”マイペースお母さん 好代",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の、《服》か《家族》のキャラを1枚選び、そのターン中、ソウルを＋1し、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trait": [
+    "家族",
+    "コロッケ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

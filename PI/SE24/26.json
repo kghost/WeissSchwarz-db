@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se24/pi_se24_26.gif",
+  "level": 1,
+  "name": "翻弄されるイリヤ",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックス置場に「もう一人の私」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「もう一人の“イリヤ” クロ」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+  "trait": [
+    "マスター",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

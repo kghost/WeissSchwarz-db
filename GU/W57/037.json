@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "チノ「今も昔もリゼさんは優しいですね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_037.gif",
+  "level": 1,
+  "name": "“今も昔も優しい”リゼ",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の、《ラビットハウス》か《Dear My Sister》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラの枚数×500に等しい。",
+  "trait": [
+    "ラビットハウス",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "眞子「デートしてるところを見られたほうが、\n噂になっていいじゃない」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we30/dc_we30_27.gif",
+  "level": 0,
+  "name": "水着の眞子＆萌",
+  "power": 1000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《音楽》か《鍋》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "音楽",
+    "鍋"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

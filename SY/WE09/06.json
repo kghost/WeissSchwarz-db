@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "みくる(大)「チュウくらいならしちゃってもいいよ。ただし、寝てる間にね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_we09/sy_we09_06.gif",
+  "level": 1,
+  "name": "時間跳躍 キョン＆みくる",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《SOS団》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】［このカードを【レスト】する］ 他のあなたのキャラが舞台からクロック置場に置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。",
+  "trait": [
+    "時間",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

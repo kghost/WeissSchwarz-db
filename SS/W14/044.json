@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ねえ、覚えてる？あなたと契約した時のこと…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_044.gif",
+  "level": 0,
+  "name": "マティルダ・サントメール",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2) このカードを控え室に置く］ あなたは相手の前列のコスト1以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "炎",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

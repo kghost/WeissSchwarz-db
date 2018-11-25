@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "意外なことにオレもそう思ってるぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_051.gif",
+  "level": 0,
+  "name": "“筋肉旋風（センセーション）”真人",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500し、《筋肉》を与える。",
+  "trait": [
+    "筋肉",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

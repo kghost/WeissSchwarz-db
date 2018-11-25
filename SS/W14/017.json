@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "立ち向かうって決めたんだ。\nだから…今、この時を精一杯…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_017.gif",
+  "level": 0,
+  "name": "ロミオ役の悠二",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「対峙の時 シャナ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「対峙の時 シャナ」を1枚選び、手札に戻す）",
+  "trait": [
+    "炎",
+    "宝具"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

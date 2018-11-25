@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ん……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_095.gif",
+  "level": 1,
+  "name": "“森での遭遇”篝",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のクライマックス置場にクライマックスがあるなら、このカードのパワーを＋2000。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "鍵",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

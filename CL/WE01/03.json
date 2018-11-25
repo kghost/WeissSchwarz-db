@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おはようございます、岡崎さん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_03.gif",
+  "level": 1,
+  "name": "佇む少女 渚",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたのカード名に「古河」を含むキャラが4枚以上なら、あなたのキャラすべてに、そのターン中、ソウルを＋2。",
+  "trait": [
+    "演劇",
+    "だんご"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "三枝葉留佳はヤクタタズからジョブチェンジした！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_052.gif",
+  "level": 2,
+  "name": "“捜査官”葉留佳",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［(1)］ このカードとバトルしているレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、自分の控え室のキャラを1枚選び、手札に戻す。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "ビー玉",
+    "警察"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

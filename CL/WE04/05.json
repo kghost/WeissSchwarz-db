@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "やっぱりお前はいい子だな。お前でよかった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we04/cl_we04_05.gif",
+  "level": 0,
+  "name": "坂上 智代",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "生徒会",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

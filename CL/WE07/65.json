@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "今日の帰り付き合ってくれない？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_65.gif",
+  "level": 0,
+  "name": "藤林 杏",
+  "power": 1500,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のパワー500以下のキャラがいるなら、このカードのパワーを＋1500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "双子",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

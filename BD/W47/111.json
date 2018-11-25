@@ -1,0 +1,18 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-111_c.gif",
+  "level": 1,
+  "name": "初ライブ たえ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "うさぎ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

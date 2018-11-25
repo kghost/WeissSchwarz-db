@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ピロス「人形じゃないよ！　ピロスだよ。 アリスの唯一の友達なんだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_090.gif",
+  "level": 0,
+  "name": "ポーカーフェイス アリス",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "人形",
+    "手袋"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

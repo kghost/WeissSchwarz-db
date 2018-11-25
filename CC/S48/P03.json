@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "勝鬨をあげろ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_p03.gif",
+  "level": 2,
+  "name": "勝利の一声 ユリアナ",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの青のキャラの枚数×500に等しい。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

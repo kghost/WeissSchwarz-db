@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "この手だけは決して離さない！\nこの手はアンタとアタイの絆なんだからね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_004.gif",
+  "level": 1,
+  "name": "幼馴染ラズベリル",
+  "power": 3500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】絆／「魔王マオ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔王マオ」を1枚選び、手札に戻す）",
+  "trait": [
+    "悪魔",
+    "不良"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

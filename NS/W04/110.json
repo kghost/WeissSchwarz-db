@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私にとっては……いろんなことの、はじまりのきっかけでもあったから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_110.gif",
+  "level": 0,
+  "name": "フェイト・T・ハラオウン執務官",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】[(2)] あなたは自分のキャラを1枚選び、そのターン中、パワーを+2000し、ソウルを+1。",
+  "trait": [
+    "魔法",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

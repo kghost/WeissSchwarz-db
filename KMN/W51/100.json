@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "プリンセスはすごいな、振り付けも完璧だし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_100.gif",
+  "level": 0,
+  "name": "ちょっと休憩 コウテイ",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+  "trait": [
+    "フレンズ",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

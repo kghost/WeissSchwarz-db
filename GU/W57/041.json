@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ラビットハウスへようこそ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_041.gif",
+  "level": 0,
+  "name": "“いらっしゃいませ”ココア母",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたのカード名に「ココア」か「モカ」を含むキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。\n【自】［このカードをクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「ココア」か「モカ」を含むキャラなら手札に加える。（そうでないなら元に戻す）",
+  "trait": [
+    "パン",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

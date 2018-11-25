@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "この街は、いろんな色がひしめいてる。\nいろんな感情が――ひしめいてる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cn_se02/cn_se02_04.gif",
+  "level": 2,
+  "name": "駆け出しカメラマン マリア",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 あなたのクライマックス置場に「親愛なる友人」が置かれた時、このカードの正面のキャラが緑か赤なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。\n【自】 あなたのクライマックス置場に「親愛なる友人」が置かれた時、このカードの正面のキャラが黄か青なら、あなたは自分の山札を見てカード名に「カナン」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "カメラ",
+    "双子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

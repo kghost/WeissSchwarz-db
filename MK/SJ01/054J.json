@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_054.gif",
+  "name": "ヨコハマいちの名探偵",
+  "rarity": "C",
+  "side": "S",
+  "text": "【自】［『正解はひとつ!じゃない!!』のサビを踊る］ このカードが手札からクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのトリガーチェックでカードがでた時、そのカードがクライマックスなら、そのターン中、このカードの次に与えるダメージはキャンセルされない。そうでないなら、あなたに3ダメージを与える。』",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

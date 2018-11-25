@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "未来を計算するのが、私達アトラスの錬金術師",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_104.gif",
+  "level": 2,
+  "name": "錬金術師 シオン",
+  "power": 8500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "錬金術",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

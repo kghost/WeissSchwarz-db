@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "俺は捨てない！　過去も未来も人の気持ちも！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_s06/sb_s06_101.gif",
+  "level": 1,
+  "name": "“恋のかけひき”前田 慶次",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "武器",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

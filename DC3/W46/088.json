@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "えへへ。私のこと、ずっと離さないで下さいね。未来の旦那様――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w46/dc3_w46_088.gif",
+  "level": 1,
+  "name": "未来の花嫁さん サラ",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《魔法》か《スポーツ》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "魔法",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

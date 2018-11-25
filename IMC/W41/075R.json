@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "カワイイ衣装、カワイイ曲で、カワイイ猫チャンたちと可愛くダンス！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w00/dc_w00_000.gif",
+  "name": "あこがれのステージ",
+  "rarity": "RRR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

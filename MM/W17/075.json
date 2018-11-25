@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "まったく、人類とのコミュニケーションは本当に難しいなあ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_075.gif",
+  "level": 1,
+  "name": "地球外生命体 キュゥべえ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "宇宙人",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

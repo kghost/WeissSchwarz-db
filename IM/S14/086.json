@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ここは私たちの舞台です。千早と真の\n邪魔をする輩は、ご遠慮願います",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_086.gif",
+  "level": 2,
+  "name": "ピンクダイヤモンド７６５ 貴音",
+  "power": 8500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、他のあなたの、「ピンクダイヤモンド７６５ 千早」と「ピンクダイヤモンド７６５ 真」がいるなら、あなたはそのバトル相手を山札の下に置いてよい。",
+  "trait": [
+    "音楽",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "星のコドウを　そっとつかまえたなら　その手でだきしめて―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_t04.gif",
+  "level": 0,
+  "name": "“STAR BEAT!?ホシノコドウ?”牛込りみ",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "音楽",
+    "チョココロネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "玲二「薬室に１発、弾倉に１５発。ここにいる全員を殺して釣りがくる計算だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_046.gif",
+  "level": 2,
+  "name": "ベレッタM92FS",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手のキャラを1枚選び、そのターン中、パワーを?3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

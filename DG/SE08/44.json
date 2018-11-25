@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "アタシこそが史上最凶の真のラスボス、デスゼット様なんだからね！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_44.gif",
+  "level": 2,
+  "name": "“パーフェクトバージョン”デスゼット",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のレベルが3以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "悪魔",
+    "クローン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

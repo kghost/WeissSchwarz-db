@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あこちゃんが......湊さんのバンドに入りたいって言って......そ......そして、それが......わたしの人生も......変えたんです・・・",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t12r.gif",
+  "level": 2,
+  "name": "“この音しか聞こえない”白金燐子",
+  "power": 2500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

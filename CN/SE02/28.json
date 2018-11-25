@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "カナン「マリア、怪我はないか！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cn_se02/cn_se02_28.gif",
+  "level": 1,
+  "name": "“守るべき絆”カナン＆マリア",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを+500。",
+  "trait": [
+    "武器",
+    "あやとり"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

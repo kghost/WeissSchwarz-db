@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "『神北小毬、ファームから一軍に復帰』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_t10.gif",
+  "level": 0,
+  "name": "“成長株”小毬",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［手札のクライマックスを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の手札のレベル1以下のカード名に「小毬」を含むキャラを1枚まで選び、舞台の好きな枠に置く。",
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

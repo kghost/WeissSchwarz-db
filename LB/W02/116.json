@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "わかった。 ゲームスタートといこう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_116.gif",
+  "level": 1,
+  "name": "“闇の執行部部長”時風",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】[(3)] あなたは相手の前列のレベル1以下のキャラを1枚選び、手札に戻す。\n【自】 アンコール [手札のキャラを1枚控え室に置く] （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。 そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "仮面",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

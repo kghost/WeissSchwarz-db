@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あなたは、だれ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_068.gif",
+  "level": 2,
+  "name": "鏡よ、鏡",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたは自分の控え室の、自分の舞台にいるキャラと同じカード名のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

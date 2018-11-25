@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "古泉一樹です、…よろしく",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_015.gif",
+  "level": 0,
+  "name": "エプロン姿の古泉",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《団長》のキャラがいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "超能力",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

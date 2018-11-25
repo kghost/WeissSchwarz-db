@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "デバイスについて相談とかあったら、遠慮なく言ってね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_082.gif",
+  "level": 0,
+  "name": "メカニックデザイナー シャリオ",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《武器》か《メカ》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "メガネ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

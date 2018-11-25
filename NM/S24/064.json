@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "本当はただの秘密なんですけどね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_064.gif",
+  "level": 1,
+  "name": "ヒミツの話 八九寺真宵",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "怪異",
+    "霊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

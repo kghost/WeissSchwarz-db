@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "教官「犠牲を覚悟して壁外の巨人領域に挑む調査兵団」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_t11_td.gif",
+  "level": 2,
+  "name": "背に抱く紋章",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の《兵団》のキャラを1枚選び、そのターン中、パワーを＋8000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

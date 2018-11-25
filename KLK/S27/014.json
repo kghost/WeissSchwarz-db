@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "すんげぇ腕なんだよ。半分裸みたいな格好でハサミふるってさ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_014.gif",
+  "level": 1,
+  "name": "時代錯誤の悪ガキ 又郎",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2)］ あなたは相手のキャラを1枚選び、そのターン中、パワーを?500し、このカードのパワーを＋3000。",
+  "trait": [
+    "家族",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

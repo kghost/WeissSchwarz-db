@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "プロデューサーも、一緒にどうですか？\n２人でいい汗、かきましょうよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_097.gif",
+  "level": 2,
+  "name": "ダンスレッスン",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたの手札があるなら、あなたは自分の手札をランダムに1枚選び公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

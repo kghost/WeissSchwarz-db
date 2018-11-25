@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "どうやら君たちを呼んだのは間違いじゃなかったようだね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_108.gif",
+  "level": 0,
+  "name": "ゲームの神 テト",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 0,
+  "text": "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ゲーム",
+    "唯一神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

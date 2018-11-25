@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "心ゆくまでロボ部の活動を見てってよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_004.gif",
+  "level": 0,
+  "name": "新入部員歓迎会 海翔",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたがレベルアップした時、このカードを控え室に置く。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+  "trait": [
+    "科学",
+    "ゲーム"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ウェールズ「水と風は虹を作る。王家にかかる虹を」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_096.gif",
+  "level": 1,
+  "name": "王家に架かる虹",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《王族》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

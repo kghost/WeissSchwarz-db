@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "夢を示すのが王たる余の務め。そして王の示した夢を\n見極め、後世に語り継ぐのが臣たる貴様の務めである",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_040.gif",
+  "level": 1,
+  "name": "雄大な王 ライダー",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、すべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。あなたのこの効果で控え室に置かれたカードのレベルが相手のこの効果で控え室に置かれたカードのレベルより高いなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

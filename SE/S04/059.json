@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "アミちゃんが掃除なんてするわけないよ。全部、ボクのお仕事だもん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_059.gif",
+  "level": 0,
+  "name": "忠犬ファークリン",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】 集中 ［(2) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のクライマックスを1枚まで選び、手札に戻す。",
+  "trait": [
+    "動物",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "夢之原ミミが搭乗する、\n剣を装備したスピード重視のカートルーパー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_106.gif",
+  "level": 0,
+  "name": "スターラプター",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「スナイデル」と「ボルトヴァリアン」と「スティングーマ」がいるなら、このカードのパワーを＋1500し、ソウルを＋1。",
+  "trait": [
+    "科学",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

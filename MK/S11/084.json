@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "我が親愛なる怪盗帝国の騎士達…スリーカードよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_084.gif",
+  "level": 0,
+  "name": "怪盗帝国の首領 アルセーヌ",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「“スリーカード”トゥエンティ」と「“スリーカード”ストーンリバー」と「“スリーカード”ラット」すべてに、パワーを＋1000。",
+  "trait": [
+    "怪盗",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

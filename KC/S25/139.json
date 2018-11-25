@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "一捻りで黙らせてやりますわ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_139.gif",
+  "level": 2,
+  "name": "最上型航空巡洋艦4番艦 熊野改",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 他のあなたの《艦娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "航空巡洋艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

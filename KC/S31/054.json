@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "主砲等から発射される落下傘付の照明弾です。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-054.gif",
+  "level": 2,
+  "name": "照明弾",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの《艦娘》のキャラが2枚以下なら、手札からプレイできない。\nあなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。\nあなたのキャラすべてに、そのターン中、パワーを＋1000。\n相手の前列のキャラすべてに、そのターン中、パワーを?1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

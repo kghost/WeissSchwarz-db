@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "やあごめんごめん！　遅れちゃった！捕まえるのに手間取っちゃって！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_055.gif",
+  "level": 0,
+  "name": "世界の中心ハルヒ＆ちっぽけなハルヒ",
+  "power": 2500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+  "trait": [
+    "団長",
+    "SOS団"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

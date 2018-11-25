@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "エルフナイン「みなさん、特訓しなくて平気なんですか？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_078.gif",
+  "level": 0,
+  "name": "海辺の特訓 響＆エルフナイン",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「イグナイトモジュール」を1枚選び、手札に戻す。",
+  "trait": [
+    "錬金術",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

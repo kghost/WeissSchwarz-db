@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ハルオ「……！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_09.gif",
+  "level": 1,
+  "name": "“警戒の目”マイナ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのキャラのトリガーチェックで「“耳澄ます”フツアの民」がでた時、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "双子",
+    "フツア"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ここにある服ぜんぶ、同じくらい欲しいんだもん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_002.gif",
+  "level": 2,
+  "name": "ファントムの助手キャル",
+  "power": 5000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋500し、ソウルを＋1。\n【自】［(1)］ あなたのクライマックス置場に「報酬」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のコスト0以下のキャラを1枚選び、ストック置場に置く。",
+  "trait": [
+    "時計",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

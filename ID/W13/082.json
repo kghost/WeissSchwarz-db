@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "あんまり根を詰めるのは良くないんだよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/id_w13/id_w13_082.gif",
+  "level": 2,
+  "name": "不思議シスター インデックス",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 相手のターン中、あなたの思い出置場の《魔法》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 あなたのクライマックス置場に「魔滅の声」が置かれた時、前列にこのカードがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かしてよい。",
+  "trait": [
+    "魔法",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

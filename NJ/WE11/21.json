@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ちょっと阪本と散歩してくる",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_21.gif",
+  "level": 1,
+  "name": "コスプレ はかせ",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) あなたの山札の上から1枚をクロック置場に置く］ あなたは自分のカード名に「なの」を含むキャラを1枚選び、そのターン中、《武器》を与え、次の能力を与える。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』",
+  "trait": [
+    "科学",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

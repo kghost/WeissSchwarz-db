@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "この命の一かけらまで…謙信様のために…フフフ…悔いは…ない…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_s06/sb_s06_090.gif",
+  "level": 0,
+  "name": "“美しき剣”かすが",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《薔薇》のキャラがいるなら、このカードのパワーを＋2000。\n【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+  "trait": [
+    "忍",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

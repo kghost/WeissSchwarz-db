@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "もう子供じゃないですよ?だ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_011.gif",
+  "level": 3,
+  "name": "水着のさくら",
+  "power": 9000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 大活躍\n【自】 このカードがアタックした時、クライマックス置場に「魔法使いの見る夢」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。\n【起】［(6)］ あなたは相手の前列のキャラすべてを、手札に戻す。",
+  "trait": [
+    "魔法",
+    "水着"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

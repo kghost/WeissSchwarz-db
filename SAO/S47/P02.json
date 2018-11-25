@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "君と出会う時まで、必ず生き残る",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s47/sao_s47_p02.gif",
+  "level": 2,
+  "name": "再開の約束 キリト",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手の控え室のクライマックスが5枚以上なら、あなたの手札のこのカードのレベルを?1。\n【自】 他のあなたの、《アバター》か《ネット》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

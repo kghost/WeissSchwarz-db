@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "俺たちは、もう一度ゴジラと戦わなきゃならない。人としての尊厳を取り戻すために",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_s54/gzl_s54_t16.gif",
+  "level": 3,
+  "name": "“希望の先導者”ハルオ",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［(3) 手札を2枚控え室に置き、他のあなたの舞台のキャラを1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+  "trait": [
+    "アラトラム号",
+    "人類"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

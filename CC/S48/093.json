@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "くっ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_093.gif",
+  "level": 1,
+  "name": "千河の氏族長 ラファーガ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《武器》のキャラと《魔法》のキャラがそれぞれ2枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "味は　大丈夫だと思うんだけど…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_059.gif",
+  "level": 1,
+  "name": "パティシエかがみ",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードとバトルしているキャラがレベル1以下で《お菓子》なら、あなたはそのキャラを【リバース】してよい。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "双子",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

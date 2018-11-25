@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "弟くんは、その、私のこと、どう思ってる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we20/dc_we20_01.gif",
+  "level": 0,
+  "name": "桜色の告白 音姫",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の、《魔法》か《生徒会》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《魔法》か《生徒会》のキャラの枚数×500に等しい。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

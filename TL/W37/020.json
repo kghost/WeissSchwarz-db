@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "じ?…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_020.gif",
+  "level": 1,
+  "name": "“南国ビーチリゾート”ヤミ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "変身",
+    "たいやき"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

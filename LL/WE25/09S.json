@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "どう？これなら本当のレースクイーンって言っても通るわよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we25/ll_we25_09s.gif",
+  "level": 0,
+  "name": "“ハラショー♪” 絵里",
+  "power": 3000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

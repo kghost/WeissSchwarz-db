@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "そうよ。あなたは気がつかなかった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_108.gif",
+  "level": 2,
+  "name": "“素っ気無し 愛想無し 配慮無し”佳奈多",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 ［(1)］ そのターン中、このカードは「三枝 葉留佳」としても扱う。",
+  "trait": [
+    "委員長",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

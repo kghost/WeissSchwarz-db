@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "おいひい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w46/dc3_w46_097.gif",
+  "level": 2,
+  "name": "律儀な腹ペコ珍獣 美琴",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》か《愛》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋4。（公開したカードは元に戻す）",
+  "trait": [
+    "新聞",
+    "愛"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

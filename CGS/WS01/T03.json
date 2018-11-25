@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "闇道(闇道ルビ：ヤミロード)高等学校(偏差値3)で送る夢の学園生活",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cgs_ws01/cgs_ws01_t03.gif",
+  "level": 0,
+  "name": "まだ見ぬ強敵(強敵ルビ：とも)たち",
+  "power": 3500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "カードゲーム",
+    "暗黒街"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

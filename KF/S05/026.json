@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "分かったかね？これが戦闘のプロと\nそうでない者との差だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_026.gif",
+  "level": 2,
+  "name": "冷徹なる暗殺者ハイデルン",
+  "power": 6500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《軍隊》のキャラすべてに、パワーを＋500。\n【自】 相手が『【自】 アンコール』を使った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（ルールによる『【自】 アンコール ［(3)］』も含む）",
+  "trait": [
+    "軍隊",
+    "眼帯"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

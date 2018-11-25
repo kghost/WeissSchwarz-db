@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "アイン「持ち方は……こう。トリガーには指を掛けないで」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_022.gif",
+  "level": 2,
+  "name": "訓練",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】　あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

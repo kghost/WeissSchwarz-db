@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ウオッホン！仲良きことは美しきことかな。\n諸君、団結の心を、忘れてはならんぞ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_042.gif",
+  "level": 1,
+  "name": "高木順一朗",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたのキャラすべてに、次の能力を与える。『【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。』",
+  "trait": [
+    "音楽",
+    "影"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

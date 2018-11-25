@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "こんな格好までさせたんだから、その…後でいろいろお返しはあるんでしょうね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_134.gif",
+  "level": 1,
+  "name": "照れサンタ 夏目真尋",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、そのターン中、このカードのソウルを＋4。",
+  "trait": [
+    "ガール",
+    "コスプレ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "杉並、聞こえているなら大人しく投降したまえ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_008.gif",
+  "level": 0,
+  "name": "学園の風物詩 巴",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

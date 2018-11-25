@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "やです。先輩から先輩なんて呼ばれるのは。\n先輩にはさらって呼んで欲しいです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_t13.gif",
+  "level": 0,
+  "name": "ちょっぴり甘えん坊 さら",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "新聞",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

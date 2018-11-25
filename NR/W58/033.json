@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "故あって私はさっきのピンクの子…\n私の妹を追いかけています",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_033.gif",
+  "level": 1,
+  "name": "家族のため アミタ",
+  "power": 3000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。\n【自】 バトル中のこのカードが【リバース】した時、あなたは他の自分の《フォーミュラ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "武器",
+    "フォーミュラ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

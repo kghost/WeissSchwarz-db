@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "幸せとか、嬉しいとか、気持ちいいとか、そういうこと全てが複雑に混ざり合っていっぺんに来る感じ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_w46/ds_w46_024.gif",
+  "level": 0,
+  "name": "言葉にならない気持ち 遥月",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "風南島",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

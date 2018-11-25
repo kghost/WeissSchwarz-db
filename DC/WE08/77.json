@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ね、義之。こっち来て",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_77.gif",
+  "level": 0,
+  "name": "新しい制服 エリカ",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《王族》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "生徒会",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

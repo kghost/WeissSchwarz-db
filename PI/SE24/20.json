@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se24/pi_se24_20.gif",
+  "level": 1,
+  "name": "結ばれた絆 美遊",
+  "power": 3000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ 他のあなたのカード名に「イリヤ」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 絆／「いつもの風景 イリヤ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「いつもの風景 イリヤ」を1枚選び、手札に戻す）",
+  "trait": [
+    "マスター",
+    "魔法"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

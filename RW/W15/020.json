@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "GOOD-BYE, My Brother!\nSee you in the next Life!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_020.gif",
+  "level": 1,
+  "name": "“永遠のライバル”晴彦",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "不良",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

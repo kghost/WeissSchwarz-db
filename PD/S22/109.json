@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "ネットゲーム世界は今日も\n隔離 哀れ 蔓延る効率厨、々",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_109.gif",
+  "name": "ネトゲ廃人シュプレヒコール",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

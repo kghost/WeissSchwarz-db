@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "アリカ「ニナちゃん、いっくよ?っ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we05/mh_we05_04.gif",
+  "level": 0,
+  "name": "“蒼天と海神”アリカ＆ニナ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "エレメント",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

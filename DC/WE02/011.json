@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "よし、鬼は桜内だな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_011.gif",
+  "level": 1,
+  "name": "豆まき美夏",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「杏」を含むキャラがいるなら、このカードは次の能力を得る。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』\n【永】 他のあなたの《委員長》のキャラがいるなら、このカードのパワーを＋1000。",
+  "trait": [
+    "メカ",
+    "バナナ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "マシロちゃんは、私が絶対に守ってみせる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we03/mh_we03_005.gif",
+  "level": 1,
+  "name": "アリカ・ユメミヤ",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、あなたのレベル置場に「マシロ・ブラン・ド・ヴィントブルーム」があるなら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に「空を舞う乙女」があるなら、あなたは他の自分のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "エレメント",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "リオン「なんて愛らしい！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we28/hll_we28_33.gif",
+  "level": 3,
+  "name": "緊急参戦 ニーナ",
+  "power": 9500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを?1。\n【永】 他のあなたの、《定理者》か《使者》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "定理者",
+    "使者"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

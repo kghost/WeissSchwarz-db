@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "い･･････いえーい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-091_r.gif",
+  "level": 2,
+  "name": "Starrin’ PARTY 市ヶ谷有咲",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【CXコンボ】 あなたのクライマックス置場に「私たち Poppin'Party」が置かれた時、あなたのレベルが3以上なら、あなたは他の自分のキャラを1枚選び、【スタンド】し、そのターン中、そのキャラのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "盆栽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

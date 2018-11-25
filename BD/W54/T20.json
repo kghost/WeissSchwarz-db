@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "芸の道も、ブシドーと一緒です！極めるには、たゆまぬ努力が必要なんですよねっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t20.gif",
+  "level": 0,
+  "name": "“みんな応援してます！”若宮イヴ",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見る。（見たカードは元に戻す）",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

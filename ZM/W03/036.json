@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "サイトさんも頑張って下さいね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_036.gif",
+  "level": 3,
+  "name": "シエスタ",
+  "power": 9500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 大活躍\n【自】 このカードがアタックした時、クライマックス置場に「二人でお風呂」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。\n【起】［(4)］ あなたは自分のキャラすべてに、そのターン中、パワーを＋3000。",
+  "trait": [
+    "メイド",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

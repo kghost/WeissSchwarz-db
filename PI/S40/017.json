@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あー学校に来たときの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_017.gif",
+  "level": 0,
+  "name": "“メイドのアルバイト”凛",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《宝石》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "宝石",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

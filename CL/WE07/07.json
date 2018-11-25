@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "パパ?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_07.gif",
+  "level": 0,
+  "name": "岡崎 汐",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《演劇》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "動物",
+    "だんご"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

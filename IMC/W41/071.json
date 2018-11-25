@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_071.gif",
+  "level": 2,
+  "name": "new generationsの絆",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の山札の上から3枚を、控え室に置いてよい。あなたは自分の控え室の、黄のキャラを1枚までと赤のキャラを1枚までと青のキャラを1枚まで選び、手札に戻す。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "決めたんだ……！あの人みたいに強くなるって……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_046.gif",
+  "level": 2,
+  "name": "ウィングロード",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

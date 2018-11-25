@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "弦十郎「あいつらメディカルルームからリンカーを持ち出しやがった！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_046.gif",
+  "level": 1,
+  "name": "LiNKER model_K",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の、カード名に「切歌」を含むキャラとカード名に「調」を含むキャラを1枚ずつ別々に選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

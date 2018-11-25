@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "これで、わたしたちは一心同体だからね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_023.gif",
+  "level": 1,
+  "name": "ふたりだけのひみつ",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたのカード名に「音姫」を含むキャラすべてに、パワーを＋500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

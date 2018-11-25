@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "朝倉君、早く食べないと美味しくなくなっちゃいますよ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_078.gif",
+  "level": 0,
+  "name": "アツアツな二人 萌",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《鍋》のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは2枚引き、自分の手札を2枚選び、控え室に置く。",
+  "trait": [
+    "音楽",
+    "鍋"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

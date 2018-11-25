@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "そう……異世界からやってきたカワイイ小動物と契約して\nあたしは運命に立ち向かう魔法少女に……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_110.gif",
+  "level": 0,
+  "name": "お人好し妄想ガール ほたる",
+  "power": 2000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "ストライカー",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

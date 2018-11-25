@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "安心して。そんな心配しなくても今回こそ完全に叩き潰してあげるわよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_078.gif",
+  "level": 1,
+  "name": "高坂 まゆき",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のクロックの「非公式新聞部 杉並」を1枚選び、ストック置場に置いてよい。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "生徒会",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

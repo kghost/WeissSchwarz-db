@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "そういえば本当にゆさりんが転入してきたのでしょーかー？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_p02.gif",
+  "level": 1,
+  "name": "“大興奮！”乙坂 歩未",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "trait": [
+    "能力者",
+    "ピザソース"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "後世に残したい見事な無様さだったねぇ、ご期待に応えようか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s46/rz_s46_086.gif",
+  "level": 0,
+  "name": "火の精霊 パック",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 あなたがレベルアップした時、このカードを控え室に置く。",
+  "trait": [
+    "魔法",
+    "精霊"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

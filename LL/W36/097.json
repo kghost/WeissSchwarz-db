@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "はっ、はっ……　冬は走ってると、息が白くなるのが面白いにゃー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_097.gif",
+  "level": 2,
+  "name": "今年は大吉！",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたの《音楽》のキャラが2枚以下なら、手札からプレイできない。あなたは相手のコスト1以下のキャラを1枚選び、山札の下に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

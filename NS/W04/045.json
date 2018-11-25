@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "あたしとティアはコンビなんだから……一緒に頑張るの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_045.gif",
+  "level": 2,
+  "name": "勝手にすれば？",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

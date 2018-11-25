@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "あはは。それで息切れしないようにね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_018.gif",
+  "level": 1,
+  "name": "体操着のまひる",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "たとえ話",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

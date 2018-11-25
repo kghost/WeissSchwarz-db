@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "しっかり準備はできてる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_048.gif",
+  "level": 1,
+  "name": "“一緒におでかけ♪”にこ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

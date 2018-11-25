@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ふにゃあっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_098.gif",
+  "level": 2,
+  "name": "しろねこモード",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。あなたはバトル中のキャラを1枚選び、そのターン中、ソウルを?1。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_t21.gif",
+  "level": 2,
+  "name": "転校生とのエチュード 天堂 真矢",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "レヴュー",
+    "主席"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

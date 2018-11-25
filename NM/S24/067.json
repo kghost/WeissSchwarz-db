@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "『どのような怪我をしようと回復し、\nどんな病気もすぐ治癒し、寿命まで生ききる。\nそして死に――また転生する』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_067.gif",
+  "name": "つきひフェニックス",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

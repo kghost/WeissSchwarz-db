@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "悪魔の声は　突き刺さり消えない\n仮面の裏を　さあ引き 剥がして",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_098b.gif",
+  "name": "ACUTE",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

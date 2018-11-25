@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "この舞は……私にとって、とてもとても大切な意味を持つ舞ですから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_050.gif",
+  "name": "わたくしの大切な人のために……",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

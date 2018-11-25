@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "はいはい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se31/pi_se31_37.gif",
+  "level": 3,
+  "name": "ハデスの隠れ兜",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の2つの能力を与える。\n『【永】 このカードはフロントアタックできない。』\n『【永】 このカードの正面のキャラはフロントアタックできない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "シモン！受け取れェェエ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_056.gif",
+  "level": 3,
+  "name": "それを…待っていた！！",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたのクロックが4枚以上なら、あなたは自分の手札の《大グレン団》のキャラを2枚選び、控え室に置いてよい。そうしたら、以下の効果を好きな順番で1回ずつ行う。\n『あなたはバトル中のレベル3のキャラを1枚選び、そのターン中、ソウルを?3。』\n『あなたは自分の控え室の「ギガドリルブレイク」を1枚選び、手札に戻す。』\n『あなたは自分の山札の上から2枚までを、ストック置場に置く。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "優しくて、かっこよくて、面白くて、背が高くて、スポーツマンで、頭が良くて、浮気しないで、マメで、おしゃれで、清潔感があって、価値観が一緒で、あと料理うまくて、運転うまくて、字がきれいで、今まで付き合った人数が４人以下で、でも童貞は駄目で、年は５０００万以上で別荘持ってて",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_p10.gif",
+  "level": 1,
+  "name": "弱井 トト子",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの黄のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+  "trait": [
+    "音楽",
+    "魚"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

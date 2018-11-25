@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "真人「試合だっ！」\n謙吾「勝つぞーー！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_006.gif",
+  "level": 2,
+  "name": "“リトルバスターズ”謙吾＆真人",
+  "power": 9000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードの正面のキャラのソウルを＋1。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのソウル×1000に等しい。",
+  "trait": [
+    "筋肉",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

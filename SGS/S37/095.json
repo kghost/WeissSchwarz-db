@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "これがゲームじゃない現実なんだって\nいつも自分に言い聞かせています",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_095.gif",
+  "level": 2,
+  "name": "理論派 真乃",
+  "power": 10000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "ストライカー",
+    "カードゲーム"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "誰も、未来を受け止められない。だったら、私は――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_028.gif",
+  "level": 2,
+  "name": "時の魔法少女 ほむら",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。\n【自】［手札の《魔法》のキャラを1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「時の魔法少女 ほむら」を1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "魔法",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

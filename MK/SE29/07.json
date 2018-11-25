@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "3秒、時間を戻せるトイズです。たかが3秒、されど3秒。\n戦いでは絶大な威力を発揮します",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se29/mk_se29_07.gif",
+  "level": 3,
+  "name": "モリアーティ教授",
+  "power": 10000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［手札を1枚控え室に置く］ 相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のストックを上から3枚まで見て、山札の上に好きな順番で置く。",
+  "trait": [
+    "怪盗",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

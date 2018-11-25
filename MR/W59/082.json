@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私は後方からサポートします！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_082.gif",
+  "level": 2,
+  "name": "援護射撃 いろは",
+  "power": 1000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックスフェイズの始めに、あなたは他のレベル2以下のキャラを1枚選び、そのターン中、レベルを＋1か?1。",
+  "trait": [
+    "魔法",
+    "ヒール"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

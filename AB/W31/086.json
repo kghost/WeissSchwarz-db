@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ゆり「彼、ハンドルネーム・竹山くんを作戦チームに登用」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_086.gif",
+  "level": 0,
+  "name": "天才ハッカー 竹山",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたの《死》のキャラすべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。』",
+  "trait": [
+    "死",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

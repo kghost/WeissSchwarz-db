@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "美春「こんにちはです朝倉先輩」\n音夢「なにしてるの兄さん」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we30/dc_we30_17.gif",
+  "level": 1,
+  "name": "色づく恋模様 音夢＆美春",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "バナナ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

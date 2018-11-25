@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "う?ん、何か変なのよね。意志を感じるの。\n真相をごまかそうとしているような意志を",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_116.gif",
+  "level": 0,
+  "name": "事件の予感 律子",
+  "power": 500,
+  "rarity": "RE",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「涼」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら手札に加え、自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+  "trait": [
+    "音楽",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "五十鈴です。職業は『吟遊詩人』。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lh_se20/lh_se20_05.gif",
+  "level": 1,
+  "name": "五十鈴",
+  "power": 3500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "武器",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "驚きましたよ。突然、何をなさるんですか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rz_s55/rz_s55_011.gif",
+  "level": 1,
+  "name": "落ち着いた所作 ラインハルト",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋2000。\n【自】【CXコンボ】 あなたのキャラがアタックした時、クライマックス置場に「剣撃」があり、前列にこのカードがいるなら、そのターン中、あなたはそのアタックしているキャラのソウルを?1してよい。そうしたら、そのターン中、そのアタックしているキャラのパワーを＋2000。",
+  "trait": [
+    "武器",
+    "騎士"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "Ｐ「まあ、あからさまなゴシップ記事なんで、みんなも気にしないと思いますけど」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-072.gif",
+  "level": 3,
+  "name": "週刊芸能ラッシュ",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードを思い出にする。相手にＸダメージを与え、あなたは自分のキャラをＸ枚選び、そのターン中、パワーを＋2000。Ｘはあなたの思い出置場の「週刊芸能ラッシュ」の枚数に等しい。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

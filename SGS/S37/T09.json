@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "まっほー！ まなだよー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_t09.gif",
+  "level": 1,
+  "name": "天真爛漫 まな",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "ストライカー",
+    "カードゲーム"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

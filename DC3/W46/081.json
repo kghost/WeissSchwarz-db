@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "エトは最後に、またきっと会えるって！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w46/dc3_w46_081.gif",
+  "level": 2,
+  "name": "エトが願ったこと シャルル",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 記憶 このカードがアタックした時、あなたの思い出が2枚以上なら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《魔法》か《生徒会》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

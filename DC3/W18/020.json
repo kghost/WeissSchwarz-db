@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "さくら「これ……なんだか知ってるの？」\nリッカ「桜じゃないの？　見たことのない種類だけど」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_020.gif",
+  "name": "咲き続ける花",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

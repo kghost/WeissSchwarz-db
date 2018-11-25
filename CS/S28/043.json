@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "しんのすけ「マサオくんは泣き虫だし」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_043.gif",
+  "level": 1,
+  "name": "気弱な性格 マサオくん",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "幼稚園",
+    "泣き虫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

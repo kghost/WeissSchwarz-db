@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "ずっとイライラしてたのに……今は力が湧いてくる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_068.gif",
+  "name": "何でもできる",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

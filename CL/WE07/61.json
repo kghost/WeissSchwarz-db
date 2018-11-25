@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "よかったら、私のお姉ちゃんの結婚式をお祝いしてください！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_61.gif",
+  "level": 0,
+  "name": "伊吹 風子",
+  "power": 1000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの赤と青のキャラがいるなら、他のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "ヒトデ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "シモンがアニキさんを信じたように、私もシモンを信じます！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_038.gif",
+  "level": 3,
+  "name": "信じる心 ニア",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの《大グレン団》のキャラすべてに、パワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《大グレン団》のキャラの枚数に等しい。\n【起】［このカードを【レスト】する］ あなたの思い出が2枚以下なら、あなたは自分の控え室のキャラを1枚選び、思い出にする。",
+  "trait": [
+    "大グレン団",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

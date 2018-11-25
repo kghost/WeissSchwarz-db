@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“F６”十四松",
+  "power": 5500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+  "trait": [
+    "６つ子",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "『主はやてのそれは…病気ではなかった…』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_t14.gif",
+  "level": 2,
+  "name": "闇の書の呪い",
+  "rarity": "TD",
+  "side": "W",
+  "text": "このカードは、あなたの《本》のキャラがいないなら、手札からプレイできない。\nあなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "互いの力と運命とが、残るべき者を決めるでしょう。…来なさい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_061.gif",
+  "level": 3,
+  "name": "タカヤ＆ヒュプノス",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 大活躍\n【自】 このカードがプレイされて舞台に置かれた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「ニュクス・アバター」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "魔法",
+    "神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "又兵衛「おたわむれが過ぎますっ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_099.gif",
+  "name": "抑えきれない気持ち",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "“今を大切に”真美",
+  "power": 2000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの《双子》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "trait": [
+    "音楽",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

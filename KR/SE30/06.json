@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "武器は…これだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_06.gif",
+  "level": 1,
+  "name": "“千の風ストリーム”りんね",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。\n【自】 他のあなたの、緑か《契約黒猫》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "死神",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

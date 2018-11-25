@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "改装された皐月、どう？　……試してみる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_p01.gif",
+  "level": 1,
+  "name": "睦月型駆逐艦5番艦 皐月改ニ",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「睦月型駆逐艦5番艦 皐月」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

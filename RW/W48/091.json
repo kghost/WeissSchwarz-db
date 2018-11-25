@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "気にするな、天王寺。だとしても私はこれまでと…変わらないだけだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_091.gif",
+  "level": 0,
+  "name": "“諦めの微笑”ルチア",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "委員長",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

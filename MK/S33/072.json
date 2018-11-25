@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "IQ1000ぐらいの超天才美少女、明智小衣ちゃんですー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_072.gif",
+  "level": 3,
+  "name": "ニセ小衣",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの《警察》のキャラがいないなら、手札からプレイできない。\n相手にＸダメージを与える。Ｘはあなたの控え室のクライマックスの枚数に等しい。（ダメージキャンセルは発生する）\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

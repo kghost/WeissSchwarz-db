@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ごめん、綾波。口に合わなかったかな？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_003.gif",
+  "level": 0,
+  "name": "お弁当役 シンジ",
+  "power": 1000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「アスカ」か「綾波」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「アスカ」か「綾波」を含むキャラを1枚選び、そのターン中、パワーを＋500し、《お弁当》を与える。",
+  "trait": [
+    "パイロット",
+    "お弁当"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

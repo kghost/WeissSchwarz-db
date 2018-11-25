@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ぎる「クリボイログ…鉄鉱石、同サイズ最強の捕食者、\nそれに巨大生物の混合体…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_067.gif",
+  "level": 1,
+  "name": "対峙",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手の前列のコスト1以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

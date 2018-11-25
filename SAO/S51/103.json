@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "さー、戦闘開始だよ、ミュージックスタート！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s51/sao_s51_103.gif",
+  "level": 1,
+  "name": "ボーナスタイム！ ユナ",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、相手は2枚引いてよい。そうしたら、相手は自分の手札を2枚選び、控え室に置く。",
+  "trait": [
+    "ネット",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

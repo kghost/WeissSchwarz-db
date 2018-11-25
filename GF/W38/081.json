@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "おー、これにも反応するんだ。　おっもしろ！\nじゃあ、これはどうだい？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_081.gif",
+  "level": 0,
+  "name": "ロックンキャット 黒川凪子",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「これでっす 江藤くるみ」すべてに、パワーを＋1000。\n【自】 絆／「これでっす 江藤くるみ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「これでっす 江藤くるみ」を1枚選び、手札に戻す）",
+  "trait": [
+    "ガール",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

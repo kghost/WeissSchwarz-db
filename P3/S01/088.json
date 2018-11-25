@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "大切な人を目の前で失う気持ち…さっきの君を見て、わかった気がする",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_088.gif",
+  "level": 0,
+  "name": "平賀 慶介",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを上から1枚選び、控え室に置く。",
+  "trait": [
+    "メガネ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

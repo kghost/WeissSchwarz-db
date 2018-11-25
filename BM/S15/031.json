@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_031.gif",
+  "level": 2,
+  "name": "暦の恋人 戦場ヶ原ひたぎ",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 このカードのパワーを＋Ｘ。Ｘはあなたのレベル置場のカードのレベルの合計×500に等しい。",
+  "trait": [
+    "怪異",
+    "文房具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

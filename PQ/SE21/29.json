@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "貴方がたをお客人として、できる限りの\nお手伝いをさせていただきます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pq_se21/pq_se21_29.gif",
+  "level": 2,
+  "name": "“ベルベットルームの住人”マーガレット",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［他のあなたの前列のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「騒がしい食事」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、キャラを1枚まで選び、舞台のキャラのいない枠に【レスト】して置き、残りのカードを控え室に置く。",
+  "trait": [
+    "本",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

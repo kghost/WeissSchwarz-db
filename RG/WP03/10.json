@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ちょっとしたモヤモヤが晴れたからね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_wp03/rg_wp03_10.gif",
+  "level": 0,
+  "name": "気分上々 美琴",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

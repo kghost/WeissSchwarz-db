@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_071.gif",
+  "level": 1,
+  "name": "目覚めの儀式",
+  "rarity": "U",
+  "side": "S",
+  "text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

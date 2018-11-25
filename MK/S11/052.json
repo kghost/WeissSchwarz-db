@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あなたが犯人ですね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_052.gif",
+  "level": 2,
+  "name": "ドジっ子探偵 シャロ",
+  "power": 8500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「シャーロックの膝枕」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "探偵",
+    "カメラ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

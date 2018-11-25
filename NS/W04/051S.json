@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "ヴィヴィオ",
+  "power": 2000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「“エース・オブ・エース”なのは」と「“真ソニックフォーム”フェイト」すべてに、パワーを＋1000。",
+  "trait": [
+    "オッドアイ",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

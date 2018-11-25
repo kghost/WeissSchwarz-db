@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "桜「ライダーは塀の守りに専念して。 中に入ってきたのはわたしが追い返すから……！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_021sp.gif",
+  "level": 1,
+  "name": "同じ運命 桜＆ライダー",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「大切な場所」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trait": [
+    "マスター",
+    "サーヴァント"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

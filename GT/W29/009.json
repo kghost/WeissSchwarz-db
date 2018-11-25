@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "そうだ…それで良い",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_009.gif",
+  "level": 0,
+  "name": "謎の存在 ラプラス",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《タロット》か《使い魔》のキャラすべてに、レベルを＋1。",
+  "trait": [
+    "動物",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

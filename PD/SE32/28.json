@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あれやこれや言いました　どうか探してみせて\nウソと本音の間　上手く隠しといたんで",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_se32/pd_se32_28.gif",
+  "level": 1,
+  "name": "初音ミク“バンデージハート”",
+  "power": 4500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+  "trait": [
+    "音楽",
+    "包帯"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

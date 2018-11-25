@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "どなたにお任せになられても\nきっとご期待にそえると思いますっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_088.gif",
+  "level": 0,
+  "name": "アルセーヌの執事 ユタカ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《怪盗》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "怪盗",
+    "執事"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

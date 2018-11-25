@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "だって、この先に明るい未来なんてないんですから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_004.gif",
+  "level": 1,
+  "name": "贅沢な悩み",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\nそのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

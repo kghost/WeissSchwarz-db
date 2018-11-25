@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "それじゃ………いくわよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_049.gif",
+  "level": 2,
+  "name": "マージョリー＆マルコシアス",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場の《炎》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置き、あなたの【スタンド】しているキャラを2枚【レスト】する］ このカードがアタックした時、クライマックス置場に「掴んだ手掛かり」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "炎",
+    "本"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

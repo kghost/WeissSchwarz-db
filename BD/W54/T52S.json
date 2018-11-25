@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "……モカ、次おどかしてきたら強めに殴る",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t52s.gif",
+  "level": 3,
+  "name": "“怖くないし！”美竹蘭",
+  "power": 10000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《Afterglow》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

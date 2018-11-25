@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "『誇り高き遠坂の嫡子に、去りゆく先代の一人として\nかけるべき言葉は、あと一つしかありはしない』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_084.gif",
+  "name": "凛との別れ",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

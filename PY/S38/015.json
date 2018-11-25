@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "さすが、このサタンさまのフィアンセだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_015.gif",
+  "level": 2,
+  "name": "アルルがフィアンセ!? サタン",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ あなたのクライマックス置場に「私に逆らうからだ」が置かれた時、あなたのストックが5枚以下なら、あなたはコストを払ってよい。そうしたら、以下の効果のうちあなたが選んだ1つを行う。『あなたは自分の手札の「ぷよ地獄を創造!? サタン」を1枚まで選び、このカードがいた枠に置く。』『あなたは自分の控え室のコスト0以下のキャラを3枚まで選び、舞台の別々の枠に置く。』",
+  "trait": [
+    "ぷよ",
+    "ツノ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "あたし、理樹くんのことが好き",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_t15.gif",
+  "level": 1,
+  "name": "不思議な既視感",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを山札の上に好きな順番で置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

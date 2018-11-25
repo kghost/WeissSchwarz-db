@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se24/pi_se24_15.gif",
+  "level": 2,
+  "name": "封印指定執行者 バゼット",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(5)］ 相手のクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "男装",
+    "宝具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

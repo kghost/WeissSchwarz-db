@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ほら！話合わせてよ……！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_p02.gif",
+  "level": 1,
+  "name": "ラブラブカップル！？ 千棘",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "令嬢",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

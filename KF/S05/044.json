@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "いつもそばにいる……\nそんな気がするんだ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_044.gif",
+  "level": 2,
+  "name": "Ж'ネームレス",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "クローン",
+    "改造"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

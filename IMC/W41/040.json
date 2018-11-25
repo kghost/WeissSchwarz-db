@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "それ以外に何か？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_040.gif",
+  "level": 0,
+  "name": "千川 ちひろ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《音楽》のキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋500し、《ドリンク》を与える。\n【起】[(2) このカードを【レスト】する］ あなたは1枚引く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

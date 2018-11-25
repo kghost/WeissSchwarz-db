@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ここは夢と現実、精神と物質の狭間にある場所…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_093.gif",
+  "level": 2,
+  "name": "ベルベットルーム",
+  "rarity": "R",
+  "side": "S",
+  "text": "あなたは1枚引く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

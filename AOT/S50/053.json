@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "食料、持って来ました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s50/aot_s50_053.gif",
+  "level": 3,
+  "name": "“自由を掴むため”サシャ",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置き、相手のレベルＸ以下のキャラを1枚まで選び、控え室に置く。Ｘはそのカードのレベルに等しい。（クライマックスのレベルは0として扱う）\n【自】 このカードがアタックした時、他のあなたの《兵団》のキャラが2枚以上なら、そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あかりさん……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_028.gif",
+  "level": 0,
+  "name": "水着のるな",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 他のあなたの「朝日に輝く せいら」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の控え室の「強い虚栄心 るな」を1枚選び、このカードがいた枠に置く。』",
+  "trait": [
+    "タロット",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

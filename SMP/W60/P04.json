@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あたしの名前は、空門蒼よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_p04.gif",
+  "level": 0,
+  "name": "“島の伝承を追う少女”蒼",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《サマポケ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "サマポケ",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

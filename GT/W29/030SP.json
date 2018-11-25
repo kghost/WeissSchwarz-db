@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "『審判』の使い手 アリエル",
+  "power": 5000,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの「『世界』の使い手 エティア」がアタックした時、そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "タロット",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "隊長さまのおかげです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_126.gif",
+  "level": 1,
+  "name": "晴れ舞台 夕依",
+  "power": 6000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。\n【自】 他のあなたの青のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "ストライカー",
+    "巫女"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

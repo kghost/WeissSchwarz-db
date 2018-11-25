@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ちひろ「毎晩遅くまで大変ですね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_070.gif",
+  "level": 2,
+  "name": "スタミナドリンク",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 以下の効果のうちあなたが選んだ1つを行う。\n『あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋3500。』\n『あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。』\n『あなたは自分の山札を見て「エナジードリンク」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

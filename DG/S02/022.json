@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ウサギ「腕に自身のある方は参加してみては？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_022.gif",
+  "level": 2,
+  "name": "武闘会開催！",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

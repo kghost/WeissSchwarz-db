@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "これから大逆転するところだったんだよ、余計な\n世話を焼かないでくれるかな、お姉ちゃん――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_079.gif",
+  "level": 2,
+  "name": "敗者の強がり",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《怪異》のキャラの枚数に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

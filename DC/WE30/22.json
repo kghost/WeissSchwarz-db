@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "主導権はわたし！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we30/dc_we30_22.gif",
+  "level": 1,
+  "name": "特別留学生エリカ",
+  "power": 6000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《王族》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "王族",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

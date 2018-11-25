@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "闇の書の起動を確認しました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_097.gif",
+  "level": 1,
+  "name": "守護騎士プログラム",
+  "rarity": "C",
+  "side": "W",
+  "text": "このカードを思い出にする。\n記憶 思い出置場にこのカードがあるなら、あなたのカード名に「はやて」を含むキャラすべてに、パワーを＋500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

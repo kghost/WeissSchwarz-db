@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "今度の日曜日、どっかにいかないか？　",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_02.gif",
+  "level": 1,
+  "name": "デートに誘う朋也",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 絆／「だんご大好き渚」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「だんご大好き渚」を1枚選び、手札に戻す）",
+  "trait": [
+    "不良",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

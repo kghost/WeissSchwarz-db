@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "“守護騎士”ヴィータ",
+  "power": 7500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクロックが0枚なら、このカードはアタックできない。",
+  "trait": [
+    "魔法",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "もうちょっとだけ、泣かせてくれ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_045.gif",
+  "level": 1,
+  "name": "涙とめどなく…",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のストックの上から1枚を見る。そのカードがコスト1以下の《スポーツ》のキャラなら、舞台の好きな枠に置いてよい。（そうでないなら元に戻す）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

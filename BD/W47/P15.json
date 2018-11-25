@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "「戸山香澄役の愛美と！」　「山吹沙綾役の大橋彩香です！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_p15.gif",
+  "name": "キラキラドキドキしようよ♪",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】あなたのキラキラしているキャラすべてに、《ドキドキ》を与える!!!!!",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

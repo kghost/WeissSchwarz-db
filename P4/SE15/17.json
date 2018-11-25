@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "ウチの…大事な…約束なんやぁぁぁーッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_17.gif",
+  "name": "ラビリスの怒り",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "倒れていった者の願いと、後から続く者の希望。\n二つの想いを、二重螺旋に織り込んで…明日へと続く道を掘る！\nそれが天元突破！！それがグレンラガン！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_088.gif",
+  "name": "俺のドリルは！天を創るドリルだァ！！！！",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

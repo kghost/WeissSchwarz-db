@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "美智留「そしたら、トモが来てくれたんだよ……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_087.gif",
+  "level": 0,
+  "name": "カッコいい男の子 倫也",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「懐かしい記憶 美智留」すべてに、パワーを＋1000。\n【自】［手札の《ゲーム》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「懐かしい記憶 美智留」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ゲーム",
+    "オタク"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

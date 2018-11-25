@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "オレを二人がかりで押し切ろうとでも企んだか。オレは構わんぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_t03.gif",
+  "level": 1,
+  "name": "“宣戦布告”赤のランサー",
+  "power": 4500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの後列の、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋500。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「激突する槍と剣」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "サーヴァント",
+    "太陽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

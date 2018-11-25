@@ -1,0 +1,18 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_38.gif",
+  "level": 0,
+  "name": "ゆっこ＆みお＆麻衣",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "漫画",
+    "仏像"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "…感謝を、天王寺瑚太朗…\n…利己的な私を、慈しんだ者…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_071.gif",
+  "level": 2,
+  "name": "“優しい言葉”篝",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたの思い出置場に｢可能性の系統樹｣があるなら、このカードのパワーを＋1500。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「出会い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。その後、あなたの手札が2枚以下なら、あなたは1枚引く。",
+  "trait": [
+    "鍵",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

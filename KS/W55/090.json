@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "今でもしっかり残ってて、邪悪な存在が立ち入れないようになってるはずよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_090.gif",
+  "level": 0,
+  "name": "“うっかりメイド”アクア",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を公開し、そのターン中、このカードのパワーを＋Ｘ。Ｘは公開されたカードのレベル×3000に等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "冒険者",
+    "女神"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

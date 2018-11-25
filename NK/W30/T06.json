@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "そっ！そうよ、誰がこんな……！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_t06.gif",
+  "level": 2,
+  "name": "三角関係？ 千棘",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《鍵》か《武器》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "令嬢",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

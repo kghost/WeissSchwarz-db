@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "じっと見てるなんて、不躾じゃないの、あなた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_we21/lb_we21_11.gif",
+  "level": 1,
+  "name": "巫女神楽 佳奈多",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが4枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、他のあなたのカード名に「葉留佳」か「佳奈多」を含むキャラが3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "委員長",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

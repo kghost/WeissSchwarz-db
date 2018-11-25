@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "見えてきたよフェイトちゃん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_030s.gif",
+  "level": 0,
+  "name": "月夜のお出かけ なのは",
+  "power": 3000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《魔法》か《武器》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

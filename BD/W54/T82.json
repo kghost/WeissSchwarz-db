@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "それにお客さんの数がすごかったでしょ！？心臓が破裂しちゃうかと思ったよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t82.gif",
+  "level": 1,
+  "name": "“緊張してきちゃった”牛込りみ",
+  "power": 6000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+  "trait": [
+    "音楽",
+    "Poppin'Party"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

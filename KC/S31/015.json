@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "私が一番？やっぱり？　そうよね！　だって速いもん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-015.gif",
+  "level": 1,
+  "name": "島風型駆逐艦 島風改",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《艦娘》のキャラの枚数×500に等しい。",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

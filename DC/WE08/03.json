@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "こんなに楽しかったの、ほんと久しぶりだよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_03.gif",
+  "level": 0,
+  "name": "世界が忘れた少女 アイシア",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードが舞台から思い出置場に置かれた時、このカードをストック置場に置く。",
+  "trait": [
+    "魔法",
+    "オモチャ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

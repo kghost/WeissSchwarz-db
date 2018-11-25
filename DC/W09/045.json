@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ミキ「ちょ、ちょっとやめてよね、あんたたち……。 これだから、似た物カップルってのは」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_045.gif",
+  "level": 1,
+  "name": "夢見ていた情景",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

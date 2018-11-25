@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "死は全ての終わり。その後に何を付け足そうと、意味はない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_052.gif",
+  "level": 2,
+  "name": "最大の恐怖アイン",
+  "power": 5500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「名前」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが2以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

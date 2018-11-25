@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "うん……可愛い。それにする……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_084.gif",
+  "level": 1,
+  "name": "スキーウェアを選ぶ杏",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「家族の顔」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+  "trait": [
+    "魔法",
+    "演劇"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

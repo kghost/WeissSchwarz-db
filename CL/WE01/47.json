@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "『コンボがつながった』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_47.gif",
+  "level": 2,
+  "name": "春原コンボ",
+  "rarity": "PR",
+  "side": "W",
+  "text": "あなたは自分のクロック置場の「春原 陽平」を1枚選び、控え室に置く。 あなたのカード名に「朋也」を含むキャラがいるなら、あなたは自分の控え室の「春原 陽平」を1枚選び、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "うん……\nいい感じな気がする……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_027h.gif",
+  "level": 2,
+  "name": "“重なり合う青薔薇”白金燐子",
+  "power": 5000,
+  "rarity": "HR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【CXコンボ】［手札を1枚控え室に置き、あなたの【スタンド】している《Roselia》のキャラを2枚【レスト】する］ あなたのクライマックス置場に「重なり合う青薔薇」が置かれた時、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

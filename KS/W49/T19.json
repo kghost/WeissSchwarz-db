@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "あはは……女神だって信じてもらえなかったんですけど",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_t19.gif",
+  "level": 2,
+  "name": "エリス教徒の同情",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《冒険者》か《女神》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

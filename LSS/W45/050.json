@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ユメノトビラ　ずっと探し続けた\n君と僕とのつながりを探してた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_050.gif",
+  "level": 2,
+  "name": "“ユメノトビラ”桜内 梨子",
+  "power": 7000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋2000。\n【自】 あなたのクライマックス置場に「差し伸ばした手」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

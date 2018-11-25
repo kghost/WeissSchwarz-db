@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "誰も見たことないもの見て、誰も知らなかったことを知らなきゃいけないの！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sk_we03/sk_we03_001.gif",
+  "level": 0,
+  "name": "秋葉＆妹子",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "コロニー",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

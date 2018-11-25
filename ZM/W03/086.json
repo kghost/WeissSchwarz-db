@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ああ、ずっと会いたかった…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_086.gif",
+  "level": 3,
+  "name": "アンリエッタ・ド・トリステイン",
+  "power": 9000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 大活躍\n【自】 このカードがアタックした時、クライマックス置場に「風と水の誓い」があるなら、あなたは1枚引く。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のクロックを上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "魔法",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

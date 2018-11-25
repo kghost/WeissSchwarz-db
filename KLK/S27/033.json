@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ありがとう、纏さん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_033.gif",
+  "level": 0,
+  "name": "風紀部トラップ開発員 大暮",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "メガネ",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

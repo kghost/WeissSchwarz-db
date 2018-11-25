@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_014.gif",
+  "level": 2,
+  "name": "決戦 フェイト",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「雷神の一撃」があるなら、そのターン中、相手はイベントと『助太刀』を手札からプレイできない。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

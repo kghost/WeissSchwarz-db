@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "気合！入れて！行きます！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_083.gif",
+  "level": 3,
+  "name": "金剛型戦艦2番艦 比叡",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《艦娘》のキャラを1枚選び、手札に戻してよい。\n【起】［他のあなたの《艦娘》のキャラを2枚【レスト】し、このカードを控え室に置く］ あなたは自分の控え室の「金剛型戦艦2番艦 比叡改二」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋1000。",
+  "trait": [
+    "艦娘",
+    "戦艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

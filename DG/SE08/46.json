@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "ヴァルバトーゼ「この戦いはプリニーのためではない!! 俺が約束を果たすための……イワシのための戦いなのだッッ!!!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_46.gif",
+  "level": 3,
+  "name": "地獄の反逆者",
+  "rarity": "PR",
+  "side": "S",
+  "text": "相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

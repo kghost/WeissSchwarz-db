@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ねぇ、おにいちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_015.gif",
+  "level": 1,
+  "name": "“なくしたもの”小毬",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［このカードをクロック置場に置く］ あなたのアンコールステップの始めに、クライマックス置場に「新しい物語」があるなら、あなたはコストを払ってよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の控え室の「“すてきなこと”小毬」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。",
+  "trait": [
+    "お菓子",
+    "童話"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

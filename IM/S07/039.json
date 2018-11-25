@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ここはわたくし１人で十分です。\n他の者は立ち去りなさい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_039.gif",
+  "level": 0,
+  "name": "王女の貫録 貴音",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "穂乃果隊員！出動です！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we25/ll_we25_05s.gif",
+  "level": 0,
+  "name": "“炎の心”穂乃果",
+  "power": 2000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたの前列の中央の枠のキャラに、そのターン中、レベルを＋1し、パワーを＋1500。",
+  "trait": [
+    "音楽",
+    "消防士"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

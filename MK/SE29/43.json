@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ストーンリバー「アルセーヌ様以外のボヨヨンに籠絡されるなど、弁明の余地がないほどの不覚…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se29/mk_se29_43.gif",
+  "level": 1,
+  "name": "慈愛の後光 アルセーヌ",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 バトル中のこのカードが【リバース】した時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。",
+  "trait": [
+    "怪盗",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

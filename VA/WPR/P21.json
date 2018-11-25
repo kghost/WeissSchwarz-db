@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "なんでも運びます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p21.gif",
+  "level": 0,
+  "name": "“雑用王”Ｄ坂本",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］ あなたはキャラを2枚まで選び、そのターン中、《ビジュアルアーツ》を与える。\n【起】［このカードを控え室に置く］ あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "ビジュアルアーツ",
+    "へたれ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

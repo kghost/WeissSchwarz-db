@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "闇の書「Ich löse die Versiegelung auf.」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n2_w25/n2_w25_078.gif",
+  "level": 3,
+  "name": "闇の書覚醒",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたのカード名に「はやて」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室の「将の宣言 シグナム」を1枚までと「屋上の邂逅 ヴィータ」を1枚までと「サポート役 シャマル」を1枚までと「突貫 ザフィーラ」を1枚まで選び、舞台の別々の枠に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

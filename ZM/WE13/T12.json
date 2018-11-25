@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "ルイズ「サイト！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_we13/zm_we13_t12.gif",
+  "name": "サモン・サーヴァント",
+  "rarity": "C",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Shot]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "trigger": [
+    "SHOT",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

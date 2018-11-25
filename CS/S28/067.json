@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ただちに急行して迎撃せよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_067.gif",
+  "level": 0,
+  "name": "万博防衛隊 ひろし",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "家族",
+    "サラリーマン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "皆さん！ボクの渾身の１曲、聞いて下さい！\n曲のタイトルは……『迷走Ｍind』！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_057.gif",
+  "level": 2,
+  "name": "やる気たっぷり真",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの思い出置場に「プレゼント」があるなら、このカードのパワーを＋1500。\n【自】［(4)］ このカードがサイドアタックした時、クライマックス置場に「迷走Mind」があるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）",
+  "trait": [
+    "音楽",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

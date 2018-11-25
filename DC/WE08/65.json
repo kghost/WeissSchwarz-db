@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "思いつめたような表情。\n泣き腫らした目で、ぎゅっと唇をかみ締めていた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_65.gif",
+  "level": 1,
+  "name": "決意",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋2。ターンの終わりに、そのキャラを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

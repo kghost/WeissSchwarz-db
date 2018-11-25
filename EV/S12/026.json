@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "じゃ、このことは他言無用で♡\nネルフのワンコくん♡",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_026.gif",
+  "level": 1,
+  "name": "真希波・マリ・イラストリアス",
+  "power": 6000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「屋上の遭遇」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "パイロット",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

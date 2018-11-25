@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "プールサイドでじっくり見学するのが、楽しいやんな？何を見るのか……って、それ聞いちゃう？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we25/ll_we25_11s.gif",
+  "level": 1,
+  "name": "“真夏の果実☆”東條 希",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "水着"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

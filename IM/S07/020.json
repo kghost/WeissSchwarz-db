@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "兄ちゃん、亜美達、わかったよ！\nこれが演技力の極意なんだね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_020.gif",
+  "level": 1,
+  "name": "演技力レッスン",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたの手札があるなら、あなたは自分の手札をランダムに1枚選び公開し、自分のキャラをＸ枚まで選び、そのターン中、パワーを＋1000し、ソウルを＋2。Ｘは公開されたカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

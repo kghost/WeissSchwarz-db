@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "杉並「まあ、ともあれここに載っている連中には目をつけられないよう注意してくれ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_078.gif",
+  "level": 0,
+  "name": "“3バカ”杉並＆義之＆渉",
+  "power": 1500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の空いている枠に動かしてよい。\n【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。",
+  "trait": [
+    "オカルト",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

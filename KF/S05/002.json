@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "京「八神……」\n庵「京……貴様を殺すのは、この俺だ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_002.gif",
+  "level": 2,
+  "name": "京＆庵",
+  "power": 7000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの控え室に「日輪と月輪」があるなら、このカードのソウルを＋1。\n【自】 あなたのクライマックス置場に「660年前の因縁」が置かれた時、あなたは自分の控え室の「日輪と月輪」を1枚選び、手札に戻してよい。",
+  "trait": [
+    "神器",
+    "オロチ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

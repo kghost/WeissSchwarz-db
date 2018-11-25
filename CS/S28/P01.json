@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "それはお前の本当の憎しみか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_p01.gif",
+  "level": 1,
+  "name": "封印された拳 アクション仮面",
+  "power": 7500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのクロックが2枚以下なら、このカードはアタックできない。\n※このカードは「クレヨンしんちゃん」のデッキに１枚だけ入れることができます。（2014/4/11現在）",
+  "trait": [
+    "仮面",
+    "ヒーロー"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

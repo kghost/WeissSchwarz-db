@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いやあ、強力で楽しい武器だねえ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_063.gif",
+  "level": 1,
+  "name": "連発式グレネード・ランチャー",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたのカード名に「フカ」か「美優」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の手札の「連発式グレネード・ランチャー」を1枚選び、控え室に置いてよい。そうしたら、相手のキャラすべてに、そのターン中、パワーを－1500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

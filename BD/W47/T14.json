@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "本当はずっと気付いてた 記憶の底 小さな声 聞こえる―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w47/bd_w47_t14.gif",
+  "level": 0,
+  "name": "“STAR BEAT!?ホシノコドウ?”花園たえ",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードをクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "うさぎ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

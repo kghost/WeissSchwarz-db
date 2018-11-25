@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "そう、ここは終末世界。\nそしてフードを被った謎の黒幕こと、私――――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_060.gif",
+  "level": 1,
+  "name": "“ドクターアンバー”琥珀",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(3) あなたの舞台のレベル2以上のカード名に「秋葉」を含むキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の「Ｇ秋葉」を1枚選び、舞台の好きな枠に置く。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "trait": [
+    "双子",
+    "和服"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

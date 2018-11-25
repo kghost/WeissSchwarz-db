@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 4,
+  "flavor": "ゆかり「みなみちゃーん回覧板ーー」\nゆかり「みなみちゃんはクールでカッコいいねぇ?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_072.gif",
+  "level": 2,
+  "name": "わんことみなみ",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手の控え室のカードをＸ枚まで選び、山札に戻す。その山札をシャッフルする。Ｘはあなたの《保健室》のキャラの枚数に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

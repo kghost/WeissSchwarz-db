@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "行くYO！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_t04.gif",
+  "level": 0,
+  "name": "“誘いの電話”リゼ",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ラビットハウス",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

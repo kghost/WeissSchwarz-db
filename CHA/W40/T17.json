@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "いえ、その可能性がある者、前兆が見える者、そういう生徒のほうが多くいます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_t17.gif",
+  "level": 2,
+  "name": "高城 丈士朗",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋2000。",
+  "trait": [
+    "能力者",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

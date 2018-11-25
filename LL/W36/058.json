@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ふかしたてのおまんじゅうって、ハフハフってして熱いけど、おいしいからオススメだよ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_058.gif",
+  "level": 1,
+  "name": "“穂むらの看板娘”高坂 穂乃果",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

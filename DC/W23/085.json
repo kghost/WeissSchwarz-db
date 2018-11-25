@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あとちょっとでひと段落つくから……\n待っていてくださいねぇ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_085.gif",
+  "level": 1,
+  "name": "ゆったりとした時間 莉乃",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2) このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ドングリ",
+    "美術"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

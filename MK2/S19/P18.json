@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "カズミ「もしかして、ミルキィホームズより\n有名になっちゃうかも」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_p18.gif",
+  "level": 0,
+  "name": "可愛い後輩 アリス＆カズミ",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】他のあなたの「可愛い後輩 アリス＆カズミ」がアタックした時、そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "探偵",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "わっせ、わっせ、わっせ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_105.gif",
+  "level": 2,
+  "name": "SD十四松",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのキャラすべてがカード名に「松」を含むなら、このカードのパワーを＋2000。",
+  "trait": [
+    "６つ子",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

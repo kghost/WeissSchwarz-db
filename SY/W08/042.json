@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "禁則事項です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_042.gif",
+  "level": 1,
+  "name": "未来から来たみくる",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。\n【自】［(1)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ウェイトレスみくる」を1枚選び、このカードがいた枠に【レスト】して置く。",
+  "trait": [
+    "時間",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

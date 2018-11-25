@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "キャロル「慌てるな、落ち着け。\nよし、唄うぞ――エルフナインッ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_040.gif",
+  "level": 0,
+  "name": "【初めてのカラオケ】エルフナイン＆キャロル",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。\n【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のレベル0以下の《音楽》のキャラを1枚選び、控え室に置いてよい。",
+  "trait": [
+    "錬金術",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

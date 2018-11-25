@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "名探偵シャーロック！\nいえ、名名名名名名名名名名探偵シャーロック！\nあなたに不可能はありません！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_se11/mk_se11_24.gif",
+  "level": 0,
+  "name": "マーロ国の王女 クラリス",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《探偵》のキャラすべてに、《除湿機》を与える。\n【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のカード名に「シャロ」を含むキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。",
+  "trait": [
+    "王族",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ハルヒ「ほらほら！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_wp02/sy_wp02_09.gif",
+  "level": 3,
+  "name": "夏の眼福 ハルヒ＆みくる",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エンドレスエイト」を2枚まで選び、手札に戻す。\n【起】［あなたの思い出置場の「エンドレスエイト」を8枚控え室に置く］ 8回、次の行動を行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）",
+  "trait": [
+    "団長",
+    "SOS団"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

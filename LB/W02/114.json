@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "じゃ、殺す。 今すぐ殺す。 とりあえず殺す。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_114_.gif",
+  "level": 0,
+  "name": "“非情な諜報員”沙耶",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】[(3)] あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

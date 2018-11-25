@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "癒しの祈り さやか",
+  "power": 6500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。",
+  "trait": [
+    "魔法",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

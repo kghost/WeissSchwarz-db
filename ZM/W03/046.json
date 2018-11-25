@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あれ？　は、はずれね?！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_046.gif",
+  "level": 1,
+  "name": "メドゥーサの眼鏡",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手の山札を上から4枚まで見て、山札の上に好きな順番で置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

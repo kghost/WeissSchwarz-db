@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "う?ん、さすが僕たちだね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_009.gif",
+  "level": 1,
+  "name": "“ゆ”うしゅう（？）な探偵 ネロ",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは0か1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードがあなたの宣言したレベルのカードなら手札に加える。そうでないなら元に戻し、ごまかし笑いをする。（クライマックスのレベルは0として扱う）",
+  "trait": [
+    "探偵",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

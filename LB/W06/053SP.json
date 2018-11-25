@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "“優秀なスパイ？”沙耶",
+  "power": 2500,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

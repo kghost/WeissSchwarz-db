@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "皆さんおは☆らっきー\nらっきー☆ちゃんねるのパーソナリティの小神あきらでーすっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_027.gif",
+  "level": 2,
+  "name": "小神 あきら",
+  "power": 7500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手の【スタンド】しているキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「らっきーちゃんねる」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの【スタンド】しているキャラの枚数×1000に等しい。",
+  "trait": [
+    "テレビ",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

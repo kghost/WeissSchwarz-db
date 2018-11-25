@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あたしのスイーツを奪うやつはブッ殺す！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_044.gif",
+  "level": 1,
+  "name": "すべてはあたしのモノ",
+  "rarity": "R",
+  "side": "S",
+  "text": "あなたは相手の控え室のクライマックスを1枚選び、山札に戻す。そうしたら、その山札をシャッフルし、あなたは自分の山札の上から2枚を、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

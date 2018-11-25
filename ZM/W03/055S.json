@@ -1,0 +1,18 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "キュルケ＆タバサ",
+  "power": 5500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "まさか羅暁様の精神仮縫いを破るとは…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/klk_s27/klk_s27_031.gif",
+  "level": 2,
+  "name": "羅暁の秘書 鳳凰丸",
+  "power": 8000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《服》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "服",
+    "秘書"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

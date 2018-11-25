@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "君はいつだって、僕の中にいた。僕は君で…君は僕だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_085.gif",
+  "level": 1,
+  "name": "直斗＆スクナヒコナ",
+  "power": 5500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "男装",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

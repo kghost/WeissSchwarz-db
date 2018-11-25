@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ひゃうううう！　やーめーてー！　それを食べないでーーー！！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_071.gif",
+  "level": 2,
+  "name": "ななことヤギ",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたはレベル1以下の相手のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

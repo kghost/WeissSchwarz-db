@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "駄目よ。許さない。絶対に許さないんだから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_052.gif",
+  "level": 3,
+  "name": "真剣な面持ち 戦場ヶ原ひたぎ",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】 このカードがアタックした時、クライマックス置場に「ある冬の日」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "怪異",
+    "文房具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

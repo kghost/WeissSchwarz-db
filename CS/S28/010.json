@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_010.gif",
+  "level": 1,
+  "name": "光りもの好き ひまわり",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの、《家族》か《幼稚園》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "家族",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

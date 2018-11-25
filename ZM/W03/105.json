@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "ルイズ「泣きたくなるような悲しい事があったら\n必ず仰ってくださいまし…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_105.gif",
+  "name": "幼い頃の約束",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを+1000し、ソウルを+1。\n（このカードがトリガーした時、あなたは1枚引いてよい）",
+  "trigger": [
+    "DRAW"
+  ],
+  "type": "Climax"
+}

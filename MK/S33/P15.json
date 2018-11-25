@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "仲良し4人で　ミルキィホームズ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_p15.gif",
+  "level": 0,
+  "name": "仲良し ミルキィホームズ",
+  "power": 500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［? このカードを【レスト】する］ あなたは自分の、マーカーを持つキャラを1枚選び、そのターン中、パワーを＋2500。",
+  "trait": [
+    "探偵",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "あはははははは！\nやっぱり吸血鬼はこうでなくっちゃ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_005.gif",
+  "level": 0,
+  "name": "堕ちた真祖 暴走アルクェイド",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "王族",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

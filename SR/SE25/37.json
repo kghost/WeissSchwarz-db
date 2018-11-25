@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "さあ、聴くがいい。\n森羅万象を震わせる大いなる牙の響き！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sr_se25/sr_se25_37.gif",
+  "level": 1,
+  "name": "氷牙の妖精騎士 レスティ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「キリカ」を含むキャラがいるなら、このカードのパワーを＋3000。",
+  "trait": [
+    "音楽",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "小林「大丈夫かい、エルキュール？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_046.gif",
+  "level": 2,
+  "name": "とつぜんの目眩",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手の山札を上から1枚見て、山札の上か下に置く。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

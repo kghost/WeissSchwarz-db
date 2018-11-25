@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "…3421170679 8214808651 3282306647\n0938446095 5058223172 5359408128\n4811174502 8410270193 8521105559…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_090.gif",
+  "level": 0,
+  "name": "ハンドルネーム・竹山",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 舞台にこのカードがいるなら、このカードのカード名は「クライスト」としても扱う。",
+  "trait": [
+    "死",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

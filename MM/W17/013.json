@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "大丈夫。未来の後輩に、\nあんまり格好悪いとこ見せられないものね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_013.gif",
+  "level": 0,
+  "name": "ベテラン魔法少女 マミ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "お茶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

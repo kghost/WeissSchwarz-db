@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "篝「はっ！？　これは…篝ちゃんの\n十八番、圧縮言語！？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_051.gif",
+  "level": 1,
+  "name": "“■■■？”ちはや",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "お菓子",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

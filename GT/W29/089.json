@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "えっ…？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_089.gif",
+  "level": 0,
+  "name": "ストイックなせいら",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "タロット",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

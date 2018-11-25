@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_we26/gu_we26_p09pr.gif",
+  "level": 0,
+  "name": "チマメ隊＆千マメ隊",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分の、《ラビットハウス》か《甘兎庵》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "ラビットハウス",
+    "甘兎庵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "隠された思い ほむら",
+  "power": 6000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは、あなたの《魔法》のキャラが2枚以下なら、手札からプレイできない。",
+  "trait": [
+    "魔法",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

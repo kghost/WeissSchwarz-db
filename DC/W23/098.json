@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "明日美「大好きだよ、お姉ちゃん……！」\n香澄「あたしも……あたしも大好きよ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_098.gif",
+  "level": 1,
+  "name": "ずっと一緒に、ずっと笑顔で。",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の思い出置場の「姉妹の“イノチ” 香澄」を1枚選び、ストック置場に置く。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

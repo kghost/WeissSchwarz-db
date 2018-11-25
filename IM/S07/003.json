@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "うわーい！みんな、亜美達の分まで、チョ→頑張ってね?っ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_003.gif",
+  "level": 0,
+  "name": "元気が一番 亜美＆真美",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの思い出置場の「衣装変更」を1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

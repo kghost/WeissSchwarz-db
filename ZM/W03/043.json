@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ふざけないで！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_043.gif",
+  "level": 1,
+  "name": "ルイズのアルバイト",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたは自分のクロック置場の、《メイド》か《ウェイトレス》のキャラを1枚まで選び、手札に戻す。このカードをクロック置場に置く。あなたは自分の山札の上から1枚を、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

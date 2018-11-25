@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "でも普通、これはお稲荷様にだと思うけど…\n同じ狐だからいいのかしら。　…一つ食べる？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_p01.gif",
+  "level": 0,
+  "name": "九尾の供物 神楽坂砂夜",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の《ガール》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ガール",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ほう……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_064.gif",
+  "level": 3,
+  "name": "百獣の王 ライオン",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、手札に戻してよい。\n【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードが「本気の勝負」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。（トリガーチェックででた「本気の勝負」の[IMG:name]の効果でこのカードが舞台に置かれた時も使える）",
+  "trait": [
+    "フレンズ",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

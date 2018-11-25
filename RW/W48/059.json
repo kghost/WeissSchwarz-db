@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "て、転校生の鳳ちはやです。よろしくお願いしますっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_059.gif",
+  "level": 1,
+  "name": "転校生 ちはや",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。\n【永】 あなたのキャラすべてがカード名に「朱音」か「ちはや」か「咲夜」を含むなら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "お菓子",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

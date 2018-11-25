@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "flavor": "SECRET",
+  "name": "お腹すく前に 終わらすです",
+  "rarity": "RRR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

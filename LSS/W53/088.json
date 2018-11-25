@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "鞠莉「心配？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_088.gif",
+  "level": 0,
+  "name": "挑戦の見守り 松浦 果南",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは他の枠に動かせない。\n【永】 他のあなたの《音楽》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

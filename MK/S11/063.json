@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あらよっと…！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_063.gif",
+  "level": 0,
+  "name": "フォーチュンクッキー 次子",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《警察》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "警察",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なのは「私の勝ちだね。目が覚めたらお話聞かせてね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_044.gif",
+  "level": 0,
+  "name": "激戦の果てに なのは",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「なのは」か「フェイト」か「はやて」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

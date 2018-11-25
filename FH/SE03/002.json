@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おはようございまーす！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_002.gif",
+  "level": 1,
+  "name": "子供たちのアイドル ギルガメッシュ",
+  "power": 5500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1) このカードを控え室に置く］ あなたのクライマックス置場に「天地乖離す開闢の星」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下のレベルの《サーヴァント》のキャラを1枚まで選び、このカードがいた枠に置く。その山札をシャッフルする。",
+  "trait": [
+    "サーヴァント",
+    "王族"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

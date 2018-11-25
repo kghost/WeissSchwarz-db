@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "どこまでも行けそうな気がするでしょ。世界の覇者にでもなった感じがしない？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_047.gif",
+  "level": 1,
+  "name": "フェラーリF40",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分のキャラを1枚まで選び、そのターン中、パワーを＋3000。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

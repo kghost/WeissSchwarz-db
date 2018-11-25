@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "三食昼寝付きの休暇をのんびりすごすわ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_078.gif",
+  "level": 0,
+  "name": "病室のはやて",
+  "power": 2000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「“八神家”はやて」を1枚選び、このカードがいた枠に防御キャラとして置く。",
+  "trait": [
+    "本",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

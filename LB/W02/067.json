@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "翼のあるものを縛り付けることなんて、できませんよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_067.gif",
+  "level": 2,
+  "name": "“文学少女”美魚",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【起】［(2)］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "本",
+    "日傘"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

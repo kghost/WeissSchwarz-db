@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "イチゴ「よかったね、二人とも・・・」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_098r.gif",
+  "name": "エンビショップ",
+  "rarity": "RRR",
+  "side": "S",
+  "text": "【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

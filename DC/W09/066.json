@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いいえ……兄さまを、お止めしますわ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_066.gif",
+  "level": 1,
+  "name": "決意のエリカ",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋2500。\n【自】［手札かあなたのクライマックス置場の、「真実」を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置き、このカードを【レスト】する。",
+  "trait": [
+    "生徒会",
+    "王族"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

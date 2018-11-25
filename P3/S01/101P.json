@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "「それは”ペルソナ”という力…。もう１つの貴方自身なのです」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_101p.gif",
+  "name": "“死神”タナトス",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "黒子「お姉さまとお買いものですか?♥」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_106.gif",
+  "level": 0,
+  "name": "学園都市の美琴＆黒子",
+  "power": 500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】応援 このカードの前のあなたのキャラすべてに、パワーを+500。\n【起】[(2) あなたの《カエル》のキャラを2枚【レスト】する] あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "カエル",
+    "風紀委員"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

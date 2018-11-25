@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "この道六十五年の匠がこりこりにこだわった猫じゃらしだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_018.gif",
+  "level": 1,
+  "name": "猫使いの秘密兵器",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたはレベル0以下の相手の前列のキャラを1枚選び、手札に戻す。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "そうかそうか。穴をほじられるの気持ちいいか",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_072.gif",
+  "level": 1,
+  "name": "耳掃除",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の控え室のレベル2以下のキャラを1枚選び、舞台の好きな枠に【レスト】して置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

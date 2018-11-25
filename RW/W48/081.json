@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_081.gif",
+  "level": 0,
+  "name": "“ドルイド”小鳥",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［手札のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の自分のレベル以下のレベルの「“小鳥さん謹製”魔物」を1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "植物",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

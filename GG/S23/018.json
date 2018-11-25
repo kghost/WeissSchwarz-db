@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "私には、この船に集った全ての同胞を守る義務がある",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gg_s23/gg_s23_018.gif",
+  "level": 1,
+  "name": "盟主 リジット",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの黄のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "メガネ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "じつは私　水中で目が開けられなくて\nあまり泳げないんですよ――――",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_016.gif",
+  "level": 0,
+  "name": "幼少時のみゆき",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "メガネ",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

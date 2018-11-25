@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "すぐすみますよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_022.gif",
+  "level": 2,
+  "name": "ふもっふ！",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

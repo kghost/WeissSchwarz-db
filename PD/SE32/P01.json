@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "見つめてるから握り締めるから\n私の瞳君を逃さない手に繋いでる想い",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_pd/ws_pd_se32_p01pr.gif",
+  "level": 2,
+  "name": "愛の詩",
+  "rarity": "PR",
+  "side": "S",
+  "text": "このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。\nあなたは自分の山札を見て「初音ミク“V3”」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、後列のキャラのいない枠に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

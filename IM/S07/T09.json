@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "プロデューサーさん。これ、昨日焼いたクッキーなんですけど……。あの、１ついかがですか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s07/im_s07_t09.gif",
+  "level": 1,
+  "name": "プレゼント",
+  "rarity": "TD",
+  "side": "S",
+  "text": "あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

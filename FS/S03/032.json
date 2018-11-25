@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "先輩はライダーがいてもかまいませんよね？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_032.gif",
+  "level": 0,
+  "name": "間桐の後継者 桜",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、レベルを＋1。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「士郎」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "マスター",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_091.gif",
+  "level": 2,
+  "name": "“素直になれない”一松",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたのカード名に「松」か「エスパーニャンコ」を含むキャラがいるなら、このカードのパワーを＋3000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ホントの気持ち」があるなら、相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+  "trait": [
+    "６つ子",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

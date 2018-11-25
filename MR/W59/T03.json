@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "たくさん遊んだその後で…お昼寝の夢の中では、お喋りできたら素敵だね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_t03.gif",
+  "level": 0,
+  "name": "“白い翼に囲まれて”かえで",
+  "power": 1500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの「“待ってたわけじゃないから”レナ」すべてに、パワーを＋2000。\n【自】 絆／「“待ってたわけじゃないから”レナ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“待ってたわけじゃないから”レナ」を1枚選び、手札に戻す）",
+  "trait": [
+    "魔法",
+    "アビリティ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

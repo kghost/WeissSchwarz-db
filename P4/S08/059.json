@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "…もう、嫌です。大切な人を失うのは…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_059.gif",
+  "level": 0,
+  "name": "被害者の弟 小西尚紀",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 相手の【スタンド】しているキャラがいないなら、他のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】する。",
+  "trait": [
+    "保健室",
+    "酒"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ぱ…ぱ…ぱ……パンダって何って鳴くの……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_we25/ll_we25_13s.gif",
+  "level": 1,
+  "name": "“にこは人気者”にこ",
+  "power": 6000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\n【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "音楽",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

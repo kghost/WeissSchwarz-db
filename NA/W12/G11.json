@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "リニス 「ありがとう、フェイト、アルフ……\nあなたたちと出会えて、あなたたちと過ごせて――\nわたしは本当に幸せでした」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g11.gif",
+  "name": "さよならリニス",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

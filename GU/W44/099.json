@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "チノ「わたしが欲しかった立体パズルと可愛いオルゴール！\n…それとココアさん！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_099.gif",
+  "name": "寝坊助サンタクロース",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

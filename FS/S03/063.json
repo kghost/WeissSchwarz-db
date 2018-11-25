@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "それは高い塔の上。\n月を瀬に下界を見下ろす、魔法使いのようだった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_063.gif",
+  "level": 0,
+  "name": "遠坂 凛",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 絆／「錬鉄の英霊アーチャー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「錬鉄の英霊アーチャー」を1枚選び、手札に戻す）",
+  "trait": [
+    "マスター",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

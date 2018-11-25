@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "逮捕しますよ！\nなーんて……似合っていますか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w28/ll_w28_017.gif",
+  "level": 0,
+  "name": "“ラヴバインド”海未",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ 他のあなたのキャラが『チェンジ』で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、そのキャラのパワーを＋1000し、ソウルを＋1。",
+  "trait": [
+    "音楽",
+    "警察"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

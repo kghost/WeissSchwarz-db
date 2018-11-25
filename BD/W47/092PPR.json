@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-092p_ppr.gif",
+  "level": 3,
+  "name": "Starrin’ PARTY 花園たえ",
+  "power": 10000,
+  "rarity": "PPR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】【CXコンボ】 あなたのアタックフェイズの始めに、クライマックス置場に「私たち Poppin'Party」があり、前列にこのカードがいるなら、あなたは自分の山札の上から2枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "音楽",
+    "うさぎ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

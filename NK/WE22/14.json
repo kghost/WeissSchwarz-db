@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "……え？王子様……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_we22/nk_we22_14.gif",
+  "level": 0,
+  "name": "春のトモダチ 風",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《お菓子》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\n【自】 絆／「新生活！ 春」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新生活！ 春」を1枚選び、手札に戻す）",
+  "trait": [
+    "カメラ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "倫太郎「逃げろ、まゆり」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_002.gif",
+  "level": 0,
+  "name": "“運命の歯車”椎名 まゆり",
+  "power": 1500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚選び、クロック置場に置き、残りのカードを控え室に置く。1枚クロック置場に置いたなら、あなたは自分の控え室のレベル1以下のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ラボメン",
+    "裁縫"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

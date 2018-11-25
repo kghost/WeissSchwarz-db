@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "やったっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_074.gif",
+  "level": 0,
+  "name": "“未来を見届ける”古式",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "スポーツ",
+    "眼帯"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

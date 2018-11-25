@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ん？なにが？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_p05.gif",
+  "level": 1,
+  "name": "水辺の美琴",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは自分の《超能力》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

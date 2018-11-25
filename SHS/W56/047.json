@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "恵「それと、このしゃべり方や演技は霞ヶ丘先輩の台本通り……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_047.gif",
+  "level": 0,
+  "name": "演技指導 詩羽",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「衣装デザイン 英梨々」がいるなら、他のあなたの、《ゲーム》か《小説》のキャラすべてに、パワーを＋500。\n【起】[(2) このカードを【レスト】する］ あなたは自分の控え室の、《ゲーム》か《小説》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "ゲーム",
+    "小説"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

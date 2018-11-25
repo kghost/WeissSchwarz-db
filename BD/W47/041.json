@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "りみ「お姉ちゃんたちも\n1stライブはここって決めてた」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-041_u.gif",
+  "level": 0,
+  "name": "ガールズバンドの聖地 香澄",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《音楽》かカード名に「明日香」を含むキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "音楽",
+    "星"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ええっと、挨拶の原稿どこかしら?？\n昨日渡されて、内容の確認をして?\n…どこかに置いてなかった？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_053.gif",
+  "level": 1,
+  "name": "文化祭 天都かなた",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの「驚愕の音 篠宮りさ」がいないなら、このカードを【レスト】する。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

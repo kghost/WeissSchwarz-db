@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "虚之太刀・朧月！！　其太刀、雲海に朧なる月の如し！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_051.gif",
+  "level": 0,
+  "name": "“華麗なる剣聖”唯湖",
+  "power": 500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトルしているこのカードが【リバース】した時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。\n【起】［(1)］ あなたはレベル0以下の相手の前列のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

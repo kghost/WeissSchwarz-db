@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "りんね様っ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_54.gif",
+  "level": 0,
+  "name": "“サポート役”六文",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、赤か《死神》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "契約黒猫",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

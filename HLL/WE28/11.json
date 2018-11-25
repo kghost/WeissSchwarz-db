@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "瑞希「そこの葵が会計」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/h/hll_we28/hll_we28_11.gif",
+  "level": 0,
+  "name": "編入組の定理者 葵",
+  "power": 1500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《生徒会》かカード名に「夕子」を含むキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。",
+  "trait": [
+    "定理者",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

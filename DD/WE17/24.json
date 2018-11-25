@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あ、写真撮ろうよ！みんなで記念写真",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_24.gif",
+  "level": 0,
+  "name": "師匠でライバル ナナミ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "勇者",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

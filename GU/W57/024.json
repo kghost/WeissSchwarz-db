@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "シャロ「全部ココア〜〜!?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_024.gif",
+  "level": 1,
+  "name": "ココアシック",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を見て『助太刀』を持つキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

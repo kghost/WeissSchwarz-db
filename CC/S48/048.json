@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "皆さんとの絆を信じていますから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_048.gif",
+  "level": 1,
+  "name": "共に生き、共に戦い フィーナ",
+  "power": 3500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《マナ》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】CXコンボ＠［(1)］ あなたのクライマックス置場に「チェインクロニクルの力」が置かれた時、前列にこのカードがいて、あなたの手札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下のキャラを2枚まで選び、舞台の別々の枠に置く。",
+  "trait": [
+    "マナ",
+    "年代記"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

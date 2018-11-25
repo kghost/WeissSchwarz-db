@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_034.gif",
+  "level": 0,
+  "name": "第４の使徒",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、相手の控え室にクライマックスがないなら、あなたは自分の控え室のカードを1枚選び、ストック置場に置いてよい。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《謎》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "謎",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

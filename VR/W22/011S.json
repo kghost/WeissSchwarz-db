@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "好奇心旺盛 ひまわり",
+  "power": 8000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの《鍵》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "鍵",
+    "盾"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

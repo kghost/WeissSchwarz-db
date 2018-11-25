@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-021.gif",
+  "level": 1,
+  "name": "サインライト",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

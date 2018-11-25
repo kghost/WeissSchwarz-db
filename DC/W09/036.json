@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "藍ちゃん、この景色を私に見せたかったんだね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_036.gif",
+  "level": 2,
+  "name": "新しい景色 茜",
+  "power": 7500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたの思い出置場にカードがあるなら、このカードは次の能力を得る。『【起】［(1)］ そのターン中、このカードのパワーを＋2500。』\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

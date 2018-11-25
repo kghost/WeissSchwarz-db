@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "なにも似てない。天と地ほど違う",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_p05.gif",
+  "level": 0,
+  "name": "“スイカバー獲得作戦”しろは",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードは《スイカバー》を得て、相手は『【自】 アンコール』を使えない。そうでないなら、そのターン中、このカードは《メロンバー》を得る。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "マオ「貴様は近年まれに見る優秀な研究対象だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_024.gif",
+  "name": "さぁ、改造してやるーーー！！",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

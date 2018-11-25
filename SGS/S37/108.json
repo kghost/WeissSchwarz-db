@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ありがとう。\nみんなの様子も見てやってくれるか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_108.gif",
+  "level": 0,
+  "name": "生徒会長 あおい",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの青のキャラすべてに、パワーを＋500。\n【自】 経験 相手のドローフェイズの始めに、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたは自分の青のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "ストライカー",
+    "剣術"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "For you, for me and for ones, it is the best way that two of us are together. I belive so, Riki.",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_101b.gif",
+  "name": "The confidence of Rin",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 Your characters gets soul+2.\n※このカードはLB/W02-101「あたしたちが付き合おう」と同名カードとして扱います。日本国内で開催する公認大会・公式大会では、英語版のカードはデッキに入れることができません。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

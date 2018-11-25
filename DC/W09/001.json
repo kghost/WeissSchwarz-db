@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "うん、そうだよ。それがあたしの仕事だから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_001.gif",
+  "level": 1,
+  "name": "玩具の魔法使い アイシア",
+  "power": 4500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「最後の時間」があるなら、そのターン中、このカードのソウルを＋1し、パワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "trait": [
+    "魔法",
+    "オモチャ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

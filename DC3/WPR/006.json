@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "なによ。清隆は私と二人っきりが嫌だっていうの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_wpr/dc3_wpr_006.gif",
+  "level": 2,
+  "name": "学園のアイドル 立夏",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "新聞",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "ミク「ハアアア！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_025.gif",
+  "name": "ナイトクロウ",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_061.gif",
+  "level": 2,
+  "name": "園崎との対峙 千鳥",
+  "power": 6000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋1000。\n【自】 あなたのクライマックス置場に「好きな人の好きな人へ」が置かれた時、あなたの山札を公開し、相手はあなたの山札を見てレベル2以上のキャラを1枚選び、あなたの手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "キズナ",
+    "家事"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

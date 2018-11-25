@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ひげ猫団しゅっぱーーーーつ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_083s.gif",
+  "level": 3,
+  "name": "“叶えた現実”鴎",
+  "power": 10000,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 記憶 あなたのターン中、あなたの思い出置場に「“働き者のメイドさん”鴎」があるなら、このカードのパワーを＋3000。\n【自】 このカードが手札から舞台に置かれたターン中、あなたのアンコールステップの始めに、前列にこのカードがいるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の手札のトリガーアイコンが[TRIGGER:Treasure]のクライマックスを1枚まで選んで公開し、山札に戻し、その山札をシャッフルする。",
+  "trait": [
+    "サマポケ",
+    "海賊"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

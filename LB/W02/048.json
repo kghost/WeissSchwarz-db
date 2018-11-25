@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "あは…自惚れ屋さんだよ、理樹くん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_048.gif",
+  "name": "たった一つの取り柄",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

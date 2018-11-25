@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "杏「そもそもあんたたち、どこまでいってるのよ？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_43.gif",
+  "level": 0,
+  "name": "パン屋さん 渚＆杏",
+  "power": 1000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《不良》のキャラすべてに、レベルを＋1。\n【永】 他のあなたの《委員長》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "演劇",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

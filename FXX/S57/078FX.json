@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_078fx.gif",
+  "level": 3,
+  "name": "デルフィニウム",
+  "power": 10000,
+  "rarity": "FXR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】【CXコンボ】このカードがアタックした時、クライマックス置場に「エンビショップ」があり、あなたの手札が5枚以下なら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】このカードの正面のキャラのソウルを−2。』\n【自】相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trait": [
+    "フランクス",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

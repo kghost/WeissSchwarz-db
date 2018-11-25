@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "―キラキラと光るアイドル達。その光はグッズでさえも輝かせる―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_074.gif",
+  "level": 1,
+  "name": "対極的な存在",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたの《魔法》のキャラすべてに、そのターン中、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

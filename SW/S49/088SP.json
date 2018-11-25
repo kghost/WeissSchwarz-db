@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "Maz Kanata: \"That lightsaber was Luke's. And his father's before him and now, it calls to you.\"",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_088sp.gif",
+  "level": 3,
+  "name": "“覚醒”レイ",
+  "power": 9500,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000し、このカードの正面のキャラのソウルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「Lightsaber」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。\n【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「The Force Awakens」があるなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを?1。』",
+  "trait": [
+    "フォースの覚醒",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

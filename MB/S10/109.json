@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "まあ。心のこもってないお世辞とは言え、拙い賛辞、感謝いたしますわ。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_109.gif",
+  "level": 2,
+  "name": "夢魔 白レン",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "使い魔",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

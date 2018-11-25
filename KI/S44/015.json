@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_015.gif",
+  "level": 0,
+  "name": "ゴモリン",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ゴモリン」をＸ枚まで選び、このカードの下にマーカーとして裏向きに置く。Ｘはあなたの前列の「ゴモリン」の枚数に等しい。",
+  "trait": [
+    "-",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

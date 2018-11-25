@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "クラミー「とっとと出ていったら？　森精種の協力者さん」 （森精種ルビ：エルフ）",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_043.gif",
+  "level": 1,
+  "name": "森精種の協力者 フィール",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台のこのカードのレベルを-1。\n【永】 他のあなたのカード名に「クラミー」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "ゲーム",
+    "森精種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

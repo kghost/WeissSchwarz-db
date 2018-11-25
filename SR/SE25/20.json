@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "エリーゼ「大切にするのよ……母さんの代わりに、\nそれがあなたを護ってくれるはずだから……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sr_se25/sr_se25_20.gif",
+  "name": "母なる遺志",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "シャロ「ネロ、それですぅっ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s33/mk_s33_021.gif",
+  "level": 1,
+  "name": "あからさまな伏線",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】している《探偵》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を見て《探偵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

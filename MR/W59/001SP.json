@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_001sp.gif",
+  "level": 0,
+  "name": "守りたいもの さな",
+  "power": 1500,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分のレベル2以下のキャラを1枚選び、そのターン中、レベルを?1。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "trait": [
+    "魔法",
+    "ディフェンス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

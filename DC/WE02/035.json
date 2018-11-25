@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "みんなで迎える新年はカクベツなのです!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_035.gif",
+  "name": "おこたでみかん",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "若いうちはとりあえず肉だ。肉を食っていれば、\n人間は幸せになるぜ、臥煙の忘れ形見",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_046.gif",
+  "level": 2,
+  "name": "肉奉行 貝木泥舟",
+  "power": 9500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを控え室に置く。（公開したカードは元に戻す）",
+  "trait": [
+    "怪異",
+    "肉"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

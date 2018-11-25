@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "アルドラ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_t12.gif",
+  "level": 2,
+  "name": "マナの才能 アラム",
+  "power": 6500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの「未来へ託す ユーリ」がいるなら、このカードのパワーを＋4000。\n【永】 他のあなたの《マナ》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

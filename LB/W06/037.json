@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "それは…のりたま！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_037.gif",
+  "level": 0,
+  "name": "“大好物”鈴",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の後列のカード名に「真人」を含むキャラを1枚選び、ストック置場に置いてよい。\n【起】［あなたの《動物》のキャラを1枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "動物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

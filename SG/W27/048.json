@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "いつもいつもッ！都合のいいところで！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_048.gif",
+  "level": 2,
+  "name": "ソロモンの杖",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたの「ウェル博士」がいないなら、手札からプレイできない。\nあなたは自分の山札を見てコスト0以下の《ノイズ》のキャラを4枚まで選び、舞台の別々の枠に置く。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

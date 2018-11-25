@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "誰も許さないなんて言ってませんわ。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_085.gif",
+  "level": 0,
+  "name": "閉校祭の準備 黒澤 ダイヤ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「閉校祭の準備 小原 鞠莉」すべてに、パワーを＋2000。\n【自】 絆／「閉校祭の準備 小原 鞠莉」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「閉校祭の準備 小原 鞠莉」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "生徒会"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

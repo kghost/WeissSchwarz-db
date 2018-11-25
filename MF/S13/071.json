@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "シェリル「…馬鹿！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_071.gif",
+  "level": 2,
+  "name": "アルカトラズからの脱獄",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の控え室のキャラを1枚選び、手札に戻す。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "堕天使の涙に溺れなさい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_we27/lss_we27_10.gif",
+  "level": 0,
+  "name": "“堕天使の涙”津島 善子",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたはイベントと『助太刀』を手札からプレイできない。\n【永】 このカードの正面のキャラは他の枠に動かせない。",
+  "trait": [
+    "音楽",
+    "悪魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

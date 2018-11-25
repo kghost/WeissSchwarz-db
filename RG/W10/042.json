@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "お友達が目覚めたときに、キミが倒れていては元も子もないだろう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_042.gif",
+  "level": 1,
+  "name": "幻想御手開発者 木山",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2)］ あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋4000。ターンの終わりに、そのキャラを思い出にする。",
+  "trait": [
+    "先生",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "幼シェリル「あ…あなたのカブキ、素敵でした…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_068.gif",
+  "level": 1,
+  "name": "幼い女形 アルト",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "パイロット",
+    "女装"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

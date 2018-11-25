@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "しんのすけ「オラたち気が合うかもぉ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_050.gif",
+  "name": "しんちゃんの恋",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "自由になって……ボク、どうすればいいの？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sr_se25/sr_se25_01.gif",
+  "level": 0,
+  "name": "マリオン・ル・シーラ",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "音楽",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

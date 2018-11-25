@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_035.gif",
+  "level": 1,
+  "name": "きらきらキュート！　伊織",
+  "power": 5000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trait": [
+    "音楽",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

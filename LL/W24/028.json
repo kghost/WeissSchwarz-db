@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "カードがウチにそう告げるんや！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_028.gif",
+  "level": 0,
+  "name": "スピリチュアルパワー 希",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
+  "trait": [
+    "音楽",
+    "占い"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

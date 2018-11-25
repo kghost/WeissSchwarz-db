@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_007.gif",
+  "level": 2,
+  "name": "吸血鬼の忍野忍",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+  "trait": [
+    "怪異",
+    "血"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

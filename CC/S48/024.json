@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "この後も続々と合流予定であります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_024.gif",
+  "level": 1,
+  "name": "修羅の剣士 シドウ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードは相手の効果に選ばれない。\n【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。\n【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「シュザ」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

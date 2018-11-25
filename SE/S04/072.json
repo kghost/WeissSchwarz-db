@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "アダム「データ照会します。 東方、フィアガルム山の火口に浮かぶ、魔族の要塞」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_072.gif",
+  "level": 1,
+  "name": "クリムゾンパレス",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 このカードは、あなたの《悪魔》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋2500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

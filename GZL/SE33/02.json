@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "蛇が闇の底に招く",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_02.gif",
+  "level": 3,
+  "name": "“心優しき巫女”ミアナ",
+  "power": 9500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1) このカードを控え室に置く］ 他のあなたの、緑か《アラトラム号》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。",
+  "trait": [
+    "双子",
+    "フツア"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

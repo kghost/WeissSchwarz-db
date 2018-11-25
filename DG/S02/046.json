@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "何者ざます！？　いまから大事な改造手術を始めるところなのに",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_046.gif",
+  "level": 1,
+  "name": "凶育委員会の陰謀",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

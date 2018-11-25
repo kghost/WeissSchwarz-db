@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "この死に様を美しく保存して愛でるのが甘利の役目であり使命じゃないですかー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_018.gif",
+  "level": 1,
+  "name": "屍の宴 甘利燈",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\n【起】［あなたの《ガール》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "ガール",
+    "オカルト"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

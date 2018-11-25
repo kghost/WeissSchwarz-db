@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いいじゃないの、たまには、さ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_112.gif",
+  "level": 1,
+  "name": "ファントムの実験作 ドライ",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。",
+  "trait": [
+    "武器",
+    "時計"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

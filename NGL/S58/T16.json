@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "この世の全てが単純なゲームで決まる。――人の命も、国境線さえも！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_t16.gif",
+  "level": 2,
+  "name": "異世界への招待 テト",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀3000 レベル2 [(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "ゲーム",
+    "唯一神"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

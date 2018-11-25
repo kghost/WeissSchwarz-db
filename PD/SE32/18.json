@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "その足を止めないでよ　その両手で羽ばたけるから\n頭の中からっぽにして　目の前だけ見つめるの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_se32/pd_se32_18.gif",
+  "level": 2,
+  "name": "初音ミク“DE:MONSTAR”",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "trait": [
+    "音楽",
+    "悪魔"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

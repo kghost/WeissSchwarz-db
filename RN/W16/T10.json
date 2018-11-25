@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "三流ロボ部に入るつもりなんてありません",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_t10.gif",
+  "level": 0,
+  "name": "不遜な態度 昴",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "科学",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

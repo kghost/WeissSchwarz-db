@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "どうしましょう…と、とりあえず笑顔笑顔?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_056.gif",
+  "level": 1,
+  "name": "金色に輝く クロエ・ルメール",
+  "power": 5500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの赤のキャラ1枚につき、このカードのパワーを＋500。\n【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+  "trait": [
+    "ガール",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

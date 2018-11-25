@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "いやー、だってアレ私が考えた結末ですヨ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_120.gif",
+  "level": 0,
+  "name": "“トラブルメーカー”葉留佳",
+  "power": 500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「佳奈多」を含むキャラすべてに、パワーを＋500。\n【自】 絆／「“風紀の番人”佳奈多」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“風紀の番人”佳奈多」を1枚選び、手札に戻す）",
+  "trait": [
+    "ビー玉",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

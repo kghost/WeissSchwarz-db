@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "スイカバー分の仕事はする",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_101.gif",
+  "level": 2,
+  "name": "ちびしろは",
+  "power": 6000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードは相手の効果に選ばれない。\n【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "サマポケ",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "そんな日向にいたら暑いだろう。\nこっちへ来たらどうだ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_121.gif",
+  "level": 1,
+  "name": "元気いっぱい あから",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてがカード名に「あから」か「陽奈」か「小織」を含むなら、このカードのパワーを＋2000。",
+  "trait": [
+    "ストライカー",
+    "熱血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

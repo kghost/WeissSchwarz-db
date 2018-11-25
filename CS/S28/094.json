@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "しんのすけのいない世界に未練なんてあるか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_094.gif",
+  "level": 1,
+  "name": "子を思う心 ひろし",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "家族",
+    "サラリーマン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

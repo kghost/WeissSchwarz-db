@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "メーベル「贄神の船……すべての災厄の元凶……って、聞いたことがあるわ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_070.gif",
+  "level": 1,
+  "name": "解き放たれた天空船",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手のレベル0以下のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "え、えい?……、やぁ?……、はぅあ?……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_t11.gif",
+  "level": 1,
+  "name": "モーションアクトレス 淳和",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "科学",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

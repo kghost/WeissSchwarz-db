@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_041.gif",
+  "level": 2,
+  "name": "“戦闘待機”バゼット",
+  "power": 10000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 あなたのクライマックス置場に「最後の勝機」が置かれた時、そのターン中、このカードのパワーを＋3000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。",
+  "trait": [
+    "男装",
+    "宝具"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "あや、ユズちゃんも…あっ、上手に避けたぁ。行けるかな?？　そのままそのまま…　わぁい、やったぁ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_106.gif",
+  "name": "応援休憩",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

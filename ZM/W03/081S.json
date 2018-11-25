@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "バニーガールのシエスタ",
+  "power": 7500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(3)］ あなたは相手のキャラを2枚まで選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "メイド",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

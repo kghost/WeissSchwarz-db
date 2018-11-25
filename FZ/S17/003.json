@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "終わらぬ連鎖を終わらせる。\nそれを果たし得るのが聖杯だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_003.gif",
+  "level": 3,
+  "name": "信じる正義 切嗣",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000し、ソウルを＋1。\n【自】 アタックしているこのカードの与えたダメージがキャンセルされた時、クライマックス置場に「起源弾」があるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "マスター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

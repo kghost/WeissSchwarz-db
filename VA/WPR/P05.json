@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "おぉっ！ ペンタブさえあれば1人力じゃわいっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p05.gif",
+  "level": 2,
+  "name": "“炎のグラフィッカー”Na-Ga",
+  "power": 9500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、このカードをクロック置場に置く。",
+  "trait": [
+    "ビジュアルアーツ",
+    "影"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

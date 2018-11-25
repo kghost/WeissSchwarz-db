@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "私が疲れようとどうしようとあなたには関係ないでしょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_071.gif",
+  "level": 1,
+  "name": "忙しい佳奈多",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたの控え室のクライマックスが4枚以上なら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

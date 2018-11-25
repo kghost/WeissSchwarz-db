@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "貴様こそ下がっていろ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/y/yys_w61/yys_w61_t18.gif",
+  "level": 2,
+  "name": "凛々しき忍 狭霧",
+  "power": 7500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《ゆらぎ荘》か《湯煙町》か《忍》のキャラの枚数×1000に等しい。",
+  "trait": [
+    "忍",
+    "ゆらぎ荘"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

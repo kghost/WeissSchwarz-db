@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "聞こえる、私にも、あの人の声……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_037.gif",
+  "level": 3,
+  "name": "月の力 るな",
+  "power": 9500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《タロット》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 このカードが手札から舞台に置かれた時か「新人隊員 るな」の【自】の効果で舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《タロット》のキャラの枚数に等しい。",
+  "trait": [
+    "タロット",
+    "月"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

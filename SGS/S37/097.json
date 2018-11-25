@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_097.gif",
+  "level": 1,
+  "name": "遭遇",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て「灰島 依咲里」を1枚までと「灰島 華賀利」を1枚まで選び、舞台の別々の枠に置き、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

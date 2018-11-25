@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_089x.gif",
+  "level": 3,
+  "name": "“PPP”コウテイペンギン",
+  "power": 10000,
+  "rarity": "XR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの、「“PPP”ジェンツーペンギン」と「“PPP”フンボルトペンギン」がいるなら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "フレンズ",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

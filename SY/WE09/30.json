@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "大漁だったけど、そんなに要らないから一匹だけもらってきたわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_we09/sy_we09_30.gif",
+  "level": 0,
+  "name": "夏祭りの夜 ハルヒ",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】[(2) このカードを【レスト】する] あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "団長",
+    "和服"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

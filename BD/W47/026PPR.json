@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-026p_ppr.gif",
+  "level": 0,
+  "name": "Starrin’ PARTY 山吹沙綾",
+  "power": 1500,
+  "rarity": "PPR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 あなたのクライマックス置場に「私たち Poppin'Party」か「Poppin'Party 初LIVE」が置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋500。\n【起】【CXコンボ】 集中 ［? あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの「私たち Poppin'Party」か「Poppin'Party 初LIVE」1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "trait": [
+    "音楽",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

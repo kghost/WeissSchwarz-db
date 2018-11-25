@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "いただきまーす！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_008s.gif",
+  "level": 1,
+  "name": "お菓子も食べたい！ 咲＆ミラナ",
+  "power": 5000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「お菓子作戦、大成功です！」があるなら、あなたは自分の控え室の、《ＳＨＩＮＣ》か《スポーツ》のキャラを2枚まで選び、ストック置場に好きな順番で置く。",
+  "trait": [
+    "ネット",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

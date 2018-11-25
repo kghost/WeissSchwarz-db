@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "アインハルト、出発したって…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_019.gif",
+  "level": 0,
+  "name": "ご先祖つながり ファビア",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「U15チャンピオン アインハルト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「U15チャンピオン アインハルト」を1枚選び、手札に戻す）",
+  "trait": [
+    "格闘",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

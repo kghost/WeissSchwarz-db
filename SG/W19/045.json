@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "私も、この鎧も不滅。\n未来は無限に続いていくのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w19/sg_w19_045.gif",
+  "level": 1,
+  "name": "ネフシュタンの鎧",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたのカード名に「クリス」か「フィーネ」を含むキャラすべてに、パワーを＋500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

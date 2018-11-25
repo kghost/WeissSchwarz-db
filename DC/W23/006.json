@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "……そんなの、見ればわかるよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_006.gif",
+  "level": 2,
+  "name": "最後の刻 アイシア",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのコスト×500に等しい。\n【自】 あなたのクライマックス置場に「抑えられない想い」が置かれた時、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "trait": [
+    "魔法",
+    "オモチャ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

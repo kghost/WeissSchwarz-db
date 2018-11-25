@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_028sp.gif",
+  "level": 3,
+  "name": "“た”げいたさい シャロ",
+  "power": 10000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】［座ったまま、好きな曲のサビを歌って踊る］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（音には注意しましょう。ダメージキャンセルは発生する）",
+  "trait": [
+    "探偵",
+    "カメラ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

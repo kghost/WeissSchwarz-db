@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_020.gif",
+  "level": 1,
+  "name": "魔法の絵日記",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の《サマポケ》のキャラを1枚選び、そのターン中、パワーを＋5500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

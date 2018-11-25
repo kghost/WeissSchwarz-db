@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "お……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_063.gif",
+  "level": 0,
+  "name": "ハンス",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［手札を2枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "スライム",
+    "毒"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

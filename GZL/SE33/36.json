@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "これ以上の足止めは無理だ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gzl_se33/gzl_se33_36.gif",
+  "level": 2,
+  "name": "“決死の抵抗”ハルオ",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［(1)］ あなたは自分の控え室の「“装甲兵器”ヴァルチャー」を1枚選び、舞台のキャラのいない枠に置き、このカードを、そのキャラの下にマーカーとして表向きに置く。』",
+  "trait": [
+    "アラトラム号",
+    "人類"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

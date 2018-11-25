@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ちらちら……うにゃ?っ、恥ずかしくてもうバケツかぶっちゃいたい気分だよ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_s08.gif",
+  "level": 0,
+  "name": "“カフェメイド”星空 凛",
+  "power": 3000,
+  "rarity": "-",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_074.gif",
+  "level": 0,
+  "name": "大将戦 ライオン",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは自分の山札の上から1枚を公開する。あなたのこの効果で公開したカードのレベルが相手のこの効果で公開したカードのレベルより高いなら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置いてよい。相手の方が高いなら、このカードを【レスト】する。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "フレンズ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

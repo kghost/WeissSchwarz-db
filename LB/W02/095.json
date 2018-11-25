@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "読んだ本の数だけ、世界が広がります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_095.gif",
+  "level": 1,
+  "name": "両手いっぱいの本",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、《本》のあなたのキャラがいないなら、手札からプレイできない。\nあなたは2枚引き、自分の手札を1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "蝶のように舞い、蜂のように刺す……\nどう？　これが不知火流よ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_068.gif",
+  "level": 2,
+  "name": "不知火 舞",
+  "power": 8500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "扇子",
+    "忍"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

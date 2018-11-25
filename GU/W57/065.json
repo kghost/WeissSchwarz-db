@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_065.gif",
+  "level": 1,
+  "name": "Hot Bakery",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたの思い出が2枚以下なら、このカードを思い出にする。\n【自】 記憶 あなたのクライマックスフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分のカード名に「ココア」か「モカ」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

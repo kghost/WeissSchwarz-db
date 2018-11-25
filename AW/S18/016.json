@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "僕も連れて行ってよ！ そこに行きたいんだ！\nもっと高く。もっと遠く！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_016.gif",
+  "level": 0,
+  "name": "翼を求めた少年 ハルユキ",
+  "power": 500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、他のあなたのカード名に「黒雪姫」を含むキャラすべてに、そのターン中、パワーを＋500。\n【自】 絆／「黄昏時の約束 黒雪姫」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「黄昏時の約束 黒雪姫」を1枚選び、手札に戻す）",
+  "trait": [
+    "ネット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

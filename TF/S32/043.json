@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "もう一人じゃないよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_043.gif",
+  "level": 1,
+  "name": "“心優しき少女”シーラ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "改造",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

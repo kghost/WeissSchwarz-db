@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "アナスタシア「蘭子、ホラーは苦手です」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_t44d.gif",
+  "level": 0,
+  "name": "素直になれない蘭子",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "?",
+  "trait": [
+    "音楽",
+    "闇"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

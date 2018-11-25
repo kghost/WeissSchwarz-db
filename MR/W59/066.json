@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "さっさとやっちまおうぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_066.gif",
+  "level": 2,
+  "name": "一点突破 杏子",
+  "power": 6000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの「緊急参戦 さやか」がいるなら、このカードのパワーを＋6000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "魔法",
+    "アタック"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

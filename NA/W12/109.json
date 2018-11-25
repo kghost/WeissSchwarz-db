@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "フェイト『わたしがずっと……欲しかった時間だ……』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_109.gif",
+  "level": 1,
+  "name": "狭間の夢 フェイト＆アリシア",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを+1。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 4,
+  "flavor": "これより全人類ご主人様フェイズ３に移行します！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_071.gif",
+  "level": 1,
+  "name": "全人類ご主人さま計画",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見てコスト0以下の《メイド》のキャラを3枚まで選び、舞台の別々の枠に置く。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

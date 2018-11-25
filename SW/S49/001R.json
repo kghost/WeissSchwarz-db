@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "Listen carefully. If you do exactly as I say, I can get you out of here.",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sw_s49/sw_s49_001r.gif",
+  "level": 3,
+  "name": "“ファースト・オーダーからの脱出”フィン",
+  "power": 9000,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの、「“パイロットの資質”レイ」と「“友情の予感”BB-8」がいるなら、あなたの手札のこのカードのレベルを?1。\n【永】 他のあなたの《フォースの覚醒》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "フォースの覚醒",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

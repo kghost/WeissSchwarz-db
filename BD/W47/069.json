@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "星までいっちゃう？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd-w47/bd-w47-069_c.gif",
+  "level": 2,
+  "name": "Sprin’PARTY 戸山香澄",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場に「戸山香澄」があるなら、あなたの手札のこのカードのレベルを?1。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの、《音楽》かカード名に「明日香」を含むキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "音楽",
+    "星"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

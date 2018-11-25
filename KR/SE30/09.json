@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "俺は人間…みたいな…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_09.gif",
+  "level": 0,
+  "name": "“死神の仕事”りんね",
+  "power": 1500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの、緑か《契約黒猫》のキャラすべてに、パワーを＋500。\n【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置き、自分のキャラを1枚選び、そのターン中、レベルを＋1。",
+  "trait": [
+    "死神",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

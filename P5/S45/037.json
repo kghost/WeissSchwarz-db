@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "さようなら、お父様。\n私はもう、あなたには従わない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_037.gif",
+  "level": 1,
+  "name": "怪盗団の御令嬢 春 / NOIR",
+  "power": 5500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《怪盗》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】［あなたの前列の【スタンド】しているキャラを1枚とこのカードを入れ替える］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "怪盗",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

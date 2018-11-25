@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "いいねー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_t09.gif",
+  "level": 2,
+  "name": "プレイボーイ 由多",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "キズナ",
+    "ナルシスト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

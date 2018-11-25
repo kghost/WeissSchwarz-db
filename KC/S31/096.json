@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "『甘いスイーツで何人かの艦娘の気分がたちまち高揚！』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-096.gif",
+  "level": 1,
+  "name": "給糧艦 伊良湖",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の《艦娘》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

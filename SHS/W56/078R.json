@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "あんたが私の生まれ変わりなんて認めないっ！　お兄様は渡さない！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_078r.gif",
+  "name": "二人の夜の選択肢",
+  "rarity": "RRR",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_046.gif",
+  "level": 0,
+  "name": "“WATER BLUE NEW WORLD”渡辺 曜",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの「“未来の僕らは知ってるよ”高海 千歌」すべてに、パワーを＋2000。\n【自】 絆／「“未来の僕らは知ってるよ”高海 千歌」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“未来の僕らは知ってるよ”高海 千歌」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ヤマト、約束を果たすよ。君を倒し、\n俺がポラリスと謁見する！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds2_se16/ds2_se16_09.gif",
+  "level": 3,
+  "name": "“輝く者”ヒビキ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「ビャッコ召喚」があるなら、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "サマナー",
+    "竜"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

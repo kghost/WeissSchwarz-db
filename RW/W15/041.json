@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "そっかそっか。うん。\nまっとうなガクセーさん、やってんだな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_041.gif",
+  "level": 0,
+  "name": "今宮 新",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクライマックス置場に緑のクライマックスがあるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "武器",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

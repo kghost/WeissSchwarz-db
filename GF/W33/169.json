@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…こうやって歩いてみるとやっぱり、町並みも日本とは違うものですね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_169.gif",
+  "level": 0,
+  "name": "ホームステイ 村上文緒",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。",
+  "trait": [
+    "ガール",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

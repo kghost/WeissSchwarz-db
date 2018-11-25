@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あそんでくれるヒト、大ぼしゅう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_083.gif",
+  "level": 1,
+  "name": "あそぶの大好き！イロワケイルカ",
+  "power": 4500,
+  "rarity": "FR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フレンズ》のキャラの枚数×500に等しい。\n【自】 共鳴 ［手札の「あそぶの大好き！イロワケイルカ」を1枚公開する］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。",
+  "trait": [
+    "フレンズ",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

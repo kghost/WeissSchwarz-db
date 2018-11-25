@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "よいしょ……っと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_083.gif",
+  "level": 0,
+  "name": "超マイペース 萌",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《鍋》のキャラすべてに、パワーを＋500。\n【自】 絆／「勝気で快活 眞子」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「勝気で快活 眞子」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "鍋"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

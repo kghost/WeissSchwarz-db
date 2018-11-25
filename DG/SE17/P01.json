@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "悪魔も天使も大暴れ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_p01.gif",
+  "level": 3,
+  "name": "ディスガイア Ｄ２",
+  "rarity": "PR",
+  "side": "S",
+  "text": "あなたは自分のキャラを2枚選び【レスト】する。2枚【レスト】したなら、相手にＸダメージを与える。Ｘはそれらのキャラのレベルの合計に等しい。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "にゃあー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_028.gif",
+  "level": 1,
+  "name": "ウラカン",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 このカードは、あなたのカード名に「フーカ」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の《覇王流》のキャラを1枚まで選び、【レスト】し、自分の控え室の《覇王流》のキャラを1枚まで選び、自分の「リンネとの対峙 フーカ」か「大きな背中 フーカ」の下にマーカーとして裏向きに置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

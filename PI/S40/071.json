@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "キレイ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_s40/pi_s40_071.gif",
+  "level": 1,
+  "name": "“浴衣と花火”美遊",
+  "power": 3000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台のこのカードのレベルを?1。\n【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。\n【自】 相手のアタックフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "マスター",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "死神として、お前の魂……刈り取らせてもらうぞ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se08/dg_se08_03.gif",
+  "level": 2,
+  "name": "死神 エミーゼル",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。",
+  "trait": [
+    "悪魔",
+    "死"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

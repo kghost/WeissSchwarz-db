@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_056.gif",
+  "level": 1,
+  "name": "ＭＥＩＫＯ“ブルークリスタル”",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「Nostalogic」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚まで選び、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの控え室の「ＭＥＩＫＯ“ブルークリスタル”」の枚数×2000に等しい。",
+  "trait": [
+    "音楽",
+    "ドレス"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

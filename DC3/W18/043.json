@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "内緒。兄さんには内緒だよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_043.gif",
+  "level": 0,
+  "name": "内なる想い 姫乃",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたの山札の上から1枚をクロック置場に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室の「ツンツン 姫乃」を1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "新聞",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "戻ろう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_067.gif",
+  "level": 0,
+  "name": "“信じる心”ナナ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 他のあなたの「“信じる心”モモ」がアタックした時、前列にこのカードがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。",
+  "trait": [
+    "宇宙人",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_025.gif",
+  "level": 1,
+  "name": "“み”どりの樽",
+  "rarity": "R",
+  "side": "S",
+  "text": "あなたは2枚引く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

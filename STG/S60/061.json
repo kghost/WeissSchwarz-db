@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あらゆる時、あらゆる場所に自分がいる。誰かを愛する強い気持ちが、何かを信じる強い感情が、何かを伝えたいという強い思いが、時を超え繋がって今の自分があるのだとしたら、それは素晴らしいこと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/stg_s60/stg_s60_061.gif",
+  "level": 1,
+  "name": "“君と見た世界”牧瀬 紅莉栖",
+  "power": 6000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。",
+  "trait": [
+    "ラボメン",
+    "科学"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

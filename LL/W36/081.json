@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "街がライトアップされてると、そんなにワクワクするものかしら？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_081.gif",
+  "level": 2,
+  "name": "“クリスマスデート”西木野 真姫",
+  "power": 7500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。\n【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「真姫の隠し事」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

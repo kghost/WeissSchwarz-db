@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "もっと早く、袋詰め3秒目標にっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_043.gif",
+  "level": 0,
+  "name": "“サプラ〜イズ！”な早さ モカ",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\n【自】 バトル中のこのカードが【リバース】した時、あなたはこのカードの下の裏向きのマーカーを1枚選び、公開する。あなたの控え室にそのカードと同じカード名のカードがあるなら、あなたはそのマーカーを手札に戻す。（そうでないなら元に戻す）",
+  "trait": [
+    "パン",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

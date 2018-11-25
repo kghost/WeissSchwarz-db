@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_070spa.gif",
+  "level": 3,
+  "name": "“鳥籠の歌姫”湊友希那",
+  "power": 9500,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】【CXコンボ】［(3) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「激しいシャウト」があるなら、あなたはコストを払ってよい。そうしたら、次の行動を2回行う。『相手に2ダメージを与える。』（ダメージキャンセルは発生する）",
+  "trait": [
+    "音楽",
+    "Roselia"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

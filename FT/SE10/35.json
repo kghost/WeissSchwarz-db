@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "これは私がやらなきゃいけない事なんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_35.gif",
+  "level": 1,
+  "name": "ウェンディ・マーベル",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「天竜の咆哮」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、山札の下に置き、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

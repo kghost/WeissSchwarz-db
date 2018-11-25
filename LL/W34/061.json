@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "せっかく、せっかくここまで来たんだから！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_061.gif",
+  "level": 0,
+  "name": "諦めない気持ち ことり",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「ことり」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "雪"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

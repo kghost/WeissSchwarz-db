@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 3,
+  "flavor": "かばんちゃんはこんなにすっごい技を持ってるんだもん！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_033.gif",
+  "level": 3,
+  "name": "紙ヒコーキ",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは相手のキャラを1枚選び、【レスト】する。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

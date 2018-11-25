@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "資料も文献もロクに残存しておらん、極東のマイナー\n妖怪が。二度とキメ顔などできなくしてやるわ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_019.gif",
+  "name": "廃墟の邂逅",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

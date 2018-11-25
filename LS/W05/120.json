@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "かがみ「まったく、私に言わせれば\nあんたは最高に“人のいい”人よ」\nつかさ「そ、そっかな…？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_120.gif",
+  "level": 3,
+  "name": "双子の姉妹 かがみ＆つかさ",
+  "power": 9500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《双子》のキャラ1枚につき、このカードのパワーを＋500。【自】 このカードが手札から舞台に置かれた時か「晴れ着のかがみ」の【起】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "双子",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

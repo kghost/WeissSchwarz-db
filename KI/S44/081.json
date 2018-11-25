@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "こんちぱ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_081.gif",
+  "level": 1,
+  "name": "危険な美貌 日染",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。\n【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「危険な薪割り」を1枚選び、手札に戻す。\n【自】 相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。",
+  "trait": [
+    "キズナ",
+    "インモラル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

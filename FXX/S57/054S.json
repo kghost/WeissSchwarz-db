@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "俺は、君と乗りたかったんだ！だから、いかないでくれ、ゼロツー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_054s.gif",
+  "level": 0,
+  "name": "恥ずかしい告白 ヒロ",
+  "power": 500,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】このカードが手札から舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』\n【起】［このカードを【レスト】する］ あなたは自分の、《パラサイト》か《フランクス》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "パラサイト",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

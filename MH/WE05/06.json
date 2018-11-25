@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "アリッサも、深優が大好き",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we05/mh_we05_06.gif",
+  "level": 0,
+  "name": "アリッサ＆深優",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "アルフ「おじゃましまーす」\nザフィーラ「お呼びですか？執務官」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_012.gif",
+  "level": 0,
+  "name": "頼れるコンビ アルフ＆ザフィーラ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《クローン》か《使い魔》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
+  "trait": [
+    "使い魔",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

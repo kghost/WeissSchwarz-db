@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ベンチで夜明かししている不良少女がいると思えば…\nRegrettably 計画を知ってしまったようね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_020.gif",
+  "level": 0,
+  "name": "長点上機学園の生徒 布束",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "科学",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

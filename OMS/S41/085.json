@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ワンナウト！ツーアウト！スリーアウト！チェーンジ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_085.gif",
+  "level": 0,
+  "name": "“罵詈雑言”十四松",
+  "power": 4000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードをストック置場に置く。（公開したカードは元に戻す）",
+  "trait": [
+    "６つ子",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "翼「わぁ、カワイイ曲～！ダンスは、こんなカンジがいいな～♪」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/ims_s61/ims_s61_t06.gif",
+  "name": "Angelic Parade♪",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

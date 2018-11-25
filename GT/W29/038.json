@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あかり「るなちゃんが自分の気持ちを整理するまで。\nそれまで……一緒にここに居る……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_038.gif",
+  "level": 0,
+  "name": "急接近!? あかり＆るな",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［あなたの「急接近!? あかり＆るな」を2枚【レスト】する］ あなたは自分の山札の上から1枚を、ストック置場に置く。",
+  "trait": [
+    "タロット",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

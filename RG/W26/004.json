@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "結局、来るかどうかも分からない相手を\n待つのは、退屈なのよね??",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_004.gif",
+  "level": 0,
+  "name": "妨害活動 フレンダ",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「人形爆弾」を1枚選び、手札に戻す。",
+  "trait": [
+    "人形",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

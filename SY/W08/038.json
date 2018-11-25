@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "おまたせしちゃってごめんなさい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_038.gif",
+  "level": 0,
+  "name": "サイン会みくる",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［手札のクライマックスを1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の山札を見て《時間》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "時間",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

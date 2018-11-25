@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "シロもお兄ちゃんか、そうよね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_009.gif",
+  "level": 1,
+  "name": "家族の喜び みさえ",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「新たな家族」が置かれた時、他のあなたの《家族》のキャラが2枚以上で、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「いたずらっ子 ひまわり」を1枚まで選び、舞台の好きな枠に置く。",
+  "trait": [
+    "家族",
+    "主婦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

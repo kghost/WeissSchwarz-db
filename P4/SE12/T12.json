@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "飛んでけぇぇぇ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se12/p4_se12_t12.gif",
+  "level": 1,
+  "name": "“必殺の蹴り”千枝",
+  "power": 6000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。",
+  "trait": [
+    "スポーツ",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "やっぱり、もっと見ていいよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_016.gif",
+  "level": 0,
+  "name": "手作りのツノ飾り ゼロツー",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "パラサイト",
+    "叫竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

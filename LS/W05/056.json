@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_056.gif",
+  "level": 2,
+  "name": "岩崎 みなみ",
+  "power": 8000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの、「趣味の人ひより」と「素敵素材ゆたか」がいるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「何気ない幸せ」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "保健室",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

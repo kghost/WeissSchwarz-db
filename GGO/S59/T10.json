@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "今から私が、この劣悪な環境で生きていく術を、お前に叩き込んでやる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/ggo_s59/ggo_s59_t10.gif",
+  "level": 1,
+  "name": "チュートリアル",
+  "rarity": "TD",
+  "side": "S",
+  "text": "このカードは、あなたのカード名に「レン」か「香蓮」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のカード名に「レン」か「香蓮」を含むキャラを1枚選び、手札に戻してよい。』このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

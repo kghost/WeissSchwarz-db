@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "嗚呼　あたし貴方なら\n髪切りも爪剥ぎも超えて指切りするわ\n交わして変わらぬ愛を",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s29/pd_s29_128.gif",
+  "name": "指切り",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

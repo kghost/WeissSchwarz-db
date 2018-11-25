@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "…よいしょ、っと。大分綺麗になったし、もう少しやれば終わりそうだね?…はい？　私が泡まみれ？　え、どこどこ？…あららぁ、いつの間にこんなことに?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_101.gif",
+  "level": 2,
+  "name": "誰かの悪戯 笹原野々花",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「砂夜」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

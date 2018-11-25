@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "ふー、ふー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w20/rw_w20_076.gif",
+  "level": 2,
+  "name": "“げんなじーのめんらー”静流",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "風紀委員",
+    "ラーメン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ねぇねぇおねいさ?ん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_t09.gif",
+  "level": 3,
+  "name": "嵐を呼ぶ園児 しんのすけ",
+  "power": 10000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《家族》か《幼稚園》のキャラの枚数×500に等しい。",
+  "trait": [
+    "家族",
+    "幼稚園"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "…一番の仲良しさんだから、かな",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_t01.gif",
+  "level": 0,
+  "name": "黄昏の街を見下ろす鈴と小毬",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "お菓子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

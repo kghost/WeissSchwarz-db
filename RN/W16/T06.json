@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "あき穂「チュウタネ、ロボ部?！ 元気一発！\nよいら?いき?！」「よいら?いき?！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_t06.gif",
+  "name": "決意の円陣",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

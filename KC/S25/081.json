@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "いつでも準備、できています！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_081.gif",
+  "level": 3,
+  "name": "金剛型戦艦2番艦 比叡改二",
+  "power": 9500,
+  "rarity": "RR+",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1000に等しい。\n【自】 このカードが手札から舞台に置かれた時か「金剛型戦艦2番艦 比叡」の【起】の効果で舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "trait": [
+    "艦娘",
+    "戦艦"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

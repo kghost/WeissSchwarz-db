@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "そう。キミはこの桜の魔法が引き起こした奇跡",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_103.gif",
+  "level": 2,
+  "name": "告白するさくら",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「枯れない桜」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "魔法",
+    "先生"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

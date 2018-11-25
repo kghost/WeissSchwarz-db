@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "え、あ、あ、あ…………\nに、兄さんがなんでここにっ！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_042.gif",
+  "level": 0,
+  "name": "お寝坊 姫乃",
+  "power": 2500,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《新聞》のキャラを1枚まで選び、手札に戻す。",
+  "trait": [
+    "新聞",
+    "パジャマ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

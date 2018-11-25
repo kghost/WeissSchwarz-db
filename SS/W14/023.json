@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "お互いがんばろうね、シャナちゃん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_w14/ss_w14_023.gif",
+  "level": 2,
+  "name": "御崎高校の生徒 一美",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "愛",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

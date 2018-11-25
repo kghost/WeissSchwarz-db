@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私たちは機能しさえすれば良い。余計な事を考えてはダメ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_062.gif",
+  "level": 0,
+  "name": "“最高傑作”アイン",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\n【起】［このカードをクロック置場に置く］ あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

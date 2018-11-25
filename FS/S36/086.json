@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s36/fs_s36_086.gif",
+  "level": 0,
+  "name": "“繰り出す追撃”葛木 宗一郎",
+  "power": 3500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《マスター》か《サーヴァント》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
+  "trait": [
+    "マスター",
+    "先生"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

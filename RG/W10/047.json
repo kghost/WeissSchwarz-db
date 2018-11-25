@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 9,
+  "flavor": "木山「あれは１万人の子供達の思念の塊だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_047.gif",
+  "level": 3,
+  "name": "幻想猛獣",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは相手の前列のレベル2以下のキャラを2枚まで選び、クロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

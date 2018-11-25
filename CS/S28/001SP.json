@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "お調子者 しんのすけ",
+  "power": 3500,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trait": [
+    "家族",
+    "幼稚園"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

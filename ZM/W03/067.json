@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "契約を交わした使い魔は主人に絶対忠実…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_067.gif",
+  "level": 2,
+  "name": "恋多き女 キュルケ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「微熱の誘惑」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。\n【起】［(4)］ あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

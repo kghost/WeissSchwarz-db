@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "へへっ…燃えたろ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_051.gif",
+  "level": 1,
+  "name": "草薙 京",
+  "power": 4000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの控え室に「日本チーム」があるなら、このカードのパワーを＋1500。\n【自】 あなたのクライマックス置場に「裏百八式・大蛇薙」が置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "trait": [
+    "神器",
+    "日輪"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

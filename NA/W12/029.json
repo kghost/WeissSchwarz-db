@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "なんか、あんたのこと、どっかで見た気がするんだけど……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_029.gif",
+  "level": 1,
+  "name": "アリサ＆ちびアルフ",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2)］ そのターン中、このカードのパワーを＋5000。",
+  "trait": [
+    "動物",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

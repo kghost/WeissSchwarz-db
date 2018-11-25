@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "えへへ。あたしたち、なんか似てるかもね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_79.gif",
+  "level": 0,
+  "name": "水着のアイシア",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "オモチャ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s29/pd_s29_035.gif",
+  "level": 1,
+  "name": "初音ミク“ナナイロライン”",
+  "power": 5000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「Glory 3usi9」があるなら、あなたは他の自分の「初音ミク“ゆるふわパステル”」を1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』",
+  "trait": [
+    "音楽",
+    "虹"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

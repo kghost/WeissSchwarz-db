@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "わたしと、いっしょに、こい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_063sp.gif",
+  "level": 0,
+  "name": "“花と散る”黒のバーサーカー",
+  "power": 2000,
+  "rarity": "SP",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trait": [
+    "サーヴァント",
+    "電気"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "ママ……しょんぼりしてたから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_t17.gif",
+  "level": 1,
+  "name": "ママ、いい子",
+  "rarity": "TD",
+  "side": "W",
+  "text": "あなたは自分の控え室のキャラを3枚まで選び、手札に戻し、自分の手札を2枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

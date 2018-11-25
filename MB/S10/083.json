@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "後は私に任せて、遠野君は先に帰っていて下さい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_083.gif",
+  "level": 0,
+  "name": "志貴の先輩 シエル",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 絆／「“直死の魔眼”志貴」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“直死の魔眼”志貴」を1枚選び、手札に戻す）\n【起】［(3)］ あなたは相手のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "カレー",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

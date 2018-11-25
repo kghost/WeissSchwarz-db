@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "明日になればきっと見つかるから\n今、目を覚まして",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_041.gif",
+  "level": 0,
+  "name": "初音ミク“ディープスカイ”",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

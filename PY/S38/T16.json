@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ケンカは苦手だけど\n力には自信があるんだなぁ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_t16.gif",
+  "level": 1,
+  "name": "タルタル",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "―",
+  "trait": [
+    "ぷよ",
+    "巨人"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

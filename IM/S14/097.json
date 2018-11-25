@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "千早「プロデューサー、見ていてください。\n私達は負けません、この絆がある限り！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_097.gif",
+  "level": 3,
+  "name": "ジュピターとの対決！",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のクロックの上から1枚を、控え室に置いてよい。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

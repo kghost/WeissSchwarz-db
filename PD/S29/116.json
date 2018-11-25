@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "でも、結局ボクら　何か変われた？\nこたえは　「…もう一度。」　さえ　消せなくて・・・",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s29/pd_s29_116.gif",
+  "name": "erase or zero",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

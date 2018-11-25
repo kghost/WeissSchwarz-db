@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "フラン「ガウル殿下と腹心の皆さんも、\nバッチリとご参加です」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we12/dd_we12_t02.gif",
+  "level": 1,
+  "name": "“ジェノワーズ”ノワール",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

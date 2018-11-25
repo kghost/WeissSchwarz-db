@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "アインハルトです。言いにくかったら『ハルにゃん』…とでも",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_020.gif",
+  "level": 0,
+  "name": "アインハルト・ストラトス",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《覇王流》のキャラすべてに、パワーを＋500。\n【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+  "trait": [
+    "格闘",
+    "覇王流"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

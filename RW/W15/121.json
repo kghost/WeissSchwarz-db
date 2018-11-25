@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "…え…ううん、ちょっとぼんやりしてただけ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_121.gif",
+  "level": 0,
+  "name": "懐かしい感じ 小鳥",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "植物",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

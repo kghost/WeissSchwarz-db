@@ -1,0 +1,22 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_003.gif",
+  "level": 2,
+  "name": "つつましやかな少女 シャロ",
+  "power": 6000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】 あなたのクライマックス置場に「幼馴染の二人」が置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "trait": [
+    "フルール",
+    "ド",
+    "ラパン",
+    "特待生"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

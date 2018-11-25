@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "当然だ。生徒会長を任された以上、\n全校生徒の情報は把握している",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_014.gif",
+  "level": 0,
+  "name": "柳洞 一成",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "生徒会",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

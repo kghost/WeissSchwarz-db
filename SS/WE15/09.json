@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "最後のお仕事、ね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_09.gif",
+  "level": 1,
+  "name": "最終決戦 マージョリー",
+  "power": 6500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1) あなたの《炎》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋3000。",
+  "trait": [
+    "炎",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

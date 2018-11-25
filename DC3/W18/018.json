@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "シャルル「うん……わかった。エトの願い……\nなんだって叶えてあげる。だって、\nあたしはサンタクロース……だもん」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_018.gif",
+  "level": 2,
+  "name": "聖夜の贈り物",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の山札を上から7枚まで見て、カード名に「シャルル」を含むか《オモチャ》のキャラを2枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

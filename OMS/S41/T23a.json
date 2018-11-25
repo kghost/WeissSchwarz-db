@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "SECRET",
+  "name": "伝説はここから",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

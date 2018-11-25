@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "つまらないことをしているのは、あなたでしょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_071.gif",
+  "level": 3,
+  "name": "クリムゾンレッドの腕章",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたはレベル1以下の相手の前列のキャラを1枚選び、控え室に置く。このカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

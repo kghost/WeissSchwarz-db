@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_045.gif",
+  "level": 2,
+  "name": "お似合いの髪型 神原駿河",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 経験 あなたのレベル置場に「『やって後悔しない』神原駿河」があるなら、このカードのパワーを＋2500。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《怪異》のキャラが4枚以上なら、あなたは自分の控え室の《怪異》のキャラを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "怪異",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

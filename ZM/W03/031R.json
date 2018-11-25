@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "エレオノール＆カトレア",
+  "power": 7500,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "魔法",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "いえ……あの、申し訳ないけれど、さすがにそういうのを一生とか言われると、ちょっと、私としては、ついていけないというか……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bm_s15/bm_s15_t06.gif",
+  "level": 2,
+  "name": "私服の戦場ヶ原ひたぎ",
+  "power": 8000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたの《怪異》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "怪異",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

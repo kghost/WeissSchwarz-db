@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "お??",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_088.gif",
+  "level": 0,
+  "name": "見守るひまわり",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《家族》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "家族",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "『――――今からでも、自分を許してあげなさい』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_t17.gif",
+  "name": "別れの言葉",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

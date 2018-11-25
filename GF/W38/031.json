@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "短距離走とかで勝てなかったのが、\nちょっとくやしいなぁ、くう?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_031.gif",
+  "level": 2,
+  "name": "賞賛の嵐 熊田一葉",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの黄のキャラが4枚以上なら、このカードのパワーを＋2000し、ソウルを＋1。",
+  "trait": [
+    "ガール",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

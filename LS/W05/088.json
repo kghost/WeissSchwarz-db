@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "こなた「委員長とかって一度やるとキャライメージが固定されちゃって続くよね」\nみゆき「そ　そうですね……　嫌ではないのでいいのですけど……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_088.gif",
+  "level": 0,
+  "name": "委員長キャラみゆき",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "メガネ",
+    "委員長"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

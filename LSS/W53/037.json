@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_037.gif",
+  "level": 3,
+  "name": "“MY舞☆TONIGHT”高海 千歌",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。\n【自】【CXコンボ】［(4) 手札を1枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「みんなと挑むステージ」があり、このカードの下のカード名に「MY舞☆TONIGHT」を含む表向きのマーカーが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「“MY舞☆TONIGHT”国木田 花丸」を1枚までと「“MY舞☆TONIGHT”津島 善子」を1枚までと「“MY舞☆TONIGHT”小原 鞠莉」を1枚までと「“MY舞☆TONIGHT”松浦 果南」を1枚まで選び、舞台のキャラのいない別々の枠に置く。\n【自】 ターンの終わりに、あなたはこのカードの下のマーカーをすべて控え室に置く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

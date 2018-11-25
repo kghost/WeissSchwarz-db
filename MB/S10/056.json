@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ゆっっっっくり話を聞かせてもらおうかしら？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_056.gif",
+  "level": 1,
+  "name": "浅上女学院の生徒 秋葉",
+  "power": 3000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。\n【起】［あなたの《血》のキャラを2枚【レスト】する］ あなたは相手の控え室のカードを1枚選び、山札の上に置く。",
+  "trait": [
+    "血",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

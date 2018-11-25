@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "メアリー「ま、だから、なんて言うかさ、\nあたしたちのことを信頼してくれてありがと」\nエドワード「そういうこと」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_027.gif",
+  "level": 0,
+  "name": "幼馴染み メアリー＆エドワード",
+  "power": 2000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）\n【起】［このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "魔法",
+    "探偵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

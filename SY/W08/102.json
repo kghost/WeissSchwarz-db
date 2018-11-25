@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "わりと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_102.gif",
+  "level": 0,
+  "name": "いつもの長門",
+  "power": 2500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《宇宙人》のキャラの枚数×500に等しい。",
+  "trait": [
+    "宇宙人",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

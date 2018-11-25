@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "お前を殺して、私は願いを叶える",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_051.gif",
+  "level": 1,
+  "name": "“狩人”赤のアーチャー",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 舞台のこのカードのレベルを?1。\n【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "サーヴァント",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

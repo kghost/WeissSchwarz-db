@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "その時ギルドの看板が壊れてて、\nＬＵＣＫＹがＬＵＣＹになっていたんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_se10/ft_se10_23.gif",
+  "level": 2,
+  "name": "LOVE & LUCKY",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の山札の上から1枚を公開する。そのカードが《鍵》のキャラならストック置場に置き、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（そうでないなら元に戻す）\nこのカードをストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

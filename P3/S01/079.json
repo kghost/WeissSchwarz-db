@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "順平「おーっ、ゆかり選手、想像よりけっこう強気のデザインですな！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_079.gif",
+  "level": 1,
+  "name": "水着のゆかり",
+  "power": 5500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "水着",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "よろしくお願いします",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_033.gif",
+  "level": 1,
+  "name": "みっくん＆ともちゃん",
+  "power": 3000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のレベル2以上のあなたのキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ 他の《音楽》のあなたのキャラすべてに、そのターン中、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

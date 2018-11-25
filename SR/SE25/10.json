@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "別に頼んだ覚えはねえんだけどな……\nまあ……来るってんなら勝手にしやがれ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sr_se25/sr_se25_10.gif",
+  "level": 0,
+  "name": "熱いビート アグナム",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【永】 他のあなたの『応援』を持つキャラがいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "竜"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

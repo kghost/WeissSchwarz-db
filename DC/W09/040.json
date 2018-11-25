@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "これから、よろしくお願いします",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w09/dc_w09_040.gif",
+  "level": 0,
+  "name": "凛々しい環",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から1枚見て、山札の上か下に置き、そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "巫女"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

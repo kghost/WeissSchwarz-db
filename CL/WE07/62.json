@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ありがとうございます。渚さん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_62.gif",
+  "level": 1,
+  "name": "パジャマの風子",
+  "power": 4000,
+  "rarity": "RE",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ヒトデ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trait": [
+    "ヒトデ",
+    "パジャマ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

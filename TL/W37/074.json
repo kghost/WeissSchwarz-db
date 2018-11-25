@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あ…あたしが一緒に入る!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_074.gif",
+  "level": 0,
+  "name": "“意外と積極的”ナナ",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの、《宇宙人》か《動物》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "宇宙人",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

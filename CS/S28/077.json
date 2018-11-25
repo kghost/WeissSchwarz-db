@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "おりゃあ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_077.gif",
+  "level": 3,
+  "name": "戦闘準備 ひろし",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のターン中、他のあなたの、《家族》か《和服》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分の山札を上から4枚まで見て、《家族》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋4000。",
+  "trait": [
+    "家族",
+    "サラリーマン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

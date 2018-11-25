@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fxx_s57/fxx_s57_104.gif",
+  "level": 1,
+  "name": "Escape イチゴ",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】他のあなたの、《パラサイト》か《フランクス》のキャラが2枚以上なら、このカードのパワーを＋500し、このカードは『【自】アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "trait": [
+    "パラサイト",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

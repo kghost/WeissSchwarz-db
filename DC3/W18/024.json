@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "これが──覚悟……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_024.gif",
+  "level": 1,
+  "name": "“正義の魔法使い”姫乃",
+  "power": 5000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(3) このカードをクロック置場に置く］ あなたのクライマックス置場に「心を繋げる魔法」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「伝えたい気持ち 姫乃」を1枚までと「通じあった心 清隆＆姫乃」を1枚まで選び、舞台の別々の枠に【レスト】して置く。",
+  "trait": [
+    "魔法",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

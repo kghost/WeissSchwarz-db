@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "張り切っていくぞ、てめぇらー！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_097.gif",
+  "level": 1,
+  "name": "ダークヒーロー",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のクロックの上から1枚を、控え室に置いてよい。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

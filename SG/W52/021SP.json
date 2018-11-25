@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "行くデスよ、調ッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_021sp.gif",
+  "level": 1,
+  "name": "【裂空・亜リiす：心】切歌",
+  "power": 4500,
+  "rarity": "SP",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「裂空・亜リiす」があるなら、あなたは自分の控え室のカード名に「切歌」か「調」を含むキャラか「供養デス」を1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

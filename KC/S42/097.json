@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "腹が減ってはなんとやら……\n戦闘前にしっかりと腹ごしらえをしておきましょう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_097.gif",
+  "level": 1,
+  "name": "戦闘糧食",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札の上から1枚をクロック置場に置く。そのカードが《艦娘》のキャラなら、あなたは3枚まで引き、自分の手札を1枚選び、控え室に置く。\nこのカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "凍りついた世界に新しい風が吹く\n時計の針はもう動き出すから　今すぐに走り出せ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_se32/pd_se32_27.gif",
+  "level": 1,
+  "name": "初音ミク“卑怯グリーン”",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「卑怯」を含むキャラが2枚以上なら、このカードはサイドアタックしてもソウルが減少しない。\n【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "trait": [
+    "音楽",
+    "ヒーロー"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "……もうっ、開演前から泣かせるんじゃないわよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-038.gif",
+  "level": 1,
+  "name": "想いはひとつ 律子",
+  "power": 8500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "音楽",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

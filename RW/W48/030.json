@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_030.gif",
+  "level": 2,
+  "name": "“ちびもすに乗って”篝",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋5000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 このカードが手札か控え室から、舞台に置かれた時、あなたは自分の控え室の「“スキ有り！”ちびもす」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "trait": [
+    "鍵",
+    "時間"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

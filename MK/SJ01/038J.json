@@ -1,0 +1,12 @@
+{
+  "color": "RED",
+  "flavor": "ガチョウの中にプレゼントがある！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_038.gif",
+  "name": "巨人の罰!!",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 このカードはあなたのファイナルフェイズの始めに、手札からクライマックス置場に置くことができる。\n【自】［(4)］ あなたのファイナルフェイズ中、このカードが手札からクライマックス置場に置かれた時、すべてのプレイヤーの前列の中央の枠にキャラがいないなら、あなたはコストを払ってよい。そうしたら、相手に４ダメージを与える。このカードのダメージは無効化されず、キャンセルされない。",
+  "trigger": [
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "Na-Gaさんがお茶買ってきてくれた！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p30.gif",
+  "name": "差し入れきましたっ！",
+  "rarity": "PR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

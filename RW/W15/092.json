@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "承知いたしました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_092.gif",
+  "level": 1,
+  "name": "“咲夜”という名の存在",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "超能力",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

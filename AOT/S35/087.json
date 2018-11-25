@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "ハンジ「まずは過去5回の捕獲時に行った実験の反復から始めた」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_087.gif",
+  "level": 0,
+  "name": "“生け捕りになった巨人”ソニー",
+  "power": 1500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上からＸ枚を、控え室に置いてよい。Ｘはあなたの《巨人》のキャラの枚数に等しい。\n【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。",
+  "trait": [
+    "巨人",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

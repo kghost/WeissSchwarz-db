@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s36/fs_s36_104.gif",
+  "level": 1,
+  "name": "ぷち凛",
+  "power": 6500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）\n【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。",
+  "trait": [
+    "マスター",
+    "宝石"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

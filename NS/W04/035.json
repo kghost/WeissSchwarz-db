@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "背伸びたね、スバル\nん……また会えて、嬉しいよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_035.gif",
+  "level": 1,
+  "name": "なのは＆スバル",
+  "power": 3500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「ギンガ・ナカジマ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ギンガ・ナカジマ」を1枚選び、手札に戻す）",
+  "trait": [
+    "魔法",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

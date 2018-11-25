@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "flavor": "イゴール「ペルソナ同士の『合体』と思ってもらってもいい」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_097.gif",
+  "level": 1,
+  "name": "処刑",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを4枚まで選び、控え室に置く。あなたは自分の山札を見てレベルとコストの合計がＸ以下の《怪盗》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。Ｘはこの効果で控え室に置かれたキャラの舞台にいた時のレベルとコストの合計に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

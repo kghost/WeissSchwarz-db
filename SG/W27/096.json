@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "Imyuteus amenohabakiri tron…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_096.gif",
+  "level": 2,
+  "name": "天羽々斬",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたは自分のレベル2以上のカード名に「翼」を含むキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の手札の「抜身の刀身 翼」を1枚まで選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

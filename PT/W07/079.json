@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "サイス「……恐怖もなく、慈悲もなく、ただ忠実な猟犬の如く……死を運ぶオート・マタ……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_079.gif",
+  "level": 0,
+  "name": "ツァーレンシュヴェスタン",
+  "power": 4000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）",
+  "trait": [
+    "武器",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

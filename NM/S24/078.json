@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "ちゅーか、許さんゆうて、\n今のおどれに何ができるっちゅーねん",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nm_s24/nm_s24_078.gif",
+  "level": 2,
+  "name": "陰陽師 影縫余弦",
+  "power": 8000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2)］ 次の相手のターンの終わりまで、このカードのパワーを＋2500。",
+  "trait": [
+    "怪異",
+    "オカルト"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

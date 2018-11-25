@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "気合い切れるの早すぎだよ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_t09r.gif",
+  "level": 0,
+  "name": "運命の舞台 露崎 まひる",
+  "power": 1500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 他のあなたの《レヴュー》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "レヴュー",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

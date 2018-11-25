@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "さようならアンリマユ。\n貴方を祓うのは、特別に見逃してさしあげます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_044sp.gif",
+  "name": "スパイラル・ラダー",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

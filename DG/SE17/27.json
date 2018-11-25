@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ガルングン「その御方こそ、新生魔界を担う最凶魔王、\n新生クリチェフスコイさまである！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_27.gif",
+  "level": 0,
+  "name": "新生クリチェフスコイ",
+  "power": 1500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "プリニー",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

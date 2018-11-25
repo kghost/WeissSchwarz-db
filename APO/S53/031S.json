@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "いよいよか？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_031s.gif",
+  "level": 0,
+  "name": "“再戦の約束”赤のランサー",
+  "power": 2000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《マスター》か《サーヴァント》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "サーヴァント",
+    "太陽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

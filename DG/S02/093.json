@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "味道求心！　若者は、なにごとも強火で行けい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_093.gif",
+  "level": 2,
+  "name": "家諦科凶師チャンプル先生",
+  "power": 7500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】相手のターン中、このカードとバトルしているキャラが【リバース】した時、あなたは1枚引いてよい。",
+  "trait": [
+    "先生",
+    "コック"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

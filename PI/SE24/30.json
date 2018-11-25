@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pi_se24/pi_se24_30.gif",
+  "level": 3,
+  "name": "守りたい日常 イリヤ",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、自分の手札のコスト1以下のキャラを1枚まで選び、舞台の好きな枠に置く。\n【自】［(3) このカードを手札に戻す］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「もう一人の私」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「叶えたい願い クロ」を1枚まで選び、このカードがいた枠に置く。",
+  "trait": [
+    "マスター",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

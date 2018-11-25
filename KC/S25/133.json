@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "この勝利、僕の力なんて些細なものさ。\nこの雨と……そう、提督のおかげだよ。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_133.gif",
+  "level": 1,
+  "name": "幸運の駆逐艦 時雨改二",
+  "power": 6500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時か「白露型駆逐艦2番艦 時雨」の【起】の効果で舞台に置かれた時、相手は自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1000。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "trait": [
+    "艦娘",
+    "駆逐艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

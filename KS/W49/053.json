@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "おっと、これ作った責任者、俺でした！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w49/ks_w49_053.gif",
+  "level": 0,
+  "name": "博士",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【起】［あなたのキャラを2枚【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の「デストロイヤー警報！」を1枚選び、このカードの下にマーカーとして裏向きに置く。\n【起】［あなたのキャラを2枚【レスト】する］ あなたはこのカードの下のマーカーを1枚手札に戻す。",
+  "trait": [
+    "-",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

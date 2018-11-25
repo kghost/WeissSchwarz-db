@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "雪子「ちょうど良かった！\n事件解決のお祝いに、お弁当食べよう？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_se15/p4_se15_26.gif",
+  "level": 2,
+  "name": "物体Xの恐怖",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは相手の前列のキャラを1枚選び、控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

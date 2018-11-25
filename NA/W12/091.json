@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "あたしたちは父様の使い魔…父様の願いは、あたしたちの願い…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_091.gif",
+  "level": 1,
+  "name": "リーゼアリア＆リーゼロッテ",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「仮面の戦士」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "双子",
+    "使い魔"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

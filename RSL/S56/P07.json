@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "夢は見るものではなく、魅せるものです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_p07.gif",
+  "level": 0,
+  "name": "“聖翔音楽学園 99期生”天堂 真矢",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《レヴュー》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "レヴュー",
+    "主席"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

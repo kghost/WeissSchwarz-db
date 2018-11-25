@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_061.gif",
+  "level": 1,
+  "name": "VB-6ケーニッヒモンスター（カナリア機）",
+  "power": 4500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(4) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラすべてを、控え室に置く。",
+  "trait": [
+    "パイロット",
+    "メカ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

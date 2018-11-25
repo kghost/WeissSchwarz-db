@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "今すぐ知ってること全部吐けっての！\nでないと、ここであんたを殺すよ。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_p02.gif",
+  "level": 1,
+  "name": "強大な魔力の持ち主 エトナ",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてが《プリニー》かカード名に「エトナ」を含むキャラなら、このカードのパワーを＋1000。",
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

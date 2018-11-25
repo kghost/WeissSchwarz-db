@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "りんちゃんと私、お友達だから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w02/lb_w02_014.gif",
+  "level": 1,
+  "name": "鈴＆小毬",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手がレベルアップした時、あなたは自分の山札の上から1枚を、ストック置場に置く。\n【起】［(3)］ あなたは自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trait": [
+    "動物",
+    "お菓子"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

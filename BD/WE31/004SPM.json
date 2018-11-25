@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_we31/bd_we31_004spm.gif",
+  "level": 1,
+  "name": "“笑顔のマジック”弦巻こころ",
+  "power": 4500,
+  "rarity": "SPM",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】【CXコンボ】 あなたのクライマックス置場に「笑顔のマジック」が置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのトリガーチェックでトリガーアイコンに[TRIGGER:Soul]があるカードがでた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』",
+  "trait": [
+    "音楽",
+    "ハロー、ハッピーワールド！"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

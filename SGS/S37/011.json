@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "また 新しい一年の始まりですね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_011.gif",
+  "level": 1,
+  "name": "“お正月”美山 椿芽",
+  "power": 4500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの黄のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "ストライカー",
+    "謎"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_030.gif",
+  "level": 1,
+  "name": "人形爆弾",
+  "rarity": "U",
+  "side": "W",
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\nこのカードは、あなたの《人形》のキャラがいないなら、手札からプレイできない。あなたは相手の前列のレベル1以下のキャラを1枚選び、ストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

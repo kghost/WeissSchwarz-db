@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "はい！ちょっとだけ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_080.gif",
+  "level": 2,
+  "name": "“南国ビーチリゾート”モモ",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "宇宙人",
+    "植物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

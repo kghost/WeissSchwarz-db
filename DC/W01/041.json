@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ぬくぬく?。ななかの手、暖かい?。ほわ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_041.gif",
+  "level": 2,
+  "name": "小恋＆ななか",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?1000。",
+  "trait": [
+    "音楽",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

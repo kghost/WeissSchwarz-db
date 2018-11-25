@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ハーバードを飛び級で卒業した、\n天才美少女警察官、明智小衣よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk2_s19/mk2_s19_p10.gif",
+  "level": 0,
+  "name": "ちび小衣",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたの《警察》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "警察",
+    "仮面"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

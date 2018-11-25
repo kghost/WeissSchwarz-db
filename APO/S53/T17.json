@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "アタランテ「何!?……向こうのアーチャーか」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/apo_s53/apo_s53_t17.gif",
+  "level": 2,
+  "name": "“迎撃”黒のアーチャー",
+  "power": 4000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(1) このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?2000。",
+  "trait": [
+    "サーヴァント",
+    "先生"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

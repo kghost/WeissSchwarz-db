@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ゆっこ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nj_we11/nj_we11_03.gif",
+  "level": 1,
+  "name": "長野原 みお",
+  "power": 4500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「相生 祐子」がいるなら、このカードのパワーを＋2000。",
+  "trait": [
+    "漫画",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

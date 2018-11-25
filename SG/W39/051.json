@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "先輩と後輩…この絆は、世界がくれたもの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w39/sg_w39_051.gif",
+  "level": 3,
+  "name": "“後輩との絆”クリス",
+  "power": 11000,
+  "rarity": "RR",
+  "side": "W",
+  "soul": 3,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「MEGA DETH FUGA」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）\n【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\n【自】 記憶 あなたのアンコールステップの始めに、あなたの思い出置場に「イグナイトモジュール」がないなら、このカードを控え室に置く。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

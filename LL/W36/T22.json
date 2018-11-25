@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "真姫「ええっ、今日障害物競走なの?!?　なんか難しそうだし、あなた代わりに出場してきてよ?」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_t22.gif",
+  "name": "一等賞の笑顔",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（[TRIGGER:Return]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "BOUNCE"
+  ],
+  "type": "Climax"
+}

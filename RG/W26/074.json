@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "美琴「学園都市最強の精神系能力者\n『心理掌握』食蜂操祈」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w26/rg_w26_074.gif",
+  "level": 0,
+  "name": "“女王”食蜂 操祈",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "超能力",
+    "手袋"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

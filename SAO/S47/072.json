@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ほう……よく生きていたな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s47/sao_s47_072.gif",
+  "level": 2,
+  "name": "《魔剣グラム》",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。\nそのターン中、相手はイベントと『助太刀』を手札からプレイできない。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

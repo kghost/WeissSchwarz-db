@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "僕たちが今できることを思いっきりやろう！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_106.gif",
+  "level": 3,
+  "name": "“新リーダー”理樹",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、他のあなたの、「“兄貴分”恭介」と「“マウンド上の精密機械”鈴」と「“筋肉の革命児”真人」と「“単純馬鹿”謙吾」がいるなら、あなたのキャラすべてに、そのターン中、パワーを＋10000。",
+  "trait": [
+    "特徴なし",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

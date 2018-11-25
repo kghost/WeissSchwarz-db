@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "＞ヌシ様が釣れた！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_047.gif",
+  "level": 2,
+  "name": "川のヌシ釣り",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の山札の上から1枚を、ストック置場に置く。あなたは自分のストックを見てキャラを1枚まで選んで相手に見せ、手札に戻す。そのストックをシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

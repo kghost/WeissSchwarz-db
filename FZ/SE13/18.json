@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "どちらがより“聖杯の王”に相応しい器か？\n酒杯に問えばつまびらかになるというものよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_se13/fz_se13_18.gif",
+  "level": 2,
+  "name": "聖杯問答",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《王族》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

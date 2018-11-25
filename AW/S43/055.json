@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "今なのです！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s43/aw_s43_055.gif",
+  "level": 3,
+  "name": "アーダー・メイデン",
+  "power": 11000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》か《ネット》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）\n【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "trait": [
+    "アバター",
+    "巫女"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

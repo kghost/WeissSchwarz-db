@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "出てこい。ランサー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_t13.gif",
+  "level": 2,
+  "name": "時計塔のエリート ケイネス",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "マスター",
+    "錬金術"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

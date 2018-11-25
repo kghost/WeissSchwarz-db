@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "プログラムカートリッジ、「ホルニッセ」、\nロードッ！　ドライブ・イグニッション！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_g09.gif",
+  "level": 3,
+  "name": "高速戦魔導師 フェイト",
+  "power": 9500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「なのは」を含むキャラを1枚選び、そのターン中、パワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたのキャラすべてに、そのターン中、ソウルを＋1。",
+  "trait": [
+    "魔法",
+    "クローン"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

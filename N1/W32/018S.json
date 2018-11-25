@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "自分の意思なのは",
+  "power": 8500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "魔法",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

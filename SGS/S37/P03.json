@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "まな「ねぇ、伊緒ちん！\n桜の花が満開だと わくわくしてきちゃうよねー♪」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_p03.gif",
+  "level": 1,
+  "name": "“桜の木の下で”伊緒＆まな",
+  "power": 1500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "ストライカー",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

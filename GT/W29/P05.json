@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ウチは、何もないからな……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_p05.gif",
+  "level": 2,
+  "name": "空を見上げて ぎんか",
+  "power": 4500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "タロット",
+    "商人"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

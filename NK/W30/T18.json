@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "あなたは『錠』を。私は『鍵』を。\n肌身離さずずっと大切に持っていよう",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_t18.gif",
+  "name": "遠い日の約束",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

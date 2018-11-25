@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ファントムの力は、絶対なの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_037.gif",
+  "level": 0,
+  "name": "インフェルノの女幹部クロウディア",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは自分の《暗黒街》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "暗黒街",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

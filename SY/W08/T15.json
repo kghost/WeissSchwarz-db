@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "みくる「それに長門さんがいるのも気になるし…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sy_w08/sy_w08_t15.gif",
+  "level": 1,
+  "name": "温泉の長門＆みくる",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "宇宙人",
+    "時間"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

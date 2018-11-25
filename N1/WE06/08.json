@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "フェイトのジャマを……するなぁあああ！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/n1_we06/n1_we06_08.gif",
+  "level": 2,
+  "name": "狼形態アルフ",
+  "power": 6000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「フェイト」を含むキャラすべてに、パワーを＋1000。\n【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "使い魔",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

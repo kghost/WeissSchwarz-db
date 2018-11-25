@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "テメェらが束になっても負ける気がしねぇよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_099.gif",
+  "name": "ネスツの落し子",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

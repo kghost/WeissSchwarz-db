@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "これです。確かにこの本です\n…本当にありがとうございました",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w06/lb_w06_069.gif",
+  "level": 1,
+  "name": "大切なもの",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたは自分の山札を上から3枚まで見て、《本》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

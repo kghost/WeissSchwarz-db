@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "プーン！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_108.gif",
+  "level": 0,
+  "name": "愛玩星霊 プルー",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "鍵",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

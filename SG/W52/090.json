@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "これは夢に向かってはばたく翼ッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_090.gif",
+  "level": 2,
+  "name": "【羅刹零ノ型：知】翼",
+  "power": 5500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 記憶 あなたの思い出置場に「イグナイトモジュール」があるなら、このカードは次の能力を得る。『【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4500。そうでないなら、このカードのパワーを?1500。』\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て「“剣にあらず”翼」を1枚まで選び、控え室に置き、その山札をシャッフルする。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

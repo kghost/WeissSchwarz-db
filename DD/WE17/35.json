@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "朝から賑やかだね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_35.gif",
+  "level": 0,
+  "name": "イスカ・マキシマ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、《武器》を与える。",
+  "trait": [
+    "動物",
+    "鍛冶"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

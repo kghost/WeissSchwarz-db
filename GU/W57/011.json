@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_011.gif",
+  "level": 1,
+  "name": "慌ただしい旅立ち",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「シャロ」か「千夜」を含むキャラなら手札に加え、あなたは相手のキャラを1枚まで選び、手札に戻す。』（そうでないなら元に戻す）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

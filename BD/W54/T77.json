@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "だから今、みんなとPoppin'Partyができてすっごく楽しい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_t77.gif",
+  "level": 0,
+  "name": "“猪突猛進っ！”戸山香澄",
+  "power": 500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの「“猫かぶりの優等生”市ヶ谷有咲」すべてに、パワーを＋2000。\n【自】 絆／「“猫かぶりの優等生”市ヶ谷有咲」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“猫かぶりの優等生”市ヶ谷有咲」を1枚選び、手札に戻す）",
+  "trait": [
+    "音楽",
+    "Poppin'Party"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

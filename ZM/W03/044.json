@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "この……バカ犬?！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_044.gif",
+  "level": 2,
+  "name": "お仕置き",
+  "rarity": "U",
+  "side": "W",
+  "text": "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?7000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

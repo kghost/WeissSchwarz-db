@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "い、いてぇよ……胸のあたり",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ki_s44/ki_s44_001.gif",
+  "level": 1,
+  "name": "胸の痛み 天河",
+  "power": 4000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《キズナ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「好きだとか好かれるとか」があるなら、あなたは自分の山札を上から2枚まで見て、レベル1以上のカードを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+  "trait": [
+    "キズナ",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

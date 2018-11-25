@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "cost": 3,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_096.gif",
+  "level": 2,
+  "name": "私財差し押さえ",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは相手のストックすべてを、控え室に置き、ターンの終わりに、相手は自分の山札の上から同じ枚数をストック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

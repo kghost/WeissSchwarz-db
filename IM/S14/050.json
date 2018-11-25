@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "１、２、３！　行けばわかるのさ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_050.gif",
+  "name": "ポジティブ！",
+  "rarity": "CC",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

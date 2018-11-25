@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "モモさんにもらったの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w42/tl_w42_044.gif",
+  "level": 0,
+  "name": "“ミニスカメイド服”美柑",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の、《変身》か《家事》のキャラを1枚を選び、入れ替えてよい。\n【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "trait": [
+    "家事",
+    "ランドセル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

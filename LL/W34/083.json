@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "……カツサンドよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w34/ll_w34_083.gif",
+  "level": 1,
+  "name": "ライブの差し入れ 真姫",
+  "power": 2500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【自】 あなたのクライマックス置場に「みんなで決めた答え」が置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trait": [
+    "音楽",
+    "令嬢"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

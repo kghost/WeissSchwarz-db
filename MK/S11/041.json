@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "かまぼこ…！ダメよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_s11/mk_s11_041.gif",
+  "level": 0,
+  "name": "私服のエリー",
+  "power": 3000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "探偵",
+    "本"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "書類一式にサインする。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc-s31/kc-s31-055.gif",
+  "level": 2,
+  "name": "ケッコンカッコカリ",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠の《艦娘》のキャラに、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

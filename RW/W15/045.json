@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "って何故かぁああああぁぁあぁーーっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_045.gif",
+  "level": 2,
+  "name": "江坂 宗源",
+  "power": 7500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のキャラが4枚以上なら、このカードのパワーを＋1000。\n【永】 あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "武器",
+    "だじゃれ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

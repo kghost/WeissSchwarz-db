@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "アイチ「立ち上がって、日本のみんな！」\n櫂「お前たちが未来への先導者だ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vg_spr/vg_spr_002.gif",
+  "name": "スタンドアップ！",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

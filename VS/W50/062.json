@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 3,
+  "flavor": "スターセイバー！セーット・アップ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_062.gif",
+  "level": 3,
+  "name": "スターセイバー",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の「必殺の打撃 ミウラ」を1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは相手に5ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

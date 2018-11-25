@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "だけど、そんな俺にだって\nたどり着きたい場所ができたんだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we01/cl_we01_02.gif",
+  "level": 2,
+  "name": "岡崎 朋也",
+  "power": 5500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたは自分のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。",
+  "trait": [
+    "不良",
+    "スポーツ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ノーヴェ「幻術バカの、１つ覚えがッ！見えてんだよォォッ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_043.gif",
+  "level": 2,
+  "name": "ノーヴェ＆ウェンディ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "trait": [
+    "メカ",
+    "盾"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

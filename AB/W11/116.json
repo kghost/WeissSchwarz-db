@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "果たしてこれは可愛いかしら？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w11/ab_w11_116.gif",
+  "level": 0,
+  "name": "“はじめて”のメガネ かなで",
+  "power": 3000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "死",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

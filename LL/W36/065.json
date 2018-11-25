@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "あなたと半分こって嬉しいかも！　だから、これからも穂乃果とたくさん半分こしようね?♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_065.gif",
+  "name": "動物がいっぱい",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

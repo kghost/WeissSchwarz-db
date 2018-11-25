@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "今日は、裏の庭の方ですよ。…この辺りの何本かが、桜です。まあ、見ればわかりますよね?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_100.gif",
+  "level": 2,
+  "name": "お花見 夢前春瑚",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「五十鈴」を含むキャラがいるなら、このカードのパワーを＋3000。",
+  "trait": [
+    "ガール",
+    "植物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

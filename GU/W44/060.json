@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "罪滅ぼしがしたい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w44/gu_w44_060.gif",
+  "level": 2,
+  "name": "“父の日”リゼ",
+  "power": 6500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《ラビットハウス》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「いつも ありがとな」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+  "trait": [
+    "ラビットハウス",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

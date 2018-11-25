@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "ガリィにおまかせですッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_043.gif",
+  "level": 1,
+  "name": "ガリィ・トゥーマーン",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《錬金術》のキャラを1枚選び、手札に戻す。",
+  "trait": [
+    "錬金術",
+    "人形"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

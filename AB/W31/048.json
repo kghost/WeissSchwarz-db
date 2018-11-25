@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "岩沢『やっと…見つけた…』",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/ab_w31/ab_w31_048.gif",
+  "level": 1,
+  "name": "歌いたかった歌",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の《死》のキャラを1枚選び、そのターン中、パワーを＋3500",
+  "trigger": [
+  ],
+  "type": "Event"
+}

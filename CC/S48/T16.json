@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "貴様、また私のマナを！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cc_s48/cc_s48_t16.gif",
+  "level": 0,
+  "name": "聖王女の楯 ブルクハルト",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードの正面のキャラは他の枠に動かせない。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "マナ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

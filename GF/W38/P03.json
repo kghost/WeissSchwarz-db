@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "お帰りなさいませ、ご主人様ぁ??とまあ…こんな具合にだな…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_p03.gif",
+  "level": 0,
+  "name": "我物申す 姫島木乃子",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "ガール",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

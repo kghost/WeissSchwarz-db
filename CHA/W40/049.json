@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "大切な誰かを忘れようとも、化物は運命に挑み続ける",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cha_w40/cha_w40_049.gif",
+  "name": "過酷な運命の結末",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "そう言えばね、あたし、明日、一日中暇なんだ?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w23/dc_w23_012.gif",
+  "level": 2,
+  "name": "期待の眼差し アイシア",
+  "power": 8000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "trait": [
+    "魔法",
+    "オモチャ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

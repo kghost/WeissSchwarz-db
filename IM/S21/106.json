@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "私、今回だけは、マネージャーの立場じゃなく、\nあなたを応援するから。最後まで、がんばろ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s21/im_s21_106.gif",
+  "level": 0,
+  "name": "サポート役まなみ",
+  "power": 1000,
+  "rarity": "RE",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードはフロントアタックできない。\n【永】 他のあなたのカード名に「愛」か「舞」を含むキャラすべてに、パワーを＋500し、『【自】 アンコール ［(2)］』を与える。",
+  "trait": [
+    "マネージャー",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あ、そういえば海老のお腹側って、蝉っぽくない？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/smp_w60/smp_w60_068.gif",
+  "level": 0,
+  "name": "“いらない疑問”蒼",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《サマポケ》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "trait": [
+    "サマポケ",
+    "双子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

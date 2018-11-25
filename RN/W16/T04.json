@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "でもほら、俺ってロボットとかあんまり興味ないし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_t04.gif",
+  "level": 1,
+  "name": "格闘ゲーマー 海翔",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "科学",
+    "ゲーム"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "いっそこうなったら逃がさない\nだからね、ほらね、覚悟して",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pd_s22/pd_s22_114.gif",
+  "name": "え？ああ、そう。",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

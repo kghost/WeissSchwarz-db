@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "フッ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s34/fs_s34_093.gif",
+  "level": 1,
+  "name": "破戒の宝具 キャスター",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「破戒の宝具」があるなら、あなたは相手の舞台にいるキャラの特徴を1つ選び、相手のキャラすべては、そのターン中、その特徴をすべて失う。",
+  "trait": [
+    "サーヴァント",
+    "マスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

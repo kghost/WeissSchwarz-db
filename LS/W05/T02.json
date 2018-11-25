@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "これくらいが好きって言ってたから……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_t02.gif",
+  "level": 0,
+  "name": "世話好き あやの",
+  "power": 2000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは自分のクライマックスを1枚選び、ストック置場に置いてよい。",
+  "trait": [
+    "お菓子",
+    "オデコ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

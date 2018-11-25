@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "これが私のガングニール。\n何物をも貫き徹す無双の一振り！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w27/sg_w27_056.gif",
+  "level": 0,
+  "name": "マリア・カデンツァヴナ・イヴ",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたは自分のクロックフェイズに、手札のクライマックスをクロック置場に置いてカードを引くことができない。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

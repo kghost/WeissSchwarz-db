@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "いいですね。槙島はパラライザーで麻痺させるだけ。\nそれ以上のことをしようとしたら、\n私はあなたの脚を撃ちます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pp_se14/pp_se14_20.gif",
+  "name": "選ばれた存在",
+  "rarity": "R",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "エレン「ペトラ・ラル……巨人討伐数10体、討伐補佐数48体」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_039.gif",
+  "level": 1,
+  "name": "“リヴァイ班の一員”ペトラ",
+  "power": 4000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“人類最強の兵士”リヴァイ」がいるなら、このカードのパワーを＋2000。\n【永】 他のあなたの「“リヴァイ班の一員”オルオ」がいるなら、他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "trait": [
+    "兵団",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

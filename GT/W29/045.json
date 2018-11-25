@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "ひっ！何か出てきた……！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_045.gif",
+  "level": 2,
+  "name": "半泣きのるな",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "タロット",
+    "令嬢"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

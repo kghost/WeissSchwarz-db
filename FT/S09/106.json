@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "まかせて。きっとうまくいくから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/ft_s09/ft_s09_106.gif",
+  "level": 2,
+  "name": "星霊の導き ルーシィ",
+  "power": 8000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1)］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "魔法",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

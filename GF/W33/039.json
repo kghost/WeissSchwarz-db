@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ふうむ…。私の知ってるネコカフェは、こういうものではなかったと思うけど…この猫耳？　脳波で動くというあれだよー尻尾とあわせて、作ってみたのだー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_039.gif",
+  "level": 1,
+  "name": "猫カフェ 螺子川来夢",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "ガール",
+    "動物"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

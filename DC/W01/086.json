@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "よし、行こう。先輩たち",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_086.gif",
+  "level": 2,
+  "name": "美夏＆杏＆小恋",
+  "power": 8500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "メカ",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

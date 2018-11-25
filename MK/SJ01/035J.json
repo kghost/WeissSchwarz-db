@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ガァ！ガァ！ガァ！ガァ！ガァ！ガァ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mk_sj01/mk_sj01_035.gif",
+  "level": 0,
+  "name": "“に”げまわるガチョウ",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、相手の前列のカード名に「アンリエット」を含むキャラがいないなら、あなたはこのカードをキャラのいない他の枠に動かしてよい。",
+  "trait": [
+    "肉",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

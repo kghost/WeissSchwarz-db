@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "オレ……やってみる！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_t20.gif",
+  "level": 1,
+  "name": "“優しく勇敢”リト",
+  "power": 7000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "植物",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

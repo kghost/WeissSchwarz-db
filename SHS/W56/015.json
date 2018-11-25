@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "久しぶりに、俺と街に出ようっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_015.gif",
+  "level": 2,
+  "name": "オタクの王子様 倫也",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたの《ゲーム》のキャラすべてに、パワーを＋500し、ソウルを＋1。\n【自】 絆／「ツンデレ系幼なじみ 英梨々」 [(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ツンデレ系幼なじみ 英梨々」を1枚選び、手札に戻す）",
+  "trait": [
+    "ゲーム",
+    "オタク"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

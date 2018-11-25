@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "くそうっ。百葉箱にないぜ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22_09.gif",
+  "level": 1,
+  "name": "キングメンガーを探すつかさ",
+  "power": 7000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがフロントアタックされた時、このカードを控え室に置く。（バトル相手がいなくなってもダイレクトアタックにはならない）",
+  "trait": [
+    "ギガント",
+    "主人公"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

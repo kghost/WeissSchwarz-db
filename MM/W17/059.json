@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "キュゥべえ「彼女たちは、魔法少女」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_059.gif",
+  "name": "クラスのみんなには、内緒だよ！",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

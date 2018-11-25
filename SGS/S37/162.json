@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "おい。ヤキソバパン ひとつだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_162.gif",
+  "level": 1,
+  "name": "SD二穂",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "ストライカー",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

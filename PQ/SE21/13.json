@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "出力最大。行くであります！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pq_se21/pq_se21_13.gif",
+  "level": 1,
+  "name": "“月高組”アイギス",
+  "power": 4500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［このカードを控え室に置く］ 他のあなたの、《メカ》かカード名に「主人公」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［(1) 手札を1枚控え室に置く］ そのターン中、このカードのパワーを＋6000。",
+  "trait": [
+    "メカ",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

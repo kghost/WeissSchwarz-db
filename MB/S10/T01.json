@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "悪いけど貴方じゃ勝ち目はゼロよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mb_s10/mb_s10_t01.gif",
+  "level": 0,
+  "name": "吸血鬼 アルクェイド",
+  "power": 3000,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "王族",
+    "血"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

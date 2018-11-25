@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "それはもう樹木ではない。\n命の激流…大海のようなものだった",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_095.gif",
+  "level": 2,
+  "name": "可能性の系統樹",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは1枚まで引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……そう……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_083.gif",
+  "level": 0,
+  "name": "小咲の親友 るり",
+  "power": 500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 絆／「はじめての訪問 小咲」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「はじめての訪問 小咲」を1枚選び、手札に戻す）\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「小咲」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "メガネ",
+    "スポーツ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

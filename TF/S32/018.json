@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "…虫けらは虫けらの生をまっとうしろ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tf_s32/tf_s32_018.gif",
+  "level": 1,
+  "name": "“冷淡な横顔”アドルフ",
+  "power": 5500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "trait": [
+    "改造",
+    "電気"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

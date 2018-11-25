@@ -1,0 +1,18 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_018.gif",
+  "level": 1,
+  "name": "恋するヒロイン",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "鍵",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

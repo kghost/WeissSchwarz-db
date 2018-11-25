@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_t22_pr.gif",
+  "level": 3,
+  "name": "超大型巨人",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のターン中、このカードのパワーを＋5000。\n【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
+  "trait": [
+    "巨人",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

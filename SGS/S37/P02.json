@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "桜吹雪の あの美しくもはかない感じが\nとても好きです 私",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_p02.gif",
+  "level": 3,
+  "name": "“桜吹雪の舞う頃に”美山 椿芽",
+  "power": 10000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "ストライカー",
+    "謎"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

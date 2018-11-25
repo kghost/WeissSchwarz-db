@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "みんな見てると思うけど、オタクやってくのって色々大変なんだね。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_t04s.gif",
+  "level": 1,
+  "name": "メインヒロイン担当 恵",
+  "power": 5500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードはサイドアタックできない。\n【自】【ＣＸコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「運命との出逢い」があり、他のあなたの《ゲーム》のキャラが2枚以上なら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "trait": [
+    "ゲーム",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

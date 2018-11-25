@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "華恋「聖翔音楽学園……ここは100年の歴史を持つ、由緒正しい女学校」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_t22.gif",
+  "name": "強烈な輝き",
+  "rarity": "TD",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

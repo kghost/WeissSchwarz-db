@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 5,
+  "flavor": "すっごい、おいしそうですねぇ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_072.gif",
+  "level": 2,
+  "name": "バナナパフェ",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは相手の控え室のカードを2枚まで選び、思い出にする。このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "…ひとつ頷いて。静流は笑っていた",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w15/rw_w15_t16.gif",
+  "name": "失くした記憶",
+  "rarity": "TD",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

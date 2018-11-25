@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "食いモンが欲しけりゃ、自分で奪ってきな。\nそれが魔界のルールってヤツよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_s02/dg_s02_028.gif",
+  "level": 0,
+  "name": "幼少エトナ",
+  "power": 500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】応援 このカードの前のあなたのキャラすべてに、レベルを＋1。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「魔王」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "trait": [
+    "悪魔",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

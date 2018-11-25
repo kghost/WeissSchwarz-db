@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "Gut.　私、Bismarckの出番ね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s42/kc_s42_032.gif",
+  "level": 0,
+  "name": "Bismarck級戦艦1番艦 Bismarck",
+  "power": 4000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが3枚以上なら、このカードを【レスト】する。",
+  "trait": [
+    "艦娘",
+    "戦艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

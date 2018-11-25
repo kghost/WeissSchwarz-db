@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "やっぱり視覚情報があると、情報屋の仕事も捗るらしくてね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/t/tl_w37/tl_w37_024.gif",
+  "level": 2,
+  "name": "御門 涼子",
+  "power": 8500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "宇宙人",
+    "保健室"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

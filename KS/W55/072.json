@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_072.gif",
+  "level": 2,
+  "name": "“魔王軍幹部の実力”ウィズ",
+  "power": 9000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 舞台のこのカードのレベルを?2。\n【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋1000。",
+  "trait": [
+    "死",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

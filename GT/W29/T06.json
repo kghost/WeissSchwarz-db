@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "えへへ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_t06.gif",
+  "level": 2,
+  "name": "まっすぐな心 あかり",
+  "power": 9000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 2,
+  "trait": [
+    "タロット",
+    "占い"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

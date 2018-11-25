@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "わふー、みんな酸素をありがとうー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/va_wpr/va_wpr_p38.gif",
+  "level": 1,
+  "name": "“着ぐるみ幻想”鈴田美夜子",
+  "power": 3500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "ビジュアルアーツ",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

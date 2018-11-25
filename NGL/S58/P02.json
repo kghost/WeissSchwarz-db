@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ふんわりしっとりと、上質な仕上がりになること請け合いでございます",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ngl_s58/ngl_s58_p02.gif",
+  "level": 2,
+  "name": "精霊水配合シャンプー ジブリール",
+  "power": null,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《ゲーム》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。\n【自】このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "ゲーム",
+    "天翼種"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

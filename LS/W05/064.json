@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ハメを外しすぎないよう\nお姉さん達の言う事を聞いて早めに帰りなよ―――？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ls_w05/ls_w05_064.gif",
+  "level": 0,
+  "name": "成実 ゆい",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトルしているこのカードが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "警察",
+    "メガネ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

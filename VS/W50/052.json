@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "選手兼マネージャーのコロナ・ティミルです",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/v/vs_w50/vs_w50_052.gif",
+  "level": 0,
+  "name": "コロナ・ティミル",
+  "power": 1500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "格闘",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

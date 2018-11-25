@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "うふふふふ……♪アミタリリ伝説の幕開けよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_052.gif",
+  "level": 2,
+  "name": "美少女ヒロイン アミタリリ",
+  "power": 8500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 あなたのクライマックス置場に「いつかラ・ヴァースになる！」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のコスト1以下の《動物》のキャラを1枚まで選び、手札に戻すか、舞台の好きな枠に【レスト】して置く。",
+  "trait": [
+    "悪魔",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

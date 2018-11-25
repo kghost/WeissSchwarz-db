@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "2人で力を合わせれば、もっとすごくなりますよっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gu_w57/gu_w57_089.gif",
+  "level": 0,
+  "name": "“力あわせて”魔法少女チノ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの前列の「魔法少女ココア」1枚につき、このカードのパワーを＋2000。\n【永】 舞台にこのカードがいるなら、このカードは《魔法》を得る。\n【自】 他のあなたの「魔法少女ココア」がアタックした時、前列にこのカードがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。",
+  "trait": [
+    "ラビットハウス",
+    "Dear My Sister"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

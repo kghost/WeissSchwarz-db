@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "……昨日までは恐怖なんて感じなかったのに……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_095.gif",
+  "level": 1,
+  "name": "生きる理由",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の【スタンド】しているキャラを1枚選び、クロック置場に置く。そうしたら、あなたは2枚まで引く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

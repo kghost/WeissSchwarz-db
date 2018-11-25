@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "オラぁ、かざまじゃなくて、かずまだぁ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_084.gif",
+  "level": 1,
+  "name": "ご先祖 かずま",
+  "power": 5000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、あなたは他の自分の、《家族》か《和服》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "和服",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

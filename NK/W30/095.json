@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "一条くんは千棘ちゃんの隣がいいんじゃない？\nやっぱり恋人だし",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_095.gif",
+  "level": 2,
+  "name": "控え目な性格 小咲",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「遠い日の約束」があるなら、あなたは自分の控え室の「約束のペンダント」を1枚まで選び、思い出にし、次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+  "trait": [
+    "お菓子",
+    "鍵"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

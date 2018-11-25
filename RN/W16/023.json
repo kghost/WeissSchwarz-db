@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "正義は！ 絶対に！ 勝つんだ！\n勝って、うちらが！　お姉ちゃんを助けるんだ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rn_w16/rn_w16_023.gif",
+  "name": "ロボットが世界を救う！",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

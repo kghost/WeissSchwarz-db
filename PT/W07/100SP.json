@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "SECRET",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w00/dc_w00_000.gif",
+  "name": "届かない場所",
+  "rarity": "SP",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

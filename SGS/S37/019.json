@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "おや 今年も始まってましたか……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_019.gif",
+  "level": 1,
+  "name": "“お正月”澄原 サトカ",
+  "power": 3000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "trait": [
+    "ストライカー",
+    "探偵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

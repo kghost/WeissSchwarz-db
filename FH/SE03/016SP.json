@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ランサー「アンタに、別離は言っていなかった……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fh_se03/fh_se03_015sp.gif",
+  "level": 3,
+  "name": "過去の記憶 バゼット＆ランサー",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。\n【永】 このカードの正面のキャラのソウルを?1。\n【起】［(1)］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "マスター",
+    "サーヴァント"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

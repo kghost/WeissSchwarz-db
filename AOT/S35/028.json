@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "flavor": "アルミン「……その日、人類は思い出した。ヤツらに支配されていた恐怖を。鳥籠の中に囚われていた……屈辱を……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_028.gif",
+  "name": "あの日から",
+  "rarity": "CR",
+  "side": "S",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の黄のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "日本の魔術師のレベル、見せてもらおうかしら？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fs_s03/fs_s03_034.gif",
+  "level": 0,
+  "name": "ルヴィアゼリッタ・エーデルフェルト",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［あなたのカード名に「凛」を含むキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「凛」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "宝石",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

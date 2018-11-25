@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "ボク……もう、帰りたいな。あんなコワいめにもあったし……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_027.gif",
+  "level": 2,
+  "name": "迷子のファークリン",
+  "power": 8500,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、クライマックス置場に「ファークリンの自己紹介」があるなら、そのターン中、このカードは次の能力を得る。『【自】 アンコールステップの始めに、あなたはこのカードを【レスト】し、舞台の好きな枠に動かす。』（今いる枠を選んでもよい）",
+  "trait": [
+    "動物",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

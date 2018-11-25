@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "そういう貴様も実に赤いぞ。\n交差点にぶら下げたら車が止まって面白そうだ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aw_s18/aw_s18_107.gif",
+  "level": 0,
+  "name": "減らず口の応酬 黒雪姫",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《生徒会》のキャラすべてに、パワーを＋500。",
+  "trait": [
+    "生徒会",
+    "ネット"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

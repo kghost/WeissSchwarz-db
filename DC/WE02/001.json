@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "せっかくもうすぐクリスマスだって言うのに……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_001.gif",
+  "level": 2,
+  "name": "サンタのアイシア",
+  "power": 8500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】［手札のレベル1以上のキャラを3枚控え室に置く］ このカードがアタックした時、クライマックス置場に「我がままなアイシア」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の【リバース】しているキャラを1枚選び、【スタンド】する。",
+  "trait": [
+    "魔法",
+    "オモチャ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

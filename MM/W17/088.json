@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "願い事、見つけたんだもの",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_088.gif",
+  "level": 1,
+  "name": "願いを見つけたさやか",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードを控え室に置く］ あなたのクライマックス置場に「奇跡も、魔法も、あるんだよ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「虚ろな目 さやか」を1枚まで選び、このカードがいた枠に置き、自分の控え室のレベル0以下のカード名に「上条」を含むキャラを1枚選び、舞台の好きな枠に置く。",
+  "trait": [
+    "魔法",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "エレン「壁を破壊できるのはこいつだけ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/a/aot_s35/aot_s35_112.gif",
+  "level": 0,
+  "name": "ちみ超大型巨人",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 0,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《巨人》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "巨人",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

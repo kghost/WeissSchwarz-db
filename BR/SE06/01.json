@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "有望な一年生をね…バレー部とかに取られないようにしないと",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/br_se06/br_se06_01.gif",
+  "level": 1,
+  "name": "クラスメイト ユウ",
+  "power": 2500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「大人びた美少女 ヨミ」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の控え室の「ストレングス」を1枚選び、このカードがいた枠に置く。』\n【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。",
+  "trait": [
+    "スポーツ",
+    "マネージャー"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

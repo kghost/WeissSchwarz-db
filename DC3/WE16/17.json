@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "杉並さま！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we16/dc3_we16_17.gif",
+  "level": 1,
+  "name": "愛にひたむき 美琴",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。そうでないなら、そのターン中、このカードのパワーを?1500。（公開したカードは元に戻す）",
+  "trait": [
+    "新聞",
+    "愛"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

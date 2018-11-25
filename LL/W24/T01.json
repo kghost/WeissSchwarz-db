@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "みんなのハート撃ち抜くゾーッ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w24/ll_w24_t01.gif",
+  "level": 0,
+  "name": "妄想爆発中 海未",
+  "power": 1000,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "煩悩"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

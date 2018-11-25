@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "そして、そんな状態の私を追いかけてく――!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/ks_w55/ks_w55_024.gif",
+  "level": 0,
+  "name": "“恍惚とする”ダクネス",
+  "power": 2000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。",
+  "trait": [
+    "冒険者",
+    "煩悩"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

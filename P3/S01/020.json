@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 6,
+  "flavor": "ポロニアンモールで僕と握手！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p3_s01/p3_s01_020.gif",
+  "level": 3,
+  "name": "不死鳥戦隊フェザーマンR",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分と相手のキャラすべてを、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

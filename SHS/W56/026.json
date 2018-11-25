@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "出海「うわあ、すっごーいっ！！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_026.gif",
+  "level": 1,
+  "name": "柏木エリのリトラブ色紙",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたの《ゲーム》のキャラがいないなら、手札からプレイできない。\nあなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、このカードを思い出にする。\n【自】 記憶 ［手札のクライマックスを1枚控え室に置く］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

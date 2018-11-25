@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "そなたも見てみよ。雪じゃぞ、雪っ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mh_we03/mh_we03_002.gif",
+  "level": 0,
+  "name": "マシロ・ブラン・ド・ヴィントブルーム",
+  "power": 500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのカード名に「アリカ」を含むキャラすべてに、パワーを＋500。\n【自】 他のあなたのキャラとバトルしているキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "王族",
+    "マスター"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

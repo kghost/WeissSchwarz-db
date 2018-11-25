@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "義之「そしたら、いるんだよ……目の前に。\n小さく座り込んでる女の霊が……」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we08/dc_we08_78.gif",
+  "level": 1,
+  "name": "おばけは苦手 まひる",
+  "power": 5000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《たとえ話》か《委員長》のキャラなら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）",
+  "trait": [
+    "たとえ話",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

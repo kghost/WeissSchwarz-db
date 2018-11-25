@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_t10.gif",
+  "level": 0,
+  "name": "穴掘りシモン",
+  "power": 500,
+  "rarity": "TD",
+  "side": "S",
+  "soul": 1,
+  "text": "【自】 あなたのクライマックスフェイズの始めに、他のあなたのカード名に「カミナ」を含むキャラがいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "大グレン団",
+    "ドリル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

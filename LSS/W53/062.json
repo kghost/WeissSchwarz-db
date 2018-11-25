@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_062.gif",
+  "level": 1,
+  "name": "残された時間",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードを思い出にする。\n【自】 記憶 このゲームで最初にあなたがレベル3にレベルアップした時、思い出置場にこのカードがあり、他のあなたの思い出置場の「残された時間」が2枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、自分の控え室の《音楽》のキャラを2枚まで選び、ストック置場に好きな順番で置く。そうでないなら、あなたは自分の思い出すべてを山札に戻し、その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

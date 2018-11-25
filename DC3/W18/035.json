@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "清隆「帰ろう、姫乃。俺たちの住む、あの愛すべき学び舎に」\n姫乃「はい！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_w18/dc3_w18_035.gif",
+  "level": 2,
+  "name": "通じあった心 清隆＆姫乃",
+  "power": 3500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 あなたのアタックフェイズの始めに、あなたは自分の【レスト】しているカード名に「姫乃」を含むキャラを1枚選び、【スタンド】してよい。",
+  "trait": [
+    "魔法",
+    "生徒会"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

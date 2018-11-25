@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "あっ、私も手伝うよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_043.gif",
+  "level": 1,
+  "name": "穏やかな微笑 小咲",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "お菓子",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

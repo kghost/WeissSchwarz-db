@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "悩みってなんの事だ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dd_we17/dd_we17_38.gif",
+  "level": 0,
+  "name": "不器用な想い エクレ",
+  "power": 2500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［(2) 手札を1枚控え室に置き、他のあなたの《勇者》のキャラを1枚とこのカードを【レスト】する］ あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "trait": [
+    "動物",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

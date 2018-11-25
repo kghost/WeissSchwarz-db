@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 2,
+  "flavor": "オレ、シリルのこと信じてるよ。だから、オレのことも信じて欲しい。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/se_s04/se_s04_078.gif",
+  "level": 2,
+  "name": "聖剣の主トウマ",
+  "power": 8500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 相手のターン中、他のあなたのカード名に「シリル」を含むキャラがいるなら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］ 』を得る。",
+  "trait": [
+    "武器",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

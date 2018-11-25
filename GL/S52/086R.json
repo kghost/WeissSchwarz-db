@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "flavor": "穴を掘るなら天を突く！\n墓穴掘っても掘り抜けて、\n突き抜けたなら、俺の勝ち！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gl_s52/gl_s52_086r.gif",
+  "name": "俺の背中に、この胸に、",
+  "rarity": "RRR",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:ComeBack]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SALVAGE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 0,
+  "name": "天真爛漫 あかね",
+  "power": 2500,
+  "rarity": "SR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のストックが3枚以下なら、このカードのパワーを＋1000。",
+  "trait": [
+    "鍵",
+    "マヨネーズ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 4,
+  "flavor": "―守りたいものを守るために、彼女はあらゆる手段を試行する―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_053.gif",
+  "level": 3,
+  "name": "彼女を守る私になりたい",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがないなら、相手に4ダメージを与え、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

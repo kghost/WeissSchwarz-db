@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "アルト君！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mf_s13/mf_s13_046.gif",
+  "level": 2,
+  "name": "救出されるランカ",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは相手のキャラを1枚選び、そのターン中、パワーを?2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

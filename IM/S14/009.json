@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "雪歩さん、真美！みんなで、\nババーンってがんばりましょーっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_009.gif",
+  "level": 0,
+  "name": "ピンクダイヤモンド７６５ やよい",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの、「ピンクダイヤモンド７６５ 雪歩」と「ピンクダイヤモンド７６５ 真美」すべてに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "trait": [
+    "音楽",
+    "カエル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

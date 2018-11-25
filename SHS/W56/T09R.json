@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "こいつに何をしようとあたしの勝手でしょっ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/shs_w56/shs_w56_t09r.gif",
+  "level": 3,
+  "name": "原画担当 英梨々",
+  "power": 10000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ゲーム》のキャラの枚数に等しい。",
+  "trait": [
+    "ゲーム",
+    "漫画"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

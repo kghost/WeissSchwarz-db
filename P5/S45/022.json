@@ -1,0 +1,13 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_022.gif",
+  "level": 1,
+  "name": "ワイルドトーク",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの《怪盗》のキャラがいないなら、手札からプレイできない。\n以下の効果のうちあなたが選んだ1つを行う。\n『あなたは自分の山札を見て《怪盗》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』\n『このカードをストック置場に置き、あなたは自分の山札の上から1枚を、ストック置場に置く。』\n『あなたのキャラすべてに、そのターン中、ソウルを＋1。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

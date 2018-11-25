@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "……え……マッハキャリバー……？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/ns_w04/ns_w04_047.gif",
+  "level": 1,
+  "name": "『練習通りです』",
+  "rarity": "C",
+  "side": "W",
+  "text": "【カウンター】 あなたのキャラを1枚選び、そのターン中、パワーを＋2500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

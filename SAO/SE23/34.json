@@ -1,0 +1,13 @@
+{
+  "color": "BLUE",
+  "flavor": "赤眼のザザ。それがお前の名前だ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_se23/sao_se23_34.gif",
+  "name": "かつての名前",
+  "rarity": "C",
+  "side": "S",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Climax"
+}

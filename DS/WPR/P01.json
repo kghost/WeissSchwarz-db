@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "この子は“めです”。わたしの唯ぃ……じゃなくて！たくさんのお友達の一人よ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/ds_wpr/ds_wpr_p01.gif",
+  "level": 0,
+  "name": "おてんこ娘 ひまり",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
+  "trait": [
+    "帽子",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

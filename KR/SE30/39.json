@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "桜「と、飛んでる！？」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kr_se30/kr_se30_39.gif",
+  "level": 1,
+  "name": "輪廻の輪",
+  "rarity": "U",
+  "side": "S",
+  "text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "わしにつづけぇいッ!!",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_se05/sb_se05_31.gif",
+  "level": 1,
+  "name": "小田原城を攻める！",
+  "rarity": "C",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

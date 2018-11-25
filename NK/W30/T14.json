@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "なんでオレがこんな奴と……！！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_t14.gif",
+  "level": 1,
+  "name": "三角関係？ 楽",
+  "power": 5500,
+  "rarity": "TD",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "鍵",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

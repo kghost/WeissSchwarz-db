@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "あの頃も好きで……今も好きで……明日も─―",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we30/dc_we30_10.gif",
+  "level": 3,
+  "name": "ウェディングドレスのことり",
+  "power": 10000,
+  "rarity": "R",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、あなたは自分の、《魔法》か《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《魔法》か《音楽》のキャラの枚数×500に等しい。\n【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "trait": [
+    "魔法",
+    "音楽"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

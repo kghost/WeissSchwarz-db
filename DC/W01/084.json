@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "みんな信じないだろうが、世界の平和は俺が守っているんだぞ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_w01/dc_w01_084.gif",
+  "level": 1,
+  "name": "杉並",
+  "power": 1000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 バトルしているこのカードが【リバース】した時、あなたは1枚引いてよい。",
+  "trait": [
+    "オカルト",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

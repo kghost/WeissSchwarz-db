@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "みんなでおそろいっていいですよね♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im-s30/im-s30-018.gif",
+  "level": 1,
+  "name": "わくわくな合宿！ やよい",
+  "power": 6500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのレベルが2以上なら、このカードのパワーを?1000し、ソウルを＋1。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「夕食後はミーティング！」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+  "trait": [
+    "音楽",
+    "カエル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

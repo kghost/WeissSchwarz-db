@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "金城「怪盗だ…笑わせんじゃねえ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p5_s45/p5_s45_046.gif",
+  "level": 2,
+  "name": "予告状",
+  "rarity": "U",
+  "side": "S",
+  "text": "相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。\nあなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』このカードを思い出にする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "まるゆがお荷物持って行きますね。はい、モグラ輸送です。",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kc_s25/kc_s25_166p.gif",
+  "level": 0,
+  "name": "三式潜航輸送艇 まるゆ",
+  "power": 2000,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【起】［(1) このカードを控え室に置く］ あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。",
+  "trait": [
+    "艦娘",
+    "潜水艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

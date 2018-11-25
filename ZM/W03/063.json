@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "見えないとこも オ・シャ・レ…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/z/zm_w03/zm_w03_063.gif",
+  "level": 0,
+  "name": "乙女モードのサイト",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの《メイド》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《武器》のキャラを１枚選び、そのターン中、パワーを＋1000。",
+  "trait": [
+    "使い魔",
+    "メイド"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

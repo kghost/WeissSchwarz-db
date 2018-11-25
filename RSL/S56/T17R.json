@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "神楽ひかり……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rsl_s56/rsl_s56_t17r.gif",
+  "level": 0,
+  "name": "運命の舞台 天堂 真矢",
+  "power": 2000,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《レヴュー》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+  "trait": [
+    "レヴュー",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

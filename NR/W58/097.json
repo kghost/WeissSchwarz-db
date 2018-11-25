@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "flavor": "キリエ「なるべく迷惑をかけずにできるだけ急いで\nパパとエルトリアを助ける『鍵』を手に入れる」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nr_w58/nr_w58_097.gif",
+  "name": "世界を救う企み",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（[TRIGGER:Gate]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "trigger": [
+    "SOUL",
+    "GATE"
+  ],
+  "type": "Climax"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc_we02/dc_we02_030.gif",
+  "level": 0,
+  "name": "制服のミコト",
+  "power": 2500,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】[あなたの《武器》のキャラを1枚【レスト】する] そのターン中、このカードのパワーを+1000。",
+  "trait": [
+    "魔法",
+    "パン"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

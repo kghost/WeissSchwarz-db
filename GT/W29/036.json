@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gt_w29/gt_w29_036.gif",
+  "level": 1,
+  "name": "強い虚栄心 るな",
+  "power": 5000,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックス置場に「月蝕」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「オオカミ少女 るな」を1枚選び、このカードがいた枠に置く。",
+  "trait": [
+    "タロット",
+    "令嬢"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

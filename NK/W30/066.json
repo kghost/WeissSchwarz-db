@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "俺達が並みのラブラブ具合じゃないって\n分かって欲しくて?。な！ハニー！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_w30/nk_w30_066.gif",
+  "level": 1,
+  "name": "恋人のフリ 楽",
+  "power": 7000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "動物",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

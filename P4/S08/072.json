@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "りせ「せ、先輩！？」\n完二「一撃だ…」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_072.gif",
+  "level": 2,
+  "name": "一撃",
+  "rarity": "C",
+  "side": "S",
+  "text": "あなたは自分の【スタンド】しているキャラを1枚選び【レスト】する。そうしたら、あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】し、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "trigger": [
+  ],
+  "type": "Event"
+}

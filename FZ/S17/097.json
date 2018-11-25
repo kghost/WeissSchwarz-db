@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "馬鹿な…そんな馬鹿な！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/f/fz_s17/fz_s17_097.gif",
+  "level": 1,
+  "name": "煉獄の炎",
+  "rarity": "U",
+  "side": "S",
+  "text": "あなたは自分の山札を見て《マスター》のキャラを1枚までと《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。このカードをクロック置場に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

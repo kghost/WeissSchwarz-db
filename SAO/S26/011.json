@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "これまでも、これからも。きみは私のヒーロー……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s26/sao_s26_011.gif",
+  "level": 2,
+  "name": "はにかんだ微笑 アスナ",
+  "power": 9000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "trait": [
+    "アバター",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

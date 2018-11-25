@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "じつに　きょうみぶかい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/py_s38/py_s38_097.gif",
+  "level": 2,
+  "name": "実験開始 りすくま先輩",
+  "power": 7500,
+  "rarity": "R",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたのクロック置場に「りすくませんぱい」があるなら、あなたの手札のこのカードのレベルを?1。\n【自】 あなたのクライマックス置場に「実験大成功」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《ぷよ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "trait": [
+    "ぷよ",
+    "科学"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

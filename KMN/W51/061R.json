@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "はしら?で食べる?じゃぱりまんが?♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_061r.gif",
+  "level": 1,
+  "name": "じゃぱりまんの歌 かばんちゃん",
+  "power": 3000,
+  "rarity": "RRR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 あなたがイベントをプレイした時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "trait": [
+    "フレンズ",
+    "帽子"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ちょ?う重ね当てっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_014.gif",
+  "level": 0,
+  "name": "藤堂 香澄",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000し、《鉢巻》を与える。",
+  "trait": [
+    "鉢巻",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

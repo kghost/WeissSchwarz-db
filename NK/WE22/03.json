@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "じゃあ、あいつが悪の親玉！？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/nk_we22/nk_we22_03.gif",
+  "level": 0,
+  "name": "マジカルゴリラ千棘ちゃん",
+  "power": 500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 絆／「ツグミャー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ツグミャー」を1枚選び、手札に戻す）",
+  "trait": [
+    "令嬢",
+    "鍵"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

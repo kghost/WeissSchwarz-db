@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 1,
+  "flavor": "ツグミ「あんたのせいよ、集。\nあんたが来ないから。ヴォイドを使わないから！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gc_s16/gc_s16_022.gif",
+  "level": 2,
+  "name": "崩壊の危機",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 このカードは、あなたの《葬儀社》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_082spma.gif",
+  "level": 0,
+  "name": "“パーフェクトスマイル”白鷺千聖",
+  "power": 2000,
+  "rarity": "SPM",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 このカードの下にマーカーがあるなら、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
+  "trait": [
+    "音楽",
+    "Pastel＊Palettes"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

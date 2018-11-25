@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "むむむ、ちょっとギリギリで作りすぎたか…。もう少し余裕がないと危ないのだなぁ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/w/ws_gf/ws_gf_w33_009.gif",
+  "level": 1,
+  "name": "現場監督 螺子川来夢",
+  "power": 3500,
+  "rarity": "R",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋1000。\n【永】 このカードは相手の効果に選ばれない。\n【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

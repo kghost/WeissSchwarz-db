@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "キミは新人だが、なかなか見所があるねえ！\nいや?、私の見る目はやはり最高だな！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_s14/im_s14_035.gif",
+  "level": 0,
+  "name": "高木 順二郎",
+  "power": 2000,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。",
+  "trait": [
+    "音楽",
+    "影"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

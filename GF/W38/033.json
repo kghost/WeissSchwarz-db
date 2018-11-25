@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "えっと…。いつも感謝してます！　大好きでっす！！\nこれ私からのチョコです！　音符型でっす！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gf_w38/gf_w38_033.gif",
+  "level": 2,
+  "name": "これでっす 江藤くるみ",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 あなたの《ガール》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを?1。",
+  "trait": [
+    "ガール",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

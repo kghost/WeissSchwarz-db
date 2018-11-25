@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "私は･･･魂を同じくする下部達と尊い祝祭を上げる･･･",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_107.gif",
+  "level": 2,
+  "name": "封印されし魔導書",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\nあなたは自分の青のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

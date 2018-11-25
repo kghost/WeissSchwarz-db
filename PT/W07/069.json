@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "あたしが奪う。あたしが壊す。……その逆は、もう二度と御免だ……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pt_w07/pt_w07_069.gif",
+  "level": 1,
+  "name": "祈るドライ",
+  "rarity": "R",
+  "side": "W",
+  "text": "あなたは自分のキャラを1枚選び、クロック置場に置く。そうしたら、あなたは自分の控え室の《時計》のキャラを2枚まで選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

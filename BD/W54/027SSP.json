@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/b/bd_w54/bd_w54_027ssp.gif",
+  "level": 3,
+  "name": "“受け止めたい思い”青葉モカ",
+  "power": 10000,
+  "rarity": "SSP",
+  "side": "W",
+  "soul": 2,
+  "text": "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「That Is How I Roll!」があるなら、あなたは相手の山札を上から2枚まで見てカードを2枚まで選び、控え室に置き、残りのカードを山札の上に好きな順番で置き、自分の山札を上から2枚まで見てカードを2枚まで選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。\n【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "音楽",
+    "Afterglow"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

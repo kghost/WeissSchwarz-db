@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "flavor": "ブイブイというのは吸うときの音モシュけどね",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_098.gif",
+  "level": 2,
+  "name": "ブイブイ言わせモシュ！",
+  "rarity": "U",
+  "side": "S",
+  "text": "このカードは、あなたの《ストライカー》のキャラがいないなら、手札からプレイできない。\n以下の効果のうちあなたが選んだ1つを行う。\n『あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。』\n『あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。』\n『あなたは相手の後列のコスト1以下のキャラを1枚選び、控え室に置く。』",
+  "trigger": [
+  ],
+  "type": "Event"
+}

@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "なんでこんなとこにいんのかって聞いてんのよ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w13/rg_w13_066.gif",
+  "level": 1,
+  "name": "ドレス姿の美琴",
+  "power": 5500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "超能力",
+    "カエル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

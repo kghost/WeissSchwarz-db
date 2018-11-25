@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "レベッカ「美味しいところ取ってくようで悪いけどよ」\nバラル「そこは適材適所ってことでご勘弁願いたいね」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/ss_we15/ss_we15_17.gif",
+  "level": 1,
+  "name": "『輝爍の撒き手』レベッカ・リード",
+  "power": 5000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "trait": [
+    "炎",
+    "神器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "?",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w43/imc_w43_117.gif",
+  "level": 2,
+  "name": "２人のお仕事 アナスタシア",
+  "power": 8000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのクロック置場に「シンデレラプロジェクトのリーダー 美波」があるなら、あなたの手札のこのカードのレベルを?1。",
+  "trait": [
+    "音楽",
+    "星"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

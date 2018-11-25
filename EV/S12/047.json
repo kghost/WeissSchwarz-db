@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "加持「愛に性別は関係ないさ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/e/ev_s12/ev_s12_047.gif",
+  "level": 2,
+  "name": "デートの誘い",
+  "rarity": "U",
+  "side": "S",
+  "text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのレベル置場のカードのレベルの合計×500に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

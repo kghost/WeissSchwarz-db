@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ずらー",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w53/lss_w53_027.gif",
+  "level": 1,
+  "name": "未来の食べ物",
+  "rarity": "U",
+  "side": "W",
+  "text": "このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

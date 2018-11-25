@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 1,
+  "flavor": "空気が乾燥すると、手先がピリピリしてくるよね。新しいハンドクリーム、一緒に買いに行こ♪",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_030.gif",
+  "level": 2,
+  "name": "新年のおまじない",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「希」を含むキャラなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを?6000。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

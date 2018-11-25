@@ -1,0 +1,13 @@
+{
+  "color": "RED",
+  "cost": 1,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/im_sp01/im_sp01_11.gif",
+  "level": 2,
+  "name": "M@STERS OF IDOL WORLD!!2015",
+  "rarity": "PS",
+  "side": "S",
+  "text": "このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。このカードを思い出にする。あなたは自分の控え室の《音楽》のキャラをＸ枚まで選び、手札に戻す。Ｘはあなたの思い出置場の「M@STERS OF IDOL WORLD!!2015」の枚数に等しい。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

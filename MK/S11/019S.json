@@ -1,0 +1,19 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "SECRET",
+  "level": 2,
+  "name": "“スリーカード”ストーンリバー",
+  "power": 9000,
+  "rarity": "SR",
+  "side": "S",
+  "soul": 2,
+  "trait": [
+    "怪盗",
+    "武器"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

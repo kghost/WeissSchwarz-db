@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "そうかい？　だが俺は貴様に何の期待もしちゃいない",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/pp_se14/pp_se14_05.gif",
+  "level": 3,
+  "name": "狡噛 慎也",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×500に等しい。\n【永】 他のあなたの《公安》のキャラが1枚以下なら、このカードはあなたのスタンドフェイズに【スタンド】しない。\n【自】 このカードが手札から舞台に置かれた時か「“潜在犯”狡噛」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "trait": [
+    "サイコパス",
+    "公安"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

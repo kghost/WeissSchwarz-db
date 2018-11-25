@@ -1,0 +1,19 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "セルリアンの中には高速で移動するものがいるらしいよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_051.gif",
+  "level": 0,
+  "name": "嘘か真か タイリクオオカミ",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "フレンズ",
+    "漫画"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

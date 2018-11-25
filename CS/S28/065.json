@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cs_s28/cs_s28_065.gif",
+  "level": 0,
+  "name": "上尾＆まつざか＆よしなが",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「上尾＆まつざか＆よしなが」1枚につき、このカードのパワーを＋2000。",
+  "trait": [
+    "先生",
+    "幼稚園"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

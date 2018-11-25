@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ええと、あの……その……っ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/n/na_w12/na_w12_022.gif",
+  "level": 2,
+  "name": "怒涛の質問攻め",
+  "rarity": "C",
+  "side": "W",
+  "text": "あなたは自分の山札を見て《クローン》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

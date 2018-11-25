@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "エトナ「戦いを極め、自我を捨て去ったプリニーが\n変形合体したと言われる伝説の姿！\nそれが、プリニガーＸよ！」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dg_se17/dg_se17_12.gif",
+  "level": 3,
+  "name": "プリニガーX",
+  "power": 10000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)\n【起】［他のあなたの舞台の《プリニー》のキャラを1枚このカードの下にマーカーとして裏向きに置く］ そのターン中、このカードのソウルを＋1。",
+  "trait": [
+    "プリニー",
+    "-"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "flavor": "特訓だよ、特訓！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/p/p4_s08/p4_s08_027.gif",
+  "level": 3,
+  "name": "自称カンフー研究会 千枝",
+  "power": 10000,
+  "rarity": "RR",
+  "side": "S",
+  "soul": 2,
+  "text": "【自】 このカードがアタックした時、あなたは自分の山札を見て《スポーツ》のキャラを1枚まで選んで相手に見せ、ストック置場に置く。その山札をシャッフルする。\n【自】［(5)］ この能力は1ターンにつき1回まで発動する。このカードとバトル中のキャラが【リバース】した時、相手の【スタンド】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+  "trait": [
+    "スポーツ",
+    "魔法"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "YELLOW",
+  "cost": 2,
+  "flavor": "ええ、ちはやさんが大切な物を忘れられたようなのでお届けに",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rw_w48/rw_w48_029.gif",
+  "level": 2,
+  "name": "弁当お届け 咲夜",
+  "power": 4500,
+  "rarity": "C",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 応援 このカードの前のあなたのカード名に「朱音」か「ちはや」か「咲夜」を含むキャラすべてに、パワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、他のあなたのカード名に「朱音」か「ちはや」か「咲夜」を含むキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "trait": [
+    "執事",
+    "メガネ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

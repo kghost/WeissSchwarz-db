@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "flavor": "私だって・・・風紀委員なんだから・・・みんなを・・・佐天さんを！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/r/rg_w10/rg_w10_048.gif",
+  "name": "風紀委員の覚悟",
+  "rarity": "CR",
+  "side": "W",
+  "text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

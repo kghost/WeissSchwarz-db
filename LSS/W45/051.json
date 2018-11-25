@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "あれ？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lss_w45/lss_w45_051.gif",
+  "level": 2,
+  "name": "“被写体の消失”渡辺 曜",
+  "power": 7500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 2,
+  "text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【起】［あなたの《音楽》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "trait": [
+    "音楽",
+    "カメラ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

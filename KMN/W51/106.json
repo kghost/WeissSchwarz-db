@@ -1,0 +1,14 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "サーバル「ふっふーん、博士たちにもらったんだ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_106.gif",
+  "level": 1,
+  "name": "“PPP”プラチナチケット",
+  "rarity": "U",
+  "side": "W",
+  "text": "【カウンター】 あなたは自分の、《フレンズ》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

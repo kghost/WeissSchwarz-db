@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 0,
+  "flavor": "みんながんばってるー？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sao_s51/sao_s51_038.gif",
+  "level": 0,
+  "name": "歌が大好き ユナ",
+  "power": 2000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［このカードを【レスト】する］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "trait": [
+    "ネット",
+    "音楽"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

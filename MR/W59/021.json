@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "悲しみに彩られた人々は私の手によって解放されるのよ",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mr_w59/mr_w59_021.gif",
+  "level": 1,
+  "name": "“聖女降臨”ホーリーマミ",
+  "power": 4000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“魔法少女VSシリーズ？”ホーリーマミ」がいるなら、このカードのパワーを＋3000。",
+  "trait": [
+    "魔法",
+    "スキル"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

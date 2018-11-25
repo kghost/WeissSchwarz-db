@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "お待たせしました。ご注文を承ります",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_083.gif",
+  "level": 0,
+  "name": "“カフェの店員”トド松",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000し、このカードは《合コン》を得て、このカードのカード名は「トッティ」としても扱う。",
+  "trait": [
+    "６つ子",
+    "スマホ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

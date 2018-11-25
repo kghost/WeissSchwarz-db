@@ -1,0 +1,14 @@
+{
+  "color": "RED",
+  "flavor": "独りぼっちは、寂しいもんな……いいよ。\n一緒にいてやるよ。さやか……",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mm_w17/mm_w17_080.gif",
+  "name": "独りぼっちは、寂しいもんな",
+  "rarity": "CC",
+  "side": "W",
+  "text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "trigger": [
+    "SOUL",
+    "SOUL"
+  ],
+  "type": "Climax"
+}

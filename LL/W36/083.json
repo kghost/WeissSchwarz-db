@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "キミが私の言うことを聞くなら、紅茶の一杯くらい持ってきてあげてもいいけど？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/ll_w36/ll_w36_083.gif",
+  "level": 0,
+  "name": "“ゴシックガール”西木野 真姫",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 相手のターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは1枚引く。",
+  "trait": [
+    "音楽",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

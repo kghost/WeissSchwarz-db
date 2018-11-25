@@ -1,0 +1,19 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "直枝さんと恭介さんなら深い絆で結ばれていますから、\n周りがどうこうしなくても大丈夫ですよ。むしろ邪魔です",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/l/lb_w21/lb_w21_053.gif",
+  "level": 0,
+  "name": "“広がる世界”美魚",
+  "power": 3000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "trait": [
+    "本",
+    "マネージャー"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

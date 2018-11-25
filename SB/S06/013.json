@@ -1,0 +1,20 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "拙僧の筋肉攻撃をくらえい！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sb_s06/sb_s06_013.gif",
+  "level": 0,
+  "name": "“信財成皇”本願寺 顕如",
+  "power": 2500,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【起】［(2)］ そのターン中、このカードのパワーを＋3000し、ソウルを＋1。",
+  "trait": [
+    "武器",
+    "筋肉"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

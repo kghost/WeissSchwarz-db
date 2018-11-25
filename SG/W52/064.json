@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "ギアを纏う力はわたしが望んだモノじゃないけど、この力で、みんなを守りたいと望んだのは、わたしなんだから",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sg_w52/sg_w52_064.gif",
+  "level": 1,
+  "name": "シンフォギアの正式適合者 セレナ",
+  "power": 4500,
+  "rarity": "U",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 あなたのキャラすべてがカード名に「マリア」か「セレナ」を含むなら、このカードのパワーを＋2000。",
+  "trait": [
+    "音楽",
+    "武器"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

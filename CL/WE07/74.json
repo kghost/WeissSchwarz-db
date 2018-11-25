@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "風子「楽しいことは………、これから始りますよ」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/c/cl_we07/cl_we07_74.gif",
+  "level": 0,
+  "name": "ことみ＆渚＆風子",
+  "power": 1000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【永】 舞台にこのカードがいるなら、このカードは《演劇》と《だんご》を得る。\n【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "trait": [
+    "本",
+    "ヒトデ"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

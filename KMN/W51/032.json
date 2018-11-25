@@ -1,0 +1,14 @@
+{
+  "color": "YELLOW",
+  "cost": 0,
+  "flavor": "ボス！二つもらうね！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kmn_w51/kmn_w51_032.gif",
+  "level": 1,
+  "name": "じゃぱりまん",
+  "rarity": "U",
+  "side": "W",
+  "text": "あなたは自分の山札を上から4枚まで見て、《フレンズ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

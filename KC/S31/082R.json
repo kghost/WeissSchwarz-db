@@ -1,0 +1,19 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "SECRET",
+  "level": 1,
+  "name": "補給艦艇 大鯨",
+  "power": 4500,
+  "rarity": "RRR",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの《艦娘》のキャラ1枚につき、このカードのパワーを＋500。",
+  "trait": [
+    "艦娘",
+    "潜水母艦"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,21 @@
+{
+  "color": "RED",
+  "cost": 2,
+  "flavor": "シャリースメンメンコーっ！",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/g/gst_se22/gst_se22-p02.gif",
+  "level": 2,
+  "name": "華麗な戦い ミル子",
+  "power": 8500,
+  "rarity": "PR",
+  "side": "S",
+  "soul": 2,
+  "text": "【起】［あなたの《ギガント》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "trait": [
+    "ギガント",
+    "メロメロ"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

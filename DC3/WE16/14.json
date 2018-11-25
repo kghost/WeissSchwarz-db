@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "兄さんは？",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/d/dc3_we16/dc3_we16_14.gif",
+  "level": 1,
+  "name": "ふたりっきりの帰り道 姫乃",
+  "power": 1000,
+  "rarity": "C",
+  "side": "W",
+  "soul": 1,
+  "text": "【起】［他のあなたの《新聞》のキャラを1枚【レスト】し、このカードを控え室に置く］ あなたは自分の控え室の「変わらない時間 姫乃」を1枚選び、手札に戻す。\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "trait": [
+    "新聞",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

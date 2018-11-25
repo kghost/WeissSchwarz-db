@@ -1,0 +1,21 @@
+{
+  "color": "BLUE",
+  "cost": 1,
+  "flavor": "アナスタシア「先に食べ終えました。やること、あると」",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/i/imc_w41/imc_w41_p04.gif",
+  "level": 2,
+  "name": "なりたい自分に 蘭子",
+  "power": 7000,
+  "rarity": "PR",
+  "side": "W",
+  "soul": 1,
+  "text": "【自】［(1) このカードを思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「純白の天使 蘭子」を1枚までと「漆黒の堕天使 蘭子」を1枚まで選び、舞台の別々の枠に置く。",
+  "trait": [
+    "音楽",
+    "闇"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "RED",
+  "cost": 0,
+  "flavor": "天音には 大きな夢があるんです。\nたぶん誰にも言ってない 私だけが知ってること…",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/s/sgs_s37/sgs_s37_063.gif",
+  "level": 0,
+  "name": "“ココロ許せる仲間と”真乃",
+  "power": 500,
+  "rarity": "U",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 他のあなたの「“ココロ許せる仲間と”天音」すべてに、パワーを＋1000。\n【自】 絆／「“ココロ許せる仲間と”天音」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ココロ許せる仲間と”天音」を1枚選び、手札に戻す）",
+  "trait": [
+    "ストライカー",
+    "カードゲーム"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}

@@ -1,0 +1,20 @@
+{
+  "color": "GREEN",
+  "cost": 2,
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/m/mg_s39/mg_s39_031.gif",
+  "level": 2,
+  "name": "白くて白々しい 羽川翼",
+  "power": 8000,
+  "rarity": "R",
+  "side": "S",
+  "soul": 2,
+  "text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋1500。\n【自】 あなたのクライマックス置場に「望んでいたもの」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《怪異》のキャラを2枚まで選び、ストック置場に好きな順番で置く。",
+  "trait": [
+    "怪異",
+    "動物"
+  ],
+  "trigger": [
+    "SOUL"
+  ],
+  "type": "Character"
+}

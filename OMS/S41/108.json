@@ -1,0 +1,14 @@
+{
+  "color": "GREEN",
+  "cost": 6,
+  "flavor": "",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/o/oms_s41/oms_s41_108.gif",
+  "level": 3,
+  "name": "おそ松落とし",
+  "rarity": "PR",
+  "side": "S",
+  "text": "【永】 このカードと同じカード名のカードは、デッキに1枚までしか入れることができない。あなたは自分の手札を公開する。それらのカードに「“スイーツ男子”おそ松」と「“スイーツ男子”カラ松」と「“スイーツ男子”チョロ松」と「“スイーツ男子”一松」と「“スイーツ男子”十四松」と「“スイーツ男子”トド松」があるなら、あなたはこのゲームに勝利する。\n※このカードは公式・公認大会では使用できません。",
+  "trigger": [
+  ],
+  "type": "Event"
+}

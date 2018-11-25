@@ -1,0 +1,20 @@
+{
+  "color": "BLUE",
+  "cost": 0,
+  "flavor": "どうしたんじゃ？\nまだまだ飲み足りんぞい",
+  "image": "https://s3-ap-northeast-1.amazonaws.com/static.ws-tcg.com/wordpress/wp-content/cardimages/k/kf_s05/kf_s05_088.gif",
+  "level": 0,
+  "name": "鎮 元斎",
+  "power": 1000,
+  "rarity": "C",
+  "side": "S",
+  "soul": 1,
+  "text": "【永】 あなたの控え室に《酒》のキャラがあるなら、このカードのパワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の山札を見て《超能力》か《酒》のキャラかイベントを1枚まで選び、控え室に置く。その山札をシャッフルする。",
+  "trait": [
+    "酒",
+    "-"
+  ],
+  "trigger": [
+  ],
+  "type": "Character"
+}
