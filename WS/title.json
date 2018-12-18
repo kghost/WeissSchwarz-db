@@ -6,5 +6,32 @@
     "TBS",
     "WPR"
   ],
-  "name": ""
+  "name": "",
+  "products": [
+    {
+      "cards": [
+        "WS/KDN-246",
+        "WS/SPR-004",
+        "WS/SPR-005",
+        "WS/SPR-P01",
+        "WS/SPR-P02",
+        "WS/SPR-P03",
+        "WS/TBS-002"
+      ],
+      "name": "PRカード【Sサイド】"
+    },
+    {
+      "cards": [
+        "WS/PSP-P01",
+        "WS/TBS-001",
+        "WS/TBS-003",
+        "WS/WPR-P01",
+        "WS/WPR-P02",
+        "WS/WPR-P03",
+        "WS/WPR-P04",
+        "WS/WPR-P05"
+      ],
+      "name": "PRカード【Wサイド】"
+    }
+  ]
 }

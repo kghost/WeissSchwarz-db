@@ -2,5 +2,56 @@
   "expansions": [
     "SE14"
   ],
-  "name": "PSYCHO-PASS サイコパス"
+  "name": "PSYCHO-PASS サイコパス",
+  "products": [
+    {
+      "cards": [
+        "PP/SE14-01",
+        "PP/SE14-02",
+        "PP/SE14-03",
+        "PP/SE14-04",
+        "PP/SE14-05",
+        "PP/SE14-06",
+        "PP/SE14-07",
+        "PP/SE14-08",
+        "PP/SE14-09",
+        "PP/SE14-10",
+        "PP/SE14-11",
+        "PP/SE14-12",
+        "PP/SE14-13",
+        "PP/SE14-14",
+        "PP/SE14-15",
+        "PP/SE14-16",
+        "PP/SE14-17",
+        "PP/SE14-18",
+        "PP/SE14-19",
+        "PP/SE14-20",
+        "PP/SE14-21",
+        "PP/SE14-22",
+        "PP/SE14-23",
+        "PP/SE14-24",
+        "PP/SE14-25",
+        "PP/SE14-26",
+        "PP/SE14-27",
+        "PP/SE14-28",
+        "PP/SE14-29",
+        "PP/SE14-30",
+        "PP/SE14-31",
+        "PP/SE14-32",
+        "PP/SE14-33",
+        "PP/SE14-34",
+        "PP/SE14-35",
+        "PP/SE14-36"
+      ],
+      "name": "PSYCHO-PASS サイコパス"
+    },
+    {
+      "cards": [
+        "PP/SE14-P01",
+        "PP/SE14-P02",
+        "PP/SE14-P03"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }

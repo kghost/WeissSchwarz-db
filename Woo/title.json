@@ -2,5 +2,41 @@
   "expansions": [
     "SE19"
   ],
-  "name": "うーさーのその日暮らし"
+  "name": "うーさーのその日暮らし",
+  "products": [
+    {
+      "cards": [
+        "Woo/SE19-001",
+        "Woo/SE19-002",
+        "Woo/SE19-003",
+        "Woo/SE19-004",
+        "Woo/SE19-005",
+        "Woo/SE19-006",
+        "Woo/SE19-007",
+        "Woo/SE19-008",
+        "Woo/SE19-009",
+        "Woo/SE19-010",
+        "Woo/SE19-011",
+        "Woo/SE19-012",
+        "Woo/SE19-013",
+        "Woo/SE19-014",
+        "Woo/SE19-015",
+        "Woo/SE19-016",
+        "Woo/SE19-017",
+        "Woo/SE19-018",
+        "Woo/SE19-J01",
+        "Woo/SE19-J02",
+        "Woo/SE19-J03",
+        "Woo/SE19-J04",
+        "Woo/SE19-J05"
+      ],
+      "name": "【スペシャルセット】うーさーのその日暮らし"
+    },
+    {
+      "cards": [
+        "Woo/SE19-J06"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }

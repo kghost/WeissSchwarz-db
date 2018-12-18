@@ -2,5 +2,67 @@
   "expansions": [
     "S56"
   ],
-  "name": "少女☆歌劇 レヴュースタァライト"
+  "name": "少女☆歌劇 レヴュースタァライト",
+  "products": [
+    {
+      "cards": [
+        "RSL/S56-P01",
+        "RSL/S56-P02",
+        "RSL/S56-P03",
+        "RSL/S56-P04",
+        "RSL/S56-P05",
+        "RSL/S56-P06",
+        "RSL/S56-P07",
+        "RSL/S56-P08a",
+        "RSL/S56-P08b",
+        "RSL/S56-P09a",
+        "RSL/S56-P09b",
+        "RSL/S56-P10STR",
+        "RSL/S56-P11",
+        "RSL/S56-P11S",
+        "RSL/S56-P12",
+        "RSL/S56-P12S",
+        "RSL/S56-P13"
+      ],
+      "name": "PRカード【Sサイド】"
+    },
+    {
+      "cards": [
+        "RSL/S56-T01",
+        "RSL/S56-T01R",
+        "RSL/S56-T02",
+        "RSL/S56-T02R",
+        "RSL/S56-T03",
+        "RSL/S56-T04",
+        "RSL/S56-T05",
+        "RSL/S56-T06",
+        "RSL/S56-T06R",
+        "RSL/S56-T07",
+        "RSL/S56-T08",
+        "RSL/S56-T08SP",
+        "RSL/S56-T09",
+        "RSL/S56-T09R",
+        "RSL/S56-T10",
+        "RSL/S56-T11",
+        "RSL/S56-T11S",
+        "RSL/S56-T12",
+        "RSL/S56-T13",
+        "RSL/S56-T13SP",
+        "RSL/S56-T14",
+        "RSL/S56-T15",
+        "RSL/S56-T15S",
+        "RSL/S56-T16",
+        "RSL/S56-T17",
+        "RSL/S56-T17R",
+        "RSL/S56-T18",
+        "RSL/S56-T19",
+        "RSL/S56-T19R",
+        "RSL/S56-T20",
+        "RSL/S56-T20R",
+        "RSL/S56-T21",
+        "RSL/S56-T22"
+      ],
+      "name": "[TD+]少女☆歌劇 レヴュースタァライト"
+    }
+  ]
 }

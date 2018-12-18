@@ -2,5 +2,13 @@
   "expansions": [
     "WPR"
   ],
-  "name": "魔法少女リリカルなのは"
+  "name": "魔法少女リリカルなのは",
+  "products": [
+    {
+      "cards": [
+        "NV/WPR-003"
+      ],
+      "name": "PRカード【Wサイド】"
+    }
+  ]
 }

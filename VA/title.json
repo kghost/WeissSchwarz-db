@@ -3,5 +3,56 @@
     "WE30",
     "WPR"
   ],
-  "name": "ビジュアルアーツ"
+  "name": "ビジュアルアーツ",
+  "products": [
+    {
+      "cards": [
+        "VA/WE30-55"
+      ],
+      "name": "ダ・カーポ vs リトルバスターズ！"
+    },
+    {
+      "cards": [
+        "VA/WPR-P01",
+        "VA/WPR-P02",
+        "VA/WPR-P03",
+        "VA/WPR-P04",
+        "VA/WPR-P05",
+        "VA/WPR-P06",
+        "VA/WPR-P07",
+        "VA/WPR-P08",
+        "VA/WPR-P09",
+        "VA/WPR-P10",
+        "VA/WPR-P11",
+        "VA/WPR-P12",
+        "VA/WPR-P13",
+        "VA/WPR-P14",
+        "VA/WPR-P15",
+        "VA/WPR-P16",
+        "VA/WPR-P17",
+        "VA/WPR-P18",
+        "VA/WPR-P19",
+        "VA/WPR-P20",
+        "VA/WPR-P21",
+        "VA/WPR-P22",
+        "VA/WPR-P23",
+        "VA/WPR-P24",
+        "VA/WPR-P25",
+        "VA/WPR-P26",
+        "VA/WPR-P27",
+        "VA/WPR-P28",
+        "VA/WPR-P29",
+        "VA/WPR-P30",
+        "VA/WPR-P31",
+        "VA/WPR-P32",
+        "VA/WPR-P33",
+        "VA/WPR-P34",
+        "VA/WPR-P35",
+        "VA/WPR-P36",
+        "VA/WPR-P37",
+        "VA/WPR-P38"
+      ],
+      "name": "PRカード【Wサイド】"
+    }
+  ]
 }

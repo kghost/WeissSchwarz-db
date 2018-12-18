@@ -2,5 +2,37 @@
   "expansions": [
     "W61"
   ],
-  "name": "ゆらぎ荘の幽奈さん"
+  "name": "ゆらぎ荘の幽奈さん",
+  "products": [
+    {
+      "cards": [
+        "YYS/W61-T01",
+        "YYS/W61-T02",
+        "YYS/W61-T03",
+        "YYS/W61-T03S",
+        "YYS/W61-T03SP",
+        "YYS/W61-T04",
+        "YYS/W61-T05",
+        "YYS/W61-T05R",
+        "YYS/W61-T06",
+        "YYS/W61-T07",
+        "YYS/W61-T08",
+        "YYS/W61-T09",
+        "YYS/W61-T09S",
+        "YYS/W61-T10",
+        "YYS/W61-T11",
+        "YYS/W61-T12",
+        "YYS/W61-T13",
+        "YYS/W61-T14",
+        "YYS/W61-T15",
+        "YYS/W61-T16",
+        "YYS/W61-T17",
+        "YYS/W61-T18",
+        "YYS/W61-T19",
+        "YYS/W61-T19R",
+        "YYS/W61-T20"
+      ],
+      "name": "[TD+]ゆらぎ荘の幽奈さん"
+    }
+  ]
 }

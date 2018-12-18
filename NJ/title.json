@@ -2,5 +2,61 @@
   "expansions": [
     "WE11"
   ],
-  "name": "日常"
+  "name": "日常",
+  "products": [
+    {
+      "cards": [
+        "NJ/WE11-01",
+        "NJ/WE11-02",
+        "NJ/WE11-03",
+        "NJ/WE11-04",
+        "NJ/WE11-05",
+        "NJ/WE11-06",
+        "NJ/WE11-07",
+        "NJ/WE11-08",
+        "NJ/WE11-09",
+        "NJ/WE11-10",
+        "NJ/WE11-11",
+        "NJ/WE11-12",
+        "NJ/WE11-13",
+        "NJ/WE11-14",
+        "NJ/WE11-15",
+        "NJ/WE11-16",
+        "NJ/WE11-17",
+        "NJ/WE11-18a",
+        "NJ/WE11-18b",
+        "NJ/WE11-18c",
+        "NJ/WE11-18d",
+        "NJ/WE11-19",
+        "NJ/WE11-20",
+        "NJ/WE11-21",
+        "NJ/WE11-22",
+        "NJ/WE11-23",
+        "NJ/WE11-24",
+        "NJ/WE11-25",
+        "NJ/WE11-26",
+        "NJ/WE11-27",
+        "NJ/WE11-28",
+        "NJ/WE11-29",
+        "NJ/WE11-30",
+        "NJ/WE11-31",
+        "NJ/WE11-32",
+        "NJ/WE11-33",
+        "NJ/WE11-34",
+        "NJ/WE11-35a",
+        "NJ/WE11-35b",
+        "NJ/WE11-35c",
+        "NJ/WE11-35d",
+        "NJ/WE11-36"
+      ],
+      "name": "日常"
+    },
+    {
+      "cards": [
+        "NJ/WE11-37",
+        "NJ/WE11-38"
+      ],
+      "name": "PRカード【Wサイド】"
+    }
+  ]
 }

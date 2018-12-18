@@ -2,5 +2,13 @@
   "expansions": [
     "MIR"
   ],
-  "name": ""
+  "name": "",
+  "products": [
+    {
+      "cards": [
+        "CJ/MIR-001"
+      ],
+      "name": "PRカード【Wサイド】"
+    }
+  ]
 }

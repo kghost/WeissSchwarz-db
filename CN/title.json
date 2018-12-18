@@ -2,5 +2,45 @@
   "expansions": [
     "SE02"
   ],
-  "name": "CANAAN"
+  "name": "CANAAN",
+  "products": [
+    {
+      "cards": [
+        "CN/SE02-01",
+        "CN/SE02-02",
+        "CN/SE02-03",
+        "CN/SE02-04",
+        "CN/SE02-05",
+        "CN/SE02-06",
+        "CN/SE02-07",
+        "CN/SE02-08",
+        "CN/SE02-09",
+        "CN/SE02-10",
+        "CN/SE02-11",
+        "CN/SE02-12",
+        "CN/SE02-13",
+        "CN/SE02-14",
+        "CN/SE02-15",
+        "CN/SE02-16",
+        "CN/SE02-17",
+        "CN/SE02-18",
+        "CN/SE02-19",
+        "CN/SE02-20",
+        "CN/SE02-21",
+        "CN/SE02-22",
+        "CN/SE02-23",
+        "CN/SE02-24",
+        "CN/SE02-25",
+        "CN/SE02-26",
+        "CN/SE02-27"
+      ],
+      "name": "CANAAN"
+    },
+    {
+      "cards": [
+        "CN/SE02-28"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }

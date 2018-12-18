@@ -2,5 +2,13 @@
   "expansions": [
     "SPR"
   ],
-  "name": ""
+  "name": "",
+  "products": [
+    {
+      "cards": [
+        "AG/SPR-P01"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }

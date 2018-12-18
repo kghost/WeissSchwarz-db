@@ -2,5 +2,70 @@
   "expansions": [
     "SE25"
   ],
-  "name": "シャイニングシリーズ"
+  "name": "シャイニングシリーズ",
+  "products": [
+    {
+      "cards": [
+        "SR/SE25-01",
+        "SR/SE25-02",
+        "SR/SE25-02SP",
+        "SR/SE25-03",
+        "SR/SE25-04",
+        "SR/SE25-05",
+        "SR/SE25-06",
+        "SR/SE25-06SP",
+        "SR/SE25-07",
+        "SR/SE25-08",
+        "SR/SE25-09",
+        "SR/SE25-10",
+        "SR/SE25-11",
+        "SR/SE25-12",
+        "SR/SE25-13",
+        "SR/SE25-14",
+        "SR/SE25-15",
+        "SR/SE25-16",
+        "SR/SE25-17",
+        "SR/SE25-18",
+        "SR/SE25-19a",
+        "SR/SE25-19b",
+        "SR/SE25-19c",
+        "SR/SE25-20",
+        "SR/SE25-21",
+        "SR/SE25-22",
+        "SR/SE25-23",
+        "SR/SE25-24",
+        "SR/SE25-25",
+        "SR/SE25-25SP",
+        "SR/SE25-26",
+        "SR/SE25-27",
+        "SR/SE25-27SP",
+        "SR/SE25-28",
+        "SR/SE25-29",
+        "SR/SE25-30",
+        "SR/SE25-31",
+        "SR/SE25-32",
+        "SR/SE25-33a",
+        "SR/SE25-33b",
+        "SR/SE25-33c",
+        "SR/SE25-33d",
+        "SR/SE25-34a",
+        "SR/SE25-34b",
+        "SR/SE25-34c",
+        "SR/SE25-35",
+        "SR/SE25-36",
+        "SR/SE25-37",
+        "SR/SE25-38",
+        "SR/SE25-39",
+        "SR/SE25-40"
+      ],
+      "name": "シャイニング・レゾナンス"
+    },
+    {
+      "cards": [
+        "SR/SE25-P01",
+        "SR/SE25-P02"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }

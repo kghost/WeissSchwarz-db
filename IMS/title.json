@@ -2,5 +2,38 @@
   "expansions": [
     "S61"
   ],
-  "name": ""
+  "name": "",
+  "products": [
+    {
+      "cards": [
+        "IMS/S61-T01",
+        "IMS/S61-T02",
+        "IMS/S61-T03",
+        "IMS/S61-T04",
+        "IMS/S61-T05",
+        "IMS/S61-T05R",
+        "IMS/S61-T06",
+        "IMS/S61-T06R",
+        "IMS/S61-T07",
+        "IMS/S61-T08",
+        "IMS/S61-T09",
+        "IMS/S61-T10",
+        "IMS/S61-T10S",
+        "IMS/S61-T10SP",
+        "IMS/S61-T11",
+        "IMS/S61-T12",
+        "IMS/S61-T12S",
+        "IMS/S61-T13",
+        "IMS/S61-T14",
+        "IMS/S61-T15",
+        "IMS/S61-T15R",
+        "IMS/S61-T16",
+        "IMS/S61-T17",
+        "IMS/S61-T18",
+        "IMS/S61-T19",
+        "IMS/S61-T19R"
+      ],
+      "name": "[TD+]アイドルマスター ミリオンライブ！"
+    }
+  ]
 }

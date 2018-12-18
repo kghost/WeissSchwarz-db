@@ -2,5 +2,63 @@
   "expansions": [
     "WS01"
   ],
-  "name": "カードゲームしよ子"
+  "name": "カードゲームしよ子",
+  "products": [
+    {
+      "cards": [
+        "CGS/WS01-P01",
+        "CGS/WS01-P02",
+        "CGS/WS01-P02aSP",
+        "CGS/WS01-P02bSP",
+        "CGS/WS01-P02cSP",
+        "CGS/WS01-P03",
+        "CGS/WS01-P04",
+        "CGS/WS01-P04a",
+        "CGS/WS01-P05",
+        "CGS/WS01-P06",
+        "CGS/WS01-P07",
+        "CGS/WS01-P08",
+        "CGS/WS01-P09",
+        "CGS/WS01-P10",
+        "CGS/WS01-P11a",
+        "CGS/WS01-P11b",
+        "CGS/WS01-P12",
+        "CGS/WS01-P13",
+        "CGS/WS01-P14",
+        "CGS/WS01-P15",
+        "CGS/WS01-P16"
+      ],
+      "name": "PRカード【Wサイド】"
+    },
+    {
+      "cards": [
+        "CGS/WS01-T01",
+        "CGS/WS01-T02",
+        "CGS/WS01-T03",
+        "CGS/WS01-T04",
+        "CGS/WS01-T05",
+        "CGS/WS01-T06",
+        "CGS/WS01-T07",
+        "CGS/WS01-T08",
+        "CGS/WS01-T08SP",
+        "CGS/WS01-T09",
+        "CGS/WS01-T10",
+        "CGS/WS01-T10SP",
+        "CGS/WS01-T11",
+        "CGS/WS01-T12",
+        "CGS/WS01-T13",
+        "CGS/WS01-T14",
+        "CGS/WS01-T14SP",
+        "CGS/WS01-T15",
+        "CGS/WS01-T16",
+        "CGS/WS01-T17",
+        "CGS/WS01-T18",
+        "CGS/WS01-T19",
+        "CGS/WS01-T19SP",
+        "CGS/WS01-T20",
+        "CGS/WS01-T21"
+      ],
+      "name": "カードゲームしよ子"
+    }
+  ]
 }

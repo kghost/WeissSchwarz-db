@@ -3,5 +3,51 @@
     "WE03",
     "WE05"
   ],
-  "name": "宇宙をかける少女／舞-HiME＆舞-乙HiME"
+  "name": "宇宙をかける少女／舞-HiME＆舞-乙HiME",
+  "products": [
+    {
+      "cards": [
+        "SK/WE03-001",
+        "SK/WE03-020",
+        "SK/WE03-021",
+        "SK/WE03-022",
+        "SK/WE03-023",
+        "SK/WE03-024",
+        "SK/WE05-28",
+        "SK/WE05-29",
+        "SK/WE05-30",
+        "SK/WE05-31",
+        "SK/WE05-32",
+        "SK/WE05-33"
+      ],
+      "name": "PRカード【Wサイド】"
+    },
+    {
+      "cards": [
+        "SK/WE03-003",
+        "SK/WE03-004",
+        "SK/WE03-007",
+        "SK/WE03-009",
+        "SK/WE03-013"
+      ],
+      "name": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01"
+    },
+    {
+      "cards": [
+        "SK/WE05-01",
+        "SK/WE05-03",
+        "SK/WE05-05",
+        "SK/WE05-07",
+        "SK/WE05-10",
+        "SK/WE05-11",
+        "SK/WE05-16",
+        "SK/WE05-18",
+        "SK/WE05-22",
+        "SK/WE05-25",
+        "SK/WE05-26",
+        "SK/WE05-27"
+      ],
+      "name": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02"
+    }
+  ]
 }

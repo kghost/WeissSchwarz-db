@@ -2,5 +2,54 @@
   "expansions": [
     "SE22"
   ],
-  "name": "超爆裂異次元メンコバトル ギガントシューター つかさ"
+  "name": "超爆裂異次元メンコバトル ギガントシューター つかさ",
+  "products": [
+    {
+      "cards": [
+        "GST/SE22-01",
+        "GST/SE22-02",
+        "GST/SE22-03",
+        "GST/SE22-03SP",
+        "GST/SE22-04",
+        "GST/SE22-04SP",
+        "GST/SE22-05",
+        "GST/SE22-06",
+        "GST/SE22-07",
+        "GST/SE22-08",
+        "GST/SE22-09",
+        "GST/SE22-10",
+        "GST/SE22-11",
+        "GST/SE22-12",
+        "GST/SE22-13",
+        "GST/SE22-13SP",
+        "GST/SE22-14",
+        "GST/SE22-15",
+        "GST/SE22-16",
+        "GST/SE22-17",
+        "GST/SE22-18",
+        "GST/SE22-18SP",
+        "GST/SE22-19",
+        "GST/SE22-20",
+        "GST/SE22-21",
+        "GST/SE22-22",
+        "GST/SE22-23",
+        "GST/SE22-24",
+        "GST/SE22-25",
+        "GST/SE22-26",
+        "GST/SE22-27",
+        "GST/SE22-28",
+        "GST/SE22-29",
+        "GST/SE22-30"
+      ],
+      "name": "超爆裂異次元メンコバトル ギガントシューター つかさ"
+    },
+    {
+      "cards": [
+        "GST/SE22-P01",
+        "GST/SE22-P02",
+        "GST/SE22-P03"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }

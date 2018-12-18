@@ -2,5 +2,19 @@
   "expansions": [
     "SPR"
   ],
-  "name": "MELTY BLOOD／空の境界"
+  "name": "MELTY BLOOD／空の境界",
+  "products": [
+    {
+      "cards": [
+        "KK/SPR-001",
+        "KK/SPR-002",
+        "KK/SPR-003",
+        "KK/SPR-004",
+        "KK/SPR-005",
+        "KK/SPR-006",
+        "KK/SPR-007"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }

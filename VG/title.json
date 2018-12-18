@@ -2,5 +2,15 @@
   "expansions": [
     "SPR"
   ],
-  "name": ""
+  "name": "",
+  "products": [
+    {
+      "cards": [
+        "VG/SPR-001",
+        "VG/SPR-002",
+        "VG/SPR-003"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }

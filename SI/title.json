@@ -2,5 +2,20 @@
   "expansions": [
     "WPR"
   ],
-  "name": ""
+  "name": "",
+  "products": [
+    {
+      "cards": [
+        "SI/WPR-001",
+        "SI/WPR-002",
+        "SI/WPR-003",
+        "SI/WPR-004",
+        "SI/WPR-005",
+        "SI/WPR-006",
+        "SI/WPR-007",
+        "SI/WPR-008"
+      ],
+      "name": "PRカード【Wサイド】"
+    }
+  ]
 }

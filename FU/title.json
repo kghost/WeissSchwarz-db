@@ -2,5 +2,13 @@
   "expansions": [
     "S03"
   ],
-  "name": "Fate"
+  "name": "Fate",
+  "products": [
+    {
+      "cards": [
+        "FU/S03-108"
+      ],
+      "name": "PRカード【Sサイド】"
+    }
+  ]
 }
